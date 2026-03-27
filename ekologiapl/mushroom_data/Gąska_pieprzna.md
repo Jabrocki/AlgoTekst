@@ -1,0 +1,46 @@
+---
+name: Gąska pieprzna  (Tricholoma virgatum (Fr.) P. Kumm.)
+season: Sierpień, Wrzesień, Październik
+source: https://www.ekologia.pl/grzyby/gaska-pieprzna/
+---
+
+# Gąska pieprzna  (Tricholoma virgatum (Fr.) P. Kumm.)
+
+## Wstęp
+Gąska pieprzna to grzyb z rodziny gąskowatych , który zalicza się do trujących okazów.
+
+## Sezon
+Gąska pieprzna rośnie w sezonie od sierpnia do października .
+
+## Występowanie
+Gąska pieprzna rośnie w Europie oraz Ameryce Północnej. W naszym kraju jest okazem popularnym – można go spotkać w grupach lub pojedynczo. Występuje w lasach mieszanych i iglastych . Preferuje kwaśne gleby .
+
+## Wygląd
+Kapelusz gąski pieprznej ma średnicę od 3 do 7 cm. Odcień od srebrzystoszarego do szaropopielatego lub szaroczarniawego. Kształt stożkowaty, wraz z wiekiem staje się płaski i posiada charakterystyczny szczyt o spiczastym kształcie. Powierzchnia jest gładka i naga, czasami jest popękana w łuski . Brzeg jest na początku podgięty, później staje się prosty.
+
+Blaszki przy trzonie są trochę postrzępione, mają tendencję do schodzenia na trzon. Barwa od białawej do jasnoszarej. U starszych okazów przybierają ciemniejszy odcień. Gatunek ten swoim pokrojem przypomina strzępiak . Dopiero jednak przyjrzenie się blaszkom, zwłaszcza gdy ma miejsce biały wysyp zarodników, rozwiewa wszelkie wątpliwości.
+
+Trzon osiąga wysokość od 6 do 12 cm i grubość od 1 do 2 cm. Ma kształt walcowaty, u dołu jest rozszerzony – przypomina maczugę. Powierzchnia jest lśniąca i sucha, ma barwę od białawej do szarej. U niektórych okazów na powierzchni pojawiają się plamki o ciemnym zabarwieniu.
+
+Miąższ cienki, o gorzkim, piekącym smaku. Zapach obojętny lub ziemisty. Barwy białawej.
+
+Zarodniki gąski pieprznej są gładkie, elipsoidalne. Wysyp zarodników biały.
+
+## Właściwości
+Gąska pieprzna jest grzybem niejadalnym , trującym, który powoduje zaburzenia żołądkowo – jelitowe . Objawy występują po pół godzinie do nawet 3 godzin po spożyciu. Zalicza się do nich mdłości i wymioty.
+
+## Zastosowanie
+Gąska pieprzna ze względu na właściwości trujące nie ma żadnego zastosowania.
+
+## Gąska pieprzna – pytania i odpowiedzi
+Jak sprawdzić, czy dany gatunek nie jest gąską pieprzną?
+
+Gąskę pieprzną można pomylić m.in. z gąską ziemistoblaszkową. Ta ostatnia ma łagodny smak i zapach oraz wyróżnia ją mniej wyraźny garbek na kapeluszu. Innym podobnym grzybem jest gąska niekształtna , która ma podobne walory smakowo-zapachowe, jednak pozbawiona jest szpiczastego wierzchołka. Dlatego przed zjedzeniem danego okazu, warto przeprowadzić próbę smakową.
+
+Jakie mogą być objawy zatrucia gąską pieprzną?
+
+Jest ona słabo trująca, a skutki uboczne są łagodniejsze niż np. po gąsce tygrysiej ( Tricholoma pardinum ). Pierwsze objawy zatrucia pojawiają się od pół godziny do trzech godzin po konsumpcji. Zjedzenie gąski pieprznej powoduje zaburzenia żołądkowo-jelitowe z mdłościami i wymiotami.
+
+Gdzie można natrafić na gąskę pieprzną?
+
+Jest to grzyb, który wyrasta pojedynczo lub gromadnie od lata do jesieni. Gąska pieprzna preferuje kwaśne gleby w lasach iglastych pod świerkami . Rzadziej można ją spotkać w lasach liściastych .
