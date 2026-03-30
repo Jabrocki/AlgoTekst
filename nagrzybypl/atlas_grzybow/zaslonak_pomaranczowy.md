@@ -1,0 +1,24 @@
+---
+name: Zasłonak pomarańczowy
+source: https://www.nagrzyby.pl/atlas/2168
+---
+
+# Zasłonak pomarańczowy
+
+## Podstawowe informacje
+Typ grzyba:
+blaszki
+
+## Trzon
+Typ trzonu:
+centralny
+
+## Hymenofor
+Kolor wysypu:
+odcienie brązu
+
+## Występowanie
+Podłoże:
+gleba
+Sposób odżywiania:
+symbiont(mikoryza)

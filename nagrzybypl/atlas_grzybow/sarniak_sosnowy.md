@@ -1,0 +1,18 @@
+---
+name: sarniak sosnowy
+source: https://www.nagrzyby.pl/atlas/4809
+---
+
+# sarniak sosnowy
+
+## Podstawowe informacje
+Jadalność:
+jadalny I nieszczególny w smaku
+Typ grzyba:
+kolce
+
+## Występowanie
+Podłoże:
+gleba
+Sposób odżywiania:
+symbiont(mikoryza)

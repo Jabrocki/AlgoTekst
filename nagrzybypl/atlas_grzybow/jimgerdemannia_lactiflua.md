@@ -1,0 +1,13 @@
+---
+name: Jimgerdemannia lactiflua
+source: https://www.nagrzyby.pl/atlas/5837
+---
+
+# Jimgerdemannia lactiflua
+
+## Podstawowe informacje
+Brak informacji
+
+## Opis
+Więcej >>>
+https://hypogeous.pl/jimgerdemannia%20lactiflua.html

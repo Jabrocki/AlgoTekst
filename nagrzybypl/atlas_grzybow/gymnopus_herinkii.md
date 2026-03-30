@@ -1,0 +1,18 @@
+---
+name: Gymnopus herinkii
+source: https://www.nagrzyby.pl/atlas/1428
+---
+
+# Gymnopus herinkii
+
+## Podstawowe informacje
+Typ grzyba:
+blaszki
+
+## Trzon
+Typ trzonu:
+centralny
+
+## Hymenofor
+Kolor wysypu:
+biały
