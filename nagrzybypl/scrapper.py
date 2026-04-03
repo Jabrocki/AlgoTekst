@@ -14,7 +14,7 @@ def sanitize_filename(filename):
 
 def format_description(text):
     lines = [line.strip() for line in text.split('\n') if line.strip()]
-    
+
     # delete garbage
     start_index = 0
     for i, line in enumerate(lines):
@@ -93,30 +93,46 @@ def scrape_mushrooms_semi_auto(start_id, end_id):
                     continue
                     
                 mushroom_name = name_tag.get_text().strip()
+                
+                h2_tag = name_tag.find_next_sibling('h2')
+                header_name = mushroom_name 
+                
+                if h2_tag:
+                    i_tag = h2_tag.find('i')
+                    if i_tag:
+                        latin_name = i_tag.get_text().strip()
+                        if latin_name: 
+                            header_name = latin_name
+                
                 parent_div = name_tag.parent
                 
                 for trash in parent_div.find_all(['button', 'nav', 'svg']):
                     trash.decompose()
                 
                 name_tag.decompose()
+                
+                if h2_tag and h2_tag in parent_div.descendants:
+                    h2_tag.decompose()
+                
                 raw_description = parent_div.get_text(separator="\n", strip=True)
                 
                 description = format_description(raw_description)
 
-                safe_name = sanitize_filename(mushroom_name)
-                file_path = os.path.join(output_dir, f"{safe_name}.md")
+                safe_name = sanitize_filename(header_name)
+                
+                file_path = os.path.join(output_dir, f"{safe_name}_nagrzybypl.md")
                 
                 with open(file_path, "w", encoding="utf-8") as f:
                     f.write("---\n")
-                    f.write(f"name: {mushroom_name}\n")
+                    f.write(f"name: {header_name}\n")
                     f.write(f"source: {url}\n")
                     f.write("---\n\n")
-                    
+                    f.write(f"# {header_name}\n")
                     f.write(f"# {mushroom_name}\n\n")
                     
                     f.write(description)
 
-                print(f"success -> {safe_name}.md")
+                print(f"success -> {safe_name}_nagrzybypl.md")
 
             except Exception as e:
                 print(f"error ID {i}: {e}")

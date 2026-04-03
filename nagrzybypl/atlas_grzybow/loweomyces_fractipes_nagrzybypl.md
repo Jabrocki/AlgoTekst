@@ -1,0 +1,16 @@
+---
+name: Loweomyces fractipes
+source: https://www.nagrzyby.pl/atlas/1843
+---
+
+# Loweomyces fractipes
+# Różnoporek drobnopory
+
+## Podstawowe informacje
+Jadalność:
+niejadalny
+Typ grzyba:
+rurki
+
+## Inne nazwy
+Synonimy łacińskie: Abortiporus fractipes
