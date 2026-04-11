@@ -1,0 +1,45 @@
+---
+latin_name: Cyathus olla
+polish_name: Kubek ołowianoszary
+source: https://www.ekologia.pl/grzyby/kubek-olowianoszary/
+---
+
+# Cyathus olla
+
+## Kubek ołowianoszary
+
+## Wstęp
+Kubek ołowianoszary to niejadalny , szeroko rozpowszechniony na niemal całym świecie, częsty w Polsce grzyb , zaliczany coraz częściej do gniazdnicowatych Nidulariaceae . W zimniejszym od naszego klimacie Kanady bywa dość niebezpiecznym pasożytem rzepaku , powodując tzw. czarną nóżkę.
+
+## Sezon
+Kubek ołowianoszary zawiązuje owocniki latem i jesienią . Jego „pucharki” zwykle wyrastają gromadnie na butwiejącym drewnie , słomie , sianie, resztkach rzepaku.
+
+## Występowanie
+Jak wiele innych kubków także kubek ołowianoszary spotykany jest praktycznie na całym świecie Ziemi prócz Antarktydy . W przeciwieństwie do opisanego na portalu kubka gnojowego pozostaje nader pospolity. Porasta najrozmaitsze szczątki drzew i roślin zielnych , butwiejące konstrukcje drewniane w ogrodach , pastwiskach , na polach i lasach , a nawet na balkonach, w mieszkaniach i biurach.
+
+Najpospolitszy z kubków występujących w Europie , szeroko rozpowszechniony w Ameryce Północnej.
+
+## Wygląd
+Owocniki tego gatunku mają typową dla rodzaju postać pucharka. Kubek ołowianoszary osiąga 8-12 (sporadycznie więcej, do 15) mm wysokości, a 5-10 mm długości. Najmłodsze owocniki pozostają zamknięte, odwrotnie jajowate, o lekko zaokrąglonym wierzchołku, zasłoniętym błoniastą, kremowo białą diafragmą. Dojrzalsze egzemplarze otwierają się, ukazując typowe dla rodzaje tzw. perydiole. W dawnych czasach lud uważał je za pieniążki diabłów.
+
+Kształt całego owocnika tego grzyba (zwanego perydium) może być bardzo różny: odwrotnie dzwonkowaty, czasem niemal talerzykowaty, kielichowaty albo pucharkowaty.
+
+Zewnętrzna ściana perydium u młodych owocników przybiera rozmaite odcienie jasnych brązów wpadających w złoto . Z wiekiem owocnik tego gatunku robi się buroszary, potem czarniawy, niekiedy czarny. Przez pewien czas obrośnięty będzie wełnistymi w dotyku, dość rzadkimi włoskami (zwanymi tomentum) w kolorze jasnobeżowym lub białawym. Zazwyczaj włoski te skupione są w kępkach na górze, podczas gdy dół grzyba pozostaje nagi (nieorzęsiony). Z czasem wypadają zupełnie.
+
+Wewnętrzna ściana perydium będzie nieowłosiona, aczkolwiek koliście pofalowana.
+
+Miąższ łamliwy, cienki, przykry w smaku.
+
+Otwór w epifragmie u k. ołowianoszarego mierzy najczęściej 4-10 mm średnicy.
+
+Perydiol zawiązuje kubek ołowianoszary 8-10 (zwykle ponad połowę mniej jak kubek gnojowy). Przybierają one kształty tarczek bądź soczewek grubości 0,5-1,0 mm, a średnicy 2,0-3,5 mm. Jak u wszystkich kubków płodne perydiole przyrośnięte będą do zewnętrznej ściany sznureczkiem, zwanym funiculus (u tego gatunku kubka stosunkowo grubym), podczas gdy niepłodne zawiązują się u góry , bez funikulusa. Perydiole Cyathus olla okrywa jedna warstwa kory . Za młodu są gładkie, czarne lub ciemnobrązowe (albowiem okryte ciemną tunika), z wiekiem stają się lśniące i jaśniejsze, popielato siwe. Kluczową rolę w rozprzestrzenianiu perydiol pełnią uderzenia kropel deszczu . Tym niemniej u kubek ołowianoszarego zwykle wędrują one na mniejsze odległości niż u jego kuzynów, zapewne z powodu większych rozmiarów całego owocnika, szerokiego ujścia i/lub szeroko pucharkowatego kształtu.
+
+Pojedyncze spory tego kubka są typowe dla rodzaju: grubościenne, hialinowe (bezbarwne, przezroczyste), aczkolwiek bardziej wydłużone niż u kubka gnojowego. Osiągają 8-14 na 5-8 μm. Podstawki C. olla przybierają kształty maczug bądź cylindrów.
+
+Jak u reszty kubków także u kubek ołowianoszarego resztki owocnika w formie ażurowego „pucharka” mogą trwać jakiś czas po rozsianiu perydiol.
+
+## Właściwości
+Kubek ołowianoszary jest niejadalny. W Kanadzie bywa nieco szkodliwy dla rzepaku.
+
+## Zastosowanie
+Kubka ołowianoszarego próbuje się wykorzystać do ochrony rzepaku przed jeszcze groźniejszymi pasożytami, zwłaszcza czarną nóżką (choroba bakteryjna) i czarną plamistością ( choroba grzybowa). Ochrona polegałaby na tak szybkim rozkładaniu resztek pożniwnych rzepaku by tamte patogeny nie mogły zakażać kolejnych pokoleń rzepaku, sianych przez rolnika. Poza tym Cyathus olla jako wszędobylski, niewybredny saprofit mógłby posłużyć do trawienia celulozy w zielonej biotechnologii na przykład w przemyśle papierniczym.

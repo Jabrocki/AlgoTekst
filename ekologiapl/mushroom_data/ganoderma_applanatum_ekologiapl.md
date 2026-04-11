@@ -1,0 +1,59 @@
+---
+latin_name: Ganoderma applanatum
+polish_name: Lakownica spłaszczona
+source: https://www.ekologia.pl/grzyby/lakownica-splaszczona/
+---
+
+# Ganoderma applanatum
+
+## Lakownica spłaszczona
+
+## Wstęp
+Lakownica spłaszczona to gatunek grzyba -pasożyta nadrzewnego należący do rodziny żagwiowatych. Znana jest zarówno ze swojego charakterystycznego wyglądu, jak i właściwości leczniczych wykorzystywanych w tradycyjnej medycynie. Jej zdolność do rozkładania drewna czyni ją istotnym elementem leśnych ekosystemów . Ze względu na porowaty spód, który łatwo brązowieje pod naciskiem, grzyb ten zyskał angielską nazwę „Artist’s Conk” – „grzyb artysty”, ponieważ można na nim wykonywać rysunki.
+
+## Sezon
+Wieloletnie owocniki lakownicy spłaszczonej pojawiają się przez cały rok, głównie na martwych pniach i pniakach drzew liściastych, rzadziej iglastych, a sporadycznie także na żywych drzewach.
+
+## Występowanie
+Lakownica spłaszczona jest gatunkiem kosmopolitycznym, spotykanym na wszystkich kontynentach oprócz Antarktydy. Występuje głównie w lasach liściastych, rzadziej iglastych. Można ją znaleźć przez cały rok na martwych pniach i pniakach, a także na żywych drzewach, gdzie przyczynia się do ich osłabienia. Powoduje zgniliznę białą jamkowatą drewna, przyspieszając jego rozkład i uczestnicząc w naturalnym obiegu materii w przyrodzie.
+
+## Wygląd
+Owocnik lakownicy spłaszczonej jest wieloletni, zazwyczaj spłaszczony i szeroko przyrośnięty do podłoża. Jego średnica wynosi od 10 do 50 cm, a grubość od 1 do 5 cm. Powierzchnia kapelusza jest matowa, nieregularnie garbkowata, pokryta wyraźnymi koncentrycznymi strefami wzrostu. Młode owocniki mają jasnobrązowy lub białawy brzeg, który z czasem ciemnieje, przybierając barwę od czerwonobrązowej po szarobrązową.
+
+Warstwa rurek ma 8–25 mm grubości i jest zabarwiona na brązowo lub rdzawobrązowo. Pory są bardzo drobne (4–5 na mm), okrągłe, początkowo białe, lecz przy uszkodzeniu natychmiast ciemnieją. Ta właściwość pozwala na tworzenie rysunków na powierzchni owocnika, co czyni go unikalnym w świecie grzybów.
+
+Miąższ jest jednorodny, korkowaty i elastyczny, przy rozrywaniu wykazuje filcowato-korkowatą strukturę. Jego grubość może osiągać do 60 mm. Młode owocniki mają biały miąższ, który z wiekiem przybiera barwę cynamonowo-brązową do ciemnobrązowej. Po zastosowaniu roztworu KOH miąższ oraz rurki ulegają wyraźnemu zaczernieniu. Lakownica spłaszczona wytwarza zarodniki o kakaowobrązowym wysypie. Są one szeroko elipsoidalne, grubościenne, o charakterystycznie spłaszczonym szczycie i pokryte drobnymi kolczastymi brodawkami. Ich wymiary wynoszą 7–9 × 5,5–6,5 µm.
+
+## Znaczenie i zastosowanie
+Ekologia
+
+Grzyb ten odgrywa ważną rolę w ekosystemach leśnych, rozkładając martwe drewno i przyczyniając się do obiegu pierwiastków w przyrodzie. Jego zdolność do rozkładania ligniny sprawia, że jest istotnym elementem procesów rozkładu drewna.
+
+Medycyna naturalna
+
+Lakownica spłaszczona od dawna jest stosowana w tradycyjnej medycynie chińskiej i japońskiej. Przypisuje się jej działanie immunostymulujące, przeciwzapalne oraz wspomagające pracę wątroby. Zawiera liczne polisacharydy i triterpeny, które mogą wspierać układ odpornościowy.
+
+Sztuka i rękodzieło
+
+Ze względu na swoją zdolność do zmiany koloru pod wpływem dotyku, lakownica spłaszczona jest wykorzystywana przez artystów do tworzenia rysunków na jej porowatej powierzchni. Technika ta jest szczególnie popularna w Ameryce Północnej.
+
+Gatunki podobne
+
+Lakownica spłaszczona może być mylona z lakownicą europejską (Ganoderma australe), która ma grubszy miąższ, ciemniejsze zabarwienie i większe zarodniki. Ponadto, między warstwami rurek nie występuje u niej płonna warstwa tkanki, co pozwala na odróżnienie tych dwóch gatunków.
+
+## Lakownica spłaszczona – pytania i odpowiedzi
+Co to jest lakownica spłaszczona?
+
+Lakownica spłaszczona (Ganoderma applanatum) to gatunek grzyba należący do rodziny lakownicowatych. Jest szeroko rozpowszechniony w lasach liściastych i iglastych, gdzie rośnie głównie na martwym drewnie. Jest znany z twardego, zdrewniałego owocnika i zastosowań leczniczych.
+
+Czy lakownica spłaszczona jest jadalna?
+
+Nie, lakownica spłaszczona nie nadaje się do spożycia ze względu na swoją twardą, zdrewniałą konsystencję. Jednak stosuje się ją w medycynie naturalnej w postaci naparów, ekstraktów i proszków.
+
+Jakie właściwości lecznicze ma lakownica spłaszczona?
+
+Grzyb ten jest znany z właściwości przeciwzapalnych, przeciwnowotworowych i immunomodulujących. Zawiera polisacharydy, triterpeny i przeciwutleniacze, które mogą wspierać układ odpornościowy i poprawiać ogólną kondycję organizmu.
+
+Gdzie można znaleźć lakownicę spłaszczoną?
+
+Rośnie na martwych lub osłabionych drzewach, głównie liściastych, takich jak dęby, buki i brzozy. Występuje w lasach Europy, Azji i Ameryki Północnej.
