@@ -1,4 +1,4 @@
-#cordyceps_tuberculata 
+#cordyceps_tuberculata
 #no_sources: 1
 
 ---

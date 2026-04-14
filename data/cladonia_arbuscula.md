@@ -1,5 +1,14 @@
-#cladonia_arbuscula 
-#no_sources: 1
+#cladonia_arbuscula
+#no_sources: 2
+
+---
+latin_name: Cladonia arbuscula
+polish_name: Chrobotek leśny
+source: https://grzyby.pl/gatunki/Cladonia_arbuscula.htm
+---
+
+# Chrobotek leśny
+
 
 ---
 latin_name: Cladonia arbuscula

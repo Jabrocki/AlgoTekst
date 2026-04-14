@@ -1,4 +1,4 @@
-#amanita_vaginata 
+#amanita_vaginata
 #no_sources: 4
 
 ---

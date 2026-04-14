@@ -1,4 +1,4 @@
-#russula_sanguinea 
+#russula_sanguinea
 #no_sources: 3
 
 ---

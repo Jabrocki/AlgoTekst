@@ -1,4 +1,4 @@
-#entoloma_myrmecophilum 
+#entoloma_myrmecophilum
 #no_sources: 1
 
 ---

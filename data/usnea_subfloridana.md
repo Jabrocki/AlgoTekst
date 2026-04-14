@@ -1,5 +1,18 @@
-#usnea_subfloridana 
-#no_sources: 1
+#usnea_subfloridana
+#no_sources: 2
+
+---
+latin_name: Usnea subfloridana
+polish_name: Brodaczka kędzierzawa
+source: https://grzyby.pl/gatunki/Usnea_subfloridana.htm
+---
+
+# Brodaczka kędzierzawa
+
+## Uwagi
+
+Na liście chronionych (2014) jako Usnea scabriuscula Motyka (brodaczka trocinowata).
+
 
 ---
 latin_name: Usnea subfloridana

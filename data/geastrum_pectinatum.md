@@ -1,4 +1,4 @@
-#geastrum_pectinatum 
+#geastrum_pectinatum
 #no_sources: 2
 
 ---

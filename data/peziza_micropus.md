@@ -1,4 +1,4 @@
-#peziza_micropus 
+#peziza_micropus
 #no_sources: 2
 
 ---

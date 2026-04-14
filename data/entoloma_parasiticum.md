@@ -1,5 +1,14 @@
-#entoloma_parasiticum 
-#no_sources: 1
+#entoloma_parasiticum
+#no_sources: 2
+
+---
+latin_name: Entoloma parasiticum
+polish_name: Dzwonkówka pasożytnicza
+source: https://grzyby.pl/gatunki/Entoloma_parasiticum.htm
+---
+
+# Dzwonkówka pasożytnicza
+
 
 ---
 latin_name: Entoloma parasiticum

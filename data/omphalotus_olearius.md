@@ -1,4 +1,4 @@
-#omphalotus_olearius 
+#omphalotus_olearius
 #no_sources: 2
 
 ---

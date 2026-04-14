@@ -1,4 +1,4 @@
-#entoloma_vernum 
+#entoloma_vernum
 #no_sources: 2
 
 ---

@@ -1,4 +1,4 @@
-#russula_alnetorum 
+#russula_alnetorum
 #no_sources: 2
 
 ---

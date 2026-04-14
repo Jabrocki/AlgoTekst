@@ -1,4 +1,4 @@
-#strobilurus_esculentus 
+#strobilurus_esculentus
 #no_sources: 2
 
 ---

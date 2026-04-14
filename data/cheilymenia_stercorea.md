@@ -1,5 +1,18 @@
-#cheilymenia_stercorea 
-#no_sources: 1
+#cheilymenia_stercorea
+#no_sources: 2
+
+---
+latin_name: Cheilymenia stercorea
+polish_name: Włośniczka nawozowa
+source: https://grzyby.pl/gatunki/Cheilymenia_stercorea.htm
+---
+
+# Włośniczka nawozowa
+
+## Występowanie, ekologia
+
+Na odchodach zwierząt roślinożernych.
+
 
 ---
 latin_name: Cheilymenia stercorea

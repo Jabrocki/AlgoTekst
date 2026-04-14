@@ -1,5 +1,5 @@
-#russula_olivacea 
-#no_sources: 2
+#russula_olivacea
+#no_sources: 3
 
 ---
 latin_name: Russula olivacea
@@ -31,6 +31,23 @@ Zarodniki kolczasto-brodawkowate. Wysyp zarodników żółty.
 
 ## Zastosowanie
 Można go stosować jako podstawa wielu dań, jak również jako dodatek do sosów i gulaszów.
+
+
+---
+latin_name: Russula olivacea
+polish_name: Gołąbek oliwkowy
+source: https://grzyby.pl/gatunki/Russula_olivacea.htm
+---
+
+# Gołąbek oliwkowy
+
+## Jadalne czy trujące? 🟢
+
+Jadalny. [105 ]
+
+## Występowanie, ekologia
+
+W lasach różnego typu, pod jodłami, bukami i świerkami, rzadziej pod innymi liściastymi; lipiec-październik.
 
 
 ---

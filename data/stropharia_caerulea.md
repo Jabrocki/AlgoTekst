@@ -1,4 +1,4 @@
-#stropharia_caerulea 
+#stropharia_caerulea
 #no_sources: 2
 
 ---

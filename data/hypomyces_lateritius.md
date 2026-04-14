@@ -1,4 +1,4 @@
-#hypomyces_lateritius 
+#hypomyces_lateritius
 #no_sources: 1
 
 ---

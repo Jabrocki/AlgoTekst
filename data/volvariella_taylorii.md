@@ -1,4 +1,4 @@
-#volvariella_taylorii 
+#volvariella_taylorii
 #no_sources: 2
 
 ---

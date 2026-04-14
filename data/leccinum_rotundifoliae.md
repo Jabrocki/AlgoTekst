@@ -1,5 +1,5 @@
-#leccinum_rotundifoliae 
-#no_sources: 2
+#leccinum_rotundifoliae
+#no_sources: 3
 
 ---
 latin_name: Leccinum rotundifoliae
@@ -42,6 +42,25 @@ Koźlarz ałtajski, jak większość koźlarzy, jest smacznym grzybem jadalnym. 
 
 ## Zastosowanie
 Zastosowanie koźlarza ałtajskiego jest takie same jak u pozostałych gatunków koźlarzy spokrewnionych z koźlarzem babką : marynowanie, suszenie, smażenie lub gotowanie. Jeżeli odnajdzie się w Polsce nie warto go zbierać, gdyż u nas w kraju zasługuje na ochronę.
+
+
+---
+latin_name: Leccinum rotundifoliae
+polish_name: Koźlarz blady
+source: https://grzyby.pl/gatunki/Leccinum_rotundifoliae.htm
+---
+
+# Koźlarz blady
+
+## Występowanie, ekologia
+
+Pod brzozą omszoną ( Betula pubescens ) .
+
+Czerwona Lista [125 ] — E–wymierający - krytycznie zagrożony
+
+## Jadalne czy trujące? 🟢
+
+Jadalny.
 
 
 ---

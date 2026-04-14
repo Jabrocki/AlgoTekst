@@ -1,5 +1,5 @@
-#russula_densifolia 
-#no_sources: 2
+#russula_densifolia
+#no_sources: 3
 
 ---
 latin_name: Russula densifolia
@@ -44,6 +44,23 @@ Gołąbek gęstoblaszkowy to grzyb niejadalny, przykry w smaku.
 Gołąbek gęstoblaszkowy w Europie, Kanadzie i USA uchodzi za niejadalny z racji silnego zarobaczywienia, miernego smaku i lekko trujących właściwości nawet po odlewaniu wody . Grzyb ten bywa jednak jadany w Tajlandii , Laosie, Indiach czy Meksyku. W Tajlandii widuje się ogromne stosy tych gołąbków na targach ze „ zdrową żywnością ”. Tradycyjna medycyna chińska wykorzystuje gołąbka gęstoblaszkowego jako lek przeciw bólom reumatycznym.
 
 Prowadzono wiele prac nad substancjami czynnymi z tego grzyba. Wodne wyciągi miały w warunkach laboratoryjnych chronić rośliny przed wirusem mozaiki tytoniowej. Rozważano także wykorzystanie tego gatunku w biotechnologii jako źródła kwasu bursztynowego, maleinowego, wyższych kwasów tłuszczowych (palmitynowego i stearynowego choćby) oraz pewnych cerebrozydów.
+
+
+---
+latin_name: Russula densifolia
+polish_name: Gołąbek gęstoblaszkowy
+source: https://grzyby.pl/gatunki/Russula_densifolia.htm
+---
+
+# Gołąbek gęstoblaszkowy
+
+## Jadalne czy trujące? 🟡🟢
+
+Jadalny [134 ], ale niesmaczny. [105 ]
+
+## Występowanie, ekologia
+
+W lasach różnego typu; lipiec-październik.
 
 
 ---

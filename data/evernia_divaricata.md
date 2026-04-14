@@ -1,5 +1,14 @@
-#evernia_divaricata 
-#no_sources: 1
+#evernia_divaricata
+#no_sources: 2
+
+---
+latin_name: Evernia divaricata
+polish_name: Mąkla rozłożysta
+source: https://grzyby.pl/gatunki/Evernia_divaricata.htm
+---
+
+# Mąkla rozłożysta
+
 
 ---
 latin_name: Evernia divaricata

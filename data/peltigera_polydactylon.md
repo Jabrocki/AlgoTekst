@@ -1,5 +1,14 @@
-#peltigera_polydactylon 
-#no_sources: 1
+#peltigera_polydactylon
+#no_sources: 2
+
+---
+latin_name: Peltigera polydactylon
+polish_name: Pawężnica palczasta
+source: https://grzyby.pl/gatunki/Peltigera_polydactylon.htm
+---
+
+# Pawężnica palczasta
+
 
 ---
 latin_name: Peltigera polydactylon

@@ -1,5 +1,5 @@
-#xerocomellus_pruinatus 
-#no_sources: 2
+#xerocomellus_pruinatus
+#no_sources: 3
 
 ---
 latin_name: Xerocomellus pruinatus
@@ -42,6 +42,23 @@ Młode okazy borowika oprószonego są smaczne i zdrowe, ale łatwość pleśnie
 
 ## Zastosowanie
 Zastosowanie borowika oprószonego jest takie jak u pozostałych, grzybów jadalnych ale szybko psujących się podgrzybków oraz borowików. Kłopoty z przerobem i transportem uniemożliwiają zbiór na skalę przemysłową.
+
+
+---
+latin_name: Xerocomellus pruinatus
+polish_name: Suchogrzybek oprószony
+source: https://grzyby.pl/gatunki/Xerocomus_pruinatus.htm
+---
+
+# Suchogrzybek oprószony
+
+## Występowanie, ekologia
+
+W lasach liściastych.
+
+## Jadalne czy trujące? 🟢
+
+Jadalny. [105 ]
 
 
 ---

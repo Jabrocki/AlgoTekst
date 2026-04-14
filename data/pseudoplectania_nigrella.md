@@ -1,5 +1,18 @@
-#pseudoplectania_nigrella 
-#no_sources: 1
+#pseudoplectania_nigrella
+#no_sources: 2
+
+---
+latin_name: Pseudoplectania nigrella
+polish_name: Czarkóweczka czarniutka
+source: https://grzyby.pl/gatunki/Pseudoplectania_nigrella.htm
+---
+
+# Czarkóweczka czarniutka
+
+## Występowanie, ekologia
+
+Na drewnie drzew iglastych.
+
 
 ---
 latin_name: Pseudoplectania nigrella

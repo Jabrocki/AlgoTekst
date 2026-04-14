@@ -1,5 +1,18 @@
-#lecanora_conizaeoides 
-#no_sources: 1
+#lecanora_conizaeoides
+#no_sources: 2
+
+---
+latin_name: Lecanora conizaeoides
+polish_name: Misecznica proszkowata
+source: https://grzyby.pl/gatunki/Lecanora_conizaeoides.htm
+---
+
+# Misecznica proszkowata
+
+## Występowanie, ekologia
+
+Pospolicie na korze sosny.
+
 
 ---
 latin_name: Lecanora conizaeoides

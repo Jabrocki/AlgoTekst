@@ -1,5 +1,5 @@
-#clathrus_ruber 
-#no_sources: 2
+#clathrus_ruber
+#no_sources: 3
 
 ---
 latin_name: Clathrus ruber
@@ -32,6 +32,19 @@ Zarodniki okratka czerwonego rozprzestrzeniane są przeważnie przez muchy , kt�
 
 ## Zastosowanie
 Okratek czerwony ze względu na bardzo odpychający zapach uważany jest za gatunek wątpliwie nadający się do spożycia.
+
+
+---
+latin_name: Clathrus ruber
+polish_name: Okratek czerwony
+source: https://grzyby.pl/gatunki/Clathrus_ruber.htm
+---
+
+# Okratek czerwony
+
+## Występowanie, ekologia
+
+W parkach i na cmentarzach; pod suchodrzewem i bzem lilakiem; na ziemi. Gatunek z Regionu Śródziemnomorskiego, rozprzestrzeniający się do środkowej i północnej Europy.
 
 
 ---

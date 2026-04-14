@@ -1,4 +1,4 @@
-#geastrum_coronatum 
+#geastrum_coronatum
 #no_sources: 2
 
 ---

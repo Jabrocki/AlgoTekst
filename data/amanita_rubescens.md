@@ -1,4 +1,4 @@
-#amanita_rubescens 
+#amanita_rubescens
 #no_sources: 3
 
 ---

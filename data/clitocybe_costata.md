@@ -1,4 +1,4 @@
-#clitocybe_costata 
+#clitocybe_costata
 #no_sources: 1
 
 ---

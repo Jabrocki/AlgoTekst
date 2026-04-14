@@ -1,5 +1,14 @@
-#byssonectria_terrestris 
-#no_sources: 1
+#byssonectria_terrestris
+#no_sources: 2
+
+---
+latin_name: Byssonectria terrestris
+polish_name: Oranżówka naziemna
+source: https://grzyby.pl/gatunki/Byssonectria_terrestris.htm
+---
+
+# Oranżówka naziemna
+
 
 ---
 latin_name: Byssonectria terrestris

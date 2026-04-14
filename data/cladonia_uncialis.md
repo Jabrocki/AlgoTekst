@@ -1,5 +1,14 @@
-#cladonia_uncialis 
-#no_sources: 1
+#cladonia_uncialis
+#no_sources: 2
+
+---
+latin_name: Cladonia uncialis
+polish_name: Chrobotek gwiazdkowaty
+source: https://grzyby.pl/gatunki/Cladonia_uncialis.htm
+---
+
+# Chrobotek gwiazdkowaty
+
 
 ---
 latin_name: Cladonia uncialis

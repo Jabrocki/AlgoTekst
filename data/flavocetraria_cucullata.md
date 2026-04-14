@@ -1,4 +1,4 @@
-#flavocetraria_cucullata 
+#flavocetraria_cucullata
 #no_sources: 1
 
 ---

@@ -1,5 +1,14 @@
-#geopora_arenosa 
-#no_sources: 1
+#geopora_arenosa
+#no_sources: 2
+
+---
+latin_name: Geopora arenosa
+polish_name: Zagrzebka piaszczyskowa
+source: https://grzyby.pl/gatunki/Geopora_arenosa.htm
+---
+
+# Zagrzebka piaszczyskowa
+
 
 ---
 latin_name: Geopora arenosa

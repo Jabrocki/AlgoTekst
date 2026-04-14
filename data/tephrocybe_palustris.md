@@ -1,4 +1,4 @@
-#tephrocybe_palustris 
+#tephrocybe_palustris
 #no_sources: 1
 
 ---

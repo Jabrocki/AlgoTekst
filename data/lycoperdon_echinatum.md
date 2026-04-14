@@ -1,4 +1,4 @@
-#lycoperdon_echinatum 
+#lycoperdon_echinatum
 #no_sources: 2
 
 ---

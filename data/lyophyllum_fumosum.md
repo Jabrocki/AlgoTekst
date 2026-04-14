@@ -1,4 +1,4 @@
-#lyophyllum_fumosum 
+#lyophyllum_fumosum
 #no_sources: 2
 
 ---

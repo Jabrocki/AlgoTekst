@@ -1,5 +1,14 @@
-#jackrogersella_multiformis 
-#no_sources: 1
+#jackrogersella_multiformis
+#no_sources: 2
+
+---
+latin_name: Jackrogersella multiformis
+polish_name: Drzewniak wielokształtny
+source: https://grzyby.pl/gatunki/Jackrogersella_multiformis.htm
+---
+
+# Drzewniak wielokształtny
+
 
 ---
 latin_name: Jackrogersella multiformis

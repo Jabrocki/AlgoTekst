@@ -1,4 +1,4 @@
-#inocybe_maculata 
+#inocybe_maculata
 #no_sources: 1
 
 ---

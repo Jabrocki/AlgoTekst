@@ -1,5 +1,14 @@
-#lecanora_symmicta 
-#no_sources: 1
+#lecanora_symmicta
+#no_sources: 2
+
+---
+latin_name: Lecanora symmicta
+polish_name: Misecznica niestała
+source: https://grzyby.pl/gatunki/Lecanora_symmicta.htm
+---
+
+# Misecznica niestała
+
 
 ---
 latin_name: Lecanora symmicta

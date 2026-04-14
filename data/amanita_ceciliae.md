@@ -1,4 +1,4 @@
-#amanita_ceciliae 
+#amanita_ceciliae
 #no_sources: 3
 
 ---

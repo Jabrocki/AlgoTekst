@@ -1,4 +1,4 @@
-#amanita 
+#amanita
 #no_sources: 1
 
 ---

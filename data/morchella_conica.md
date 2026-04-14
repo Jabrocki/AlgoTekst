@@ -1,4 +1,4 @@
-#morchella_conica 
+#morchella_conica
 #no_sources: 3
 
 ---

@@ -1,4 +1,4 @@
-#entoloma_clypeatum 
+#entoloma_clypeatum
 #no_sources: 2
 
 ---

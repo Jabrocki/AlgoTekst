@@ -1,4 +1,4 @@
-#coprinus_alopecia 
+#coprinus_alopecia
 #no_sources: 1
 
 ---

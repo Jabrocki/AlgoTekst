@@ -1,4 +1,4 @@
-#hydnellum_scabrosum 
+#hydnellum_scabrosum
 #no_sources: 1
 
 ---

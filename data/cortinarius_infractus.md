@@ -1,5 +1,5 @@
-#cortinarius_infractus 
-#no_sources: 1
+#cortinarius_infractus
+#no_sources: 2
 
 ---
 latin_name: Cortinarius infractus
@@ -42,3 +42,16 @@ Zasłonak gorzkawy jest niejadalny. Zawarte w nim alkaloidy (nazwane od jego ła
 
 ## Zastosowanie
 Trwają wytężone prace nad wprowadzeniem zasłonaka gorzkawego do lecznictwa. Wciąż jednak trwają badania naukowe i szersze zastosowanie praktyczne pozostaje sprawą przyszłości.
+
+
+---
+latin_name: Cortinarius infractus
+polish_name: Zasłonak gorzkawy
+source: https://grzyby.pl/gatunki/Cortinarius_infractus.htm
+---
+
+# Zasłonak gorzkawy
+
+## Występowanie, ekologia
+
+W lasach różnego typu, na kwaśnych glebach; jesienią.

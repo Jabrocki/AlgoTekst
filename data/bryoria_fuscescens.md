@@ -1,5 +1,14 @@
-#bryoria_fuscescens 
-#no_sources: 1
+#bryoria_fuscescens
+#no_sources: 2
+
+---
+latin_name: Bryoria fuscescens
+polish_name: Włostka brązowa
+source: https://grzyby.pl/gatunki/Bryoria_fuscescens.htm
+---
+
+# Włostka brązowa
+
 
 ---
 latin_name: Bryoria fuscescens

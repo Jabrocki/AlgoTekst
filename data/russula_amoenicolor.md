@@ -1,5 +1,24 @@
-#russula_amoenicolor 
-#no_sources: 1
+#russula_amoenicolor
+#no_sources: 2
+
+---
+latin_name: Russula amoenicolor
+polish_name: Gołąbek pięknobarwny
+source: https://grzyby.pl/gatunki/Russula_amoenicolor.htm
+---
+
+# Gołąbek pięknobarwny
+
+## Występowanie, ekologia
+
+W lasach różnego typu, pod drzewami liściastymi; sierpień-wrzesień.
+
+Czerwona Lista [125 ] — R–rzadki - potencjalnie zagrożony wymarciem
+
+## Jadalne czy trujące? 🟢
+
+Jadalny. [105 ]
+
 
 ---
 latin_name: Russula amoenicolor

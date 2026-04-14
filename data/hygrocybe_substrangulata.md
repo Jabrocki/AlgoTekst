@@ -1,5 +1,18 @@
-#hygrocybe_substrangulata 
-#no_sources: 1
+#hygrocybe_substrangulata
+#no_sources: 2
+
+---
+latin_name: Hygrocybe substrangulata
+polish_name: Wilgotnica piaskowa
+source: https://grzyby.pl/gatunki/Hygrocybe_substrangulata.htm
+---
+
+# Wilgotnica piaskowa
+
+## Występowanie, ekologia
+
+Na terenach trawiastych, często na piaskach, także wśród torfowców ( Sphagnum ) , w zaroślach; sierpień-październik.
+
 
 ---
 latin_name: Hygrocybe substrangulata

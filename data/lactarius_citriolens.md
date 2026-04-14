@@ -1,5 +1,18 @@
-#lactarius_citriolens 
-#no_sources: 1
+#lactarius_citriolens
+#no_sources: 2
+
+---
+latin_name: Lactarius citriolens
+polish_name: Mleczaj cytrynowy
+source: https://grzyby.pl/gatunki/Lactarius_citriolens.htm
+---
+
+# Mleczaj cytrynowy
+
+## Występowanie, ekologia
+
+W lasach mieszanych; na ziemi.
+
 
 ---
 latin_name: Lactarius citriolens

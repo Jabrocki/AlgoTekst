@@ -1,5 +1,14 @@
-#lecanora_intricata 
-#no_sources: 1
+#lecanora_intricata
+#no_sources: 2
+
+---
+latin_name: Lecanora intricata
+polish_name: Misecznica skupiona
+source: https://grzyby.pl/gatunki/Lecanora_intricata.htm
+---
+
+# Misecznica skupiona
+
 
 ---
 latin_name: Lecanora intricata

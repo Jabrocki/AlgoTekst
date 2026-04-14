@@ -1,4 +1,4 @@
-#xanthoria_parietina 
+#xanthoria_parietina
 #no_sources: 1
 
 ---

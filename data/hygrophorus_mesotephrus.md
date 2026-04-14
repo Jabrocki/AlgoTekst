@@ -1,5 +1,14 @@
-#hygrophorus_mesotephrus 
-#no_sources: 1
+#hygrophorus_mesotephrus
+#no_sources: 2
+
+---
+latin_name: Hygrophorus mesotephrus
+polish_name: Wodnicha szarobrunatna
+source: https://grzyby.pl/gatunki/Hygrophorus_mesotephrus.htm
+---
+
+# Wodnicha szarobrunatna
+
 
 ---
 latin_name: Hygrophorus mesotephrus

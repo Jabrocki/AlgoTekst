@@ -1,4 +1,4 @@
-#lycogala_epidendrum 
+#lycogala_epidendrum
 #no_sources: 1
 
 ---

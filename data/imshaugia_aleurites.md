@@ -1,5 +1,14 @@
-#imshaugia_aleurites 
-#no_sources: 1
+#imshaugia_aleurites
+#no_sources: 2
+
+---
+latin_name: Imshaugia aleurites
+polish_name: Popielak pylasty
+source: https://grzyby.pl/gatunki/Imshaugia_aleurites.htm
+---
+
+# Popielak pylasty
+
 
 ---
 latin_name: Imshaugia aleurites

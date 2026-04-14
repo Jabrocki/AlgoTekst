@@ -1,4 +1,4 @@
-#coprinopsis_acuminata 
+#coprinopsis_acuminata
 #no_sources: 2
 
 ---

@@ -1,5 +1,14 @@
-#melanohalea_exasperatula 
-#no_sources: 1
+#melanohalea_exasperatula
+#no_sources: 2
+
+---
+latin_name: Melanohalea exasperatula
+polish_name: Przylepniczka łuseczkowata
+source: https://grzyby.pl/gatunki/Melanohalea_exasperatula.htm
+---
+
+# Przylepniczka łuseczkowata
+
 
 ---
 latin_name: Melanohalea exasperatula

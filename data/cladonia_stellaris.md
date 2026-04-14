@@ -1,5 +1,14 @@
-#cladonia_stellaris 
-#no_sources: 1
+#cladonia_stellaris
+#no_sources: 2
+
+---
+latin_name: Cladonia stellaris
+polish_name: Chobotek alpejski
+source: https://grzyby.pl/gatunki/Cladonia_stellaris.htm
+---
+
+# Chobotek alpejski
+
 
 ---
 latin_name: Cladonia stellaris

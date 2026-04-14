@@ -1,5 +1,14 @@
-#cladonia_subcervicornis 
-#no_sources: 1
+#cladonia_subcervicornis
+#no_sources: 2
+
+---
+latin_name: Cladonia subcervicornis
+polish_name: Chrobotek jeleni
+source: https://grzyby.pl/gatunki/Cladonia_subcervicornis.htm
+---
+
+# Chrobotek jeleni
+
 
 ---
 latin_name: Cladonia subcervicornis

@@ -1,5 +1,5 @@
-#leccinum_holopus 
-#no_sources: 2
+#leccinum_holopus
+#no_sources: 3
 
 ---
 latin_name: Leccinum holopus
@@ -42,6 +42,23 @@ Jak większość koźlarzy jadalny i łatwy w transporcie. Opinie odnośnie walo
 Jak u reszty koźlarzy podobnych do koźlarza babki . Koźlarz białawy nadaje się do suszenia, marynowania i gotowania. Wykorzystywany jest jako dodatek do sosów , zup , mięs oraz innych przetworów. Zasługuje na ochronę z powodu utraty siedlisk .
 
 W Rosji trwają badania nad wykorzystaniem tego gatunku jako wskaźnika skażenia środowiska radioaktywnym cezem 137, gdyż akumuluje on pokaźną ilość tego pierwiastka w swych owocnikach.
+
+
+---
+latin_name: Leccinum holopus
+polish_name: Koźlarz beżowy
+source: https://grzyby.pl/gatunki/Leccinum_holopus.htm
+---
+
+# Koźlarz beżowy
+
+## Występowanie, ekologia
+
+Pod brzozami.
+
+## Jadalne czy trujące? 🟢
+
+Jadalny.
 
 
 ---

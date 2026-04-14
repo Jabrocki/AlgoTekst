@@ -1,4 +1,4 @@
-#infundibulicybe_gibba 
+#infundibulicybe_gibba
 #no_sources: 1
 
 ---

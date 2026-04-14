@@ -1,4 +1,4 @@
-#morchella_elata 
+#morchella_elata
 #no_sources: 3
 
 ---

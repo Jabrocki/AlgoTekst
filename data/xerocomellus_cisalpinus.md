@@ -1,5 +1,14 @@
-#xerocomellus_cisalpinus 
-#no_sources: 1
+#xerocomellus_cisalpinus
+#no_sources: 2
+
+---
+latin_name: Xerocomellus cisalpinus
+polish_name: Suchogrzybek zmienny
+source: https://grzyby.pl/gatunki/Xerocomus_cisalpinus.htm
+---
+
+# Suchogrzybek zmienny
+
 
 ---
 latin_name: Xerocomellus cisalpinus

@@ -1,4 +1,4 @@
-#cladonia_pleurota 
+#cladonia_pleurota
 #no_sources: 1
 
 ---

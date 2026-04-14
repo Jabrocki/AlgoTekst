@@ -1,4 +1,4 @@
-#verrucaria_viridula 
+#verrucaria_viridula
 #no_sources: 1
 
 ---

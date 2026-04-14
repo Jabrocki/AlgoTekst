@@ -1,4 +1,4 @@
-#megacollybia_platyphylla 
+#megacollybia_platyphylla
 #no_sources: 2
 
 ---

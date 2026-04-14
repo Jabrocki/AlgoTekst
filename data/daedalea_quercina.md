@@ -1,4 +1,4 @@
-#daedalea_quercina 
+#daedalea_quercina
 #no_sources: 2
 
 ---

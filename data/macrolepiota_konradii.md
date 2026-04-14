@@ -1,4 +1,4 @@
-#macrolepiota_konradii 
+#macrolepiota_konradii
 #no_sources: 3
 
 ---

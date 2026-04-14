@@ -1,5 +1,14 @@
-#chrysothrix_candelaris 
-#no_sources: 1
+#chrysothrix_candelaris
+#no_sources: 2
+
+---
+latin_name: Chrysothrix candelaris
+polish_name: Złociszek jaskrawy
+source: https://grzyby.pl/gatunki/Chrysothrix_candelaris.htm
+---
+
+# Złociszek jaskrawy
+
 
 ---
 latin_name: Chrysothrix candelaris

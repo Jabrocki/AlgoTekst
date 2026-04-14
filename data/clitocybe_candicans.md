@@ -1,4 +1,4 @@
-#clitocybe_candicans 
+#clitocybe_candicans
 #no_sources: 2
 
 ---

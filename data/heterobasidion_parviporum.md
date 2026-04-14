@@ -1,5 +1,5 @@
-#heterobasidion_parviporum 
-#no_sources: 1
+#heterobasidion_parviporum
+#no_sources: 2
 
 ---
 latin_name: Heterobasidion parviporum
@@ -40,3 +40,16 @@ Korzeniowiec drobnopory jako pasożyt , a potem saprotrof rozwijający się w dr
 
 ## Zastosowanie
 Korzeniowiec drobnopory jako grzyb niejadalny nie jest wykorzystywany przez człowieka .
+
+
+---
+latin_name: Heterobasidion parviporum
+polish_name: Korzeniowiec drobnopory
+source: https://grzyby.pl/gatunki/Heterobasidion_parviporum.htm
+---
+
+# Korzeniowiec drobnopory
+
+## Występowanie, ekologia
+
+Pasożyt i saprotrof , jodły i świerka.

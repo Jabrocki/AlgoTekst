@@ -1,4 +1,4 @@
-#strobilomyces_strobilaceus 
+#strobilomyces_strobilaceus
 #no_sources: 3
 
 ---

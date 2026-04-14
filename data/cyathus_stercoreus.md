@@ -1,5 +1,5 @@
-#cyathus_stercoreus 
-#no_sources: 2
+#cyathus_stercoreus
+#no_sources: 3
 
 ---
 latin_name: Cyathus stercoreus
@@ -52,6 +52,21 @@ Kubek gnojowy jest niejadalny, działa wykrztuśnie stąd jego zastosowania w tr
 
 ## Zastosowanie
 Kubek gnojowy znajduje obecnie więcej zastosowań od kubka prążkowanego. Dobierając odpowiednio warunki w bioreaktorze można zmusić tego grzyba, by rozkładał tylko ligninę , ale nie celulozę . Przydaje się to w niektórych działach przemysłu na przykład przy produkcji pasz dla bydła, przeróbce odpadów z gospodarstw, tudzież produkcji papieru . Kultur kubka używano także do rozkładu materiałów wybuchowych np.: TNT oraz jako źródła enzymów (peroksydazy manganowej oraz lakkazy) dla biotechnologii .
+
+
+---
+latin_name: Cyathus stercoreus
+polish_name: Kubek gnojowy
+source: https://grzyby.pl/gatunki/Cyathus_stercoreus.htm
+---
+
+# Kubek gnojowy
+
+## Występowanie, ekologia
+
+Na odchodach, być może także na drewnie.
+
+Czerwona Lista [125 ] — E–wymierający - krytycznie zagrożony
 
 
 ---

@@ -1,4 +1,4 @@
-#mycena_stipata 
+#mycena_stipata
 #no_sources: 2
 
 ---

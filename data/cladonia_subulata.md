@@ -1,5 +1,18 @@
-#cladonia_subulata 
-#no_sources: 1
+#cladonia_subulata
+#no_sources: 2
+
+---
+latin_name: Cladonia subulata
+polish_name: Chrobotek rogokształtny
+source: https://grzyby.pl/gatunki/Cladonia_subulata.htm
+---
+
+# Chrobotek rogokształtny
+
+## Cechy charakterystyczne
+
+...
+
 
 ---
 latin_name: Cladonia subulata

@@ -1,4 +1,4 @@
-#grifola_frondosa 
+#grifola_frondosa
 #no_sources: 3
 
 ---

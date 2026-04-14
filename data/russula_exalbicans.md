@@ -1,5 +1,14 @@
-#russula_exalbicans 
-#no_sources: 1
+#russula_exalbicans
+#no_sources: 2
+
+---
+latin_name: Russula exalbicans
+polish_name: Gołąbek różowożółtawy
+source: https://grzyby.pl/gatunki/Russula_exalbicans.htm
+---
+
+# Gołąbek różowożółtawy
+
 
 ---
 latin_name: Russula exalbicans

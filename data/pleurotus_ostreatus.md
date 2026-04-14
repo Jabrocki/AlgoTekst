@@ -1,4 +1,4 @@
-#pleurotus_ostreatus 
+#pleurotus_ostreatus
 #no_sources: 3
 
 ---

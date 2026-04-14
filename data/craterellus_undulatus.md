@@ -1,4 +1,4 @@
-#craterellus_undulatus 
+#craterellus_undulatus
 #no_sources: 1
 
 ---

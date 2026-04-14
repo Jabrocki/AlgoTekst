@@ -1,5 +1,18 @@
-#psathyrella_cotonea 
-#no_sources: 1
+#psathyrella_cotonea
+#no_sources: 2
+
+---
+latin_name: Psathyrella cotonea
+polish_name: Kruchaweczka brudnobiała
+source: https://grzyby.pl/gatunki/Psathyrella_cotonea.htm
+---
+
+# Kruchaweczka brudnobiała
+
+## Występowanie, ekologia
+
+W lasach, na pniakach drzew liściastych np. buka; sierpień-październik.
+
 
 ---
 latin_name: Psathyrella cotonea

@@ -1,4 +1,4 @@
-#stropharia_aeruginosa 
+#stropharia_aeruginosa
 #no_sources: 2
 
 ---

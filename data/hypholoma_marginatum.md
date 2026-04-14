@@ -1,4 +1,4 @@
-#hypholoma_marginatum 
+#hypholoma_marginatum
 #no_sources: 1
 
 ---

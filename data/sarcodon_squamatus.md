@@ -1,5 +1,5 @@
-#sarcodon_squamatus 
-#no_sources: 1
+#sarcodon_squamatus
+#no_sources: 3
 
 ---
 latin_name: Sarcodon squamatus
@@ -49,3 +49,37 @@ Ich mnogość wynika z długiego czasu systematyzowania się nazw. Te, które s�
 Sarniak sosnowy a dachówkowaty. Jak odróżnić obie odmiany?
 
 Niedoświadczony grzybiarz praktycznie nie jest w stanie ich zidentyfikować. Różnice dotyczą najdrobniejszych detali, takich jak np. specyfika łusek na kapeluszu.
+
+
+---
+latin_name: Sarcodon squamosus
+polish_name: Sarniak sosnowy
+source: https://grzyby.pl/gatunki/Sarcodon_squamosus.htm
+---
+
+# Sarniak sosnowy
+
+## Opis
+
+Brak jednoznacznych cech owocników odróżniających ten gatunek od częstego sarniaka świerkowego ( Sarcodon imbricatus ) /.
+
+
+---
+latin_name: Sarcodon squamosus
+source: https://www.nagrzyby.pl/atlas/4809
+---
+
+# Sarcodon squamosus
+# sarniak sosnowy
+
+## Podstawowe informacje
+Jadalność:
+jadalny I nieszczególny w smaku
+Typ grzyba:
+kolce
+
+## Występowanie
+Podłoże:
+gleba
+Sposób odżywiania:
+symbiont(mikoryza)

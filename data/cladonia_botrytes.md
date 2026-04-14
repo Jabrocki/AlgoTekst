@@ -1,5 +1,14 @@
-#cladonia_botrytes 
-#no_sources: 1
+#cladonia_botrytes
+#no_sources: 2
+
+---
+latin_name: Cladonia botrytes
+polish_name: Chrobotek gronkowaty
+source: https://grzyby.pl/gatunki/Cladonia_botrytes.htm
+---
+
+# Chrobotek gronkowaty
+
 
 ---
 latin_name: Cladonia botrytes

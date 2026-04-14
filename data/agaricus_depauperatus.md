@@ -1,4 +1,4 @@
-#agaricus_depauperatus 
+#agaricus_depauperatus
 #no_sources: 1
 
 ---

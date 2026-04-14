@@ -1,4 +1,4 @@
-#amanita_gemmata 
+#amanita_gemmata
 #no_sources: 3
 
 ---

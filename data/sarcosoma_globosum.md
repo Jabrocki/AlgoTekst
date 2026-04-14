@@ -1,5 +1,18 @@
-#sarcosoma_globosum 
-#no_sources: 1
+#sarcosoma_globosum
+#no_sources: 2
+
+---
+latin_name: Sarcosoma globosum
+polish_name: Dzbankówka kulista
+source: https://grzyby.pl/gatunki/Sarcosoma_globosum.htm
+---
+
+# Dzbankówka kulista
+
+## Występowanie, ekologia
+
+Czerwona Lista [125 ] — E–wymierający - krytycznie zagrożony
+
 
 ---
 latin_name: Sarcosoma globosum

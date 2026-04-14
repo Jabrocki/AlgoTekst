@@ -1,4 +1,4 @@
-#mycena_vitilis 
+#mycena_vitilis
 #no_sources: 2
 
 ---

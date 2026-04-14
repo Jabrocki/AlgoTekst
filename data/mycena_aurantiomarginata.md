@@ -1,4 +1,4 @@
-#mycena_aurantiomarginata 
+#mycena_aurantiomarginata
 #no_sources: 2
 
 ---

@@ -1,4 +1,4 @@
-#lecania_dubitans 
+#lecania_dubitans
 #no_sources: 1
 
 ---

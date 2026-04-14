@@ -1,4 +1,4 @@
-#geastrum_melanocephalum 
+#geastrum_melanocephalum
 #no_sources: 1
 
 ---

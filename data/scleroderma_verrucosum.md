@@ -1,4 +1,4 @@
-#scleroderma_verrucosum 
+#scleroderma_verrucosum
 #no_sources: 2
 
 ---

@@ -1,4 +1,4 @@
-#boletus_reticulatus 
+#boletus_reticulatus
 #no_sources: 3
 
 ---

@@ -1,4 +1,4 @@
-#acarospora_fuscata 
+#acarospora_fuscata
 #no_sources: 1
 
 ---

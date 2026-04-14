@@ -1,5 +1,22 @@
-#stereum_ochraceoflavum 
-#no_sources: 1
+#stereum_ochraceoflavum
+#no_sources: 2
+
+---
+latin_name: Stereum ochraceoflavum
+polish_name: Skórnik ochrowożółty
+source: https://grzyby.pl/gatunki/Stereum_ochraceoflavum.htm
+---
+
+# Skórnik ochrowożółty
+
+## Opis
+
+**Kapelusz** **Trzon**
+
+## Występowanie, ekologia
+
+Na martwych gałęziach drzew i krzewów liściastych, kasztanowca, leszczyny i dębów; maj-listopad.
+
 
 ---
 latin_name: Stereum ochraceoflavum

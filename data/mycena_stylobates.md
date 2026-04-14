@@ -1,4 +1,4 @@
-#mycena_stylobates 
+#mycena_stylobates
 #no_sources: 2
 
 ---

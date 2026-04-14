@@ -1,4 +1,4 @@
-#clavulina_rugosa 
+#clavulina_rugosa
 #no_sources: 2
 
 ---

@@ -1,5 +1,14 @@
-#melanohalea_elegantula 
-#no_sources: 1
+#melanohalea_elegantula
+#no_sources: 2
+
+---
+latin_name: Melanohalea elegantula
+polish_name: Przylepniczka wytworna
+source: https://grzyby.pl/gatunki/Melanohalea_elegantula.htm
+---
+
+# Przylepniczka wytworna
+
 
 ---
 latin_name: Melanohalea elegantula

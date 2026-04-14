@@ -1,4 +1,4 @@
-#agaricus_arvensis 
+#agaricus_arvensis
 #no_sources: 3
 
 ---

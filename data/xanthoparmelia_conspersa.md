@@ -1,4 +1,4 @@
-#xanthoparmelia_conspersa 
+#xanthoparmelia_conspersa
 #no_sources: 1
 
 ---

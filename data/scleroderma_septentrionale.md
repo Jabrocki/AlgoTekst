@@ -1,5 +1,5 @@
-#scleroderma_septentrionale 
-#no_sources: 2
+#scleroderma_septentrionale
+#no_sources: 3
 
 ---
 latin_name: Scleroderma septentrionale
@@ -40,6 +40,23 @@ Trujący dla człowieka jak wszyscy przedstawiciele rodzaju. Od 1995 tęgoskór 
 
 ## Zastosowanie
 Z racji ogromnej rzadkości, ochrony gatunkowej , wreszcie trudności w odnalezieniu nie znalazł jakichkolwiek zastosowań w lecznictwie i biotechnologii. Toksyczność uniemożliwia wykorzystanie tęgoskóra korzeniastego w kuchni .
+
+
+---
+latin_name: Scleroderma septentrionale
+polish_name: Tęgoskór korzeniasty
+source: https://grzyby.pl/gatunki/Scleroderma_septentrionale.htm
+---
+
+# Tęgoskór korzeniasty
+
+## Występowanie, ekologia
+
+Na wydmach.
+
+## Jadalne czy trujące? 🔴
+
+Prawdopodobnie trujący. [105 ]
 
 
 ---

@@ -1,4 +1,4 @@
-#panaeolus_acuminatus 
+#panaeolus_acuminatus
 #no_sources: 1
 
 ---

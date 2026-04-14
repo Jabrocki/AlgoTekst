@@ -1,4 +1,4 @@
-#mycena_capillaripes 
+#mycena_capillaripes
 #no_sources: 2
 
 ---

@@ -1,4 +1,4 @@
-#lyophyllum_connatum 
+#lyophyllum_connatum
 #no_sources: 1
 
 ---

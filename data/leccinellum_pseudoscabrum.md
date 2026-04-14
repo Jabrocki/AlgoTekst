@@ -1,4 +1,4 @@
-#leccinellum_pseudoscabrum 
+#leccinellum_pseudoscabrum
 #no_sources: 1
 
 ---

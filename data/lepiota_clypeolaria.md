@@ -1,4 +1,4 @@
-#lepiota_clypeolaria 
+#lepiota_clypeolaria
 #no_sources: 2
 
 ---

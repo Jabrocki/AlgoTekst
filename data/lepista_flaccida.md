@@ -1,4 +1,4 @@
-#lepista_flaccida 
+#lepista_flaccida
 #no_sources: 2
 
 ---

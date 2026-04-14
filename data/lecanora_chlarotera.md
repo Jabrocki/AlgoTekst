@@ -1,5 +1,14 @@
-#lecanora_chlarotera 
-#no_sources: 1
+#lecanora_chlarotera
+#no_sources: 2
+
+---
+latin_name: Lecanora chlarotera
+polish_name: Misecznica jaśniejsza
+source: https://grzyby.pl/gatunki/Lecanora_chlarotera.htm
+---
+
+# Misecznica jaśniejsza
+
 
 ---
 latin_name: Lecanora chlarotera

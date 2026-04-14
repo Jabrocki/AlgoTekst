@@ -1,4 +1,4 @@
-#pseudoclitocybe_cyathiformis 
+#pseudoclitocybe_cyathiformis
 #no_sources: 3
 
 ---

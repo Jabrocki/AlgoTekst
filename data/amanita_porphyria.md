@@ -1,4 +1,4 @@
-#amanita_porphyria 
+#amanita_porphyria
 #no_sources: 3
 
 ---

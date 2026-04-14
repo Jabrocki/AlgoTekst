@@ -1,5 +1,5 @@
-#suillus_placidus 
-#no_sources: 2
+#suillus_placidus
+#no_sources: 3
 
 ---
 latin_name: Suillus placidus
@@ -42,6 +42,21 @@ Maślak wejmutkowy to grzyb jadalny lecz kiepski w smaku.
 
 ## Zastosowanie
 Zastosowanie maślaka wejmutkowego jest zbliżone do pozostałych gatunków maślaków i maślaczków, choć z racji gorszego smaku nie zbierany aż tak chętnie.
+
+
+---
+latin_name: Suillus placidus
+polish_name: Maślak wejmutkowy
+source: https://grzyby.pl/gatunki/Suillus_placidus.htm
+---
+
+# Maślak wejmutkowy
+
+## Występowanie
+
+W lasach, na ziemi, pod sosną amerykańską ( Pinus strobus ) ; czerwiec-październik.
+
+Czerwona Lista [125 ] — R–rzadki - potencjalnie zagrożony wymarciem
 
 
 ---

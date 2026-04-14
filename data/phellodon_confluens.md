@@ -1,5 +1,5 @@
-#phellodon_confluens 
-#no_sources: 2
+#phellodon_confluens
+#no_sources: 3
 
 ---
 latin_name: Phellodon confluens
@@ -38,6 +38,21 @@ Jak większość korkozębów korkoząb pozrastany jest grzybem niejadalny wskut
 
 ## Zastosowanie
 Zastosowanie korkozęba pozrastanego jest nie znane. Nie powinien być wykorzystywany z racji bliskości wymarcia.
+
+
+---
+latin_name: Phellodon confluens
+polish_name: Korkoząb pozrastany
+source: https://grzyby.pl/gatunki/Phellodon_confluens.htm
+---
+
+# Korkoząb pozrastany
+
+## Występowanie, ekologia
+
+W lasach liściastych i mieszanych, na ziemi, pod bukami i dębami.
+
+Czerwona Lista [125 ] — EX–wymarły lub zaginiony
 
 
 ---

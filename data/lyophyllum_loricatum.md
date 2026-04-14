@@ -1,4 +1,4 @@
-#lyophyllum_loricatum 
+#lyophyllum_loricatum
 #no_sources: 2
 
 ---

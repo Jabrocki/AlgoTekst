@@ -1,4 +1,4 @@
-#geastrum_fimbriatum 
+#geastrum_fimbriatum
 #no_sources: 3
 
 ---

@@ -1,5 +1,24 @@
-#hygrophorus_poetarum 
-#no_sources: 1
+#hygrophorus_poetarum
+#no_sources: 2
+
+---
+latin_name: Hygrophorus poetarum
+polish_name: Wodnicha różowozłota
+source: https://grzyby.pl/gatunki/Hygrophorus_poetarum.htm
+---
+
+# Wodnicha różowozłota
+
+## Występowanie, ekologia
+
+W lasach, najczęściej pod bukami, na ziemi; wrzesień-październik.
+
+Czerwona Lista [125 ] — R–rzadki - potencjalnie zagrożony wymarciem
+
+## Jadalne czy trujące? 🟢
+
+Jadalna. [105 ]
+
 
 ---
 latin_name: Hygrophorus poetarum

@@ -1,4 +1,4 @@
-#morchella_gigas 
+#morchella_gigas
 #no_sources: 1
 
 ---

@@ -1,4 +1,4 @@
-#hygrophorus_speciosus 
+#hygrophorus_speciosus
 #no_sources: 2
 
 ---

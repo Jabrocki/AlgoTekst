@@ -1,5 +1,20 @@
-#geastrum_saccatum 
-#no_sources: 1
+#geastrum_saccatum
+#no_sources: 2
+
+---
+latin_name: Geastrum saccatum
+polish_name: Gwiazdosz workowaty
+source: https://grzyby.pl/gatunki/Geastrum_saccatum.htm
+---
+
+# Gwiazdosz workowaty
+
+## Występowanie, ekologia
+
+W lasach, pod świerkami.
+
+Czerwona Lista [125 ] — E–wymierający - krytycznie zagrożony
+
 
 ---
 latin_name: Geastrum saccatum

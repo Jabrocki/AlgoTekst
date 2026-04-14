@@ -1,5 +1,5 @@
-#hygrophorus_penarius 
-#no_sources: 2
+#hygrophorus_penarius
+#no_sources: 3
 
 ---
 latin_name: Hygrophorus penarius
@@ -42,6 +42,19 @@ Większość atlasów grzyboznawczych nie podaje nawet tak podstawowej informacj
 
 ## Zastosowanie
 Wodnicha gładka mimo niezbyt dobrego smaku i gromadzenia w owocnikach metali ciężkich bywa zbierana na południu Europy.
+
+
+---
+latin_name: Hygrophorus penarius
+polish_name: Wodnicha gładka
+source: https://grzyby.pl/gatunki/Hygrophorus_penarius.htm
+---
+
+# Wodnicha gładka
+
+## Występowanie, ekologia
+
+W lasach bukowo-dębowych, na ziemi; wrzesień-październik.
 
 
 ---

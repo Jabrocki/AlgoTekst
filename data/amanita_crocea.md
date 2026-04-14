@@ -1,4 +1,4 @@
-#amanita_crocea 
+#amanita_crocea
 #no_sources: 3
 
 ---

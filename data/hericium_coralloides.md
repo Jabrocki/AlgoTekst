@@ -1,4 +1,4 @@
-#hericium_coralloides 
+#hericium_coralloides
 #no_sources: 2
 
 ---

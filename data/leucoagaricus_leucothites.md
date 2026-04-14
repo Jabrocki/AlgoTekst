@@ -1,4 +1,4 @@
-#leucoagaricus_leucothites 
+#leucoagaricus_leucothites
 #no_sources: 2
 
 ---

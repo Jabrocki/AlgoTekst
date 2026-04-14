@@ -1,4 +1,4 @@
-#stropharia_coronilla 
+#stropharia_coronilla
 #no_sources: 2
 
 ---

@@ -1,5 +1,5 @@
-#russula_amethystina 
-#no_sources: 1
+#russula_amethystina
+#no_sources: 2
 
 ---
 latin_name: Russula amethystina
@@ -40,3 +40,22 @@ Podobnie jak inne gołąbki z tego podrodzaju nie jest zbyt smaczny. Z uwagi na 
 
 ## Zastosowanie
 Gołąbek ametystowy jest grzybem jadalnym . Brak dokładniejszych odnośnie zastosowań. Można mniemać, że podobnie jak inne jadalne gołąbki nadaje się do mieszanek z innymi gatunkami , o przyjemniejszym a wyraźniejszym smaku oraz aromacie .
+
+
+---
+latin_name: Russula amethystina
+polish_name: Gołąbek ametystowy
+source: https://grzyby.pl/gatunki/Russula_amethystina.htm
+---
+
+# Gołąbek ametystowy
+
+## Występowanie, ekologia
+
+Pod drzewami iglastymi, jodłą, świerkiem i sosną.
+
+W lasach iglalstych, pod jodłami, świerkami i sosnami; lipiec-październik.
+
+## Jadalność
+
+Jadalny. [105 ]

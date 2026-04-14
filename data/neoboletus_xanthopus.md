@@ -1,5 +1,14 @@
-#neoboletus_xanthopus 
-#no_sources: 1
+#neoboletus_xanthopus
+#no_sources: 2
+
+---
+latin_name: Neoboletus xanthopus
+polish_name: Krasnoborowik żółtoczerwony
+source: https://grzyby.pl/gatunki/Neoboletus_xanthopus.htm
+---
+
+# Krasnoborowik żółtoczerwony
+
 
 ---
 latin_name: Neoboletus xanthopus

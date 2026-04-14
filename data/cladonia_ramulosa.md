@@ -1,4 +1,4 @@
-#cladonia_ramulosa 
+#cladonia_ramulosa
 #no_sources: 1
 
 ---

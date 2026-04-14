@@ -1,4 +1,4 @@
-#exidia_glandulosa 
+#exidia_glandulosa
 #no_sources: 2
 
 ---

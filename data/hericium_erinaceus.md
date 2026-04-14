@@ -1,4 +1,4 @@
-#hericium_erinaceus 
+#hericium_erinaceus
 #no_sources: 3
 
 ---

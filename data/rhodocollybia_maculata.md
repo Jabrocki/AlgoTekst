@@ -1,4 +1,4 @@
-#rhodocollybia_maculata 
+#rhodocollybia_maculata
 #no_sources: 2
 
 ---

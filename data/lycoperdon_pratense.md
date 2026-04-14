@@ -1,4 +1,4 @@
-#lycoperdon_pratense 
+#lycoperdon_pratense
 #no_sources: 2
 
 ---

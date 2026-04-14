@@ -1,5 +1,14 @@
-#cladonia_borealis 
-#no_sources: 1
+#cladonia_borealis
+#no_sources: 2
+
+---
+latin_name: Cladonia borealis
+polish_name: Chrobotek północny
+source: https://grzyby.pl/gatunki/Cladonia_borealis.htm
+---
+
+# Chrobotek północny
+
 
 ---
 latin_name: Cladonia borealis

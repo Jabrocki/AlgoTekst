@@ -1,5 +1,18 @@
-#encoelia_furfuracea 
-#no_sources: 1
+#encoelia_furfuracea
+#no_sources: 2
+
+---
+latin_name: Encoelia furfuracea
+polish_name: Orzechówka mączysta
+source: https://grzyby.pl/gatunki/Encoelia_furfuracea.htm
+---
+
+# Orzechówka mączysta
+
+## Występowanie
+
+Na gałązkach leszczyny.
+
 
 ---
 latin_name: Encoelia furfuracea

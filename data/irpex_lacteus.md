@@ -1,5 +1,20 @@
-#irpex_lacteus 
-#no_sources: 1
+#irpex_lacteus
+#no_sources: 2
+
+---
+latin_name: Irpex lacteus
+polish_name: Porokolczak mleczny
+source: https://grzyby.pl/gatunki/Irpex_lacteus.htm
+---
+
+# Porokolczak mleczny
+
+## Występowanie, ekologia
+
+W lasach i poza nimi, na drewnie martwych lub żywych drzew i krzewów liściastych, rzadko iglastych; maj-listopad.
+
+Czerwona Lista [125 ] — R–rzadki - potencjalnie zagrożony wymarciem
+
 
 ---
 latin_name: Irpex lacteus

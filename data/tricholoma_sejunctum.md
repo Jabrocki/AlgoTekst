@@ -1,4 +1,4 @@
-#tricholoma_sejunctum 
+#tricholoma_sejunctum
 #no_sources: 3
 
 ---

@@ -1,4 +1,4 @@
-#arcyria_denudata 
+#arcyria_denudata
 #no_sources: 1
 
 ---

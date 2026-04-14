@@ -1,5 +1,5 @@
-#lactarius_albocarneus 
-#no_sources: 1
+#lactarius_albocarneus
+#no_sources: 2
 
 ---
 latin_name: Lactarius albocarneus
@@ -42,3 +42,18 @@ Mleczaj lśniący jest niejadalny z racji obrzydliwego, piekącego smaku.
 
 ## Zastosowanie
 W przeszłości farmaceuci, biochemicy i chemicy organicy poświęcali nieco uwagi terpenoidom z mleczaja lśniącego, jednak nie znaleziono dla nich ważniejszych zastosowań
+
+
+---
+latin_name: Lactarius albocarneus
+polish_name: Mleczaj cielisty
+source: https://grzyby.pl/gatunki/Lactarius_albocarneus.htm
+---
+
+# Mleczaj cielisty
+
+## Występowanie, ekologia
+
+W świerczynach; na ziemi; jesienią.
+
+Czerwona Lista [125 ] — R–rzadki - potencjalnie zagrożony wymarciem

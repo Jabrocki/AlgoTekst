@@ -1,4 +1,4 @@
-#russula_atropurpurea 
+#russula_atropurpurea
 #no_sources: 3
 
 ---

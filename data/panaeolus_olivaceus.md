@@ -1,5 +1,14 @@
-#panaeolus_olivaceus 
-#no_sources: 1
+#panaeolus_olivaceus
+#no_sources: 2
+
+---
+latin_name: Panaeolus olivaceus
+polish_name: Kołpaczek oliwkowy
+source: https://grzyby.pl/gatunki/Panaeolus_olivaceus.htm
+---
+
+# Kołpaczek oliwkowy
+
 
 ---
 latin_name: Panaeolus olivaceus

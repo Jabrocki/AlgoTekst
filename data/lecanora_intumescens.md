@@ -1,5 +1,14 @@
-#lecanora_intumescens 
-#no_sources: 1
+#lecanora_intumescens
+#no_sources: 2
+
+---
+latin_name: Lecanora intumescens
+polish_name: Misecznica wytworna
+source: https://grzyby.pl/gatunki/Lecanora_intumescens.htm
+---
+
+# Misecznica wytworna
+
 
 ---
 latin_name: Lecanora intumescens

@@ -1,4 +1,4 @@
-#stropharia_squamosa 
+#stropharia_squamosa
 #no_sources: 1
 
 ---

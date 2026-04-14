@@ -1,5 +1,18 @@
-#amanita_argentea 
-#no_sources: 1
+#amanita_argentea
+#no_sources: 2
+
+---
+latin_name: Amanita argentea
+polish_name: Muchomor srebrzysty
+source: https://grzyby.pl/gatunki/Amanita_argentea.htm
+---
+
+# Muchomor srebrzysty
+
+## Występowanie, ekologia
+
+Czerwona Lista [125 ] — V–narażony na wymarcie
+
 
 ---
 latin_name: Amanita argentea

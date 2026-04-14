@@ -1,4 +1,4 @@
-#pholiota_spumosa 
+#pholiota_spumosa
 #no_sources: 2
 
 ---

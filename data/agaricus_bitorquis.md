@@ -1,4 +1,4 @@
-#agaricus_bitorquis 
+#agaricus_bitorquis
 #no_sources: 3
 
 ---

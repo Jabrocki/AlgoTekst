@@ -1,5 +1,14 @@
-#lepraria_jackii 
-#no_sources: 1
+#lepraria_jackii
+#no_sources: 2
+
+---
+latin_name: Lepraria jackii
+polish_name: Liszajec jacka
+source: https://grzyby.pl/gatunki/Lepraria_jackii.htm
+---
+
+# Liszajec jacka
+
 
 ---
 latin_name: Lepraria jackii

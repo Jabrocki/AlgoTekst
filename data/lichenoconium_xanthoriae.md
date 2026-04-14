@@ -1,4 +1,4 @@
-#lichenoconium_xanthoriae 
+#lichenoconium_xanthoriae
 #no_sources: 1
 
 ---

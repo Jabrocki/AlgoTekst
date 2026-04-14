@@ -1,4 +1,4 @@
-#didymium_squamulosum 
+#didymium_squamulosum
 #no_sources: 1
 
 ---

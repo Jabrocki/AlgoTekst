@@ -1,5 +1,14 @@
-#cladonia_convoluta 
-#no_sources: 1
+#cladonia_convoluta
+#no_sources: 2
+
+---
+latin_name: Cladonia convoluta
+polish_name: Chrobotek listkowaty
+source: https://grzyby.pl/gatunki/Cladonia_convoluta.htm
+---
+
+# Chrobotek listkowaty
+
 
 ---
 latin_name: Cladonia convoluta

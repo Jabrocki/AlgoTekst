@@ -1,4 +1,4 @@
-#ganoderma_resinaceum 
+#ganoderma_resinaceum
 #no_sources: 2
 
 ---

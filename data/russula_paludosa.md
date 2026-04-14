@@ -1,4 +1,4 @@
-#russula_paludosa 
+#russula_paludosa
 #no_sources: 3
 
 ---

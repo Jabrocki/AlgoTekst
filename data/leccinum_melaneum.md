@@ -1,5 +1,18 @@
-#leccinum_melaneum 
-#no_sources: 1
+#leccinum_melaneum
+#no_sources: 2
+
+---
+latin_name: Leccinum melaneum
+polish_name: Koźlarz czarny
+source: https://grzyby.pl/gatunki/Leccinum_melaneum.htm
+---
+
+# Koźlarz czarny
+
+## Jadalne czy trujące? 🟢
+
+Jadalny.
+
 
 ---
 latin_name: Leccinum melaneum

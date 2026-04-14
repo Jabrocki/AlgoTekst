@@ -1,4 +1,4 @@
-#mycena_epipterygia 
+#mycena_epipterygia
 #no_sources: 2
 
 ---

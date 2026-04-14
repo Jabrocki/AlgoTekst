@@ -1,4 +1,4 @@
-#galerina_autumnalis 
+#galerina_autumnalis
 #no_sources: 2
 
 ---

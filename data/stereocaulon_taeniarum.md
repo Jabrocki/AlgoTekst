@@ -1,5 +1,14 @@
-#stereocaulon_taeniarum 
-#no_sources: 1
+#stereocaulon_taeniarum
+#no_sources: 2
+
+---
+latin_name: Stereocaulon taeniarum
+polish_name: Chróścik tasiemcowaty
+source: https://grzyby.pl/gatunki/Stereocaulon_taeniarum.htm
+---
+
+# Chróścik tasiemcowaty
+
 
 ---
 latin_name: Stereocaulon taeniarum

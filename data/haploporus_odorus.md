@@ -1,5 +1,5 @@
-#haploporus_odorus 
-#no_sources: 2
+#haploporus_odorus
+#no_sources: 3
 
 ---
 latin_name: Haploporus odorus
@@ -42,6 +42,19 @@ Iwoporek anyżkowy jest grzybem niejadalnym . Tak samo jak jego kuzyni powoduje 
 
 ## Zastosowanie
 W Polsce i krajach sąsiednich z racji skrajnej rzadkości lub zaniku iwoporek anyżkowy nie znajduje współcześnie żadnych zastosowań. Zasługuje w pełni na ochronę jako relikt glacjalny.
+
+
+---
+latin_name: Haploporus odorus
+polish_name: Iwoporek anyżkowy
+source: https://grzyby.pl/gatunki/Haploporus_odorus.htm
+---
+
+# Iwoporek anyżkowy
+
+## Występowanie, ekologia
+
+Pasożyt. Prawie zawsze na żywej wierzbą iwą ( Salix caprea ) , wywołuje białą zgniliznę drewna twardzieli.
 
 
 ---

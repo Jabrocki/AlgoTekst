@@ -1,4 +1,4 @@
-#typhula_fistulosa 
+#typhula_fistulosa
 #no_sources: 1
 
 ---

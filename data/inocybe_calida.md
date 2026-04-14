@@ -1,5 +1,18 @@
-#inocybe_calida 
-#no_sources: 1
+#inocybe_calida
+#no_sources: 2
+
+---
+latin_name: Inocybe calida
+polish_name: Strzępiak rudy
+source: https://grzyby.pl/gatunki/Inocybe_calida.htm
+---
+
+# Strzępiak rudy
+
+## Występowanie, ekologia
+
+W lasach liściastych, pod drzewami liściastymi, np. dębami.
+
 
 ---
 latin_name: Inocybe calida

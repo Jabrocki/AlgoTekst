@@ -1,5 +1,14 @@
-#diatrype_disciformis 
-#no_sources: 1
+#diatrype_disciformis
+#no_sources: 2
+
+---
+latin_name: Diatrype disciformis
+polish_name: Gruzak bukowy
+source: https://grzyby.pl/gatunki/Diatrype_disciformis.htm
+---
+
+# Gruzak bukowy
+
 
 ---
 latin_name: Diatrype disciformis

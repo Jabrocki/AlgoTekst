@@ -1,4 +1,4 @@
-#diploschistes_scruposus 
+#diploschistes_scruposus
 #no_sources: 1
 
 ---

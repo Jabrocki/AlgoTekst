@@ -1,5 +1,14 @@
-#melanelixia_subaurifera 
-#no_sources: 1
+#melanelixia_subaurifera
+#no_sources: 2
+
+---
+latin_name: Melanelixia subaurifera
+polish_name: Przylepnik złotawy
+source: https://grzyby.pl/gatunki/Melanelixia_subaurifera.htm
+---
+
+# Przylepnik złotawy
+
 
 ---
 latin_name: Melanelixia subaurifera

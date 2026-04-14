@@ -1,4 +1,4 @@
-#cantharellus_ferruginascens 
+#cantharellus_ferruginascens
 #no_sources: 2
 
 ---

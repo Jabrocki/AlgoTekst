@@ -1,5 +1,14 @@
-#ramalina_fastigiata 
-#no_sources: 1
+#ramalina_fastigiata
+#no_sources: 2
+
+---
+latin_name: Ramalina fastigiata
+polish_name: Odnożyca kępkowa
+source: https://grzyby.pl/gatunki/Ramalina_fastigiata.htm
+---
+
+# Odnożyca kępkowa
+
 
 ---
 latin_name: Ramalina fastigiata

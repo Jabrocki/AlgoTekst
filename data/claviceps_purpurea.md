@@ -1,4 +1,4 @@
-#claviceps_purpurea 
+#claviceps_purpurea
 #no_sources: 3
 
 ---

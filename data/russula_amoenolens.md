@@ -1,5 +1,5 @@
-#russula_amoenolens 
-#no_sources: 2
+#russula_amoenolens
+#no_sources: 3
 
 ---
 latin_name: Russula amoenolens
@@ -42,6 +42,25 @@ Polska nazwa gatunkowa „przyjemny” odnosi się do stosunkowo miłej woni, pr
 
 ## Zastosowanie
 Gołąbek przyjemny jest grzybem niejadalnym. W Kanadzie i USA gołąbek przyjemny to jeden z lepiej zbadanych leśnych grzybów wielkoowocnikowych. Naukowców oraz leśników interesują jego związki mikoryzowe, szczególnie wpływ dodatkowych soli azotowych na ich dalsze funkcjonowanie.
+
+
+---
+latin_name: Russula amoenolens
+polish_name: Gołąbek przyjemny
+source: https://grzyby.pl/gatunki/Russula_amoenolens.htm
+---
+
+# Gołąbek przyjemny
+
+## Owocnik
+
+**Kapelusz** **Trzon**
+
+## Występowanie
+
+W lasach różnego typu i poza nimi, pod bukami i dębami; lipiec-październik.
+
+Czerwona Lista [125 ] — R–rzadki - potencjalnie zagrożony wymarciem
 
 
 ---

@@ -1,5 +1,18 @@
-#hygrophorus_persicolor 
-#no_sources: 1
+#hygrophorus_persicolor
+#no_sources: 2
+
+---
+latin_name: Hygrophorus persicolor
+polish_name: Wodnicha flamingowa
+source: https://grzyby.pl/gatunki/Hygrophorus_persicolor.htm
+---
+
+# Wodnicha flamingowa
+
+## Występowanie, ekologia
+
+Pod świerkami.
+
 
 ---
 latin_name: Hygrophorus persicolor

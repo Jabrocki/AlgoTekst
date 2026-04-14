@@ -1,5 +1,18 @@
-#russula_silvestris 
-#no_sources: 1
+#russula_silvestris
+#no_sources: 2
+
+---
+latin_name: Russula silvestris
+polish_name: Gołąbek białoróżowy
+source: https://grzyby.pl/gatunki/Russula_silvestris.htm
+---
+
+# Gołąbek białoróżowy
+
+## Występowanie, ekologia
+
+W lasach, często wśród mchów.
+
 
 ---
 latin_name: Russula silvestris

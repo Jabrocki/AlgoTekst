@@ -1,5 +1,5 @@
-#suillus_americanus 
-#no_sources: 1
+#suillus_americanus
+#no_sources: 2
 
 ---
 latin_name: Suillus americanus
@@ -40,3 +40,22 @@ Surowe owocniki maślaka syberyjskiego mogą powodować u niektórych alergie sk
 Zastosowanie maślaka syberyjskiego jak u pozostałych jadalnych maślaków i borowików . Opinie na temat walorów smakowych maślaka syberyjskiego są skrajnie różne. Wiele osób uważa go za przykry w smaku i nieprzyjemny w dotyku z racji oślizgłości i łykowatości. Inni jednak cenią go mocniej, porównując go do smaku tłustych kapłonów z cytryną . Oślizgłość może być zaletą przy przyrządzaniu dipów i past do kanapek.
 
 Trwają prace nad wykorzystaniem właściwości przeciwzapalnych tego grzyba w lecznictwie.
+
+
+---
+latin_name: Suillus americanus
+polish_name: Maślak amerykański forma syberyjska
+source: https://grzyby.pl/gatunki/Suillus_sibiricus.htm
+---
+
+# Maślak amerykański forma syberyjska
+
+## Cechy charakterystyczne
+
+Osłona szybko zanikająca.
+
+## Występowanie, ekologia
+
+Pod sosną limbą (pięcioigielna); bardzo rzadki.
+
+Czerwona Lista [125 ] — E–wymierający - krytycznie zagrożony

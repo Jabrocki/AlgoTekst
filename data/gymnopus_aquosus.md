@@ -1,5 +1,18 @@
-#gymnopus_aquosus 
-#no_sources: 1
+#gymnopus_aquosus
+#no_sources: 2
+
+---
+latin_name: Gymnopus aquosus
+polish_name: Łysostopek wodnisty
+source: https://grzyby.pl/gatunki/Gymnopus_aquosus.htm
+---
+
+# Łysostopek wodnisty
+
+## Występowanie, ekologia
+
+Od nizin po wysokogórskie formacje z dębik ośmiopłatkowy ( Dryas octopetala ) i wierzbami karłowatymi; na ziemi, np. wśród mchów torfowców.
+
 
 ---
 latin_name: Gymnopus aquosus

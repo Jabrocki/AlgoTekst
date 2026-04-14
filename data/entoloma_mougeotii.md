@@ -1,4 +1,4 @@
-#entoloma_mougeotii 
+#entoloma_mougeotii
 #no_sources: 2
 
 ---

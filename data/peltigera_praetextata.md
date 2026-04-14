@@ -1,5 +1,14 @@
-#peltigera_praetextata 
-#no_sources: 1
+#peltigera_praetextata
+#no_sources: 2
+
+---
+latin_name: Peltigera praetextata
+polish_name: Pawężnica łuseczkowata
+source: https://grzyby.pl/gatunki/Peltigera_praetextata.htm
+---
+
+# Pawężnica łuseczkowata
+
 
 ---
 latin_name: Peltigera praetextata

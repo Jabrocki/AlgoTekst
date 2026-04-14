@@ -1,5 +1,22 @@
-#hygrophorus_atramentosus 
-#no_sources: 1
+#hygrophorus_atramentosus
+#no_sources: 2
+
+---
+latin_name: Hygrophorus atramentosus
+polish_name: Wodnicha atramentowa niebieskoczarna
+source: https://grzyby.pl/gatunki/Hygrophorus_atramentosus.htm
+---
+
+# Wodnicha atramentowa niebieskoczarna
+
+## Występowanie, ekologia
+
+W lasach iglastych na wapiennym podłożu, pod jodłami.
+
+## Jadalne czy trujące? 🟢
+
+Jadalna. [105 ]
+
 
 ---
 latin_name: Hygrophorus atramentosus

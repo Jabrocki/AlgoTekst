@@ -1,4 +1,4 @@
-#calvatia_gigantea 
+#calvatia_gigantea
 #no_sources: 3
 
 ---

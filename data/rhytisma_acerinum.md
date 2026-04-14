@@ -1,5 +1,18 @@
-#rhytisma_acerinum 
-#no_sources: 1
+#rhytisma_acerinum
+#no_sources: 2
+
+---
+latin_name: Rhytisma acerinum
+polish_name: Łuszczeniec klonowy
+source: https://grzyby.pl/gatunki/Rhytisma_acerinum.htm
+---
+
+# Łuszczeniec klonowy
+
+## Występowanie, ekologia
+
+Na liściach klonu.
+
 
 ---
 latin_name: Rhytisma acerinum

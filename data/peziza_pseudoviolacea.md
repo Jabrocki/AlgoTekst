@@ -1,4 +1,4 @@
-#peziza_pseudoviolacea 
+#peziza_pseudoviolacea
 #no_sources: 2
 
 ---

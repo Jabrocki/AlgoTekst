@@ -1,5 +1,5 @@
-#agaricus_langei 
-#no_sources: 2
+#agaricus_langei
+#no_sources: 3
 
 ---
 latin_name: Agaricus langei
@@ -38,6 +38,23 @@ Pieczarka krwawiąca jest grzybem jadalnym o niewyróżniającym się smaku. W w
 
 ## Zastosowanie
 Pieczarka krwawiąca nadaje się do duszenia, gotowania i smażenia. Można ją łączyć w potrawach z innymi pieczarkami – nadaje się na dodatek do dań mięsnych , makaronów , sosów i zup .
+
+
+---
+latin_name: Agaricus langei
+polish_name: Pieczarka krwawiąca
+source: https://grzyby.pl/gatunki/Agaricus_langei.htm
+---
+
+# Pieczarka krwawiąca
+
+## Występowanie, ekologia
+
+W lasach liściastych, mieszanych i iglastych, na leśnych polanach, obrzeżach lasów, w ogrodach botanicznych; na ziemi; sierpień-październik.
+
+## Jadalne czy trujące? 🟢
+
+Jadalna.
 
 
 ---

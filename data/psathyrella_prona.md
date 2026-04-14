@@ -1,4 +1,4 @@
-#psathyrella_prona 
+#psathyrella_prona
 #no_sources: 3
 
 ---

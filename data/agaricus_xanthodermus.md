@@ -1,4 +1,4 @@
-#agaricus_xanthodermus 
+#agaricus_xanthodermus
 #no_sources: 3
 
 ---

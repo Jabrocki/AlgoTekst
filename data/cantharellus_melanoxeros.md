@@ -1,4 +1,4 @@
-#cantharellus_melanoxeros 
+#cantharellus_melanoxeros
 #no_sources: 1
 
 ---

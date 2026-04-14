@@ -1,4 +1,4 @@
-#nectria_episphaeria 
+#nectria_episphaeria
 #no_sources: 1
 
 ---

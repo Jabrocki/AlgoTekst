@@ -1,4 +1,4 @@
-#pseudoboletus_parasiticus 
+#pseudoboletus_parasiticus
 #no_sources: 3
 
 ---

@@ -1,4 +1,4 @@
-#russula_ochroleuca 
+#russula_ochroleuca
 #no_sources: 3
 
 ---

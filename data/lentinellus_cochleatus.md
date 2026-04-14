@@ -1,5 +1,5 @@
-#lentinellus_cochleatus 
-#no_sources: 2
+#lentinellus_cochleatus
+#no_sources: 3
 
 ---
 latin_name: Lentinellus cochleatus
@@ -51,6 +51,23 @@ Czy istnieje odmiana bez anyżowego zapachu?
 Tak, występują takie odmiany, jednak są zdecydowanie rzadsze. Wśród nich można wymienić bezwonną i trzy inne gatunki, które zagrożone są w naszym kraju wyginięciem. Jak zrobić z twardówki anyżkowej przyprawę?
 
 Po wysuszeniu zetrzyj grzyby na proszek lub dodawaj w małych kawałeczkach do przygotowywanych potraw takich jak np. bigos, gulasz czy leczo.
+
+
+---
+latin_name: Lentinellus cochleatus
+polish_name: Twardówka anyżkowa
+source: https://grzyby.pl/gatunki/Lentinellus_cochleatus.htm
+---
+
+# Twardówka anyżkowa
+
+## Występowanie
+
+Częsty. Na pniakach, kłodach, gałęziach, martwym drewnie drzew liściastych, rzadko na ziemi; sierpień-październik.
+
+## Jadalne czy trujące? 🟡🟢
+
+Tylko jako grzyb przyprawowy o anyżkowym zapachu, musi być drobno posiekany z racji łykowatości. [134 ]
 
 
 ---

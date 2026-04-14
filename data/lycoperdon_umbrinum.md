@@ -1,4 +1,4 @@
-#lycoperdon_umbrinum 
+#lycoperdon_umbrinum
 #no_sources: 3
 
 ---

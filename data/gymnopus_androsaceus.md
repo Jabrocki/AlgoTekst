@@ -1,4 +1,4 @@
-#gymnopus_androsaceus 
+#gymnopus_androsaceus
 #no_sources: 1
 
 ---

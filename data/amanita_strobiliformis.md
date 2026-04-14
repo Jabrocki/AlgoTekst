@@ -1,4 +1,4 @@
-#amanita_strobiliformis 
+#amanita_strobiliformis
 #no_sources: 2
 
 ---

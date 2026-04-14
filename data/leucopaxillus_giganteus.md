@@ -1,4 +1,4 @@
-#leucopaxillus_giganteus 
+#leucopaxillus_giganteus
 #no_sources: 1
 
 ---

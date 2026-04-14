@@ -1,4 +1,4 @@
-#lycoperdon_dermoxanthum 
+#lycoperdon_dermoxanthum
 #no_sources: 1
 
 ---

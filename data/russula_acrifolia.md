@@ -1,5 +1,5 @@
-#russula_acrifolia 
-#no_sources: 1
+#russula_acrifolia
+#no_sources: 2
 
 ---
 latin_name: Russula acrifolia
@@ -42,3 +42,16 @@ Gołąbek ostroblaszkowy to grzyb niesmaczny, w większości państw uważany za
 
 ## Zastosowanie
 Dziś praktycznie nie wykorzystuje się gołąbka ostroblaszkowego.
+
+
+---
+latin_name: Russula acrifolia
+polish_name: Gołąbek ostroblaszkowy
+source: https://grzyby.pl/gatunki/Russula_acrifolia.htm
+---
+
+# Gołąbek ostroblaszkowy
+
+## Występowanie, ekologia
+
+W lasach; na ziemi; czerwiec-wrzesień.

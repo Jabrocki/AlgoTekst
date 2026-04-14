@@ -1,4 +1,4 @@
-#gomphidius_maculatus 
+#gomphidius_maculatus
 #no_sources: 2
 
 ---

@@ -1,4 +1,4 @@
-#laccaria_bicolor 
+#laccaria_bicolor
 #no_sources: 2
 
 ---

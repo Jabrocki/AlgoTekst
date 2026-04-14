@@ -1,4 +1,4 @@
-#mycena_strobilicola 
+#mycena_strobilicola
 #no_sources: 1
 
 ---

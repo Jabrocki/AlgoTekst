@@ -1,5 +1,14 @@
-#amanita_flavescens 
-#no_sources: 1
+#amanita_flavescens
+#no_sources: 2
+
+---
+latin_name: Amanita flavescens
+polish_name: Muchomor żółtopomarańczowy
+source: https://grzyby.pl/gatunki/Amanita_flavescens.htm
+---
+
+# Muchomor żółtopomarańczowy
+
 
 ---
 latin_name: Amanita flavescens

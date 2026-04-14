@@ -1,4 +1,4 @@
-#cladonia_floerkeana 
+#cladonia_floerkeana
 #no_sources: 1
 
 ---

@@ -1,5 +1,5 @@
-#leccinum_piceinum 
-#no_sources: 2
+#leccinum_piceinum
+#no_sources: 3
 
 ---
 latin_name: Leccinum piceinum
@@ -40,6 +40,19 @@ Koźlarz świerkowy to smaczny grzyb jadalny, ale zasługuje na ochronę z uwagi
 
 ## Zastosowanie
 Jak u innych koźlarzy czerwonych. Koźlarz świerkowy znakomicie smakuje tak świeży, jak suszony albo marynowany. Można je także gotować. Grzyby te stanowią doskonały dodatek do wielu dań mięsnych , sosów i zup .
+
+
+---
+latin_name: Leccinum piceinum
+polish_name: Koźlarz świerkowy
+source: https://grzyby.pl/gatunki/Leccinum_piceinum.htm
+---
+
+# Koźlarz świerkowy
+
+## Jadalne czy trujące? 🟢
+
+Jadalny.
 
 
 ---

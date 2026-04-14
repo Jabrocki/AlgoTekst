@@ -1,4 +1,4 @@
-#ganoderma_carnosum 
+#ganoderma_carnosum
 #no_sources: 2
 
 ---

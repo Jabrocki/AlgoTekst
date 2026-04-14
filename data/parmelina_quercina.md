@@ -1,5 +1,14 @@
-#parmelina_quercina 
-#no_sources: 1
+#parmelina_quercina
+#no_sources: 2
+
+---
+latin_name: Parmelina quercina
+polish_name: Szarzynka dębowa
+source: https://grzyby.pl/gatunki/Parmelina_quercina.htm
+---
+
+# Szarzynka dębowa
+
 
 ---
 latin_name: Parmelina quercina

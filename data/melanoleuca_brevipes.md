@@ -1,5 +1,22 @@
-#melanoleuca_brevipes 
-#no_sources: 1
+#melanoleuca_brevipes
+#no_sources: 2
+
+---
+latin_name: Melanoleuca brevipes
+polish_name: Ciemnobiałka krótkotrzonowa
+source: https://grzyby.pl/gatunki/Melanoleuca_brevipes.htm
+---
+
+# Ciemnobiałka krótkotrzonowa
+
+## Występowanie, ekologia
+
+W trawach, na ziemi.
+
+## Jadalne czy trujące? 🟢
+
+Jadalna. [105 ]
+
 
 ---
 latin_name: Melanoleuca brevipes

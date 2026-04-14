@@ -1,4 +1,4 @@
-#lepista_personata 
+#lepista_personata
 #no_sources: 2
 
 ---

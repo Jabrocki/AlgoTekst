@@ -1,4 +1,4 @@
-#cuphophyllus_pratensis 
+#cuphophyllus_pratensis
 #no_sources: 2
 
 ---

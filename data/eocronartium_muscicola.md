@@ -1,5 +1,5 @@
-#eocronartium_muscicola 
-#no_sources: 2
+#eocronartium_muscicola
+#no_sources: 3
 
 ---
 latin_name: Eocronartium muscicola
@@ -45,6 +45,21 @@ W wilgotnych siedliskach z obfitością mchów, takich jak lasy, torfowiska czy 
 Jakie mchy są gospodarzami dla goździolepka mchowego?
 
 Grzyb pasożytuje na różnych gatunkach mchów, szczególnie z podklasy Bryidae. Atakuje głównie embrionalne sporofity mchów, otaczając je swoimi strzępkami i pobierając z nich substancje pokarmowe.
+
+
+---
+latin_name: Eocronartium muscicola
+polish_name: Goździolepek mchowy
+source: https://grzyby.pl/gatunki/Eocronartium_muscicola.htm
+---
+
+# Goździolepek mchowy
+
+## Występowanie, ekologia
+
+W lasach i ogrodach; pasożytuje na mchach Climacium dendroides .
+
+Czerwona Lista [125 ] — E–wymierający - krytycznie zagrożony
 
 
 ---

@@ -1,4 +1,4 @@
-#boletus_luridiformis 
+#boletus_luridiformis
 #no_sources: 2
 
 ---

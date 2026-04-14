@@ -1,4 +1,4 @@
-#lycoperdon_lambinonii 
+#lycoperdon_lambinonii
 #no_sources: 1
 
 ---

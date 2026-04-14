@@ -1,4 +1,4 @@
-#cortinarius_hercynicus 
+#cortinarius_hercynicus
 #no_sources: 2
 
 ---

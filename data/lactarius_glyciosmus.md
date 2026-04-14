@@ -1,4 +1,4 @@
-#lactarius_glyciosmus 
+#lactarius_glyciosmus
 #no_sources: 3
 
 ---

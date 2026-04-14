@@ -1,5 +1,14 @@
-#leptogium_saturninum 
-#no_sources: 1
+#leptogium_saturninum
+#no_sources: 2
+
+---
+latin_name: Leptogium saturninum
+polish_name: Pakość pilśniowata
+source: https://grzyby.pl/gatunki/Leptogium_saturninum.htm
+---
+
+# Pakość pilśniowata
+
 
 ---
 latin_name: Leptogium saturninum

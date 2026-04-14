@@ -1,5 +1,14 @@
-#physconia_enteroxantha 
-#no_sources: 1
+#physconia_enteroxantha
+#no_sources: 2
+
+---
+latin_name: Physconia enteroxantha
+polish_name: Soreniec żółtawy
+source: https://grzyby.pl/gatunki/Physconia_enteroxantha.htm
+---
+
+# Soreniec żółtawy
+
 
 ---
 latin_name: Physconia enteroxantha

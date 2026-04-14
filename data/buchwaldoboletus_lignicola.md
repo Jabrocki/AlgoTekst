@@ -1,5 +1,5 @@
-#buchwaldoboletus_lignicola 
-#no_sources: 2
+#buchwaldoboletus_lignicola
+#no_sources: 3
 
 ---
 latin_name: Buchwaldoboletus lignicola
@@ -44,6 +44,21 @@ Złociec czerwonawy to grzyb jadalny, dość smaczny. Nie powinno się go jednak
 
 ## Zastosowanie
 Jak wyżej: jadalny, lecz zasługuje na ochronę.
+
+
+---
+latin_name: Buchwaldoboletus lignicola
+polish_name: Złociec czerwonawy
+source: https://grzyby.pl/gatunki/Pulveroboletus_lignicola.htm
+---
+
+# Złociec czerwonawy
+
+## Występowanie
+
+Bardzo rzadki. Rośnie zawsze w towarzystwie (choć niekoniecznie w tym samym czasie) co murszak rdzawy ( Phaeolus schweinitzii ) / (rozkładającego pniaki sosny pospolitej i wejmutki), jest z nim w jakimś rodzaju symbiozy, czy też może związku pasożytniczego.
+
+Czerwona Lista [125 ] — V–narażony na wymarcie
 
 
 ---

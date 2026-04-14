@@ -1,4 +1,4 @@
-#psilocybe_semilanceata 
+#psilocybe_semilanceata
 #no_sources: 2
 
 ---

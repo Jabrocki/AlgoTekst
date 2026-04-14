@@ -1,5 +1,5 @@
-#russula_integra 
-#no_sources: 2
+#russula_integra
+#no_sources: 3
 
 ---
 latin_name: Russula integra
@@ -36,6 +36,23 @@ Gołąbek słodkawy jest grzybem jadalnym.
 
 ## Zastosowanie
 Gołąbek słodkawy może być stosowany jako dodatek do wielu potraw ze względu na swój łagodny smak.
+
+
+---
+latin_name: Russula integra
+polish_name: Gołąbek słodkawy
+source: https://grzyby.pl/gatunki/Russula_polychroma.htm
+---
+
+# Gołąbek słodkawy
+
+## Owocnik
+
+**Kapelusz** czekoladowoczerwony, żółtobrązowy, zwykle z oliwkowymi plamami , 3-12cm średnicy. **Trzon** **biały** . Barwa wysypu zarodników żółta.
+
+## Występowanie
+
+Górskie lasy iglaste na glebach wapiennych.
 
 
 ---

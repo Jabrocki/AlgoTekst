@@ -1,4 +1,4 @@
-#gymnopus_dryophilus 
+#gymnopus_dryophilus
 #no_sources: 2
 
 ---

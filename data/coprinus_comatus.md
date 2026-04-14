@@ -1,4 +1,4 @@
-#coprinus_comatus 
+#coprinus_comatus
 #no_sources: 3
 
 ---

@@ -1,4 +1,4 @@
-#hygrophorus_eburneus 
+#hygrophorus_eburneus
 #no_sources: 3
 
 ---

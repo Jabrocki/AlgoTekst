@@ -1,4 +1,4 @@
-#russula_adusta 
+#russula_adusta
 #no_sources: 3
 
 ---

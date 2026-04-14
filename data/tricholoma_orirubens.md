@@ -1,5 +1,5 @@
-#tricholoma_orirubens 
-#no_sources: 2
+#tricholoma_orirubens
+#no_sources: 3
 
 ---
 latin_name: Tricholoma orirubens
@@ -40,6 +40,25 @@ Gąska czerwieniejąca jest jadalna, a jak na gąskę całkiem smaczna. Nie powi
 
 ## Zastosowanie
 Gąska czerwieniejąca jest grzybem jadalnym. Lepiej jednak jej nie zbierać w sytuacji, gdy słabo zna się grzyby blaszkowe inne niż pieczarki i mleczaje .
+
+
+---
+latin_name: Tricholoma orirubens
+polish_name: Gąska czerwieniejąca
+source: https://grzyby.pl/gatunki/Tricholoma_orirubens.htm
+---
+
+# Gąska czerwieniejąca
+
+## Występowanie, ekologia
+
+W lasach liściastych, pod bukami i dębami, z preferencją dla gleb wapiennych; jesienią.
+
+Czerwona Lista [125 ] — V–narażony na wymarcie
+
+## Jadalne czy trujące? 🟢
+
+Jadalna. [105 ]
 
 
 ---

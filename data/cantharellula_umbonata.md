@@ -1,4 +1,4 @@
-#cantharellula_umbonata 
+#cantharellula_umbonata
 #no_sources: 2
 
 ---

@@ -1,5 +1,18 @@
-#anomoloma_myceliosum 
-#no_sources: 1
+#anomoloma_myceliosum
+#no_sources: 2
+
+---
+latin_name: Anomoloma myceliosum
+polish_name: Woszczyneczka postrzępiona
+source: https://grzyby.pl/gatunki/Anomoloma_myceliosum.htm
+---
+
+# Woszczyneczka postrzępiona
+
+## Występowanie, ekologia
+
+Na martwym drewnie iglastym; wywołuje białą zgniliznę drewna .
+
 
 ---
 latin_name: Anomoloma myceliosum

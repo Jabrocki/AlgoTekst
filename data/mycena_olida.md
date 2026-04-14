@@ -1,4 +1,4 @@
-#mycena_olida 
+#mycena_olida
 #no_sources: 1
 
 ---

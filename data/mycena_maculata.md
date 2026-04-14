@@ -1,4 +1,4 @@
-#mycena_maculata 
+#mycena_maculata
 #no_sources: 2
 
 ---

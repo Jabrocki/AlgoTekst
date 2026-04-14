@@ -1,4 +1,4 @@
-#tricholoma_equestre 
+#tricholoma_equestre
 #no_sources: 3
 
 ---

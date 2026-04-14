@@ -1,4 +1,4 @@
-#thelephora_terrestris 
+#thelephora_terrestris
 #no_sources: 2
 
 ---

@@ -1,4 +1,4 @@
-#lycoperdon_mammiforme 
+#lycoperdon_mammiforme
 #no_sources: 2
 
 ---

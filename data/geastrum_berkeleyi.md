@@ -1,4 +1,4 @@
-#geastrum_berkeleyi 
+#geastrum_berkeleyi
 #no_sources: 2
 
 ---

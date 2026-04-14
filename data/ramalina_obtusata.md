@@ -1,5 +1,14 @@
-#ramalina_obtusata 
-#no_sources: 1
+#ramalina_obtusata
+#no_sources: 2
+
+---
+latin_name: Ramalina obtusata
+polish_name: Odnożyca tępa
+source: https://grzyby.pl/gatunki/Ramalina_obtusata.htm
+---
+
+# Odnożyca tępa
+
 
 ---
 latin_name: Ramalina obtusata

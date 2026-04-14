@@ -1,5 +1,14 @@
-#physconia_distorta 
-#no_sources: 1
+#physconia_distorta
+#no_sources: 2
+
+---
+latin_name: Physconia distorta
+polish_name: Soreniec opylony
+source: https://grzyby.pl/gatunki/Physconia_distorta.htm
+---
+
+# Soreniec opylony
+
 
 ---
 latin_name: Physconia distorta

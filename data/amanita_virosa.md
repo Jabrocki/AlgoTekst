@@ -1,4 +1,4 @@
-#amanita_virosa 
+#amanita_virosa
 #no_sources: 3
 
 ---

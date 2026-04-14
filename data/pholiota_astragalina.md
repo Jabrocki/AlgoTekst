@@ -1,4 +1,4 @@
-#pholiota_astragalina 
+#pholiota_astragalina
 #no_sources: 1
 
 ---

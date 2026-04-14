@@ -1,5 +1,5 @@
-#tricholoma_pessundatum 
-#no_sources: 2
+#tricholoma_pessundatum
+#no_sources: 3
 
 ---
 latin_name: Tricholoma pessundatum
@@ -42,6 +42,25 @@ Gąska kroplistobrzega, jak przystało na wzorcową członkinie podsekcji Pessun
 W Europie , w tym Polsce gąska kroplistobrzega praktycznie nie posiada obecnie znanych zastosowań. W przeszłości jednak był to dość często badany gatunek grzyba mikoryzowego. Obserwowano na nim wpływ pestycydów stosowanych w leśnictwie na całość ekosystemu , w tym grzyby mikoryzowe wchodzące w symbiozę z ważnymi gospodarczo drzewami jak sosny i świerki. Oznaczano też zawartość witamin w tej gąsce.
 
 Podobna bywa jadana na Dalekim Wschodzie. Być może wymaga jakiejś szczególnej form obróbki? A może informacje o jej spożywaniu są błędne? Wynikają z mylenia jej z podobnymi morfologicznie i ekologicznie, ale jadalnymi i smacznymi gatunkami gąsek ?
+
+
+---
+latin_name: Tricholoma pessundatum
+polish_name: Gąska kroplistobrzega
+source: https://grzyby.pl/gatunki/Tricholoma_pessundatum.htm
+---
+
+# Gąska kroplistobrzega
+
+## Występowanie, ekologia
+
+W lasach iglastych, na ziemi, pod sosnami.
+
+Czerwona Lista [125 ] — R–rzadki - potencjalnie zagrożony wymarciem
+
+## Jadalne czy trujące? 🔴
+
+Trująca, powoduje zaburzenia żołądkowo-jelitowe. [134 ]
 
 
 ---

@@ -1,4 +1,4 @@
-#rhodocollybia_butyracea 
+#rhodocollybia_butyracea
 #no_sources: 3
 
 ---

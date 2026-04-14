@@ -1,5 +1,14 @@
-#parmelia_submontana 
-#no_sources: 1
+#parmelia_submontana
+#no_sources: 2
+
+---
+latin_name: Parmelia submontana
+polish_name: Tarczownica pogięta
+source: https://grzyby.pl/gatunki/Parmelia_submontana.htm
+---
+
+# Tarczownica pogięta
+
 
 ---
 latin_name: Parmelia submontana

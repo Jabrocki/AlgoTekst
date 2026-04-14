@@ -1,4 +1,4 @@
-#tricholoma_scalpturatum 
+#tricholoma_scalpturatum
 #no_sources: 3
 
 ---

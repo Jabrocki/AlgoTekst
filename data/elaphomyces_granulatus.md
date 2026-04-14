@@ -1,4 +1,4 @@
-#elaphomyces_granulatus 
+#elaphomyces_granulatus
 #no_sources: 1
 
 ---

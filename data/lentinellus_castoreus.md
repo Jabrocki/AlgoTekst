@@ -1,5 +1,22 @@
-#lentinellus_castoreus 
-#no_sources: 1
+#lentinellus_castoreus
+#no_sources: 2
+
+---
+latin_name: Lentinellus castoreus
+polish_name: Twardówka kasztanowa
+source: https://grzyby.pl/gatunki/Lentinellus_castoreus.htm
+---
+
+# Twardówka kasztanowa
+
+## Owocnik
+
+**Kapelusz** **Trzon**
+
+## Zarodniki
+
+Wysyp zarodników
+
 
 ---
 latin_name: Lentinellus castoreus

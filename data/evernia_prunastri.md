@@ -1,5 +1,18 @@
-#evernia_prunastri 
-#no_sources: 1
+#evernia_prunastri
+#no_sources: 2
+
+---
+latin_name: Evernia prunastri
+polish_name: Mąkla tarniowa
+source: https://grzyby.pl/gatunki/Evernia_prunastri.htm
+---
+
+# Mąkla tarniowa
+
+## Cechy charakterystyczne
+
+Standardowe reakcje porostowe : kora: K- (rzadko K+ żółta), KC+ żółta (rzadko KC-), C-, P-, UV-; miąższ: K- lub K+ żółty, KC-, C-, P0, UV- lub UV+ bladoniebieski.
+
 
 ---
 latin_name: Evernia prunastri

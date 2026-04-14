@@ -1,4 +1,4 @@
-#peziza_praetervisa 
+#peziza_praetervisa
 #no_sources: 2
 
 ---

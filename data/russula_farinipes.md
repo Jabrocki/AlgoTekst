@@ -1,5 +1,18 @@
-#russula_farinipes 
-#no_sources: 1
+#russula_farinipes
+#no_sources: 2
+
+---
+latin_name: Russula farinipes
+polish_name: Gołąbek mączysty
+source: https://grzyby.pl/gatunki/Russula_farinipes.htm
+---
+
+# Gołąbek mączysty
+
+## Występowanie, ekologia
+
+W lasach liściastych i mieszanych, w miejscach trawiastych, na ziemi.
+
 
 ---
 latin_name: Russula farinipes

@@ -1,4 +1,4 @@
-#geastrum_minimum 
+#geastrum_minimum
 #no_sources: 2
 
 ---

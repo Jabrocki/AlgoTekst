@@ -1,5 +1,14 @@
-#collema_flaccidum 
-#no_sources: 1
+#collema_flaccidum
+#no_sources: 2
+
+---
+latin_name: Collema flaccidum
+polish_name: Galaretnica sztywna
+source: https://grzyby.pl/gatunki/Collema_flaccidum.htm
+---
+
+# Galaretnica sztywna
+
 
 ---
 latin_name: Collema flaccidum

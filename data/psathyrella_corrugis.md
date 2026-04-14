@@ -1,4 +1,4 @@
-#psathyrella_corrugis 
+#psathyrella_corrugis
 #no_sources: 2
 
 ---

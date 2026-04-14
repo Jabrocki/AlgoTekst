@@ -1,4 +1,4 @@
-#lactifluus_glaucescens 
+#lactifluus_glaucescens
 #no_sources: 2
 
 ---

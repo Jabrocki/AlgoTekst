@@ -1,4 +1,4 @@
-#pycnoporellus_fulgens 
+#pycnoporellus_fulgens
 #no_sources: 3
 
 ---

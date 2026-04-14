@@ -1,4 +1,4 @@
-#geastrum_schmidelii 
+#geastrum_schmidelii
 #no_sources: 1
 
 ---

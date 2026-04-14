@@ -1,5 +1,14 @@
-#phaeophyscia_ciliata 
-#no_sources: 1
+#phaeophyscia_ciliata
+#no_sources: 2
+
+---
+latin_name: Phaeophyscia ciliata
+polish_name: Orzast orzęsiony
+source: https://grzyby.pl/gatunki/Phaeophyscia_ciliata.htm
+---
+
+# Orzast orzęsiony
+
 
 ---
 latin_name: Phaeophyscia ciliata

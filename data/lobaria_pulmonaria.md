@@ -1,5 +1,14 @@
-#lobaria_pulmonaria 
-#no_sources: 1
+#lobaria_pulmonaria
+#no_sources: 2
+
+---
+latin_name: Lobaria pulmonaria
+polish_name: Granicznik płucnik
+source: https://grzyby.pl/gatunki/Lobaria_pulmonaria.htm
+---
+
+# Granicznik płucnik
+
 
 ---
 latin_name: Lobaria pulmonaria

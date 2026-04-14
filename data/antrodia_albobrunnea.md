@@ -1,4 +1,4 @@
-#antrodia_albobrunnea 
+#antrodia_albobrunnea
 #no_sources: 1
 
 ---

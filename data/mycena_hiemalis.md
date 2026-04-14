@@ -1,4 +1,4 @@
-#mycena_hiemalis 
+#mycena_hiemalis
 #no_sources: 1
 
 ---

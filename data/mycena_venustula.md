@@ -1,5 +1,18 @@
-#mycena_venustula 
-#no_sources: 1
+#mycena_venustula
+#no_sources: 2
+
+---
+latin_name: Mycena venustula
+polish_name: Grzybówka różowoostrzowa
+source: https://grzyby.pl/gatunki/Mycena_venustula.htm
+---
+
+# Grzybówka różowoostrzowa
+
+## Występowanie, ekologia
+
+Na rozkładających się liściach paproci Polystichium thelypteris .
+
 
 ---
 latin_name: Mycena venustula

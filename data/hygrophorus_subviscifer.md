@@ -1,5 +1,22 @@
-#hygrophorus_subviscifer 
-#no_sources: 1
+#hygrophorus_subviscifer
+#no_sources: 2
+
+---
+latin_name: Hygrophorus subviscifer
+polish_name: Wodnicha biaława
+source: https://grzyby.pl/gatunki/Hygrophorus_subviscifer.htm
+---
+
+# Wodnicha biaława
+
+## Występowanie, ekologia
+
+Pod świerkami; na ziemi.
+
+## Jadalne czy trujące? 🟢
+
+Jadalna. [105 ]
+
 
 ---
 latin_name: Hygrophorus subviscifer

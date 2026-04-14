@@ -1,5 +1,14 @@
-#leccinum_albostipitatum 
-#no_sources: 1
+#leccinum_albostipitatum
+#no_sources: 2
+
+---
+latin_name: Leccinum albostipitatum
+polish_name: Koźlarz białotrzonowy
+source: https://grzyby.pl/gatunki/Leccinum_rufum.htm
+---
+
+# Koźlarz białotrzonowy
+
 
 ---
 latin_name: Leccinum albostipitatum

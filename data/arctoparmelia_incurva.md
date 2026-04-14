@@ -1,5 +1,14 @@
-#arctoparmelia_incurva 
-#no_sources: 1
+#arctoparmelia_incurva
+#no_sources: 2
+
+---
+latin_name: Arctoparmelia incurva
+polish_name: Tapetka pokrzywiona
+source: https://grzyby.pl/gatunki/Arctoparmelia_incurva.htm
+---
+
+# Tapetka pokrzywiona
+
 
 ---
 latin_name: Arctoparmelia incurva

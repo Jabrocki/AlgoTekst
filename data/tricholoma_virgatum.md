@@ -1,4 +1,4 @@
-#tricholoma_virgatum 
+#tricholoma_virgatum
 #no_sources: 3
 
 ---

@@ -1,5 +1,5 @@
-#phellinus_tremulae 
-#no_sources: 1
+#phellinus_tremulae
+#no_sources: 2
 
 ---
 latin_name: Phellinus tremulae
@@ -36,3 +36,18 @@ Czyreń osikowy rozwijając się na drewnie topoli osiki powoduje białą zgnili
 
 ## Właściwości
 Czyreń osikowy wytwarza substancje , które mają działanie antybakteryjne, co może być stosowane w medycynie.
+
+
+---
+latin_name: Phellinus tremulae
+polish_name: Czyreń osikowy
+source: https://grzyby.pl/gatunki/Phellinus_tremulae.htm
+---
+
+# Czyreń osikowy
+
+## Występowanie, ekologia
+
+W lasach o charakterze zbliżonym do pierwotnego, na żywych i martwych pniach topoli osiki ( Populus tremula ) .
+
+Czerwona Lista [125 ] — E–wymierający - krytycznie zagrożony

@@ -1,4 +1,4 @@
-#lepista_sordida 
+#lepista_sordida
 #no_sources: 3
 
 ---

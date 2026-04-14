@@ -1,5 +1,14 @@
-#usnea_longissima 
-#no_sources: 1
+#usnea_longissima
+#no_sources: 2
+
+---
+latin_name: Usnea longissima
+polish_name: Brodaczka najdłuższa
+source: https://grzyby.pl/gatunki/Usnea_longissima.htm
+---
+
+# Brodaczka najdłuższa
+
 
 ---
 latin_name: Usnea longissima

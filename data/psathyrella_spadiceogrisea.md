@@ -1,4 +1,4 @@
-#psathyrella_spadiceogrisea 
+#psathyrella_spadiceogrisea
 #no_sources: 2
 
 ---

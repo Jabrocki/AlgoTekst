@@ -1,4 +1,4 @@
-#armillaria 
+#armillaria
 #no_sources: 1
 
 ---

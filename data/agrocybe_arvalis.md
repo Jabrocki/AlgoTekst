@@ -1,5 +1,18 @@
-#agrocybe_arvalis 
-#no_sources: 1
+#agrocybe_arvalis
+#no_sources: 2
+
+---
+latin_name: Agrocybe arvalis
+polish_name: Polówka korzeniasta
+source: https://grzyby.pl/gatunki/Agrocybe_arvalis.htm
+---
+
+# Polówka korzeniasta
+
+## Występowanie, ekologia
+
+Na łąkach, pastwiskach, polach uprawnych (z okopowymi), ogrodach, w lasach; na ziemi lub pomiędzy kawałkami drewna; czerwiec-listopad.
+
 
 ---
 latin_name: Agrocybe arvalis

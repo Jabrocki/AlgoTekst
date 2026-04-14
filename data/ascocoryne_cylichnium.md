@@ -1,5 +1,18 @@
-#ascocoryne_cylichnium 
-#no_sources: 1
+#ascocoryne_cylichnium
+#no_sources: 2
+
+---
+latin_name: Ascocoryne cylichnium
+polish_name: Galaretnica pucharkowata
+source: https://grzyby.pl/gatunki/Ascocoryne_cylichnium.htm
+---
+
+# Galaretnica pucharkowata
+
+## Występowanie, ekologia
+
+Na drewnie drzew liściastych.
+
 
 ---
 latin_name: Ascocoryne cylichnium

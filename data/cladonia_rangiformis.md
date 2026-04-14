@@ -1,5 +1,14 @@
-#cladonia_rangiformis 
-#no_sources: 1
+#cladonia_rangiformis
+#no_sources: 2
+
+---
+latin_name: Cladonia rangiformis
+polish_name: Chrobotek kolczasty
+source: https://grzyby.pl/gatunki/Cladonia_rangiformis.htm
+---
+
+# Chrobotek kolczasty
+
 
 ---
 latin_name: Cladonia rangiformis

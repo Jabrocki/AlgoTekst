@@ -1,5 +1,14 @@
-#menegazzia_terebrata 
-#no_sources: 1
+#menegazzia_terebrata
+#no_sources: 2
+
+---
+latin_name: Menegazzia terebrata
+polish_name: Tarczynka dziurkowana
+source: https://grzyby.pl/gatunki/Menegazzia_terebrata.htm
+---
+
+# Tarczynka dziurkowana
+
 
 ---
 latin_name: Menegazzia terebrata

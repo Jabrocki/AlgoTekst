@@ -1,5 +1,14 @@
-#cladonia_deformis 
-#no_sources: 1
+#cladonia_deformis
+#no_sources: 2
+
+---
+latin_name: Cladonia deformis
+polish_name: Chrobotek niekształtny
+source: https://grzyby.pl/gatunki/Cladonia_deformis.htm
+---
+
+# Chrobotek niekształtny
+
 
 ---
 latin_name: Cladonia deformis

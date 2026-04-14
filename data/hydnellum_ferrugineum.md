@@ -1,5 +1,5 @@
-#hydnellum_ferrugineum 
-#no_sources: 2
+#hydnellum_ferrugineum
+#no_sources: 3
 
 ---
 latin_name: Hydnellum ferrugineum
@@ -38,6 +38,21 @@ Kolczakówka kasztanowata jest grzybem niejadalnym . Skrajnie rzadka i prawem ch
 
 ## Zastosowanie
 Dawniej podobnie jak pozostałe kolczakówki, kolczakówka kasztanowata używana była do barwienia tkanin . Zależnie od obróbki można było z tejże kolczakówki uzyskać barwniki żółte bądź fioletowe.
+
+
+---
+latin_name: Hydnellum ferrugineum
+polish_name: Kolczakówka kasztanowata
+source: https://grzyby.pl/gatunki/Hydnellum_ferrugineum.htm
+---
+
+# Kolczakówka kasztanowata
+
+## Występowanie, ekologia
+
+W lasach różnego typu, na ziemi, wśród ściółki; sierpień-październik.
+
+Czerwona Lista [125 ] — E–wymierający - krytycznie zagrożony
 
 
 ---

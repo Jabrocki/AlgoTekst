@@ -1,5 +1,14 @@
-#mycena_cyanorhiza 
-#no_sources: 1
+#mycena_cyanorhiza
+#no_sources: 2
+
+---
+latin_name: Mycena cyanorhiza
+polish_name: Grzybówka turkusowostopa
+source: https://grzyby.pl/gatunki/Mycena_cyanorhiza.htm
+---
+
+# Grzybówka turkusowostopa
+
 
 ---
 latin_name: Mycena cyanorhiza

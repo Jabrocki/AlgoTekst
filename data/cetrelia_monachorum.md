@@ -1,5 +1,14 @@
-#cetrelia_monachorum 
-#no_sources: 1
+#cetrelia_monachorum
+#no_sources: 2
+
+---
+latin_name: Cetrelia monachorum
+polish_name: Nibypłucnik mnisi
+source: https://grzyby.pl/gatunki/Cetrelia_monachorum.htm
+---
+
+# Nibypłucnik mnisi
+
 
 ---
 latin_name: Cetrelia monachorum

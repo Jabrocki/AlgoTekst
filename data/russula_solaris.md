@@ -1,4 +1,4 @@
-#russula_solaris 
+#russula_solaris
 #no_sources: 3
 
 ---

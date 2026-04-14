@@ -1,5 +1,5 @@
-#tuber_mesentericum 
-#no_sources: 2
+#tuber_mesentericum
+#no_sources: 3
 
 ---
 latin_name: Tuber mesentericum
@@ -34,6 +34,15 @@ Trufla wgłębiona ma dużą zawartość ergosterolu, która jest pochodną wita
 
 ## Zastosowanie
 Trufla wgłębiona wykorzystywana jest w celach konsumpcyjnych. Nadaje się, jako dodatek do potraw mięsnych , rybnych . Ze względu na bardzo dużą trudność w ich odnalezieniu charakteryzują się wysoką ceną. Do wyszukiwania owocników wykorzystuje się często specjalne rasy psów .
+
+
+---
+latin_name: Tuber mesentericum
+polish_name: Trufla wgłębiona
+source: https://grzyby.pl/gatunki/Tuber_mesentericum.htm
+---
+
+# Trufla wgłębiona
 
 
 ---

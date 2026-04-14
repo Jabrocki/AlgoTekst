@@ -1,5 +1,5 @@
-#tricholoma_atrosquamosum 
-#no_sources: 3
+#tricholoma_atrosquamosum
+#no_sources: 4
 
 ---
 latin_name: Tricholoma atrosquamosum
@@ -34,6 +34,19 @@ Wiele źródeł ze względu na brak pełnych informacji uznaje gąskę czarnołu
 
 ## Zastosowanie
 Gąska czarnołuskowa nie posiada żadnego praktycznego zastosowania.
+
+
+---
+latin_name: Tricholoma atrosquamosum
+polish_name: Gąska czarnołuskowa
+source: https://grzyby.pl/gatunki/Tricholoma_atrosquamosum.htm
+---
+
+# Gąska czarnołuskowa
+
+## Występowanie, ekologia
+
+W lasach liściastych na glebach wapiennych.
 
 
 ---

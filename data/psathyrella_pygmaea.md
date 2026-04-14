@@ -1,0 +1,50 @@
+#psathyrella_pygmaea
+#no_sources: 2
+
+---
+latin_name: Psathyrella pygmaea
+polish_name: Kruchaweczka najmniejsza
+source: https://grzyby.pl/gatunki/Psathyrella_pygmaea.htm
+---
+
+# Kruchaweczka najmniejsza
+
+## Występowanie, ekologia
+
+W lasach, na pniakach drzew liściastych (np. buka) i w ich pobliżu; jesienią.
+
+
+---
+latin_name: Psathyrella pygmaea
+source: https://www.nagrzyby.pl/atlas/5741
+---
+
+# Psathyrella pygmaea
+# kruchaweczka najmniejsza
+
+## Podstawowe informacje
+Jadalność:
+brak zastosowania kulinarnego
+Typ grzyba:
+blaszki
+
+## Opis
+Podobne gatunki
+czernidłaczek gromadny
+
+## Kapelusz
+Brzeg kapelusza:
+prążkowany
+
+## Trzon
+Typ trzonu:
+centralny
+
+## Występowanie
+Podłoże:
+drewno
+Sposób odżywiania:
+saprotrof
+Pora występowania:
+lato,
+jesień

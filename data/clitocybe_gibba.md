@@ -1,4 +1,4 @@
-#clitocybe_gibba 
+#clitocybe_gibba
 #no_sources: 1
 
 ---

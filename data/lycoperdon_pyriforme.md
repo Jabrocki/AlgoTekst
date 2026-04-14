@@ -1,4 +1,4 @@
-#lycoperdon_pyriforme 
+#lycoperdon_pyriforme
 #no_sources: 2
 
 ---

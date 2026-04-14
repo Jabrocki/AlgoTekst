@@ -1,4 +1,4 @@
-#clitocybe_odora 
+#clitocybe_odora
 #no_sources: 2
 
 ---

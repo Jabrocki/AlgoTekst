@@ -1,5 +1,18 @@
-#hygrophorus_fagi 
-#no_sources: 1
+#hygrophorus_fagi
+#no_sources: 2
+
+---
+latin_name: Hygrophorus fagi
+polish_name: Wodnicha bukowa
+source: https://grzyby.pl/gatunki/Hygrophorus_fagi.htm
+---
+
+# Wodnicha bukowa
+
+## Występowanie, ekologia
+
+Brak informacji o publikowanych stanowiskach w Polsce. [2025 r.] [221 ]
+
 
 ---
 latin_name: Hygrophorus fagi

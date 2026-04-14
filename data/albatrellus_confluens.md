@@ -1,4 +1,4 @@
-#albatrellus_confluens 
+#albatrellus_confluens
 #no_sources: 2
 
 ---

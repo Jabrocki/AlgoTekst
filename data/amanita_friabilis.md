@@ -1,4 +1,4 @@
-#amanita_friabilis 
+#amanita_friabilis
 #no_sources: 2
 
 ---

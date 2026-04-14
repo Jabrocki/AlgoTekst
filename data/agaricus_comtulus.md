@@ -1,5 +1,5 @@
-#agaricus_comtulus 
-#no_sources: 2
+#agaricus_comtulus
+#no_sources: 3
 
 ---
 latin_name: Agaricus comtulus
@@ -38,6 +38,21 @@ Pieczarka malutka jest smacznym grzybem jadalnym. Oprócz dużej zawartości wod
 
 ## Zastosowanie
 W kuchni pieczarka malutka może być wykorzystywana w taki sam sposób jak wszystkie inne grzyby z rodziny pieczarkowatych . Doskonale nadaje się do duszenia, gotowania, smażenia i pieczenia. Wraz z innymi pieczarkami może stanowić główny składnik sosów i zup . Dobrze też komponuje się z daniami mięsnymi i makaronami .
+
+
+---
+latin_name: Agaricus comtulus
+polish_name: Pieczarka malutka
+source: https://grzyby.pl/gatunki/Agaricus_comtulus.htm
+---
+
+# Pieczarka malutka
+
+## Występowanie, ekologia
+
+Na łąkach i w lasach, na brzegach lasów; na ziemi; sierpień-październik.
+
+Czerwona Lista [125 ] — R–rzadki - potencjalnie zagrożony wymarciem
 
 
 ---

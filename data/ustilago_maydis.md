@@ -1,5 +1,14 @@
-#ustilago_maydis 
-#no_sources: 1
+#ustilago_maydis
+#no_sources: 2
+
+---
+latin_name: Ustilago maydis
+polish_name: Głownia kukurydzy
+source: https://grzyby.pl/gatunki/Ustilago_maydis.htm
+---
+
+# Głownia kukurydzy
+
 
 ---
 latin_name: Ustilago maydis

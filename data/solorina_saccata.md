@@ -1,5 +1,14 @@
-#solorina_saccata 
-#no_sources: 1
+#solorina_saccata
+#no_sources: 2
+
+---
+latin_name: Solorina saccata
+polish_name: Dołczanka torbiasta
+source: https://grzyby.pl/gatunki/Solorina_saccata.htm
+---
+
+# Dołczanka torbiasta
+
 
 ---
 latin_name: Solorina saccata

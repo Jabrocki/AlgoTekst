@@ -1,5 +1,18 @@
-#lactarius_flexuosus 
-#no_sources: 1
+#lactarius_flexuosus
+#no_sources: 2
+
+---
+latin_name: Lactarius flexuosus
+polish_name: Mleczaj wygięty
+source: https://grzyby.pl/gatunki/Lactarius_flexuosus.htm
+---
+
+# Mleczaj wygięty
+
+## Występowanie, ekologia
+
+W lasach różnego typu, pod brzozami i dębami, przeważnie w trawach i mchach; sierpień-październik.
+
 
 ---
 latin_name: Lactarius flexuosus

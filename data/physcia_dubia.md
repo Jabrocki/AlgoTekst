@@ -1,5 +1,14 @@
-#physcia_dubia 
-#no_sources: 1
+#physcia_dubia
+#no_sources: 2
+
+---
+latin_name: Physcia dubia
+polish_name: Obrost zmienny
+source: https://grzyby.pl/gatunki/Physcia_dubia.htm
+---
+
+# Obrost zmienny
+
 
 ---
 latin_name: Physcia dubia

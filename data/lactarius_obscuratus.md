@@ -1,5 +1,18 @@
-#lactarius_obscuratus 
-#no_sources: 1
+#lactarius_obscuratus
+#no_sources: 2
+
+---
+latin_name: Lactarius obscuratus
+polish_name: Mleczaj olszowy
+source: https://grzyby.pl/gatunki/Lactarius_obscuratus.htm
+---
+
+# Mleczaj olszowy
+
+## Występowanie, ekologia
+
+Pod olchami; czerwiec-listopad.
+
 
 ---
 latin_name: Lactarius obscuratus

@@ -1,5 +1,14 @@
-#cetrelia_olivetorum 
-#no_sources: 1
+#cetrelia_olivetorum
+#no_sources: 2
+
+---
+latin_name: Cetrelia olivetorum
+polish_name: Nibypłucnik wątpliwy
+source: https://grzyby.pl/gatunki/Cetrelia_olivetorum.htm
+---
+
+# Nibypłucnik wątpliwy
+
 
 ---
 latin_name: Cetrelia olivetorum

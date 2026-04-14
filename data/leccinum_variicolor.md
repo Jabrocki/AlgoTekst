@@ -1,4 +1,4 @@
-#leccinum_variicolor 
+#leccinum_variicolor
 #no_sources: 3
 
 ---

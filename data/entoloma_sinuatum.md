@@ -1,4 +1,4 @@
-#entoloma_sinuatum 
+#entoloma_sinuatum
 #no_sources: 3
 
 ---

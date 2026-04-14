@@ -1,5 +1,5 @@
-#cyathus_olla 
-#no_sources: 2
+#cyathus_olla
+#no_sources: 3
 
 ---
 latin_name: Cyathus olla
@@ -46,6 +46,19 @@ Kubek ołowianoszary jest niejadalny. W Kanadzie bywa nieco szkodliwy dla rzepak
 
 ## Zastosowanie
 Kubka ołowianoszarego próbuje się wykorzystać do ochrony rzepaku przed jeszcze groźniejszymi pasożytami, zwłaszcza czarną nóżką (choroba bakteryjna) i czarną plamistością ( choroba grzybowa). Ochrona polegałaby na tak szybkim rozkładaniu resztek pożniwnych rzepaku by tamte patogeny nie mogły zakażać kolejnych pokoleń rzepaku, sianych przez rolnika. Poza tym Cyathus olla jako wszędobylski, niewybredny saprofit mógłby posłużyć do trawienia celulozy w zielonej biotechnologii na przykład w przemyśle papierniczym.
+
+
+---
+latin_name: Cyathus olla
+polish_name: Kubek ołowianoszary
+source: https://grzyby.pl/gatunki/Cyathus_olla.htm
+---
+
+# Kubek ołowianoszary
+
+## Występowanie
+
+Częsty. Na bardzo różnych resztkach roślinnych lub na ziemi, zwykle poza lasami, na łąkach, pastwiskach, w ogrodach.
 
 
 ---

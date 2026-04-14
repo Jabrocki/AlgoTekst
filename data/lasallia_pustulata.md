@@ -1,5 +1,14 @@
-#lasallia_pustulata 
-#no_sources: 1
+#lasallia_pustulata
+#no_sources: 2
+
+---
+latin_name: Lasallia pustulata
+polish_name: Pęcherzyca nadobna
+source: https://grzyby.pl/gatunki/Lasallia_pustulata.htm
+---
+
+# Pęcherzyca nadobna
+
 
 ---
 latin_name: Lasallia pustulata

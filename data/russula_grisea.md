@@ -1,4 +1,4 @@
-#russula_grisea 
+#russula_grisea
 #no_sources: 3
 
 ---

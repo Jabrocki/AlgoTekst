@@ -1,4 +1,4 @@
-#cladonia_digitata 
+#cladonia_digitata
 #no_sources: 1
 
 ---

@@ -1,4 +1,4 @@
-#mycena_polyadelpha 
+#mycena_polyadelpha
 #no_sources: 2
 
 ---

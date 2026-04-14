@@ -1,4 +1,4 @@
-#lentinula_edodes 
+#lentinula_edodes
 #no_sources: 3
 
 ---

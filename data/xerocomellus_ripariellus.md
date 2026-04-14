@@ -1,5 +1,14 @@
-#xerocomellus_ripariellus 
-#no_sources: 1
+#xerocomellus_ripariellus
+#no_sources: 2
+
+---
+latin_name: Xerocomellus ripariellus
+polish_name: Suchogrzybek przybrzeżny
+source: https://grzyby.pl/gatunki/Xerocomus_ripariellus.htm
+---
+
+# Suchogrzybek przybrzeżny
+
 
 ---
 latin_name: Xerocomellus ripariellus

@@ -1,5 +1,5 @@
-#russula_badia 
-#no_sources: 2
+#russula_badia
+#no_sources: 3
 
 ---
 latin_name: Russula badia
@@ -40,6 +40,23 @@ Gołąbek brunatny nie posiada żadnych właściwości ze względu na to, że je
 
 ## Zastosowanie
 Gołąbek brunatny nie ma żadnego zastosowania, ponieważ ma bardzo gorzki smak, a po spożyciu przez długi czas w ustach utrzymuje się jego palący smak.
+
+
+---
+latin_name: Russula badia
+polish_name: Gołąbek brunatny
+source: https://grzyby.pl/gatunki/Russula_badia.htm
+---
+
+# Gołąbek brunatny
+
+## Jadalne czy trujące? 🟡🟢
+
+Surowy trujący. [105 ]
+
+## Występowanie, ekologia
+
+W lasach różnego typu, pod drzewami iglastymi; czerwiec-listopad.
 
 
 ---

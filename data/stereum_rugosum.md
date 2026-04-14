@@ -1,5 +1,5 @@
-#stereum_rugosum 
-#no_sources: 2
+#stereum_rugosum
+#no_sources: 3
 
 ---
 latin_name: Stereum rugosum
@@ -38,6 +38,19 @@ Skórnik pomarszczony jako pasożyt atakujący żywe drzewa i krzewy, prowadząc
 
 ## Zastosowanie
 Współcześnie brak zastosowań dla skórnika pomarszczonego. W przeciwieństwie do wielu innych hub, wykorzystywanych w tradycyjnym, a nawet akademickim lecznictwie, jadanych jako potrawa czy noszonych jako ozdoba, nie jest obecnie wykorzystywany przez człowieka .
+
+
+---
+latin_name: Stereum rugosum
+polish_name: Skórnik pomarszczony
+source: https://grzyby.pl/gatunki/Stereum_rugosum.htm
+---
+
+# Skórnik pomarszczony
+
+## Występowanie, ekologia
+
+Na pniakach oraz żywych i martwych pniach drzew i krzewów liściastych; owocniki w przeciągu całego roku.
 
 
 ---

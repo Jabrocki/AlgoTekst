@@ -1,4 +1,4 @@
-#coprinopsis_atramentaria 
+#coprinopsis_atramentaria
 #no_sources: 3
 
 ---

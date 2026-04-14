@@ -1,4 +1,4 @@
-#amanita_excelsa 
+#amanita_excelsa
 #no_sources: 3
 
 ---

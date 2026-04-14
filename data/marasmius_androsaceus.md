@@ -1,4 +1,4 @@
-#marasmius_androsaceus 
+#marasmius_androsaceus
 #no_sources: 1
 
 ---

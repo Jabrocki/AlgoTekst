@@ -1,4 +1,4 @@
-#phaeolepiota_aurea 
+#phaeolepiota_aurea
 #no_sources: 3
 
 ---

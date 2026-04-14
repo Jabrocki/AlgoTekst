@@ -1,4 +1,4 @@
-#armillaria_cepistipes 
+#armillaria_cepistipes
 #no_sources: 3
 
 ---

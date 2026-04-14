@@ -1,4 +1,4 @@
-#armillaria_mellea 
+#armillaria_mellea
 #no_sources: 3
 
 ---

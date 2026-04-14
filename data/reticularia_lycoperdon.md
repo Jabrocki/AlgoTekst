@@ -1,4 +1,4 @@
-#reticularia_lycoperdon 
+#reticularia_lycoperdon
 #no_sources: 1
 
 ---

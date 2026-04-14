@@ -1,5 +1,20 @@
-#lactarius_flavidus 
-#no_sources: 1
+#lactarius_flavidus
+#no_sources: 2
+
+---
+latin_name: Lactarius flavidus
+polish_name: Mleczaj żółtokremowy
+source: https://grzyby.pl/gatunki/Lactarius_flavidus.htm
+---
+
+# Mleczaj żółtokremowy
+
+## Występowanie, ekologia
+
+W lasach liściastych; pod wierzbami, brzozami i olchami; lipiec-sierpień.
+
+Czerwona Lista [125 ] — V–narażony na wymarcie
+
 
 ---
 latin_name: Lactarius flavidus

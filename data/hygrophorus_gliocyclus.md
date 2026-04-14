@@ -1,4 +1,4 @@
-#hygrophorus_gliocyclus 
+#hygrophorus_gliocyclus
 #no_sources: 3
 
 ---

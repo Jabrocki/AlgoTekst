@@ -1,4 +1,4 @@
-#coprinellus_micaceus 
+#coprinellus_micaceus
 #no_sources: 2
 
 ---

@@ -1,4 +1,4 @@
-#thelephora_penicillata 
+#thelephora_penicillata
 #no_sources: 2
 
 ---

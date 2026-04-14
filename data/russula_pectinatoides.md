@@ -1,4 +1,4 @@
-#russula_pectinatoides 
+#russula_pectinatoides
 #no_sources: 3
 
 ---

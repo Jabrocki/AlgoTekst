@@ -1,4 +1,4 @@
-#gyromitra_esculenta 
+#gyromitra_esculenta
 #no_sources: 3
 
 ---

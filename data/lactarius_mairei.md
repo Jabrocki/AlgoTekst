@@ -1,5 +1,14 @@
-#lactarius_mairei 
-#no_sources: 1
+#lactarius_mairei
+#no_sources: 2
+
+---
+latin_name: Lactarius mairei
+polish_name: Mleczaj wełnistożółty
+source: https://grzyby.pl/gatunki/Lactarius_mairei.htm
+---
+
+# Mleczaj wełnistożółty
+
 
 ---
 latin_name: Lactarius mairei

@@ -1,5 +1,5 @@
-#ramaria_subbotrytis 
-#no_sources: 2
+#ramaria_subbotrytis
+#no_sources: 3
 
 ---
 latin_name: Ramaria subbotrytis
@@ -32,6 +32,15 @@ Koralówka łososioworóżowa to gatunek nienadający się do spożycia.
 
 ## Zastosowanie
 Koralówka łososioworóżowa to gatunek mikoryzowy , pojawiający się pod dębami, bukami i grabami.
+
+
+---
+latin_name: Ramaria subbotrytis
+polish_name: Koralówka łososioworóżowa
+source: https://grzyby.pl/gatunki/Ramaria_subbotrytis.htm
+---
+
+# Koralówka łososioworóżowa
 
 
 ---

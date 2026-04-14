@@ -1,4 +1,4 @@
-#megaspora_verrucosa 
+#megaspora_verrucosa
 #no_sources: 1
 
 ---

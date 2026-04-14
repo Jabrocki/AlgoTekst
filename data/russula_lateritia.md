@@ -1,4 +1,4 @@
-#russula_lateritia 
+#russula_lateritia
 #no_sources: 1
 
 ---

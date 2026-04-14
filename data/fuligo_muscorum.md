@@ -1,4 +1,4 @@
-#fuligo_muscorum 
+#fuligo_muscorum
 #no_sources: 1
 
 ---

@@ -1,4 +1,4 @@
-#amanita_mairei 
+#amanita_mairei
 #no_sources: 1
 
 ---

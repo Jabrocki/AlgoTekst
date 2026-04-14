@@ -1,4 +1,4 @@
-#gymnopilus_spectabilis 
+#gymnopilus_spectabilis
 #no_sources: 1
 
 ---

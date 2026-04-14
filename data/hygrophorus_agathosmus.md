@@ -1,4 +1,4 @@
-#hygrophorus_agathosmus 
+#hygrophorus_agathosmus
 #no_sources: 2
 
 ---

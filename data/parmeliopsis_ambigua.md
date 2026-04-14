@@ -1,5 +1,14 @@
-#parmeliopsis_ambigua 
-#no_sources: 1
+#parmeliopsis_ambigua
+#no_sources: 2
+
+---
+latin_name: Parmeliopsis ambigua
+polish_name: Płaskotka rozlana
+source: https://grzyby.pl/gatunki/Parmeliopsis_ambigua.htm
+---
+
+# Płaskotka rozlana
+
 
 ---
 latin_name: Parmeliopsis ambigua

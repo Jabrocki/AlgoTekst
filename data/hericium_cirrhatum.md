@@ -1,4 +1,4 @@
-#hericium_cirrhatum 
+#hericium_cirrhatum
 #no_sources: 2
 
 ---

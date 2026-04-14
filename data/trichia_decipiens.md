@@ -1,4 +1,4 @@
-#trichia_decipiens 
+#trichia_decipiens
 #no_sources: 1
 
 ---

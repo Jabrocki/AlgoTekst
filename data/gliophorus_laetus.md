@@ -1,4 +1,4 @@
-#gliophorus_laetus 
+#gliophorus_laetus
 #no_sources: 2
 
 ---

@@ -1,4 +1,4 @@
-#tricholoma_portentosum 
+#tricholoma_portentosum
 #no_sources: 3
 
 ---

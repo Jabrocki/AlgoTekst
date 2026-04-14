@@ -1,4 +1,4 @@
-#cortinarius_elegantior 
+#cortinarius_elegantior
 #no_sources: 1
 
 ---

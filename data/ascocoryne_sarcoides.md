@@ -1,4 +1,4 @@
-#ascocoryne_sarcoides 
+#ascocoryne_sarcoides
 #no_sources: 2
 
 ---

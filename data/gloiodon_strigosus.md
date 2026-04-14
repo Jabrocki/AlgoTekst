@@ -1,4 +1,4 @@
-#gloiodon_strigosus 
+#gloiodon_strigosus
 #no_sources: 1
 
 ---

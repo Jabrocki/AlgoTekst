@@ -1,5 +1,5 @@
-#amanita_caesarea 
-#no_sources: 2
+#amanita_caesarea
+#no_sources: 3
 
 ---
 latin_name: Amanita caesarea
@@ -36,6 +36,25 @@ Muchomor cesarski jest bardzo smacznym grzybem .
 
 ## Zastosowanie
 Muchomora cesarskiego wykorzystuje się na różne sposoby, w zależności od kraju występowanie. Jest chętnie stosowany w kuchni włoskiej, jak również meksykańskiej.
+
+
+---
+latin_name: Amanita caesarea
+polish_name: Muchomor cesarski
+source: https://grzyby.pl/gatunki/Amanita_caesarea.htm
+---
+
+# Muchomor cesarski
+
+## Występowanie, ekologia
+
+Ciepłolubny. W lasach liściastych z dębami; na ziemi.
+
+Czerwona Lista [125 ] — EX–wymarły lub zaginiony
+
+## Jadalne czy trujące? 🟢!
+
+Tam gdzie występuje częściej, na południu Europy, uznawany za wyborny grzyb jadalny.
 
 
 ---

@@ -1,5 +1,5 @@
-#lactarius_sanguifluus 
-#no_sources: 2
+#lactarius_sanguifluus
+#no_sources: 3
 
 ---
 latin_name: Lactarius sanguifluus
@@ -44,6 +44,25 @@ Nawet najzdrowsze i najpyszniejsze mleczaje, w tym mleczaj czerwieniający, potr
 
 ## Zastosowanie
 Mleczaj czerwieniejący, podobnie jak inne rydze (prócz modrzewiowego) wysoko ceniony za wyborny sma k oraz łatwość konserwowania.
+
+
+---
+latin_name: Lactarius sanguifluus
+polish_name: Mleczaj czerwieniejący
+source: https://grzyby.pl/gatunki/Lactarius_sanguifluus.htm
+---
+
+# Mleczaj czerwieniejący
+
+## Występowanie, ekologia
+
+W borach sosnowych i na ich obrzeżach; lipiec-sierpień.
+
+Czerwona Lista [125 ] — V–narażony na wymarcie
+
+## Jadalne czy trujące? 🟢
+
+Jadalny.
 
 
 ---

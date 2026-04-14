@@ -1,5 +1,18 @@
-#lactarius_hepaticus 
-#no_sources: 1
+#lactarius_hepaticus
+#no_sources: 2
+
+---
+latin_name: Lactarius hepaticus
+polish_name: Mleczaj wątrobowy
+source: https://grzyby.pl/gatunki/Lactarius_hepaticus.htm
+---
+
+# Mleczaj wątrobowy
+
+## Występowanie, ekologia
+
+Pod sosnami; wrzesień-październik.
+
 
 ---
 latin_name: Lactarius hepaticus

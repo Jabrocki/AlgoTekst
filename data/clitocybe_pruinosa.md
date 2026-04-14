@@ -1,4 +1,4 @@
-#clitocybe_pruinosa 
+#clitocybe_pruinosa
 #no_sources: 1
 
 ---

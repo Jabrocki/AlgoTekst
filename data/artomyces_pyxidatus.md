@@ -1,4 +1,4 @@
-#artomyces_pyxidatus 
+#artomyces_pyxidatus
 #no_sources: 2
 
 ---

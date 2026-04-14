@@ -1,5 +1,18 @@
-#mycena_pullata 
-#no_sources: 1
+#mycena_pullata
+#no_sources: 2
+
+---
+latin_name: Mycena pullata
+polish_name: Grzybówka ciemna
+source: https://grzyby.pl/gatunki/Mycena_pullata.htm
+---
+
+# Grzybówka ciemna
+
+## Występowanie, ekologia
+
+W lasach liściastych, na opadłych gałązkach; wrzesień-październik.
+
 
 ---
 latin_name: Mycena pullata

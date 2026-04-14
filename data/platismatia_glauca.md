@@ -1,5 +1,18 @@
-#platismatia_glauca 
-#no_sources: 1
+#platismatia_glauca
+#no_sources: 2
+
+---
+latin_name: Platismatia glauca
+polish_name: Płucnik modry
+source: https://grzyby.pl/gatunki/Platismatia_glauca.htm
+---
+
+# Płucnik modry
+
+## Cechy charakterystyczne
+
+Standardowe reakcje porostowe : kora C-, KC-, P+ żółty; miąższ K-, C-, KC-, P-, UV-
+
 
 ---
 latin_name: Platismatia glauca

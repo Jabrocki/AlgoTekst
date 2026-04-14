@@ -1,5 +1,14 @@
-#candelariella_vitellina 
-#no_sources: 1
+#candelariella_vitellina
+#no_sources: 2
+
+---
+latin_name: Candelariella vitellina
+polish_name: Liszajecznik żółty
+source: https://grzyby.pl/gatunki/Candelariella_vitellina.htm
+---
+
+# Liszajecznik żółty
+
 
 ---
 latin_name: Candelariella vitellina

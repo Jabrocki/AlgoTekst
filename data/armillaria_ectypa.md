@@ -1,4 +1,4 @@
-#armillaria_ectypa 
+#armillaria_ectypa
 #no_sources: 1
 
 ---

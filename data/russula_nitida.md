@@ -1,4 +1,4 @@
-#russula_nitida 
+#russula_nitida
 #no_sources: 2
 
 ---

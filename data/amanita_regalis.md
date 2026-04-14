@@ -1,4 +1,4 @@
-#amanita_regalis 
+#amanita_regalis
 #no_sources: 3
 
 ---

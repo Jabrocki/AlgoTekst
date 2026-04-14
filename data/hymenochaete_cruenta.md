@@ -1,5 +1,20 @@
-#hymenochaete_cruenta 
-#no_sources: 1
+#hymenochaete_cruenta
+#no_sources: 2
+
+---
+latin_name: Hymenochaete cruenta
+polish_name: Szczeciniak jodłowy
+source: https://grzyby.pl/gatunki/Hymenochaete_cruenta.htm
+---
+
+# Szczeciniak jodłowy
+
+## Występowanie
+
+Głównie na martwym drewnie jodły, na stojących i leżących pniach, na opadłych gałęziach; owocniki w przeciągu całego roku. Wywołuje białą zgniliznę drewna .
+
+Czerwona Lista [125 ] — V–narażony na wymarcie
+
 
 ---
 latin_name: Hymenochaete cruenta

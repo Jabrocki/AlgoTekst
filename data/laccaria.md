@@ -1,4 +1,4 @@
-#laccaria 
+#laccaria
 #no_sources: 1
 
 ---

@@ -1,5 +1,14 @@
-#melanelixia_fuliginosa 
-#no_sources: 1
+#melanelixia_fuliginosa
+#no_sources: 2
+
+---
+latin_name: Melanelixia fuliginosa
+polish_name: Przylepnik okopcony
+source: https://grzyby.pl/gatunki/Melanelixia_fuliginosa.htm
+---
+
+# Przylepnik okopcony
+
 
 ---
 latin_name: Melanelixia fuliginosa

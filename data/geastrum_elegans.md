@@ -1,5 +1,18 @@
-#geastrum_elegans 
-#no_sources: 1
+#geastrum_elegans
+#no_sources: 2
+
+---
+latin_name: Geastrum elegans
+polish_name: Gwiazdosz bury
+source: https://grzyby.pl/gatunki/Geastrum_elegans.htm
+---
+
+# Gwiazdosz bury
+
+## Występowanie, ekologia
+
+Czerwona Lista [125 ] — E–wymierający - krytycznie zagrożony
+
 
 ---
 latin_name: Geastrum elegans

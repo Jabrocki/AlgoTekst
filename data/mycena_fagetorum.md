@@ -1,5 +1,18 @@
-#mycena_fagetorum 
-#no_sources: 1
+#mycena_fagetorum
+#no_sources: 2
+
+---
+latin_name: Mycena fagetorum
+polish_name: Grzybówka bukowa
+source: https://grzyby.pl/gatunki/Mycena_fagetorum.htm
+---
+
+# Grzybówka bukowa
+
+## Występowanie, ekologia
+
+W lasach z udziałem buka, na opadłych liściach bukowych; sierpień-listopad.
+
 
 ---
 latin_name: Mycena fagetorum

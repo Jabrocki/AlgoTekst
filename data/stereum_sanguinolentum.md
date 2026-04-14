@@ -1,5 +1,5 @@
-#stereum_sanguinolentum 
-#no_sources: 2
+#stereum_sanguinolentum
+#no_sources: 3
 
 ---
 latin_name: Stereum sanguinolentum
@@ -40,6 +40,19 @@ Skórnik krwawiący to gatunek niejadalny i szkodliwy gospodarczo.
 
 ## Zastosowanie
 Obecnie brak zastosowań dla tego skórnika. Skórnik krwawiący i niszczyk ząbkowaty Trichaptum fuscoviolaceum to dwa gatunki wkraczające jako pierwsze na drewno drzew iglastych , zwalonych na ziemię. Zapobieganie psuciu drewna przez tą hubę wymaga ostrożności przy pracach w ogrodzie , sadzie lub lesie , tudzież starannego zabezpieczania świeżych ran maściami grzybobójczymi.
+
+
+---
+latin_name: Stereum sanguinolentum
+polish_name: Skórnik krwawiący
+source: https://grzyby.pl/gatunki/Stereum_sanguinolentum.htm
+---
+
+# Skórnik krwawiący
+
+## Występowanie, ekologia
+
+Na martwych i żywych pniach drzew iglastych, najczęściej na świerku, kosodrzewinie i sośnie zwyczajnej, rzadko na jodle i modrzewiu, także na egzotycznych drzewach iglastych. Owocniki tworzą się w przeciągu całego roku.
 
 
 ---

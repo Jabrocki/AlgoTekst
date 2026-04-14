@@ -1,5 +1,5 @@
-#macrolepiota_excoriata 
-#no_sources: 2
+#macrolepiota_excoriata
+#no_sources: 3
 
 ---
 latin_name: Macrolepiota excoriata
@@ -46,6 +46,23 @@ Czubajka białotrzonowa jest grzybem jadalnym , w młodym wieku bardzo smaczna, 
 
 ## Zastosowanie
 Wielu grzybiarzy unika tej czubajki białotrzonowej z racji jej podobieństwa do muchomorów i czubajeczek. Nie warto też pozyskiwać owocników rosnących tuż przy szosach, koło hut i fabryk (gdyż akumulują metale ciężkie i półmetale), ani zbyt starych (gdyż robią się łykowate, mogą też pleśnieć).
+
+
+---
+latin_name: Macrolepiota excoriata
+polish_name: Czubajka białotrzonowa
+source: https://grzyby.pl/gatunki/Macrolepiota_excoriata.htm
+---
+
+# Czubajka białotrzonowa
+
+## Występowanie
+
+Na łąkach, pastwiskach i innych terenach trawiastych, w parkach i na obrzeżach lasów; na ziemi; lipiec-październik.
+
+## Jadalne czy trujące? 🟢
+
+Jadalna. [105 ]
 
 
 ---

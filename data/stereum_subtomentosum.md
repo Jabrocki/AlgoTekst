@@ -1,5 +1,5 @@
-#stereum_subtomentosum 
-#no_sources: 2
+#stereum_subtomentosum
+#no_sources: 3
 
 ---
 latin_name: Stereum subtomentosum
@@ -42,6 +42,19 @@ Skórnik aksamitny z racji rzadkości i rozwoju na substracie i tak pozbawionym 
 
 ## Zastosowanie
 Obecnie brak zastosowań dla skórnika aksamitnego. Chemizm tego grzyba zaczęto badać dopiero kilka lat temu. Na razie nie odszukano w nim obiecujących metabolitów wtórnych.
+
+
+---
+latin_name: Stereum subtomentosum
+polish_name: Skórnik aksamitny
+source: https://grzyby.pl/gatunki/Stereum_subtomentosum.htm
+---
+
+# Skórnik aksamitny
+
+## Występowanie, ekologia
+
+W lasach, na martwym drewnie drzew liściastych, na pniakach, pniach i gałęziach, najczęściej na olchach, rzadziej na innych gatunkach; maj-listopad.
 
 
 ---

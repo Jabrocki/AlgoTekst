@@ -1,4 +1,4 @@
-#volvariella_bombycina 
+#volvariella_bombycina
 #no_sources: 2
 
 ---

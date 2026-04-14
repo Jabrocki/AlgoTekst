@@ -1,4 +1,4 @@
-#hygrocybe_punicea 
+#hygrocybe_punicea
 #no_sources: 2
 
 ---

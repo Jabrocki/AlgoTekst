@@ -1,5 +1,14 @@
-#usnea_lapponica 
-#no_sources: 1
+#usnea_lapponica
+#no_sources: 2
+
+---
+latin_name: Usnea lapponica
+polish_name: Brodaczka sorediowa
+source: https://grzyby.pl/gatunki/Usnea_lapponica.htm
+---
+
+# Brodaczka sorediowa
+
 
 ---
 latin_name: Usnea lapponica

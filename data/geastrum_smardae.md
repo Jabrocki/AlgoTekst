@@ -1,4 +1,4 @@
-#geastrum_smardae 
+#geastrum_smardae
 #no_sources: 1
 
 ---

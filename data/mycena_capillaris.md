@@ -1,4 +1,4 @@
-#mycena_capillaris 
+#mycena_capillaris
 #no_sources: 2
 
 ---

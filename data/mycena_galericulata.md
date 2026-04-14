@@ -1,4 +1,4 @@
-#mycena_galericulata 
+#mycena_galericulata
 #no_sources: 3
 
 ---

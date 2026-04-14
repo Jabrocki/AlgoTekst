@@ -1,4 +1,4 @@
-#schizophyllum_amplum 
+#schizophyllum_amplum
 #no_sources: 1
 
 ---

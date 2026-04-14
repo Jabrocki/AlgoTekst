@@ -1,5 +1,18 @@
-#psathyrella_panaeoloides 
-#no_sources: 1
+#psathyrella_panaeoloides
+#no_sources: 2
+
+---
+latin_name: Psathyrella panaeoloides
+polish_name: Kruchaweczka kołpaczkowata
+source: https://grzyby.pl/gatunki/Psathyrella_panaeoloides.htm
+---
+
+# Kruchaweczka kołpaczkowata
+
+## Występowanie, ekologia
+
+W lasach i na górskich łąkach, na terenach trawiastych na glebach ciężkich, także na odchodach i na glebach piaszczystych; marzec-październik.
+
 
 ---
 latin_name: Psathyrella panaeoloides

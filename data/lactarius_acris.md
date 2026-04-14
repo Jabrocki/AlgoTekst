@@ -1,5 +1,24 @@
-#lactarius_acris 
-#no_sources: 1
+#lactarius_acris
+#no_sources: 2
+
+---
+latin_name: Lactarius acris
+polish_name: Mleczaj ostry
+source: https://grzyby.pl/gatunki/Lactarius_acris.htm
+---
+
+# Mleczaj ostry
+
+## Występowanie, ekologia
+
+W lasach liściastych i mieszanych; na ziemi; pod jodlami, bukami i być może dębami; lipiec- listopad.
+
+Czerwona Lista [125 ] — R–rzadki - potencjalnie zagrożony wymarciem
+
+## Jadalne czy trujące? 🟡
+
+Niejadalny z uwagi na palący smak.
+
 
 ---
 latin_name: Lactarius acris

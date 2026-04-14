@@ -1,5 +1,14 @@
-#lepraria_crassissima 
-#no_sources: 1
+#lepraria_crassissima
+#no_sources: 2
+
+---
+latin_name: Lepraria crassissima
+polish_name: Liszajec gruby
+source: https://grzyby.pl/gatunki/Lepraria_crassissima.htm
+---
+
+# Liszajec gruby
+
 
 ---
 latin_name: Lepraria crassissima

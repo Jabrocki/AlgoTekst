@@ -1,5 +1,18 @@
-#hygrophorus_barbatulus 
-#no_sources: 1
+#hygrophorus_barbatulus
+#no_sources: 2
+
+---
+latin_name: Hygrophorus barbatulus
+polish_name: Wodnicha brodata
+source: https://grzyby.pl/gatunki/Hygrophorus_barbatulus.htm
+---
+
+# Wodnicha brodata
+
+## Występowanie, ekologia
+
+Brak informacji o publikowanych stanowiskach w Polsce. [2025 r.] [221 ]
+
 
 ---
 latin_name: Hygrophorus barbatulus

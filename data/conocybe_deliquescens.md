@@ -1,4 +1,4 @@
-#conocybe_deliquescens 
+#conocybe_deliquescens
 #no_sources: 1
 
 ---

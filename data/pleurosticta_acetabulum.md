@@ -1,5 +1,14 @@
-#pleurosticta_acetabulum 
-#no_sources: 1
+#pleurosticta_acetabulum
+#no_sources: 2
+
+---
+latin_name: Pleurosticta acetabulum
+polish_name: Wabnica kielichowata
+source: https://grzyby.pl/gatunki/Pleurosticta_acetabulum.htm
+---
+
+# Wabnica kielichowata
+
 
 ---
 latin_name: Pleurosticta acetabulum

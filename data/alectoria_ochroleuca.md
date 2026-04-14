@@ -1,4 +1,4 @@
-#alectoria_ochroleuca 
+#alectoria_ochroleuca
 #no_sources: 1
 
 ---

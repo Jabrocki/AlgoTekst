@@ -1,5 +1,18 @@
-#marasmius_curreyi 
-#no_sources: 1
+#marasmius_curreyi
+#no_sources: 2
+
+---
+latin_name: Marasmius curreyi
+polish_name: Twardzioszek czerwonobrązowy
+source: https://grzyby.pl/gatunki/Marasmius_curreyi.htm
+---
+
+# Twardzioszek czerwonobrązowy
+
+## Występowanie, ekologia
+
+Na rozkładających się źdźbłach traw.
+
 
 ---
 latin_name: Marasmius curreyi

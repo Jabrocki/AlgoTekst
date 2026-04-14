@@ -1,5 +1,22 @@
-#inocybe_assimilata 
-#no_sources: 1
+#inocybe_assimilata
+#no_sources: 2
+
+---
+latin_name: Inocybe assimilata
+polish_name: Strzępiak bulwkowy
+source: https://grzyby.pl/gatunki/Inocybe_assimilata.htm
+---
+
+# Strzępiak bulwkowy
+
+## Występowanie, ekologia
+
+W buczynach, świerczynach i borach sosnowych, w parkach, na kwaśnych, czasem piaszczystych glebach; czerwiec-grudzień.
+
+## Jadalne czy trujące? 🔴
+
+Trujący. [105 ]
+
 
 ---
 latin_name: Inocybe assimilata

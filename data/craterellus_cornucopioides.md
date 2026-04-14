@@ -1,4 +1,4 @@
-#craterellus_cornucopioides 
+#craterellus_cornucopioides
 #no_sources: 3
 
 ---

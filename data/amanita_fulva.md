@@ -1,4 +1,4 @@
-#amanita_fulva 
+#amanita_fulva
 #no_sources: 3
 
 ---

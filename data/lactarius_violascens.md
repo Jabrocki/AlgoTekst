@@ -1,5 +1,20 @@
-#lactarius_violascens 
-#no_sources: 1
+#lactarius_violascens
+#no_sources: 2
+
+---
+latin_name: Lactarius violascens
+polish_name: Mleczaj fiołkowy
+source: https://grzyby.pl/gatunki/Lactarius_violascens.htm
+---
+
+# Mleczaj fiołkowy
+
+## Występowanie, ekologia
+
+Pod dębami; lipiec-październik.
+
+Czerwona Lista [125 ] — E–wymierający - krytycznie zagrożony
+
 
 ---
 latin_name: Lactarius violascens

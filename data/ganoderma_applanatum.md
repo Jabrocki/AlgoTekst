@@ -1,4 +1,4 @@
-#ganoderma_applanatum 
+#ganoderma_applanatum
 #no_sources: 3
 
 ---

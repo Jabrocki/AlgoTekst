@@ -1,4 +1,4 @@
-#hygrophorus_lucorum 
+#hygrophorus_lucorum
 #no_sources: 2
 
 ---

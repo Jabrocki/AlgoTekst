@@ -1,4 +1,4 @@
-#lecidella_stigmatea 
+#lecidella_stigmatea
 #no_sources: 1
 
 ---

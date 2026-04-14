@@ -1,4 +1,4 @@
-#lepista_nuda 
+#lepista_nuda
 #no_sources: 3
 
 ---

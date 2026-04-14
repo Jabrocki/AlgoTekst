@@ -1,5 +1,20 @@
-#stereum_ostrea 
-#no_sources: 1
+#stereum_ostrea
+#no_sources: 2
+
+---
+latin_name: Stereum ostrea
+polish_name: Skórnik wielobarwny
+source: https://grzyby.pl/gatunki/Stereum_ostrea.htm
+---
+
+# Skórnik wielobarwny
+
+## Występowanie, ekologia
+
+W lasach liściastych i mieszanych, na martwych, leżących pniach drzew liściastych.
+
+Czerwona Lista [125 ] — E–wymierający - krytycznie zagrożony
+
 
 ---
 latin_name: Stereum ostrea

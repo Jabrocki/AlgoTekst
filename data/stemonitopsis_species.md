@@ -1,4 +1,4 @@
-#stemonitopsis_species 
+#stemonitopsis_species
 #no_sources: 1
 
 ---

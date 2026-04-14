@@ -1,5 +1,14 @@
-#pseudoclitocybe_expallens 
-#no_sources: 1
+#pseudoclitocybe_expallens
+#no_sources: 2
+
+---
+latin_name: Pseudoclitocybe expallens
+polish_name: Lejkownik blady
+source: https://grzyby.pl/gatunki/Pseudoclitocybe_expallens.htm
+---
+
+# Lejkownik blady
+
 
 ---
 latin_name: Pseudoclitocybe expallens

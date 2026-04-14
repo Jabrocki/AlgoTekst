@@ -1,4 +1,4 @@
-#hygrophorus_pustulatus 
+#hygrophorus_pustulatus
 #no_sources: 2
 
 ---

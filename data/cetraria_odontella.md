@@ -1,5 +1,14 @@
-#cetraria_odontella 
-#no_sources: 1
+#cetraria_odontella
+#no_sources: 2
+
+---
+latin_name: Cetraria odontella
+polish_name: Płucnica krucha
+source: https://grzyby.pl/gatunki/Cetraria_odontella.htm
+---
+
+# Płucnica krucha
+
 
 ---
 latin_name: Cetraria odontella

@@ -1,4 +1,4 @@
-#trichia_favoginea 
+#trichia_favoginea
 #no_sources: 1
 
 ---

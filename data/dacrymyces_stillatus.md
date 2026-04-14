@@ -1,4 +1,4 @@
-#dacrymyces_stillatus 
+#dacrymyces_stillatus
 #no_sources: 2
 
 ---

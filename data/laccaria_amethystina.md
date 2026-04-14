@@ -1,4 +1,4 @@
-#laccaria_amethystina 
+#laccaria_amethystina
 #no_sources: 3
 
 ---

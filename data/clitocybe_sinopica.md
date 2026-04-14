@@ -1,4 +1,4 @@
-#clitocybe_sinopica 
+#clitocybe_sinopica
 #no_sources: 1
 
 ---

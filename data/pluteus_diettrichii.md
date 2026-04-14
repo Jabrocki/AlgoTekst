@@ -1,5 +1,14 @@
-#pluteus_diettrichii 
-#no_sources: 1
+#pluteus_diettrichii
+#no_sources: 2
+
+---
+latin_name: Pluteus diettrichii
+polish_name: Drobnołuszczak popękany
+source: https://grzyby.pl/gatunki/Pluteus_diettrichii.htm
+---
+
+# Drobnołuszczak popękany
+
 
 ---
 latin_name: Pluteus diettrichii

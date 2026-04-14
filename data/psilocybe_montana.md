@@ -1,4 +1,4 @@
-#psilocybe_montana 
+#psilocybe_montana
 #no_sources: 1
 
 ---

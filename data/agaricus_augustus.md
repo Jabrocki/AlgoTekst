@@ -1,4 +1,4 @@
-#agaricus_augustus 
+#agaricus_augustus
 #no_sources: 3
 
 ---

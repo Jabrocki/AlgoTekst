@@ -1,4 +1,4 @@
-#pseudevernia_furfuracea 
+#pseudevernia_furfuracea
 #no_sources: 1
 
 ---

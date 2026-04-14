@@ -1,5 +1,14 @@
-#lecanora_carpinea 
-#no_sources: 1
+#lecanora_carpinea
+#no_sources: 2
+
+---
+latin_name: Lecanora carpinea
+polish_name: Misecznica grabowa
+source: https://grzyby.pl/gatunki/Lecanora_carpinea.htm
+---
+
+# Misecznica grabowa
+
 
 ---
 latin_name: Lecanora carpinea

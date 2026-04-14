@@ -1,4 +1,4 @@
-#hygrophorus_hypothejus 
+#hygrophorus_hypothejus
 #no_sources: 3
 
 ---

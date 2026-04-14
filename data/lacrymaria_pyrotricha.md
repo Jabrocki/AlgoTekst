@@ -1,5 +1,18 @@
-#lacrymaria_pyrotricha 
-#no_sources: 1
+#lacrymaria_pyrotricha
+#no_sources: 2
+
+---
+latin_name: Lacrymaria pyrotricha
+polish_name: Kruchawica pomarańczowa
+source: https://grzyby.pl/gatunki/Lacrymaria_pyrotricha.htm
+---
+
+# Kruchawica pomarańczowa
+
+## Występowanie, ekologia
+
+W lasach; na ziemi; latem.
+
 
 ---
 latin_name: Lacrymaria pyrotricha

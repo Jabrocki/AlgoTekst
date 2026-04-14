@@ -1,4 +1,4 @@
-#amanita_citrina 
+#amanita_citrina
 #no_sources: 4
 
 ---

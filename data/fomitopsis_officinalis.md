@@ -1,4 +1,4 @@
-#fomitopsis_officinalis 
+#fomitopsis_officinalis
 #no_sources: 3
 
 ---

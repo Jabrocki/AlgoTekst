@@ -1,4 +1,4 @@
-#neoboletus_luridiformis 
+#neoboletus_luridiformis
 #no_sources: 2
 
 ---

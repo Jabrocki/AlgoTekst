@@ -1,5 +1,18 @@
-#physcia_tenella 
-#no_sources: 1
+#physcia_tenella
+#no_sources: 2
+
+---
+latin_name: Physcia tenella
+polish_name: Obrost drobny
+source: https://grzyby.pl/gatunki/Physcia_tenella.htm
+---
+
+# Obrost drobny
+
+## Cechy charakterystyczne
+
+Standardowe reakcje porostowe : kora K+ żółta; miąższ K-.
+
 
 ---
 latin_name: Physcia tenella

@@ -1,5 +1,18 @@
-#inocybe_langei 
-#no_sources: 1
+#inocybe_langei
+#no_sources: 2
+
+---
+latin_name: Inocybe langei
+polish_name: Strzępiak krótkotrzonowy
+source: https://grzyby.pl/gatunki/Inocybe_langei.htm
+---
+
+# Strzępiak krótkotrzonowy
+
+## Występowanie, ekologia
+
+W parkach, na ziemi, wśród traw.
+
 
 ---
 latin_name: Inocybe langei

@@ -1,4 +1,4 @@
-#tricholoma_sulphureum 
+#tricholoma_sulphureum
 #no_sources: 3
 
 ---

@@ -1,4 +1,4 @@
-#stemonitopsis_typhina 
+#stemonitopsis_typhina
 #no_sources: 1
 
 ---

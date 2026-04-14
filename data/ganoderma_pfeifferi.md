@@ -1,5 +1,5 @@
-#ganoderma_pfeifferi 
-#no_sources: 2
+#ganoderma_pfeifferi
+#no_sources: 3
 
 ---
 latin_name: Ganoderma pfeifferi
@@ -38,6 +38,21 @@ Lakownica czerwonawa jest grzybem niejadalnym . Brak danych nt. właściwości .
 
 ## Zastosowanie
 W przeciwieństwie do swoich krewniaczek, szeroko użytkowanych na Dalekim Wschodzie jako lekarstwa i talizmany (lingshi lub reishi ), akurat lakownica czerwonawa nie jest jadana ani wykorzystywana jako lekarstwo w Europie. Z powodu rzadkości występowania nie odgrywa dostrzegalnej roli gospodarczej jako szkodnik drewna czy jako zabójca pomników przyrody . W przeszłości owocniki tego grzyba mogły być stosowane jako hubka do krzesania ognia.
+
+
+---
+latin_name: Ganoderma pfeifferi
+polish_name: Lakownica czerwonawa
+source: https://grzyby.pl/gatunki/Ganoderma_pfeifferi.htm
+---
+
+# Lakownica czerwonawa
+
+## Występowanie, ekologia
+
+W parkach, na drzewach przydrożnych i w miastach; na pniakach i pniach żywych drzew liściastych; prawdopodobnie synantropijny gatunek; wrzesień-listopad.
+
+Czerwona Lista [125 ] — R–rzadki - potencjalnie zagrożony wymarciem
 
 
 ---

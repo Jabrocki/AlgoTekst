@@ -1,4 +1,4 @@
-#coprinellus_disseminatus 
+#coprinellus_disseminatus
 #no_sources: 2
 
 ---

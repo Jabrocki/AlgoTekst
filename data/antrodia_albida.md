@@ -1,5 +1,14 @@
-#antrodia_albida 
-#no_sources: 1
+#antrodia_albida
+#no_sources: 2
+
+---
+latin_name: Antrodia albida
+polish_name: Jamkówka biaława
+source: https://grzyby.pl/gatunki/Antrodia_albida.htm
+---
+
+# Jamkówka biaława
+
 
 ---
 latin_name: Antrodia albida

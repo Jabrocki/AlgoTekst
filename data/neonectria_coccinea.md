@@ -1,5 +1,14 @@
-#neonectria_coccinea 
-#no_sources: 1
+#neonectria_coccinea
+#no_sources: 2
+
+---
+latin_name: Neonectria coccinea
+polish_name: Gruzka szkarłatna
+source: https://grzyby.pl/gatunki/Neonectria_coccinea.htm
+---
+
+# Gruzka szkarłatna
+
 
 ---
 latin_name: Neonectria coccinea

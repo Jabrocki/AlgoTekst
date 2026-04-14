@@ -1,4 +1,4 @@
-#russula_caerulea 
+#russula_caerulea
 #no_sources: 2
 
 ---

@@ -1,4 +1,4 @@
-#caloplaca_teicholyta 
+#caloplaca_teicholyta
 #no_sources: 1
 
 ---

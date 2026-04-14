@@ -1,4 +1,4 @@
-#clavulina_coralloides 
+#clavulina_coralloides
 #no_sources: 2
 
 ---

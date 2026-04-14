@@ -1,5 +1,14 @@
-#ramalina_farinacea 
-#no_sources: 1
+#ramalina_farinacea
+#no_sources: 2
+
+---
+latin_name: Ramalina farinacea
+polish_name: Odnożyca mączysta
+source: https://grzyby.pl/gatunki/Ramalina_farinacea.htm
+---
+
+# Odnożyca mączysta
+
 
 ---
 latin_name: Ramalina farinacea

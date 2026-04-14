@@ -1,5 +1,14 @@
-#peziza_arvernensis 
-#no_sources: 1
+#peziza_arvernensis
+#no_sources: 2
+
+---
+latin_name: Peziza arvernensis
+polish_name: Kustrzebka bukowa
+source: https://grzyby.pl/gatunki/Peziza_arvernensis.htm
+---
+
+# Kustrzebka bukowa
+
 
 ---
 latin_name: Peziza arvernensis

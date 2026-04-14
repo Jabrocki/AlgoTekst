@@ -1,5 +1,5 @@
-#pleurotus_cornucopiae 
-#no_sources: 2
+#pleurotus_cornucopiae
+#no_sources: 3
 
 ---
 latin_name: Pleurotus cornucopiae
@@ -34,6 +34,25 @@ Boczniak rowkowanotrzonowy to bardzo wartościowy grzyb – polecany jest przede
 
 ## Zastosowanie
 Boczniak rowkowanotrzonowy jest wykorzystywany w kuchni. Nadaje się do smażenia – wystarczy go zapanierować w bułce tartej i jajku . Poza tym jest doskonałym składnikiem wielu innych dań. Ma podobne zastosowanie do boczniaka ostrygowatego – najbardziej popularnego grzyba z rodziny boczniakowatych.
+
+
+---
+latin_name: Pleurotus cornucopiae
+polish_name: Boczniak rowkowanotrzonowy
+source: https://grzyby.pl/gatunki/Pleurotus_cornucopiae.htm
+---
+
+# Boczniak rowkowanotrzonowy
+
+## Występowanie, ekologia
+
+Na drzewach liściastych; maj-październik.
+
+Czerwona Lista [125 ] — V–narażony na wymarcie
+
+## Jadalne czy trujące? 🟢
+
+Jadalny. [105 ]
 
 
 ---

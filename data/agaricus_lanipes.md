@@ -1,5 +1,5 @@
-#agaricus_lanipes 
-#no_sources: 2
+#agaricus_lanipes
+#no_sources: 3
 
 ---
 latin_name: Agaricus lanipes
@@ -36,6 +36,19 @@ Pieczarka krótkotrzonowa jest grzybem jadalnym o łagodnym, przyjemnym smaku. W
 
 ## Zastosowanie
 Pieczarkę krótkotrzonową można przyrządzać w każdy typowy dla pieczarek sposób. Można ją suszyć, dusić, gotować i smażyć. Dobrze smakuje też zapiekana w cieście. Można ją stosować jako dodatek do dań mięsnych i makaronów oraz jako składnik sosów i zup .
+
+
+---
+latin_name: Agaricus lanipes
+polish_name: Pieczarka krótkotrzonowa
+source: https://grzyby.pl/gatunki/Agaricus_lanipes.htm
+---
+
+# Pieczarka krótkotrzonowa
+
+## Występowanie, ekologia
+
+Lasy liściaste i iglaste, na żyznej ziemi.
 
 
 ---

@@ -1,5 +1,18 @@
-#mycena_tubarioides 
-#no_sources: 1
+#mycena_tubarioides
+#no_sources: 2
+
+---
+latin_name: Mycena tubarioides
+polish_name: Grzybówka nadwodna
+source: https://grzyby.pl/gatunki/Mycena_tubarioides.htm
+---
+
+# Grzybówka nadwodna
+
+## Występowanie, ekologia
+
+W szuwarach, na turzycach; jesienią.
+
 
 ---
 latin_name: Mycena tubarioides

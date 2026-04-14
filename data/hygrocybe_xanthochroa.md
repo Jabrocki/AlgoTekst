@@ -1,4 +1,4 @@
-#hygrocybe_xanthochroa 
+#hygrocybe_xanthochroa
 #no_sources: 1
 
 ---

@@ -1,4 +1,4 @@
-#hericium_clathroides 
+#hericium_clathroides
 #no_sources: 1
 
 ---

@@ -1,4 +1,4 @@
-#cantharellus_pallens 
+#cantharellus_pallens
 #no_sources: 2
 
 ---

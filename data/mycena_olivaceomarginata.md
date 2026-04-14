@@ -1,5 +1,18 @@
-#mycena_olivaceomarginata 
-#no_sources: 1
+#mycena_olivaceomarginata
+#no_sources: 2
+
+---
+latin_name: Mycena olivaceomarginata
+polish_name: Grzybówka oliwkowoostrzowa
+source: https://grzyby.pl/gatunki/Mycena_olivaceomarginata.htm
+---
+
+# Grzybówka oliwkowoostrzowa
+
+## Występowanie, ekologia
+
+Czerwona Lista [125 ] — R–rzadki - potencjalnie zagrożony wymarciem
+
 
 ---
 latin_name: Mycena olivaceomarginata

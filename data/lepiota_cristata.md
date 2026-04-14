@@ -1,4 +1,4 @@
-#lepiota_cristata 
+#lepiota_cristata
 #no_sources: 3
 
 ---

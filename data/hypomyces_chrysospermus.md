@@ -1,4 +1,4 @@
-#hypomyces_chrysospermus 
+#hypomyces_chrysospermus
 #no_sources: 1
 
 ---

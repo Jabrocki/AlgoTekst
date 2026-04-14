@@ -1,4 +1,4 @@
-#mycena_leptocephala 
+#mycena_leptocephala
 #no_sources: 2
 
 ---

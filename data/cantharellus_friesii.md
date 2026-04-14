@@ -1,4 +1,4 @@
-#cantharellus_friesii 
+#cantharellus_friesii
 #no_sources: 3
 
 ---

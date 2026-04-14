@@ -1,4 +1,4 @@
-#lactarius_glaucescens 
+#lactarius_glaucescens
 #no_sources: 1
 
 ---

@@ -1,4 +1,4 @@
-#cladonia_chlorophaea 
+#cladonia_chlorophaea
 #no_sources: 1
 
 ---

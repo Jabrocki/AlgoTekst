@@ -1,4 +1,4 @@
-#panaeolus_foenisecii 
+#panaeolus_foenisecii
 #no_sources: 1
 
 ---

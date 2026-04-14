@@ -1,4 +1,4 @@
-#mycena_pura 
+#mycena_pura
 #no_sources: 3
 
 ---

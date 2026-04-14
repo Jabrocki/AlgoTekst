@@ -1,5 +1,14 @@
-#arthonia_spadicea 
-#no_sources: 1
+#arthonia_spadicea
+#no_sources: 2
+
+---
+latin_name: Arthonia spadicea
+polish_name: Plamica kasztanowata
+source: https://grzyby.pl/gatunki/Arthonia_spadicea.htm
+---
+
+# Plamica kasztanowata
+
 
 ---
 latin_name: Arthonia spadicea

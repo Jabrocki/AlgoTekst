@@ -1,4 +1,4 @@
-#suillus_flavidus 
+#suillus_flavidus
 #no_sources: 3
 
 ---

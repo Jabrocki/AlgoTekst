@@ -1,5 +1,14 @@
-#hypocenomyce_scalaris 
-#no_sources: 1
+#hypocenomyce_scalaris
+#no_sources: 2
+
+---
+latin_name: Hypocenomyce scalaris
+polish_name: Paznokietnik ostrygowy
+source: https://grzyby.pl/gatunki/Hypocenomyce_scalaris.htm
+---
+
+# Paznokietnik ostrygowy
+
 
 ---
 latin_name: Hypocenomyce scalaris

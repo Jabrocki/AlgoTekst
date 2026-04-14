@@ -1,5 +1,18 @@
-#ciboria_rufofusca 
-#no_sources: 1
+#ciboria_rufofusca
+#no_sources: 2
+
+---
+latin_name: Ciboria rufofusca
+polish_name: Kubianka rudawa
+source: https://grzyby.pl/gatunki/Ciboria_rufofusca.htm
+---
+
+# Kubianka rudawa
+
+## Występowanie, ekologia
+
+Na łuskach opadłych z szyszek jodły.
+
 
 ---
 latin_name: Ciboria rufofusca

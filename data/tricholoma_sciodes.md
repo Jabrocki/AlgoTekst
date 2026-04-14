@@ -1,5 +1,5 @@
-#tricholoma_sciodes 
-#no_sources: 2
+#tricholoma_sciodes
+#no_sources: 3
 
 ---
 latin_name: Tricholoma sciodes
@@ -36,6 +36,23 @@ Gąska ostra to grzyb bardzo ostry w smaku, z tego względu określany jest jako
 
 ## Zastosowanie
 Gąska ostra nie ma żadnego zastosowania kulinarnego, ponieważ ostry smak uniemożliwia wykorzystanie go w sposób skuteczny.
+
+
+---
+latin_name: Tricholoma sciodes
+polish_name: Gąska ostra
+source: https://grzyby.pl/gatunki/Tricholoma_sciodes.htm
+---
+
+# Gąska ostra
+
+## Występowanie, ekologia
+
+W lasach jodłowo-bukowych; jesienią.
+
+## Jadalne czy trujące?
+
+Trująca. [105 ]
 
 
 ---

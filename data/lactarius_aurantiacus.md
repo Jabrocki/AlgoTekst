@@ -1,5 +1,5 @@
-#lactarius_aurantiacus 
-#no_sources: 2
+#lactarius_aurantiacus
+#no_sources: 3
 
 ---
 latin_name: Lactarius aurantiacus
@@ -42,6 +42,23 @@ Mleczaj pomarańczowy jest nieprzyjemny, piecze w smaku (choć łagodniej od wie
 
 ## Zastosowanie
 Mleczaj pomarańczowy współcześnie nie znajduje zastosowań kulinarnych, leczniczych ani naukowych. Dawniej bywał grzybem jadalny w niektórych krajach mimo palącego mleczka. W Portugalii , gdzie klasyfikuje się tego grzyba jako jadalnego, trwają badania nad właściwościami przeciwutleniającymi jego owocników.
+
+
+---
+latin_name: Lactarius aurantiacus
+polish_name: Mleczaj pomarańczowy
+source: https://grzyby.pl/gatunki/Lactarius_aurantiacus.htm
+---
+
+# Mleczaj pomarańczowy
+
+## Występowanie, ekologia
+
+Częsty. W lasach liściastych, pod brzozami i na bardzo silnie zmurszałych pniakach, wśród mchów; lipiec-listopad.
+
+## Uwagi
+
+Podobne gatunki (+ zawiła nomenklatura) to mleczaj modrzewiowy ( Lactarius porninsis ) i mleczaj delikatny ( Lactarius mitissimus ) .
 
 
 ---

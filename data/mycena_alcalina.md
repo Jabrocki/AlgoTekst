@@ -1,4 +1,4 @@
-#mycena_alcalina 
+#mycena_alcalina
 #no_sources: 1
 
 ---

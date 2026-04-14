@@ -1,5 +1,5 @@
-#ramaria_flava 
-#no_sources: 1
+#ramaria_flava
+#no_sources: 2
 
 ---
 latin_name: Ramaria flava
@@ -53,3 +53,18 @@ Tak, kozia broda jest groźnym pasożytem drzew. Jego owocnik przypomina zwinię
 Czy kozią brodę można pomylić z innymi gatunkami?
 
 Ze względu na bardzo charakterystyczny wygląd kozią brodę trudno pomylić z innymi gatunkami grzybów. Jest trochę podobna to innych gatunków koralówek, w tym do koralówki zwiędłej czy koralówki żółknącej.
+
+
+---
+latin_name: Ramaria flava
+polish_name: Koralówka żółta
+source: https://grzyby.pl/gatunki/Ramaria_flava.htm
+---
+
+# Koralówka żółta
+
+## Występowanie
+
+W lasach iglastych i liściastych, na ziemi i przy pniakach; sierpień-październik.
+
+Czerwona Lista [125 ] — R–rzadki - potencjalnie zagrożony wymarciem

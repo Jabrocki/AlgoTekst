@@ -1,4 +1,4 @@
-#mycena_adscendens 
+#mycena_adscendens
 #no_sources: 1
 
 ---

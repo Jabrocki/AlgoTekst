@@ -1,4 +1,4 @@
-#elaphocordyceps_ophioglossoides 
+#elaphocordyceps_ophioglossoides
 #no_sources: 1
 
 ---

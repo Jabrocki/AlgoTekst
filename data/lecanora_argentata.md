@@ -1,5 +1,14 @@
-#lecanora_argentata 
-#no_sources: 1
+#lecanora_argentata
+#no_sources: 2
+
+---
+latin_name: Lecanora argentata
+polish_name: Misecznica kasztanowata
+source: https://grzyby.pl/gatunki/Lecanora_argentata.htm
+---
+
+# Misecznica kasztanowata
+
 
 ---
 latin_name: Lecanora argentata

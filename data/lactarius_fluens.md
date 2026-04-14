@@ -1,5 +1,5 @@
-#lactarius_fluens 
-#no_sources: 2
+#lactarius_fluens
+#no_sources: 3
 
 ---
 latin_name: Lactarius fluens
@@ -42,6 +42,23 @@ Mleczaj śliski mimo przyjemnego zapachu jest niejadalny z racji ohydnego, palą
 
 ## Zastosowanie
 Brak możliwości wykorzystania mleczaja śliskiego w kuchni . Bywa badany przez naukowców w ramach szerzej zakrojonych prac nad mikoryzami u grzybów i nad ich metabolitami wtórnymi.
+
+
+---
+latin_name: Lactarius fluens
+polish_name: Mleczaj śliski
+source: https://grzyby.pl/gatunki/Lactarius_fluens.htm
+---
+
+# Mleczaj śliski
+
+## Występowanie, ekologia
+
+W lasach liściastych i mieszanych; pod grabami i dębami.
+
+## Uwagi
+
+Podobny do mleczaja śluzowatego ( Lactarius blennius ) .
 
 
 ---

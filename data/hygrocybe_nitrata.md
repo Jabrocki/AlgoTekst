@@ -1,5 +1,20 @@
-#hygrocybe_nitrata 
-#no_sources: 1
+#hygrocybe_nitrata
+#no_sources: 2
+
+---
+latin_name: Hygrocybe nitrata
+polish_name: Wilgotnica kwaskowata
+source: https://grzyby.pl/gatunki/Hygrocybe_nitrata.htm
+---
+
+# Wilgotnica kwaskowata
+
+## Występowanie, ekologia
+
+Na łąkach, obrzeżach borów sosnowych; na ziemi, wśród traw.
+
+Czerwona Lista [125 ] — V–narażony na wymarcie
+
 
 ---
 latin_name: Hygrocybe nitrata

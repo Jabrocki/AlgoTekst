@@ -1,4 +1,4 @@
-#pholiota_squarrosa 
+#pholiota_squarrosa
 #no_sources: 3
 
 ---

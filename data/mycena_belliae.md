@@ -1,5 +1,20 @@
-#mycena_belliae 
-#no_sources: 1
+#mycena_belliae
+#no_sources: 2
+
+---
+latin_name: Mycena belliae
+polish_name: Grzybówka trzcinowa
+source: https://grzyby.pl/gatunki/Mycena_belliae.htm
+---
+
+# Grzybówka trzcinowa
+
+## Występowanie, ekologia
+
+Na martwych źdźbłach trzciny pospolitej ( Phragmites australis ) , w stojących wodach, tuż nad linią wody.
+
+Czerwona Lista [125 ] — E–wymierający - krytycznie zagrożony
+
 
 ---
 latin_name: Mycena belliae

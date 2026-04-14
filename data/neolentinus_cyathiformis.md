@@ -1,4 +1,4 @@
-#neolentinus_cyathiformis 
+#neolentinus_cyathiformis
 #no_sources: 1
 
 ---

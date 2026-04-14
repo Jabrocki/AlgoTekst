@@ -1,4 +1,4 @@
-#tricholoma_fulvum 
+#tricholoma_fulvum
 #no_sources: 3
 
 ---

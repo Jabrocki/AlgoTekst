@@ -1,5 +1,14 @@
-#flavocetraria_nivalis 
-#no_sources: 1
+#flavocetraria_nivalis
+#no_sources: 2
+
+---
+latin_name: Flavocetraria nivalis
+polish_name: Oskrzelka niwalna
+source: https://grzyby.pl/gatunki/Flavocetraria_nivalis.htm
+---
+
+# Oskrzelka niwalna
+
 
 ---
 latin_name: Flavocetraria nivalis

@@ -1,5 +1,5 @@
-#russula_subfoetens 
-#no_sources: 2
+#russula_subfoetens
+#no_sources: 3
 
 ---
 latin_name: Russula subfoetens
@@ -36,6 +36,19 @@ Gołąbek niemiły jest grzybem niejadalnym. Z uwagi na swój nieprzyjemny zapac
 
 ## Zastosowanie
 Można sprawić, że gołąbek niemiły pomimo swoich właściwości okaże się jadalny , wystarczy go bardzo dobrze wymoczyć w wodzie , a następnie ukisić.
+
+
+---
+latin_name: Russula subfoetens
+polish_name: Gołąbek niemiły
+source: https://grzyby.pl/gatunki/Russula_subfoetens.htm
+---
+
+# Gołąbek niemiły
+
+## Występowanie, ekologia
+
+W ciepłych i wilgotnych lasach liściastych.
 
 
 ---

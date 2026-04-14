@@ -1,4 +1,4 @@
-#lentinus_arcularius 
+#lentinus_arcularius
 #no_sources: 1
 
 ---

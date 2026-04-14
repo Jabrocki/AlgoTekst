@@ -1,4 +1,4 @@
-#lactarius_pallidus 
+#lactarius_pallidus
 #no_sources: 3
 
 ---

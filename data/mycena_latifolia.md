@@ -1,5 +1,20 @@
-#mycena_latifolia 
-#no_sources: 1
+#mycena_latifolia
+#no_sources: 2
+
+---
+latin_name: Mycena latifolia
+polish_name: Grzybówka szarobrązowa
+source: https://grzyby.pl/gatunki/Mycena_latifolia.htm
+---
+
+# Grzybówka szarobrązowa
+
+## Występowanie, ekologia
+
+W lasach iglastych i mieszanych; na ściółce leśnej.
+
+Czerwona Lista [125 ] — E–wymierający - krytycznie zagrożony
+
 
 ---
 latin_name: Mycena latifolia

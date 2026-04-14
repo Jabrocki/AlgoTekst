@@ -1,4 +1,4 @@
-#mycena_alba 
+#mycena_alba
 #no_sources: 1
 
 ---

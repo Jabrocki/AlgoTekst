@@ -1,4 +1,4 @@
-#psilocybe 
+#psilocybe
 #no_sources: 1
 
 ---

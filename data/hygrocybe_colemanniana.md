@@ -1,4 +1,4 @@
-#hygrocybe_colemanniana 
+#hygrocybe_colemanniana
 #no_sources: 1
 
 ---

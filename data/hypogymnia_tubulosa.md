@@ -1,5 +1,18 @@
-#hypogymnia_tubulosa 
-#no_sources: 1
+#hypogymnia_tubulosa
+#no_sources: 2
+
+---
+latin_name: Hypogymnia tubulosa
+polish_name: Pustułka rurkowata
+source: https://grzyby.pl/gatunki/Hypogymnia_tubulosa.htm
+---
+
+# Pustułka rurkowata
+
+## Cechy charakterystyczne
+
+Standardowe reakcje porostowe : kora: K+ żółta, C-, KC-, P+ bladożółta, UV-; miąższ: K-, C-, KC+ pomarańczowoczerwona, P-, UV-.
+
 
 ---
 latin_name: Hypogymnia tubulosa

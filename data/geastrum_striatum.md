@@ -1,4 +1,4 @@
-#geastrum_striatum 
+#geastrum_striatum
 #no_sources: 2
 
 ---

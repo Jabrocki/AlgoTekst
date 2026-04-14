@@ -1,4 +1,4 @@
-#agaricus_semotus 
+#agaricus_semotus
 #no_sources: 3
 
 ---

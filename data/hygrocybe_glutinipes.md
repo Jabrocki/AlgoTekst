@@ -1,5 +1,14 @@
-#hygrocybe_glutinipes 
-#no_sources: 1
+#hygrocybe_glutinipes
+#no_sources: 2
+
+---
+latin_name: Hygrocybe glutinipes
+polish_name: Wilgotnica kleista
+source: https://grzyby.pl/gatunki/Hygrocybe_glutinipes.htm
+---
+
+# Wilgotnica kleista
+
 
 ---
 latin_name: Hygrocybe glutinipes

@@ -1,4 +1,4 @@
-#cordyceps_ophioglossoides 
+#cordyceps_ophioglossoides
 #no_sources: 1
 
 ---

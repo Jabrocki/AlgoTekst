@@ -1,4 +1,4 @@
-#mycena_interrupta 
+#mycena_interrupta
 #no_sources: 1
 
 ---

@@ -1,4 +1,4 @@
-#boletus_subtomentosus 
+#boletus_subtomentosus
 #no_sources: 2
 
 ---

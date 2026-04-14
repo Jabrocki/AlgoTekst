@@ -1,5 +1,5 @@
-#inocybe_fibrosa 
-#no_sources: 2
+#inocybe_fibrosa
+#no_sources: 3
 
 ---
 latin_name: Inocybe fibrosa
@@ -40,6 +40,23 @@ Strzępiaka włóknisty jest toksyczny , niebezpieczny dla zdrowia i życia grzy
 
 ## Zastosowanie
 Strzępiak włóknisty nie posiada obecnie znaczenia gospodarczego ani kulinarnego. Zasługuje na ochroną i dalsze badania naukowe jako gatunek mało liczny, występujący w rozproszeniu.
+
+
+---
+latin_name: Inocybe fibrosa
+polish_name: Strzępiak włóknisty
+source: https://grzyby.pl/gatunki/Inocybe_fibrosa.htm
+---
+
+# Strzępiak włóknisty
+
+## Jadalne czy trujące? 🔴
+
+Trujący. [105 ] [134 ]
+
+## Występowanie, ekologia
+
+W lasach iglastych, borach sosnowych i jodłowo-bukowych.
 
 
 ---

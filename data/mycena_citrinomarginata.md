@@ -1,4 +1,4 @@
-#mycena_citrinomarginata 
+#mycena_citrinomarginata
 #no_sources: 2
 
 ---

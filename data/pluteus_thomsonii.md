@@ -1,5 +1,18 @@
-#pluteus_thomsonii 
-#no_sources: 1
+#pluteus_thomsonii
+#no_sources: 2
+
+---
+latin_name: Pluteus thomsonii
+polish_name: Drobnołuszczak szarotrzonowy
+source: https://grzyby.pl/gatunki/Pluteus_thomsonii.htm
+---
+
+# Drobnołuszczak szarotrzonowy
+
+## Występowanie, ekologia
+
+W lasach, na opadłych gałązkach i leżących pniach drzew liściastych; lipiec-listopad.
+
 
 ---
 latin_name: Pluteus  thomsonii

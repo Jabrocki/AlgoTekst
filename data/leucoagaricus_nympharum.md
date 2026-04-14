@@ -1,5 +1,5 @@
-#leucoagaricus_nympharum 
-#no_sources: 2
+#leucoagaricus_nympharum
+#no_sources: 3
 
 ---
 latin_name: Leucoagaricus nympharum
@@ -40,6 +40,15 @@ Czubajka dziewczęca jest grzybem jadalnym.
 
 ## Zastosowanie
 Z racji rzadkości czubajka bezskórkowa zasługuje na ochronę. W krajach sąsiednich np.: na Ukrainie umieszczona na czerwonych listach gatunków ginących i rzadkich.
+
+
+---
+latin_name: Leucoagaricus nympharum
+polish_name: Pieczareczka borowa
+source: https://grzyby.pl/gatunki/Leucoagaricus_nympharum.htm
+---
+
+# Pieczareczka borowa
 
 
 ---

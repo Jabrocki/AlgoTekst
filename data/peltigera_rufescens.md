@@ -1,4 +1,4 @@
-#peltigera_rufescens 
+#peltigera_rufescens
 #no_sources: 1
 
 ---

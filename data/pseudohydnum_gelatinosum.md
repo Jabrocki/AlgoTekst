@@ -1,4 +1,4 @@
-#pseudohydnum_gelatinosum 
+#pseudohydnum_gelatinosum
 #no_sources: 3
 
 ---

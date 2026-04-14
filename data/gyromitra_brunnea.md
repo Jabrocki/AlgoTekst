@@ -1,4 +1,4 @@
-#gyromitra_brunnea 
+#gyromitra_brunnea
 #no_sources: 1
 
 ---

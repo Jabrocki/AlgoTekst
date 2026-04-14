@@ -1,5 +1,5 @@
-#lactarius_vietus 
-#no_sources: 2
+#lactarius_vietus
+#no_sources: 3
 
 ---
 latin_name: Lactarius vietus
@@ -40,6 +40,19 @@ Mleczaj szaroplamisty (spółcześnie nie zbierany ani nie jadany z racji niemi�
 
 ## Zastosowanie
 Możliwości wykorzystania mleczaja szaroplamistego w kuchni i w lecznictwie od lat budzą kontrowersje wśród grzybiarzy i naukowców. Najczęściej klasyfikuje się go jako niejadalnego. Bywa jednak uznawany za gatunek lekko trujący, mogący spowodować rozwolnienie, wymioty bądź nudności. Pomimo ostrego, palącego smaku oraz niemiłych skutków spożycia próbowano go jadać po długiej obróbce, obejmującej długie namaczanie, obgotowanie z parokrotnym odlewaniem wody i/lub kiszenie , marynowanie czy solenie .
+
+
+---
+latin_name: Lactarius vietus
+polish_name: Mleczaj szaroplamisty
+source: https://grzyby.pl/gatunki/Lactarius_vietus.htm
+---
+
+# Mleczaj szaroplamisty
+
+## Występowanie, ekologia
+
+W borach sosnowych i z jodłą, często na wilgotnej glebie, pod brzozami, olchami i wierzbami; lipiec-październik.
 
 
 ---

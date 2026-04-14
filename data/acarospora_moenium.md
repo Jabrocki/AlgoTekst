@@ -1,5 +1,14 @@
-#acarospora_moenium 
-#no_sources: 1
+#acarospora_moenium
+#no_sources: 2
+
+---
+latin_name: Acarospora moenium
+polish_name: Wielosporek łuseczkowaty
+source: https://grzyby.pl/gatunki/Acarospora_moenium.htm
+---
+
+# Wielosporek łuseczkowaty
+
 
 ---
 latin_name: Acarospora moenium

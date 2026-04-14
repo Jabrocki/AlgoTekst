@@ -1,5 +1,18 @@
-#caloscypha_fulgens 
-#no_sources: 1
+#caloscypha_fulgens
+#no_sources: 2
+
+---
+latin_name: Caloscypha fulgens
+polish_name: Kielonka błyszcząca
+source: https://grzyby.pl/gatunki/Caloscypha_fulgens.htm
+---
+
+# Kielonka błyszcząca
+
+## Występowanie, ekologia
+
+Czerwona Lista [125 ] — R–rzadki - potencjalnie zagrożony wymarciem
+
 
 ---
 latin_name: Caloscypha fulgens

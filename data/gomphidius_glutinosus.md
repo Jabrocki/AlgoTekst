@@ -1,4 +1,4 @@
-#gomphidius_glutinosus 
+#gomphidius_glutinosus
 #no_sources: 3
 
 ---

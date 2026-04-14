@@ -1,5 +1,18 @@
-#lepiota_magnispora 
-#no_sources: 1
+#lepiota_magnispora
+#no_sources: 2
+
+---
+latin_name: Lepiota magnispora
+polish_name: Czubajeczka brzuchatozarodnikowa
+source: https://grzyby.pl/gatunki/Lepiota_magnispora.htm
+---
+
+# Czubajeczka brzuchatozarodnikowa
+
+## Występowanie, ekologia
+
+W lasach liściastych; zwłaszcza na glebach wapiennych; jesienią.
+
 
 ---
 latin_name: Lepiota magnispora

@@ -1,5 +1,18 @@
-#hygrocybe_citrinovirens 
-#no_sources: 1
+#hygrocybe_citrinovirens
+#no_sources: 2
+
+---
+latin_name: Hygrocybe citrinovirens
+polish_name: Wilgotnica cytrynowozielonawa
+source: https://grzyby.pl/gatunki/Hygrocybe_citrinovirens.htm
+---
+
+# Wilgotnica cytrynowozielonawa
+
+## Występowanie, ekologia
+
+Na górskich terenach trawiastych.
+
 
 ---
 latin_name: Hygrocybe citrinovirens

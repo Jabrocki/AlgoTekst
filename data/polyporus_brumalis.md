@@ -1,4 +1,4 @@
-#polyporus_brumalis 
+#polyporus_brumalis
 #no_sources: 1
 
 ---

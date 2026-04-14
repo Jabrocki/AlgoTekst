@@ -1,4 +1,4 @@
-#lyophyllum_decastes 
+#lyophyllum_decastes
 #no_sources: 2
 
 ---

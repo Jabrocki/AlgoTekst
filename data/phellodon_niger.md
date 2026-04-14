@@ -1,5 +1,5 @@
-#phellodon_niger 
-#no_sources: 2
+#phellodon_niger
+#no_sources: 3
 
 ---
 latin_name: Phellodon niger
@@ -38,6 +38,21 @@ Tak samo jak jego kuzyni w Europie, korkoząb czerniawy traktowany jest jako grz
 
 ## Zastosowanie
 Zastosowanie korkozęba czerniawego jest nieznane. W Chinach trwają badania nad jego składem chemicznym i ewentualnymi zastosowaniami.
+
+
+---
+latin_name: Phellodon niger
+polish_name: Korkoząb czarniawy
+source: https://grzyby.pl/gatunki/Phellodon_niger.htm
+---
+
+# Korkoząb czarniawy
+
+## Występowanie, ekologia
+
+W lasach iglastych i w buczynach; na ziemi; sierpień-październik.
+
+Czerwona Lista [125 ] — V–narażony na wymarcie
 
 
 ---

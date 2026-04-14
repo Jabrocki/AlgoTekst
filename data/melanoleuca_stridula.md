@@ -1,4 +1,4 @@
-#melanoleuca_stridula 
+#melanoleuca_stridula
 #no_sources: 1
 
 ---

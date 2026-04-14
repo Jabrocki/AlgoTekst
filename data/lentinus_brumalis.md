@@ -1,4 +1,4 @@
-#lentinus_brumalis 
+#lentinus_brumalis
 #no_sources: 1
 
 ---

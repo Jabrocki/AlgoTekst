@@ -1,4 +1,4 @@
-#tricholomopsis_decora 
+#tricholomopsis_decora
 #no_sources: 2
 
 ---

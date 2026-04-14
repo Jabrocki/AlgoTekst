@@ -1,4 +1,4 @@
-#pyrenula_nitida 
+#pyrenula_nitida
 #no_sources: 1
 
 ---

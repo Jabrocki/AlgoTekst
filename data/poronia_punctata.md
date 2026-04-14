@@ -1,5 +1,18 @@
-#poronia_punctata 
-#no_sources: 1
+#poronia_punctata
+#no_sources: 2
+
+---
+latin_name: Poronia punctata
+polish_name: Sitniczek kropkowany
+source: https://grzyby.pl/gatunki/Poronia_punctata.htm
+---
+
+# Sitniczek kropkowany
+
+## Występowanie, ekologia
+
+Czerwona Lista [125 ] — E–wymierający - krytycznie zagrożony
+
 
 ---
 latin_name: Poronia punctata

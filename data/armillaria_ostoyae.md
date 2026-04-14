@@ -1,4 +1,4 @@
-#armillaria_ostoyae 
+#armillaria_ostoyae
 #no_sources: 3
 
 ---

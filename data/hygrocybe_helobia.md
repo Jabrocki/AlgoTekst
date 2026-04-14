@@ -1,5 +1,14 @@
-#hygrocybe_helobia 
-#no_sources: 1
+#hygrocybe_helobia
+#no_sources: 2
+
+---
+latin_name: Hygrocybe helobia
+polish_name: Wilgotnica torfowiskowa
+source: https://grzyby.pl/gatunki/Hygrocybe_helobia.htm
+---
+
+# Wilgotnica torfowiskowa
+
 
 ---
 latin_name: Hygrocybe helobia

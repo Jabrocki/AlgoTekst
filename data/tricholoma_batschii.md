@@ -1,5 +1,5 @@
-#tricholoma_batschii 
-#no_sources: 2
+#tricholoma_batschii
+#no_sources: 3
 
 ---
 latin_name: Tricholoma batschii
@@ -44,6 +44,19 @@ Wszystkie gąski mogą akumulować w sobie metale ciężkie w wysokich stężeni
 
 ## Zastosowanie
 Obecnie brak jest zastosowania gąski czerwonobrązowej. W dawnych atlasach grzybów uznawano za warunkowo jadalne wiele gatunków gąsek, które dziś klasyfikuje się jako trujące. Gąska czerwonobrązowa nie znalazła zastosowania jako lecznicza lub organizm modelowy.
+
+
+---
+latin_name: Tricholoma batschii
+polish_name: Gąska czerwonobrązowa
+source: https://grzyby.pl/gatunki/Tricholoma_batschii.htm
+---
+
+# Gąska czerwonobrązowa
+
+## Występowanie, ekologia
+
+Pod sosnami, na glebach wapiennych.
 
 
 ---

@@ -1,5 +1,14 @@
-#volvariella_caesiotincta 
-#no_sources: 1
+#volvariella_caesiotincta
+#no_sources: 2
+
+---
+latin_name: Volvariella caesiotincta
+polish_name: Pochwiak błękitnawy
+source: https://grzyby.pl/gatunki/Volvariella_caesiotincta.htm
+---
+
+# Pochwiak błękitnawy
+
 
 ---
 latin_name: Volvariella caesiotincta

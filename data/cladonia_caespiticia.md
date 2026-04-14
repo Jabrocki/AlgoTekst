@@ -1,5 +1,14 @@
-#cladonia_caespiticia 
-#no_sources: 1
+#cladonia_caespiticia
+#no_sources: 2
+
+---
+latin_name: Cladonia caespiticia
+polish_name: Chrobotek darenkowaty
+source: https://grzyby.pl/gatunki/Cladonia_caespiticia.htm
+---
+
+# Chrobotek darenkowaty
+
 
 ---
 latin_name: Cladonia caespiticia

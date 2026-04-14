@@ -1,4 +1,4 @@
-#amanita_echinocephala 
+#amanita_echinocephala
 #no_sources: 2
 
 ---

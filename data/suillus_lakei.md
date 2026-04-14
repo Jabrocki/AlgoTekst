@@ -1,5 +1,5 @@
-#suillus_lakei 
-#no_sources: 2
+#suillus_lakei
+#no_sources: 3
 
 ---
 latin_name: Suillus lakei
@@ -44,6 +44,19 @@ Maślak daglezjowy to grzyb jadalny , aczkolwiek mało podobny do wybornego smak
 
 ## Zastosowanie
 Maślak daglezjowy jest zbliżone do innych maślaków, choć z racji gorszego smaku nie zbierany aż tak chętnie. Trwają wytężone badania nad wykorzystaniem przypuszczalnych własności immunomodulacyjnych, przeciwbakteryjnych, cytotoksycznych oraz antyutleniających tegoż maślaka w medycynie akademickiej.
+
+
+---
+latin_name: Suillus lakei
+polish_name: Maślak daglezjowy
+source: https://grzyby.pl/gatunki/Suillus_lakei.htm
+---
+
+# Maślak daglezjowy
+
+## Występowanie, ekologia
+
+Gatunek północnoamerykańską. U nas pod sadzonymi daglezjami.
 
 
 ---

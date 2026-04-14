@@ -1,4 +1,4 @@
-#panaeolus_semiovatus 
+#panaeolus_semiovatus
 #no_sources: 1
 
 ---

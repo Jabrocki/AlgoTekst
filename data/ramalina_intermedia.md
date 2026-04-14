@@ -1,5 +1,14 @@
-#ramalina_intermedia 
-#no_sources: 1
+#ramalina_intermedia
+#no_sources: 2
+
+---
+latin_name: Ramalina intermedia
+polish_name: Odnożyca pośrednia
+source: https://grzyby.pl/gatunki/Ramalina_intermedia.htm
+---
+
+# Odnożyca pośrednia
+
 
 ---
 latin_name: Ramalina intermedia

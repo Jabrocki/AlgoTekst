@@ -1,5 +1,14 @@
-#arthonia_atra 
-#no_sources: 1
+#arthonia_atra
+#no_sources: 2
+
+---
+latin_name: Arthonia atra
+polish_name: Plamica czarna
+source: https://grzyby.pl/gatunki/Arthonia_atra.htm
+---
+
+# Plamica czarna
+
 
 ---
 latin_name: Arthonia atra

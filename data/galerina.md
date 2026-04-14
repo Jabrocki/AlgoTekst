@@ -1,4 +1,4 @@
-#galerina 
+#galerina
 #no_sources: 1
 
 ---

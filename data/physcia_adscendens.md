@@ -1,5 +1,14 @@
-#physcia_adscendens 
-#no_sources: 1
+#physcia_adscendens
+#no_sources: 2
+
+---
+latin_name: Physcia adscendens
+polish_name: Obrost wzniesiony
+source: https://grzyby.pl/gatunki/Physcia_adscendens.htm
+---
+
+# Obrost wzniesiony
+
 
 ---
 latin_name: Physcia adscendens

@@ -1,4 +1,4 @@
-#clitocybe_fragrans 
+#clitocybe_fragrans
 #no_sources: 2
 
 ---

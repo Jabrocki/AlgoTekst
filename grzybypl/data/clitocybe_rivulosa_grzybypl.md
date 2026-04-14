@@ -1,0 +1,15 @@
+---
+latin_name: Clitocybe rivulosa
+polish_name: Lejkówka strumykowa
+source: https://grzyby.pl/gatunki/Clitocybe_rivulosa.htm
+---
+
+# Lejkówka strumykowa
+
+## Występowanie, ekologia
+
+Na przydrożach, łąkach, pastwiskach, w lasach, zaroślach; na ziemi, wśród traw; sierpień-grudzień.
+
+## Jadalne czy trujące? 🔴 ☠
+
+Silnie trująca. [105 ] [134 ] Zawiera muskarynę (ta samą toksynę co muchomor czerwony ( Amanita muscaria ) ).

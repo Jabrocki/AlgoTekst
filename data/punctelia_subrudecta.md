@@ -1,5 +1,18 @@
-#punctelia_subrudecta 
-#no_sources: 1
+#punctelia_subrudecta
+#no_sources: 2
+
+---
+latin_name: Punctelia subrudecta
+polish_name: Biedronecznik zmienny
+source: https://grzyby.pl/gatunki/Punctelia_subrudecta.htm
+---
+
+# Biedronecznik zmienny
+
+## Cechy charakterystyczne
+
+Standardowe reakcje porostowe : kora K+ żółta; miąższ C+ czerwony, K-, KC+ czerwony, P-, UV-.
+
 
 ---
 latin_name: Punctelia subrudecta

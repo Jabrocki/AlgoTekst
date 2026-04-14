@@ -1,4 +1,4 @@
-#chroogomphus_fulmineus 
+#chroogomphus_fulmineus
 #no_sources: 1
 
 ---

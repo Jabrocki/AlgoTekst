@@ -1,5 +1,5 @@
-#pleurotus_djamour 
-#no_sources: 1
+#pleurotus_djamour
+#no_sources: 2
 
 ---
 latin_name: Pleurotus djamour
@@ -40,3 +40,12 @@ Boczniak różowy to bardzo smaczny grzyb jadalny, wysoko ceniony za aromat i ba
 Uprawiany od wieków na Dalekim Wschodzie, zwłaszcza Japonii i Chinach , od niedawna także w UE. Boczniak różowy to składnik wielu dań tradycyjnej kuchni japońskiej , coraz częściej stosowany także w potrawach włoskich czy amerykańskich jako dodatek do pizzy , spaghetti , łazanek, risotta , zup czy gulaszów. Jako zamiennik mięsa i ryb towarzyszy ryżowi , amarantusowi , komosie ryżowej , taro , maniokowi lub ziemniakom . Smak „grzyba-flaminga” doskonale podkreślają śmietana oraz białe sosy typu tatarskiego. Można przyprawiać go sosem sojowym , imbirem , kolendrą , bazylią , miętą pieprzową , pietruszką , cebulą albo czosnkiem .
 
 Zawiera nieco metabolitów wtórnych, jakie potencjalnie dałoby się izolować na skalę przemysłową, po czym wykorzystywać w charakterze leków i suplementów diety dla ludzi oraz zwierząt gospodarskich. W warunkach laboratoryjnych wykazują pewne działania antybiotyczne, przeciwrobacze i przeciw wolnym rodnikom , jednak wciąż daleka droga do komercyjnie dostępnych lekarstw. Betaglukany z P. djamour mają też wzmacniać serce i naczynia krwionośne poprzez obniżanie poziomu glukozy i cholesterolu we krwi .
+
+
+---
+latin_name: Pleurotus djamor
+polish_name: Boczniak różowy
+source: https://grzyby.pl/gatunki/Pleurotus_djamor.htm
+---
+
+# Boczniak różowy

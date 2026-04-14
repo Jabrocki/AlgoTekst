@@ -1,4 +1,4 @@
-#neobulgaria_pura 
+#neobulgaria_pura
 #no_sources: 2
 
 ---

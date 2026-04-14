@@ -1,4 +1,4 @@
-#entoloma_sericeum 
+#entoloma_sericeum
 #no_sources: 2
 
 ---

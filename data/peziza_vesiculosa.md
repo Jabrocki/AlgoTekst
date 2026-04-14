@@ -1,5 +1,18 @@
-#peziza_vesiculosa 
-#no_sources: 1
+#peziza_vesiculosa
+#no_sources: 2
+
+---
+latin_name: Peziza vesiculosa
+polish_name: Kustrzebka pęcherzykowata
+source: https://grzyby.pl/gatunki/Peziza_vesiculosa.htm
+---
+
+# Kustrzebka pęcherzykowata
+
+## Występowanie, ekologia
+
+Na odchodach, glebie, spróchniałym drewnie.
+
 
 ---
 latin_name: Peziza vesiculosa

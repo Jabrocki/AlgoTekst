@@ -1,4 +1,4 @@
-#russula_faginea 
+#russula_faginea
 #no_sources: 2
 
 ---

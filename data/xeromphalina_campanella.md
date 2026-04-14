@@ -1,4 +1,4 @@
-#xeromphalina_campanella 
+#xeromphalina_campanella
 #no_sources: 2
 
 ---

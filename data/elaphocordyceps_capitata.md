@@ -1,4 +1,4 @@
-#elaphocordyceps_capitata 
+#elaphocordyceps_capitata
 #no_sources: 1
 
 ---

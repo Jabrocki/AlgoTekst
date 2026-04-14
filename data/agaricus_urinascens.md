@@ -1,5 +1,5 @@
-#agaricus_urinascens 
-#no_sources: 2
+#agaricus_urinascens
+#no_sources: 3
 
 ---
 latin_name: Agaricus urinascens
@@ -38,6 +38,25 @@ Pieczarka słomkowożółta jest smacznym grzybem jadalnym o wysokiej wartości 
 
 ## Zastosowanie
 Pieczarkę słomkowożółtą można gotować, dusić, smażyć i piec. Dobrze smakuje w połączeniu z innymi pieczarkami . Można jej także używać jako składnika do zup , sosów i sałatek.
+
+
+---
+latin_name: Agaricus urinascens
+polish_name: Pieczarka urynowa
+source: https://grzyby.pl/gatunki/Agaricus_urinascens.htm
+---
+
+# Pieczarka urynowa
+
+## Występowanie, ekologia
+
+Na łąkach, pastwiskach, polanach leśnych i w parkach; na ziemi; czasem w czarcich kręgach; sierpień-październik.
+
+Czerwona Lista [125 ] — R–rzadki - potencjalnie zagrożony wymarciem
+
+## Jadalne czy trujące? 🟢
+
+Młode owocniki jadalne. [105 ]
 
 
 ---

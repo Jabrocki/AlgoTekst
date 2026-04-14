@@ -1,5 +1,14 @@
-#cetraria_ericetorum 
-#no_sources: 1
+#cetraria_ericetorum
+#no_sources: 2
+
+---
+latin_name: Cetraria ericetorum
+polish_name: Płucnica kędzierzawa
+source: https://grzyby.pl/gatunki/Cetraria_ericetorum.htm
+---
+
+# Płucnica kędzierzawa
+
 
 ---
 latin_name: Cetraria ericetorum

@@ -1,4 +1,4 @@
-#mycena_galopus 
+#mycena_galopus
 #no_sources: 2
 
 ---

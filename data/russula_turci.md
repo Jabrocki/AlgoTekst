@@ -1,4 +1,4 @@
-#russula_turci 
+#russula_turci
 #no_sources: 3
 
 ---

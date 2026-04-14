@@ -1,5 +1,5 @@
-#xerocomellus_porosporus 
-#no_sources: 2
+#xerocomellus_porosporus
+#no_sources: 3
 
 ---
 latin_name: Xerocomellus porosporus
@@ -36,6 +36,23 @@ Podgrzybek obciętozarodnikowy to grzyb jadalny, który określany jest niemniej
 
 ## Zastosowanie
 Podgrzybka obciętozarodnikowego można stosować wedle własnych pomysłów kulinarnych, niemniej jednak nie jest zaliczany do trwałych grzybów , a ponadto często jest zaczerwiony.
+
+
+---
+latin_name: Xerocomellus porosporus
+polish_name: Suchogrzybek obciętozarodnikowy
+source: https://grzyby.pl/gatunki/Xerocomus_porosporus.htm
+---
+
+# Suchogrzybek obciętozarodnikowy
+
+## Występowanie, ekologia
+
+W lasach.
+
+## Jadalne czy trujące? 🟢
+
+Jadalny. [105 ]
 
 
 ---

@@ -1,5 +1,18 @@
-#hygrophorus_lindtneri 
-#no_sources: 1
+#hygrophorus_lindtneri
+#no_sources: 2
+
+---
+latin_name: Hygrophorus lindtneri
+polish_name: Wodnicha leszczynowa
+source: https://grzyby.pl/gatunki/Hygrophorus_carpini.htm
+---
+
+# Wodnicha leszczynowa
+
+## Występowanie, ekologia
+
+W lasach liściastych i mieszanych, głównie pod grabami; na ziemi; lipiec-październik.
+
 
 ---
 latin_name: Hygrophorus lindtneri

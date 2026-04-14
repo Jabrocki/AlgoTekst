@@ -1,5 +1,14 @@
-#cladonia_scabriuscula 
-#no_sources: 1
+#cladonia_scabriuscula
+#no_sources: 2
+
+---
+latin_name: Cladonia scabriuscula
+polish_name: Chrobotek trocinowaty
+source: https://grzyby.pl/gatunki/Cladonia_scabriuscula.htm
+---
+
+# Chrobotek trocinowaty
+
 
 ---
 latin_name: Cladonia scabriuscula

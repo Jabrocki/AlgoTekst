@@ -1,4 +1,4 @@
-#amanita_muscaria 
+#amanita_muscaria
 #no_sources: 4
 
 ---

@@ -1,4 +1,4 @@
-#ganoderma_lucidum 
+#ganoderma_lucidum
 #no_sources: 3
 
 ---

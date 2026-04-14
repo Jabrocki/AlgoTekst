@@ -1,4 +1,4 @@
-#entoloma_porphyrophaeum 
+#entoloma_porphyrophaeum
 #no_sources: 2
 
 ---

@@ -1,4 +1,4 @@
-#coprinopsis_lagopus 
+#coprinopsis_lagopus
 #no_sources: 2
 
 ---

@@ -1,5 +1,14 @@
-#alectoria_sarmentosa 
-#no_sources: 1
+#alectoria_sarmentosa
+#no_sources: 2
+
+---
+latin_name: Alectoria sarmentosa
+polish_name: Żyłecznik zwisający
+source: https://grzyby.pl/gatunki/Alectoria_sarmentosa.htm
+---
+
+# Żyłecznik zwisający
+
 
 ---
 latin_name: Alectoria sarmentosa

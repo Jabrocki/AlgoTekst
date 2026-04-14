@@ -1,5 +1,14 @@
-#parmeliopsis_hyperopta 
-#no_sources: 1
+#parmeliopsis_hyperopta
+#no_sources: 2
+
+---
+latin_name: Parmeliopsis hyperopta
+polish_name: Płaskotka reglowa
+source: https://grzyby.pl/gatunki/Parmeliopsis_hyperopta.htm
+---
+
+# Płaskotka reglowa
+
 
 ---
 latin_name: Parmeliopsis hyperopta

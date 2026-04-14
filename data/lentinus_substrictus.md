@@ -1,4 +1,4 @@
-#lentinus_substrictus 
+#lentinus_substrictus
 #no_sources: 1
 
 ---

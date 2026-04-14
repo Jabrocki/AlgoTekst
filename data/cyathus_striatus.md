@@ -1,4 +1,4 @@
-#cyathus_striatus 
+#cyathus_striatus
 #no_sources: 3
 
 ---

@@ -1,5 +1,5 @@
-#heterobasidion_abietinum 
-#no_sources: 1
+#heterobasidion_abietinum
+#no_sources: 2
 
 ---
 latin_name: Heterobasidion abietinum
@@ -40,3 +40,16 @@ Korzeniowiec jodłowy uważany jest za jedną z najszkodliwszych hub całej Euro
 
 ## Zastosowanie
 Korzeniowiec jodłowy podobnie jak jego kuzyni nie miał dotychczas jakichkolwiek zastosowań. Skoro jednak z korzeniowca sosnowego teoretycznie dałoby się uzyskiwać lekarstwa to może także jodłowy i drobnopory (świerkowy) znalazły by zbliżone zastosowania w farmacji? Domniemane walory lecznicze tych hub wymagają dalszych obserwacji.
+
+
+---
+latin_name: Heterobasidion abietinum
+polish_name: Korzeniowiec jodłowy
+source: https://grzyby.pl/gatunki/Heterobasidion_abietinum.htm
+---
+
+# Korzeniowiec jodłowy
+
+## Występowanie, ekologia
+
+W lasach, na drewnie jodły i świerka.

@@ -1,5 +1,18 @@
-#mycena_meliigena 
-#no_sources: 1
+#mycena_meliigena
+#no_sources: 2
+
+---
+latin_name: Mycena meliigena
+polish_name: Grzybówka purpurowobrązowa
+source: https://grzyby.pl/gatunki/Mycena_meliigena.htm
+---
+
+# Grzybówka purpurowobrązowa
+
+## Występowanie, ekologia
+
+Na pniach, gałązkach i korze drzew liściastych, wśród mchów.
+
 
 ---
 latin_name: Mycena meliigena

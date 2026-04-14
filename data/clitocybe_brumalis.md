@@ -1,4 +1,4 @@
-#clitocybe_brumalis 
+#clitocybe_brumalis
 #no_sources: 2
 
 ---

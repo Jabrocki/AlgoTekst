@@ -1,4 +1,4 @@
-#stropharia_hornemannii 
+#stropharia_hornemannii
 #no_sources: 2
 
 ---

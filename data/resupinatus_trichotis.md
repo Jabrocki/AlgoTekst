@@ -1,4 +1,4 @@
-#resupinatus_trichotis 
+#resupinatus_trichotis
 #no_sources: 2
 
 ---

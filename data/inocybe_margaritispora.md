@@ -1,4 +1,4 @@
-#inocybe_margaritispora 
+#inocybe_margaritispora
 #no_sources: 2
 
 ---

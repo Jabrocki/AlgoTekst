@@ -1,4 +1,4 @@
-#steinia_geophana 
+#steinia_geophana
 #no_sources: 1
 
 ---

@@ -1,5 +1,5 @@
-#russula_maculata 
-#no_sources: 2
+#russula_maculata
+#no_sources: 3
 
 ---
 latin_name: Russula maculata
@@ -36,6 +36,19 @@ Gołąbek plamisty nie posiada żadnych właściwości .
 
 ## Zastosowanie
 Gołąbek plamisty jest to grzyb niejadalny.
+
+
+---
+latin_name: Russula maculata
+polish_name: Gołąbek plamisty
+source: https://grzyby.pl/gatunki/Russula_maculata.htm
+---
+
+# Gołąbek plamisty
+
+## Występowanie, ekologia
+
+W lasach liściastych, pod różnymi gatunkami drzew.
 
 
 ---

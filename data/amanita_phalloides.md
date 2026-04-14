@@ -1,5 +1,5 @@
-#amanita_phalloides 
-#no_sources: 3
+#amanita_phalloides
+#no_sources: 4
 
 ---
 latin_name: Amanita phalloides
@@ -55,23 +55,36 @@ Zdarza się, że mało wprawieni grzybiarze mylą muchomora sromotnikowego z jad
 
 ---
 latin_name: Amanita phalloides
-polish_name: Muchomor zielonawy
-source: https://grzyby.pl/gatunki/Amanita_phalloides.htm
+polish_name: Muchomor zielonawy odm. biała
+source: https://grzyby.pl/gatunki/Amanita_phalloides_var._alba.htm
 ---
 
-# Muchomor zielonawy
+# Muchomor zielonawy odm. biała
 
-## Owocnik
+## Cechy makroskopowe
 
-**Kapelusz** zielonawy w różnych odcieniach , jaśniejszy lub ciemniejszy, żółtawozielony, oliwkowozielonkawy, oliwkowobrązowy, silnie blednący i płowiejący z wiekiem, charakterystyczne są promieniście wrośnięte w skórkę kapelusza ciemniejsze włókienka , brzeg jaśniejszy; u formy albinotycznej muchomor zielonawy odm. biała ( Amanita phalloides var. alba ) kapelusz jest biały; średnicy (50) 60 - 120 (150) mm, początkowo półkulisty, potem wypukły do rozpostartego; powierzchnia kapelusza bez resztek osłony lub pojedyncze, białe, luźno przylegające duże łatki; powierzchnia gładka, w czasie wilgotnej pogody lepkawa, sucha błyszcząca; brzeg kapelusza nie prążkowany lub nieznacznie u starych egzemplarzy. **Blaszki** białe , z wiekiem kremowe, kremowozielonkawe; gęste; średnio szerokie; wolne. **Trzon** białawy z żółtawym lub zielonkawym odcieniem i zygzakowatymi wzorkami, powierzchnia w górnej części naga, ku podstawie nieco omszona, czasem z przylegającymi łuseczkami; 80-150 (210) x 8-15 (25) mm, nieco zwężający się ku górze; pełny, z wiekiem watowaty; podstawa, trzonu, zagłębiona w ziemi, bulwiasto zgrubiała i otoczona wyraźną, dobrze rozwiniętą, wysoką, odstającą, białą pochwą , podczas wyciągania z podłoża i u starych owocników pochwa może być uszkodzona i niewyraźna. **Pierścień** wyraźny, zwieszony; biały; gładki lub słabo bruzdowany, zwłaszcza u starszych owocników może nie być widoczny. **Miąższ** biały, pod skórką kapelusza słabo żółtozielony; niezmienny; w kapeluszu miękki, w trzonie twardy; zapach intensywny, zwłaszcza u dojrzałych okazów; słodkawy (podobny do zapachu sztucznego miodu) ; smak łagodny i słodkawy (lekko orzechowy) - nie przeprowadzać próby smakowej - ktoś już to zrobił za ciebie!
+Kapelusz o średnicy od 5 do 15 cm; biały, ewentualnie z bardzo słabym zielonym odcieniem, co jest lepiej widoczne u wysuszonych egzemplarzy. Kapelusz początkowo półkulisty, potem wypukły do rozpostartego. Powierzchnia kapelusza zwykle bez łatek, gładka, w czasie wilgotnej pogody nieco lepka, sucha błyszcząca. Trzon biały. Podstawa trzonu jest zagłębiona w ziemi, bulwiasto zgrubiała i otoczona wyraźną, dobrze rozwiniętą, wysoką, odstającą, białą pochwą, podczas wyciągania z podłoża i u starych owocników pochwa może być uszkodzona i niewyraźna.. Pierścień wyraźny, zwieszony; biały; może być zerwany podczas wzrostu lub przez czynniki zewnętrzne, u starszych owocników zanika, może nie być widoczny. **Barwa wysypu zarodników** biała.
 
 ## Zarodniki
 
-Wysyp zarodników biały. Zarodniki prawie kuliste do szerokoelipsoidalnych, gładkie, bezbarwne, amyloidalne, 7-12 x 6-8 µm.
+Zarodniki prawie kuliste do szerokoelipsoidalnych, gładkie, bezbarwne, amyloidalne, 7-12 x 6-8 µm.|Spore print white. Spores subglobose to broad elipsoid, smooth, hialine, 7-12 x 6-8 µm.
+
+## Jadalne czy trujące? 🔴 ☠
+
+Śmiertelnie trujący, tak samo jak muchomor zielonawy ( Amanita phalloides ) /.
 
 ## Występowanie
 
-Częsty. Owocniki wyrastają od lata do jesieni, pojedynczo lub w grupach po kilka, w lasach liściastych (pod dębami i bukami, może też współżyć z brzozą) i mieszanych, rzadziej w lasach iglastych (sosna). Lubi zasobne gleby.
+Rzadko spotykana forma albinotyczna muchomora zielonawego ( Amanita phalloides ) /. Najczęściej wyrasta w lasach liściastych.
+
+## Mylenie z pieczarkami
+
+W przypadku białej odmiany muchomora zielonawego ( Amanita phalloides ) / istnieje szczególne ryzyko pomyłki z zbieranymi do jedzenia białymi grzybami jak np. pieczarki. - pieczarki jedynie w młodości mają białe blaszki; szybko, wraz z rozwojem, blaszki pieczarek stają się różowe, następnie brązowe lub czarne – muchomory przez cały czas rozwoju mają jasne białe, kremowe lub zielonkawe blaszki - gatunki pieczarki zbierane do konsumpcji nie mają rozwiniętej pochwy u podstawy trzonu, podczas gdy niebezpiecznie trujące muchomory mają podstawę trzonu bulwiasto zgrubiałą i otoczoną pochwą
+
+## Uwagi
+
+U wysuszonych owocników powierzchnia kapelusza może mieć zielonkawy odcień, podobny do tego jaki ma typowa forma tego gatunku.
+h liściastych (pod dębami i bukami, może też współżyć z brzozą) i mieszanych, rzadziej w lasach iglastych (sosna). Lubi zasobne gleby.
 
 ## Jadalne czy trujące? 🔴 ☠
 
@@ -94,6 +107,35 @@ W potocznym języku (także często w mediach) określa się ten gatunek (Amanit
 ## Amanita citrina pers. muchomor cytrynowy
 
 Spotkałem się z częstym braniem muchomora cytrynowego ( Amanita citrina ) za muchomora zielonawego (sromotnikowego). Jedynie z barwy są one nieco podobne. Muchomor cytrynowy ma jednak zupełnie odmienną osłonę (łatki). Osłona jest grubsza, silniejsze, zwykle resztki pozostają w formie przylegających łatek na powierzchni kapelusza. Podstawa trzonu jest silnie bulwiasta, ale bez odstającej pochwy. Zapach muchomora cytrynowego jest bardzo charakterystyczny - intensywny, przypominający surowe ziemniaki. Muchomor cytrynowy jest słabo trujący i nie wywołuje ciężkich zatruć w typie Amanita phalloides.
+
+
+---
+latin_name: Amanita phalloides-virosa-verna-synonimy
+polish_name: Porównanie, synonimy grupy gatunków
+source: https://grzyby.pl/gatunki/Amanita_phalloides-virosa-verna-synonimy.htm
+---
+
+# Porównanie, synonimy grupy gatunków
+
+## Uwagi
+
+Na tej stronie są zestawione nazwy stosowane dla 3 gatunków muchomorów. Ponieważ Amanita virosa i Amanita verna były zamiennie stosowane przez różnych autorów, a doszła do tego synonimika odmian i podgatunków powstało spore zamieszanie.
+
+## Amanita virosa bertill. muchomor jadowity
+
+Gonn. & Rabenh.; basionym - Agaricus virosus Fr., (1838); Saccardo's Syll. fung. V: 10; Agaricus virosus Fr., Epicrisis systematis mycologici (Uppsala): 3 (1838); syn. Amanita verna sensu Rea (1922)
+
+## Amanita verna bull. ex lam. muchomor wiosenny
+
+(Bull.: Fr) Lamarck Fries - Saccardo's Syll. fung. V: 10, 67; XII: 906; syn. Agaricus bulbosus f. vernus Bull.; Agaricus vernus Fr., Herbier de la France: pl. 108 (1782); Amanita phalloides var. verna (Bull.) Lanzi , Bull. Soc. Hist. nat. Afr. N. 7: 145 (1916) pokroju podobnego do muchomora zielonawego ( Amanita phalloides ) ale owocniki mniejsze, średnica kapelusza 60-80 (110) mm; kapelusz i trzon czysto białe bez barwnych włókienek; trzon poniżej pierścienia jedynie z drobnymi przylegającymi kłaczkami (różnica w stosunku do muchomora jadowitego ( Amanita virosa ) ); z KOH brak reakcji kapelusz półkulisty, potem wypukły o powierzchni drobno włókienkowatej; Prawdopodobnie w Polsce nie występuje a podawane znaleziska to zapewne muchomor jadowity ( Amanita virosa ) / lub muchomor zielonawy odm. biała ( Amanita phalloides var. alba ) [105 ]. Amanita verna to gatunek ciepłolubny, spotykany w rejonie śródziemnomorskim.
+
+## Amanita phalloides (fr.) link muchomor zielonawy
+
+Fries - Agaricus phalloides Fr., Syst. mycol. (Lundae) 1: 13 (1821) kapelusz 80-160 mm średnicy, zielony z wrośniętymi, ciemniejszymi włókienkami; trzon zielonkawy z zygzakowatym wzorkiem; trzon poniżej pierścienia nagi lub z drobnymi przylegającymi kłaczkami; w lasach liściastych pod dębami, grabami, bukami, bardzo rzadko w iglastych
+
+## Amanita phalloides var. alba (vittadini) j.-e. gilbert muchomor zielonawy odm. biała
+
+(Vittaldini) J.-E. Gilbert jak powyższy ale forma albinotyczne; wszystkie części owocnika białe; od muchomora wiosennego ( Amanita verna ) można odróżnić po promieniście rozmieszczonych włókienkach w kapeluszu i nieznacznie mniejszych zarodnikach
 
 
 ---

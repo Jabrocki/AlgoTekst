@@ -1,4 +1,4 @@
-#laetiporus_sulphureus 
+#laetiporus_sulphureus
 #no_sources: 3
 
 ---

@@ -1,5 +1,5 @@
-#picipes_rhizophilus 
-#no_sources: 1
+#picipes_rhizophilus
+#no_sources: 2
 
 ---
 latin_name: Picipes rhizophilus
@@ -42,3 +42,18 @@ Czarnostopka korzonkowa to gatunek o miernym smaku i drobnych rozmiarach, ściś
 
 ## Zastosowanie
 W Polsce i dalej na zachodzie Europy czarnostopka korzonkowa nie znajduje zastosowań z racji skrajnej rzadkości oraz ochrony gatunkowej . Bywa poszukiwana przez naukowców, tak zawodowców jak amatorów, jako osobliwość i relikt bardziej stepowych faz klimatu .
+
+
+---
+latin_name: Picipes rhizophilus
+polish_name: Czarnostopka korzonkowa
+source: https://grzyby.pl/gatunki/Polyporus_rhizophilus.htm
+---
+
+# Czarnostopka korzonkowa
+
+## Występowanie, ekologia
+
+Na korzeniach ostnica włosowata ( Stipa capillata ) .
+
+Czerwona Lista [125 ] — E–wymierający - krytycznie zagrożony

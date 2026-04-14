@@ -1,4 +1,4 @@
-#geastrum_fornicatum 
+#geastrum_fornicatum
 #no_sources: 2
 
 ---

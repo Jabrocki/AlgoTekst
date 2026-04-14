@@ -1,4 +1,4 @@
-#cladonia_macroceras 
+#cladonia_macroceras
 #no_sources: 1
 
 ---

@@ -1,5 +1,22 @@
-#ramaria_stricta 
-#no_sources: 1
+#ramaria_stricta
+#no_sources: 2
+
+---
+latin_name: Ramaria stricta
+polish_name: Koralówka sztywna
+source: https://grzyby.pl/gatunki/Ramaria_stricta.htm
+---
+
+# Koralówka sztywna
+
+## Występowanie, ekologia
+
+W lasach różnego typu, na ziemi, przy pniach i na pniach i opadłych zmurszałych gałęziach, na ściółce leśnej; wrzesień-listopad.
+
+## Jadalne czy trujące? 🟡
+
+Niejadalny. [134 ]
+
 
 ---
 latin_name: Ramaria stricta

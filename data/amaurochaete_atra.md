@@ -1,4 +1,4 @@
-#amaurochaete_atra 
+#amaurochaete_atra
 #no_sources: 1
 
 ---

@@ -1,5 +1,14 @@
-#cladonia_merochlorophaea 
-#no_sources: 1
+#cladonia_merochlorophaea
+#no_sources: 2
+
+---
+latin_name: Cladonia merochlorophaea
+polish_name: Chrobotek pozorny
+source: https://grzyby.pl/gatunki/Cladonia_merochlorophaea.htm
+---
+
+# Chrobotek pozorny
+
 
 ---
 latin_name: Cladonia merochlorophaea

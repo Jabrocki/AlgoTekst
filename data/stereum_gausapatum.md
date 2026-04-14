@@ -1,5 +1,5 @@
-#stereum_gausapatum 
-#no_sources: 2
+#stereum_gausapatum
+#no_sources: 3
 
 ---
 latin_name: Stereum gausapatum
@@ -42,6 +42,19 @@ Skórnik dębowy jako grzyb porażający już zamierające drzewa, rozwijający 
 
 ## Zastosowanie
 Obecnie skórnik dębowy nie znajduje zastosowań gospodarczych, naukowych ani leczniczych. Z owocników skórników próbowano dawniej wyodrębnić ciała czynne, zwalczające nowotwory, zwane neoplastonami, jednak się nie udało.
+
+
+---
+latin_name: Stereum gausapatum
+polish_name: Skórnik dębowy
+source: https://grzyby.pl/gatunki/Stereum_gausapatum.htm
+---
+
+# Skórnik dębowy
+
+## Występowanie, ekologia
+
+W lasach na pniach, pniakach i gałęziach drzew liściastych, najczęściej na dębach, rzadko na brzozach i leszczynie; kwiecień-grudzień.
 
 
 ---

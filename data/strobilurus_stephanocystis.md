@@ -1,4 +1,4 @@
-#strobilurus_stephanocystis 
+#strobilurus_stephanocystis
 #no_sources: 2
 
 ---

@@ -1,5 +1,18 @@
-#mycena_abramsii 
-#no_sources: 1
+#mycena_abramsii
+#no_sources: 2
+
+---
+latin_name: Mycena abramsii
+polish_name: Grzybówka wczesna
+source: https://grzyby.pl/gatunki/Mycena_abramsii.htm
+---
+
+# Grzybówka wczesna
+
+## Występowanie, ekologia
+
+W lasach, na zmurszałym drewnie, zwykle obrośniętym mchami, zwykle na drewnie dębów, jodeł i buków; maj-wrzesień.
+
 
 ---
 latin_name: Mycena abramsii

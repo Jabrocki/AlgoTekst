@@ -1,4 +1,4 @@
-#mycena_vulgaris 
+#mycena_vulgaris
 #no_sources: 2
 
 ---

@@ -1,5 +1,14 @@
-#candelaria_concolor 
-#no_sources: 1
+#candelaria_concolor
+#no_sources: 2
+
+---
+latin_name: Candelaria concolor
+polish_name: Świetlinka pospolita
+source: https://grzyby.pl/gatunki/Candelaria_concolor.htm
+---
+
+# Świetlinka pospolita
+
 
 ---
 latin_name: Candelaria concolor

@@ -1,4 +1,4 @@
-#macrolepiota_mastoidea 
+#macrolepiota_mastoidea
 #no_sources: 3
 
 ---

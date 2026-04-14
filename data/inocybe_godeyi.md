@@ -1,5 +1,24 @@
-#inocybe_godeyi 
-#no_sources: 1
+#inocybe_godeyi
+#no_sources: 2
+
+---
+latin_name: Inocybe godeyi
+polish_name: Strzępiak czerwieniejący
+source: https://grzyby.pl/gatunki/Inocybe_godeyi.htm
+---
+
+# Strzępiak czerwieniejący
+
+## Występowanie
+
+Na ziemi, pod drzewami liściastymi, na glebach wapiennych; sierpień-październik.
+
+Czerwona Lista [125 ] — R–rzadki - potencjalnie zagrożony wymarciem
+
+## Jadalne czy trujące? 🟢
+
+Jadalny [105 ], choć tylko teoretycznie z uwagi na drobne rozmiary i trudność rozróżnienia od innych podobnych gatunków.
+
 
 ---
 latin_name: Inocybe godeyi

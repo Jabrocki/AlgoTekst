@@ -1,5 +1,20 @@
-#hygrocybe_intermedia 
-#no_sources: 1
+#hygrocybe_intermedia
+#no_sources: 2
+
+---
+latin_name: Hygrocybe intermedia
+polish_name: Wilgotnica nielepka
+source: https://grzyby.pl/gatunki/Hygrocybe_intermedia.htm
+---
+
+# Wilgotnica nielepka
+
+## Występowanie, ekologia
+
+Na terenach trawiastych; na ziemi.
+
+Czerwona Lista [125 ] — E–wymierający - krytycznie zagrożony
+
 
 ---
 latin_name: Hygrocybe intermedia

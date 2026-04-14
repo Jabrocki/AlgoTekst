@@ -1,4 +1,4 @@
-#tricholoma_vaccinum 
+#tricholoma_vaccinum
 #no_sources: 3
 
 ---

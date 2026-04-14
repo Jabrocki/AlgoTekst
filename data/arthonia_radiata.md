@@ -1,5 +1,14 @@
-#arthonia_radiata 
-#no_sources: 1
+#arthonia_radiata
+#no_sources: 2
+
+---
+latin_name: Arthonia radiata
+polish_name: Plamica promienista
+source: https://grzyby.pl/gatunki/Arthonia_radiata.htm
+---
+
+# Plamica promienista
+
 
 ---
 latin_name: Arthonia radiata

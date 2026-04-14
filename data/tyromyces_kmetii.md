@@ -1,5 +1,18 @@
-#tyromyces_kmetii 
-#no_sources: 1
+#tyromyces_kmetii
+#no_sources: 2
+
+---
+latin_name: Tyromyces kmetii
+polish_name: Białak jasnopomarańczowy
+source: https://grzyby.pl/gatunki/Tyromyces_kmetii.htm
+---
+
+# Białak jasnopomarańczowy
+
+## Występowanie, ekologia
+
+Na martwym drewnie drzew liściastych. Powoduje białą zgniliznę drewna .
+
 
 ---
 latin_name: Tyromyces kmetii

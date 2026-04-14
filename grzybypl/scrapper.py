@@ -126,13 +126,6 @@ def scrap_from_url_grzybypl(url: str, visited: set[str]) -> list[str]:
         if texts:
             collected_sections.append((title, texts))
 
-    if (
-        len(collected_sections) <= 2
-        and len("".join(text for _, texts in collected_sections for text in texts))
-        <= 500
-    ):
-        return new_links
-
     mushroom_filename = latin_name.replace(" ", "_").lower() + "_grzybypl.md"
     mushroom_path = os.path.join(os.curdir, "data", mushroom_filename)
 

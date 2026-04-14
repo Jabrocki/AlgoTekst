@@ -1,4 +1,4 @@
-#russula_risigallina 
+#russula_risigallina
 #no_sources: 2
 
 ---

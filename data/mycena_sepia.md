@@ -1,4 +1,4 @@
-#mycena_sepia 
+#mycena_sepia
 #no_sources: 1
 
 ---

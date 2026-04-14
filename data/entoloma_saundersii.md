@@ -1,4 +1,4 @@
-#entoloma_saundersii 
+#entoloma_saundersii
 #no_sources: 1
 
 ---

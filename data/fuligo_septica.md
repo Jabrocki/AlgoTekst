@@ -1,4 +1,4 @@
-#fuligo_septica 
+#fuligo_septica
 #no_sources: 3
 
 ---

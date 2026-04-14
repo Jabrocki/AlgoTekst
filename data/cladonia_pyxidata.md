@@ -1,4 +1,4 @@
-#cladonia_pyxidata 
+#cladonia_pyxidata
 #no_sources: 1
 
 ---

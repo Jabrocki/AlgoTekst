@@ -1,4 +1,4 @@
-#armillaria_gallica 
+#armillaria_gallica
 #no_sources: 2
 
 ---

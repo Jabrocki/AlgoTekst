@@ -1,5 +1,18 @@
-#panaeolus_guttulatus 
-#no_sources: 1
+#panaeolus_guttulatus
+#no_sources: 2
+
+---
+latin_name: Panaeolus guttulatus
+polish_name: Kołpaczek kropelkowaty
+source: https://grzyby.pl/gatunki/Panaeolus_guttulatus.htm
+---
+
+# Kołpaczek kropelkowaty
+
+## Występowanie, ekologia
+
+W lasach mieszanych; na ziemi.
+
 
 ---
 latin_name: Panaeolus  guttulatus

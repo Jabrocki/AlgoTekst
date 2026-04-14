@@ -1,5 +1,14 @@
-#hortiboletus_bubalinus 
-#no_sources: 1
+#hortiboletus_bubalinus
+#no_sources: 2
+
+---
+latin_name: Hortiboletus bubalinus
+polish_name: Parkogrzybek morelowy
+source: https://grzyby.pl/gatunki/Xerocomus_bubalinus.htm
+---
+
+# Parkogrzybek morelowy
+
 
 ---
 latin_name: Hortiboletus bubalinus

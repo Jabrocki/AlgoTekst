@@ -1,5 +1,14 @@
-#acarospora_nitrophila 
-#no_sources: 1
+#acarospora_nitrophila
+#no_sources: 2
+
+---
+latin_name: Acarospora nitrophila
+polish_name: Wielosporek ptasi
+source: https://grzyby.pl/gatunki/Acarospora_nitrophila.htm
+---
+
+# Wielosporek ptasi
+
 
 ---
 latin_name: Acarospora nitrophila

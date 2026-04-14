@@ -1,5 +1,14 @@
-#peltigera_membranacea 
-#no_sources: 1
+#peltigera_membranacea
+#no_sources: 2
+
+---
+latin_name: Peltigera membranacea
+polish_name: Pawężnica pergaminowa
+source: https://grzyby.pl/gatunki/Peltigera_membranacea.htm
+---
+
+# Pawężnica pergaminowa
+
 
 ---
 latin_name: Peltigera membranacea

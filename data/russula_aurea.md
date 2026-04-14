@@ -1,4 +1,4 @@
-#russula_aurea 
+#russula_aurea
 #no_sources: 3
 
 ---

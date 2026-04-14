@@ -1,5 +1,5 @@
-#tuber_magnatum 
-#no_sources: 2
+#tuber_magnatum
+#no_sources: 3
 
 ---
 latin_name: Tuber magnatum
@@ -47,6 +47,23 @@ Można ją zastosować zarówno jako głównym składnik w danej potrawie, jak i
 Jak smakuje ten grzyb?
 
 Trudno go porównać z czymkolwiek innym – biała trufla to gatunek jedyny w swoim rodzaju, niepodobny w smaku do innych. Określa się go jako orzechowo-kremowy.
+
+
+---
+latin_name: Tuber magnatum
+polish_name: Trufla biała
+source: https://grzyby.pl/gatunki/Tuber_magnatum.htm
+---
+
+# Trufla biała
+
+## Występowanie, ekologia
+
+Owocniki podziemne. W ciepłych rejonach Europy, na wapieniach, pod drzewami liściastymi.
+
+## Jadalne czy trujące? 🟢!
+
+Jadalna, o wspaniałym aromacie. Bardzo wysoko ceniona "trufla biała". [134 ]
 
 
 ---

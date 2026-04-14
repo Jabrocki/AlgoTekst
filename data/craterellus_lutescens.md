@@ -1,4 +1,4 @@
-#craterellus_lutescens 
+#craterellus_lutescens
 #no_sources: 3
 
 ---

@@ -1,5 +1,18 @@
-#ciboria_caucus 
-#no_sources: 1
+#ciboria_caucus
+#no_sources: 2
+
+---
+latin_name: Ciboria caucus
+polish_name: Kubianka wierzbowa
+source: https://grzyby.pl/gatunki/Ciboria_caucus.htm
+---
+
+# Kubianka wierzbowa
+
+## Występowanie, ekologia
+
+Na opadłych kotkach topoli i wierzb.
+
 
 ---
 latin_name: Ciboria caucus

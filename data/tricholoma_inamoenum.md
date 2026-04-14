@@ -1,5 +1,5 @@
-#tricholoma_inamoenum 
-#no_sources: 1
+#tricholoma_inamoenum
+#no_sources: 2
 
 ---
 latin_name: Tricholoma inamoenum
@@ -44,3 +44,16 @@ Gąska nieprzyjemna jest niejadalna. Zbierając gąskę gołębią należy zacho
 
 ## Zastosowanie
 Obecnie brak zastosowania gąski nieprzyjemnej, aczkolwiek od lat bada się enzymy i metabolity wtórne tej gąski pod kątem ich potencjalnych właściwości przeciwutleniających i nicieniobójczych.
+
+
+---
+latin_name: Tricholoma inamoenum
+polish_name: Gąska nieprzyjemna
+source: https://grzyby.pl/gatunki/Tricholoma_inamoenum.htm
+---
+
+# Gąska nieprzyjemna
+
+## Występowanie, ekologia
+
+Najczęściej w lasach iglastych, rzadko w liściastych; wrzesień-październik.

@@ -1,5 +1,5 @@
-#hydnellum_concrescens 
-#no_sources: 2
+#hydnellum_concrescens
+#no_sources: 3
 
 ---
 latin_name: Hydnellum concrescens
@@ -42,6 +42,21 @@ Kolczakówka strefowana to grzyb niejadalny . Skrajnie rzadki i prawem chroniony
 Dawniej podobnie jak pozostałe kolczakówki, kolczakówka strefowana używana była do barwienia tkanin . Zależnie od obróbki można było z tego grzyba uzyskać barwniki żółte bądź fioletowe.
 
 Od kilku lat trwają próby wykorzystania substancji czynnych (konkresceniny, telefantyny, kurtyzjanu A oraz innych terpenoidów) z kolczakówki strefowanej w leczeniu cukrzycy. Spore nadzieje wiąże się również z aktywnością przeciwwirusową i przeciwnowotworową niektórych glikoprotein z tej kolczakówki.
+
+
+---
+latin_name: Hydnellum concrescens
+polish_name: Kolczakówka strefowana
+source: https://grzyby.pl/gatunki/Hydnellum_concrescens.htm
+---
+
+# Kolczakówka strefowana
+
+## Występowanie, ekologia
+
+W lasach różnego typu, w tym borach sosnowych z wrzosami, lasach bukowo-świerkowych; na ziemi, wśród mchów i opadłych liści; sierpień-październik.
+
+Czerwona Lista [125 ] — E–wymierający - krytycznie zagrożony
 
 
 ---

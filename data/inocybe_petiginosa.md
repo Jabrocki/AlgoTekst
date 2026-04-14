@@ -1,4 +1,4 @@
-#inocybe_petiginosa 
+#inocybe_petiginosa
 #no_sources: 2
 
 ---

@@ -1,5 +1,14 @@
-#cetraria_aculeata 
-#no_sources: 1
+#cetraria_aculeata
+#no_sources: 2
+
+---
+latin_name: Cetraria aculeata
+polish_name: Płucnica kolczasta
+source: https://grzyby.pl/gatunki/Cetraria_aculeata.htm
+---
+
+# Płucnica kolczasta
+
 
 ---
 latin_name: Cetraria aculeata

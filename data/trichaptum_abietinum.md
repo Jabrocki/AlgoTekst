@@ -1,4 +1,4 @@
-#trichaptum_abietinum 
+#trichaptum_abietinum
 #no_sources: 2
 
 ---

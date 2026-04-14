@@ -1,4 +1,4 @@
-#butyriboletus_regius 
+#butyriboletus_regius
 #no_sources: 3
 
 ---

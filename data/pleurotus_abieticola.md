@@ -1,4 +1,4 @@
-#pleurotus_abieticola 
+#pleurotus_abieticola
 #no_sources: 1
 
 ---

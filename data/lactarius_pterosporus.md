@@ -1,5 +1,18 @@
-#lactarius_pterosporus 
-#no_sources: 1
+#lactarius_pterosporus
+#no_sources: 2
+
+---
+latin_name: Lactarius pterosporus
+polish_name: Mleczaj pomarszczony
+source: https://grzyby.pl/gatunki/Lactarius_pterosporus.htm
+---
+
+# Mleczaj pomarszczony
+
+## Występowanie, ekologia
+
+Pod bukami; na ziemi.
+
 
 ---
 latin_name: Lactarius pterosporus

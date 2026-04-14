@@ -1,4 +1,4 @@
-#auricularia_nigricans 
+#auricularia_nigricans
 #no_sources: 2
 
 ---

@@ -1,5 +1,14 @@
-#amandinea_punctata 
-#no_sources: 1
+#amandinea_punctata
+#no_sources: 2
+
+---
+latin_name: Amandinea punctata
+polish_name: Brudziec kropkowaty
+source: https://grzyby.pl/gatunki/Amandinea_punctata.htm
+---
+
+# Brudziec kropkowaty
+
 
 ---
 latin_name: Amandinea punctata

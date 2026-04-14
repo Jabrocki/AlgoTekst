@@ -1,5 +1,5 @@
-#agaricus_dulcidulus 
-#no_sources: 2
+#agaricus_dulcidulus
+#no_sources: 3
 
 ---
 latin_name: Agaricus dulcidulus
@@ -40,6 +40,25 @@ Pieczarka purpurowa to grzyb jadalny . Pieczarki ogólnie są dobrym źródłem 
 
 ## Zastosowanie
 Znaczenie kulinarne pieczarki purpurowej nie jest duże z powodu małych rozmiarów owocników i niewielkiej liczebności populacji .
+
+
+---
+latin_name: Agaricus dulcidulus
+polish_name: Pieczarka purpurowowłókienkowata
+source: https://grzyby.pl/gatunki/Agaricus_dulcidulus.htm
+---
+
+# Pieczarka purpurowowłókienkowata
+
+## Występowanie, ekologia
+
+Lasy liściaste i iglaste z jodłą, zarośla jałowca, pastwiska; na ziemi; czerwiec-październik.
+
+Czerwona Lista [125 ] — V–narażony na wymarcie
+
+## Jadalne czy trujące? 🟢
+
+Jadalna [105 ] [134 ] ale zbyt drobna i rzadka aby miała znaczenie dla grzybiarzy.
 
 
 ---

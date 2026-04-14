@@ -1,4 +1,4 @@
-#ramaria_pallida 
+#ramaria_pallida
 #no_sources: 3
 
 ---

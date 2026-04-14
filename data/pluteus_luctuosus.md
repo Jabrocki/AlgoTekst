@@ -1,5 +1,18 @@
-#pluteus_luctuosus 
-#no_sources: 1
+#pluteus_luctuosus
+#no_sources: 2
+
+---
+latin_name: Pluteus luctuosus
+polish_name: Drobnołuszczak brązowoostrzowy
+source: https://grzyby.pl/gatunki/Pluteus_luctuosus.htm
+---
+
+# Drobnołuszczak brązowoostrzowy
+
+## Występowanie, ekologia
+
+Na pniakach; latem.
+
 
 ---
 latin_name: Pluteus luctuosus

@@ -1,5 +1,14 @@
-#butyriboletus_fuscoroseus 
-#no_sources: 1
+#butyriboletus_fuscoroseus
+#no_sources: 2
+
+---
+latin_name: Butyriboletus fuscoroseus
+polish_name: Masłoborowik brązoworóżowy
+source: https://grzyby.pl/gatunki/Butyriboletus_fuscoroseus.htm
+---
+
+# Masłoborowik brązoworóżowy
+
 
 ---
 latin_name: Butyriboletus fuscoroseus

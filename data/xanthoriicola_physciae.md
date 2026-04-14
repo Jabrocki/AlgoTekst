@@ -1,5 +1,14 @@
-#xanthoriicola_physciae 
-#no_sources: 1
+#xanthoriicola_physciae
+#no_sources: 2
+
+---
+latin_name: Xanthoriicola physciae
+polish_name: Złotorostnica orostowa
+source: https://grzyby.pl/gatunki/Xanthoriicola_physciae.htm
+---
+
+# Złotorostnica orostowa
+
 
 ---
 latin_name: Xanthoriicola physciae

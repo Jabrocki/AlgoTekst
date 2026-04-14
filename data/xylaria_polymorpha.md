@@ -1,4 +1,4 @@
-#xylaria_polymorpha 
+#xylaria_polymorpha
 #no_sources: 3
 
 ---

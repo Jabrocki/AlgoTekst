@@ -1,5 +1,5 @@
-#mutinus_elegans 
-#no_sources: 2
+#mutinus_elegans
+#no_sources: 3
 
 ---
 latin_name: Mutinus elegans
@@ -36,6 +36,15 @@ Mądziak śliczny jest jedynym podstawczakiem, który posiada właściwości prz
 
 ## Zastosowanie
 Niektóre źródła podają, że niedojrzałe formy mądziaka ślicznego w formie jaj są jadalne , ale “niezalecane” do spożycia. W Polsce grzyb uznany jest za niejadalny. .
+
+
+---
+latin_name: Mutinus elegans
+polish_name: Mądziak śliczny
+source: https://grzyby.pl/gatunki/Mutinus_elegans.htm
+---
+
+# Mądziak śliczny
 
 
 ---

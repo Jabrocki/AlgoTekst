@@ -1,4 +1,4 @@
-#lecidea_lithophila 
+#lecidea_lithophila
 #no_sources: 1
 
 ---

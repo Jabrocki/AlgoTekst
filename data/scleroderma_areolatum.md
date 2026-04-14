@@ -1,4 +1,4 @@
-#scleroderma_areolatum 
+#scleroderma_areolatum
 #no_sources: 2
 
 ---

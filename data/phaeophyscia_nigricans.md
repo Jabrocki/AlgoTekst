@@ -1,5 +1,14 @@
-#phaeophyscia_nigricans 
-#no_sources: 1
+#phaeophyscia_nigricans
+#no_sources: 2
+
+---
+latin_name: Phaeophyscia nigricans
+polish_name: Orzast czarniawy
+source: https://grzyby.pl/gatunki/Phaeophyscia_nigricans.htm
+---
+
+# Orzast czarniawy
+
 
 ---
 latin_name: Phaeophyscia nigricans

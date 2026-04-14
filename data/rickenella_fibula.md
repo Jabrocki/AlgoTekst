@@ -1,5 +1,18 @@
-#rickenella_fibula 
-#no_sources: 1
+#rickenella_fibula
+#no_sources: 2
+
+---
+latin_name: Rickenella fibula
+polish_name: Spinka pomarańczowa
+source: https://grzyby.pl/gatunki/Rickenella_fibula.htm
+---
+
+# Spinka pomarańczowa
+
+## Występowanie, ekologia
+
+Gatunek pospolity. W lasach i zaroślach różnego typu, na pniakach, resztkach drewna, na ziemi, wśród mchów płonnik włosisty ( Polytrichum piliferum ) ; maj-październik.
+
 
 ---
 latin_name: Rickenella fibula

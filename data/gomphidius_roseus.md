@@ -1,4 +1,4 @@
-#gomphidius_roseus 
+#gomphidius_roseus
 #no_sources: 3
 
 ---

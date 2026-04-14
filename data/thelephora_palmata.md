@@ -1,4 +1,4 @@
-#thelephora_palmata 
+#thelephora_palmata
 #no_sources: 2
 
 ---

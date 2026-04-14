@@ -1,5 +1,14 @@
-#cladonia_pocillum 
-#no_sources: 1
+#cladonia_pocillum
+#no_sources: 2
+
+---
+latin_name: Cladonia pocillum
+polish_name: Chrobotek rozetkowy
+source: https://grzyby.pl/gatunki/Cladonia_pocillum.htm
+---
+
+# Chrobotek rozetkowy
+
 
 ---
 latin_name: Cladonia pocillum

@@ -1,5 +1,5 @@
-#russula_azurea 
-#no_sources: 2
+#russula_azurea
+#no_sources: 3
 
 ---
 latin_name: Russula azurea
@@ -25,6 +25,23 @@ Z ziem polskich gołąbka lazurowego podano z łódzkiego (okolice Pabianic), po
 ## Wygląd
 ## Właściwości
 ## Zastosowanie
+
+
+---
+latin_name: Russula azurea
+polish_name: Gołąbek lazurowy
+source: https://grzyby.pl/gatunki/Russula_azurea.htm
+---
+
+# Gołąbek lazurowy
+
+## Jadalne czy trujące? 🟢
+
+Jadalny. [105 ]
+
+## Występowanie, ekologia
+
+W lasach iglastych, pod świerkami i sosnami; czerwiec-październik.
 
 
 ---

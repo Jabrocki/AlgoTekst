@@ -1,4 +1,4 @@
-#lycoperdon_perlatum 
+#lycoperdon_perlatum
 #no_sources: 3
 
 ---

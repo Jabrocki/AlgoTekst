@@ -1,5 +1,14 @@
-#tricholoma_viridilutescens 
-#no_sources: 1
+#tricholoma_viridilutescens
+#no_sources: 2
+
+---
+latin_name: Tricholoma viridilutescens
+polish_name: Gąska oliwkowa
+source: https://grzyby.pl/gatunki/Tricholoma_viridilutescens.htm
+---
+
+# Gąska oliwkowa
+
 
 ---
 latin_name: Tricholoma viridilutescens

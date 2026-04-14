@@ -1,5 +1,5 @@
-#tricholoma_aurantium 
-#no_sources: 2
+#tricholoma_aurantium
+#no_sources: 3
 
 ---
 latin_name: Tricholoma aurantium
@@ -44,6 +44,21 @@ Gąska pomarańczowa jest bardzo gorzka w smaku, toteż niejadalna.
 Gąska pomarańczowa nie jest spożywana z racji rzadkości i ohydnego smaku, w Polsce także ochrony prawnej.
 
 Trwają za to wytężone badania trichoaurancjanolidów, niespotykanych u innych organizmów substancji z grupy laktonów dwuterpenowych. Wiąże się z nimi ogromne nadzieje jako antybiotykami przeciw grzybom i bakteriom .
+
+
+---
+latin_name: Tricholoma aurantium
+polish_name: Gąska pomarańczowa
+source: https://grzyby.pl/gatunki/Tricholoma_aurantium.htm
+---
+
+# Gąska pomarańczowa
+
+## Występowanie, ekologia
+
+W lasach różnego typu, pod drzewami liściastymi i świerkiem, na glebach wapiennych.
+
+Czerwona Lista [125 ] — R–rzadki - potencjalnie zagrożony wymarciem
 
 
 ---

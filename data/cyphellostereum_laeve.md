@@ -1,4 +1,4 @@
-#cyphellostereum_laeve 
+#cyphellostereum_laeve
 #no_sources: 1
 
 ---

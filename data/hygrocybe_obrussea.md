@@ -1,4 +1,4 @@
-#hygrocybe_obrussea 
+#hygrocybe_obrussea
 #no_sources: 1
 
 ---

@@ -1,5 +1,14 @@
-#anaptychia_ciliaris 
-#no_sources: 1
+#anaptychia_ciliaris
+#no_sources: 2
+
+---
+latin_name: Anaptychia ciliaris
+polish_name: Obrostnica rzęsowata
+source: https://grzyby.pl/gatunki/Anaptychia_ciliaris.htm
+---
+
+# Obrostnica rzęsowata
+
 
 ---
 latin_name: Anaptychia ciliaris

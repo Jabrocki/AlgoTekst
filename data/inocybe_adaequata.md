@@ -1,4 +1,4 @@
-#inocybe_adaequata 
+#inocybe_adaequata
 #no_sources: 1
 
 ---

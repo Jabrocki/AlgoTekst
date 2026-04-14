@@ -1,4 +1,4 @@
-#hygrocybe_coccinea 
+#hygrocybe_coccinea
 #no_sources: 2
 
 ---

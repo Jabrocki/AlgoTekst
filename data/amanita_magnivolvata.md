@@ -1,4 +1,4 @@
-#amanita_magnivolvata 
+#amanita_magnivolvata
 #no_sources: 2
 
 ---

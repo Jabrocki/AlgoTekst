@@ -1,5 +1,20 @@
-#phaeocollybia_christinae 
-#no_sources: 1
+#phaeocollybia_christinae
+#no_sources: 2
+
+---
+latin_name: Phaeocollybia christinae
+polish_name: Korzenianka marcepanowa
+source: https://grzyby.pl/gatunki/Phaeocollybia_christinae.htm
+---
+
+# Korzenianka marcepanowa
+
+## Występowanie, ekologia
+
+W lasach liściastych i mieszanych, na ziemi.
+
+Czerwona Lista [125 ] — V–narażony na wymarcie
+
 
 ---
 latin_name: Phaeocollybia christinae

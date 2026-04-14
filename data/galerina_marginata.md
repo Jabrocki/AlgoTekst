@@ -1,4 +1,4 @@
-#galerina_marginata 
+#galerina_marginata
 #no_sources: 3
 
 ---

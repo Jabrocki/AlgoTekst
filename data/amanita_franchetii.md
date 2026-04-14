@@ -1,5 +1,5 @@
-#amanita_franchetii 
-#no_sources: 2
+#amanita_franchetii
+#no_sources: 3
 
 ---
 latin_name: Amanita franchetii
@@ -36,6 +36,25 @@ Muchomor szorstki to gatunek toksyczny , który może powodować dolegliwości �
 
 ## Zastosowanie
 Muchomor szorstki jest gatunkiem mikoryzowym . Związany jest symbiotycznie z dębami omszonymi, dębami korkowymi (Quercus pubescens, Quercus suber), kasztanami (Castanea sativa) i sosnami (Pinus sp.)
+
+
+---
+latin_name: Amanita franchetii
+polish_name: Muchomor szorstki
+source: https://grzyby.pl/gatunki/Amanita_franchetii.htm
+---
+
+# Muchomor szorstki
+
+## Występowanie, ekologia
+
+W lasach liściastych, zwłaszcza z dębami i bukami; na ziemi, wśród mchów; wrzesień-październik.
+
+Czerwona Lista [125 ] — V–narażony na wymarcie
+
+## Jadalne czy trujące? 🔴
+
+Trujący.
 
 
 ---

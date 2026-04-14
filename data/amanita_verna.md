@@ -1,4 +1,4 @@
-#amanita_verna 
+#amanita_verna
 #no_sources: 3
 
 ---

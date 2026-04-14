@@ -1,5 +1,5 @@
-#lycoperdon_nigrescens 
-#no_sources: 2
+#lycoperdon_nigrescens
+#no_sources: 3
 
 ---
 latin_name: Lycoperdon nigrescens
@@ -34,6 +34,23 @@ Purchawka czarniawa jest grzybem jadalnym.
 
 ## Zastosowanie
 Purchawka czarniawa nie jest popularnym grzybem. Kulinarnie wykorzystywane są tylko młode okazy, ponieważ u starszych okazów zapach staje się bardzo nieprzyjemny.
+
+
+---
+latin_name: Lycoperdon nigrescens
+polish_name: Purchawka czarniawa
+source: https://grzyby.pl/gatunki/Lycoperdon_nigrescens.htm
+---
+
+# Purchawka czarniawa
+
+## Występowanie, ekologia
+
+W lasach i zaroślach, rzadko na terenach trawiastych; na ziemi i ściółce leśnej; sierpień-listopad.
+
+## Jadalne czy trujące? 🟡🟢
+
+Młode owocniki, z jeszcze białym wnętrzem, są jadalne. [105 ]
 
 
 ---

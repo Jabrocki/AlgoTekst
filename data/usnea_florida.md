@@ -1,5 +1,14 @@
-#usnea_florida 
-#no_sources: 1
+#usnea_florida
+#no_sources: 2
+
+---
+latin_name: Usnea florida
+polish_name: Brodaczka nadobna
+source: https://grzyby.pl/gatunki/Usnea_florida.htm
+---
+
+# Brodaczka nadobna
+
 
 ---
 latin_name: Usnea florida

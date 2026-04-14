@@ -1,4 +1,4 @@
-#macrolepiota_procera 
+#macrolepiota_procera
 #no_sources: 3
 
 ---

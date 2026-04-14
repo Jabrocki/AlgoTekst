@@ -1,5 +1,14 @@
-#cladonia_glauca 
-#no_sources: 1
+#cladonia_glauca
+#no_sources: 2
+
+---
+latin_name: Cladonia glauca
+polish_name: Chrobotek siwy
+source: https://grzyby.pl/gatunki/Cladonia_glauca.htm
+---
+
+# Chrobotek siwy
+
 
 ---
 latin_name: Cladonia glauca

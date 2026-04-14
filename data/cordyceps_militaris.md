@@ -1,4 +1,4 @@
-#cordyceps_militaris 
+#cordyceps_militaris
 #no_sources: 2
 
 ---

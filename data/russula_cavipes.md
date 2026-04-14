@@ -1,5 +1,5 @@
-#russula_cavipes 
-#no_sources: 1
+#russula_cavipes
+#no_sources: 2
 
 ---
 latin_name: Russula cavipes
@@ -42,3 +42,16 @@ Gołąbek komorowaty jest trujący i ohydny w smaku. Jeżeli mimo wstrętnego, p
 
 ## Zastosowanie
 Gołabek komorowaty z powodu swej rzadkości oraz własności trujących nie posiada zastosowań.
+
+
+---
+latin_name: Russula cavipes
+polish_name: Gołąbek komorowaty
+source: https://grzyby.pl/gatunki/Russula_cavipes.htm
+---
+
+# Gołąbek komorowaty
+
+## Występowanie, ekologia
+
+W lasach mieszanych, pod świerkiem; jesienią.

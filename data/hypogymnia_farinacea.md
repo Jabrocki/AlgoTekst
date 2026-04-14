@@ -1,5 +1,14 @@
-#hypogymnia_farinacea 
-#no_sources: 1
+#hypogymnia_farinacea
+#no_sources: 2
+
+---
+latin_name: Hypogymnia farinacea
+polish_name: Pustułka oprószona
+source: https://grzyby.pl/gatunki/Hypogymnia_farinacea.htm
+---
+
+# Pustułka oprószona
+
 
 ---
 latin_name: Hypogymnia farinacea

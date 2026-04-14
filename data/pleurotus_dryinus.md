@@ -1,4 +1,4 @@
-#pleurotus_dryinus 
+#pleurotus_dryinus
 #no_sources: 3
 
 ---

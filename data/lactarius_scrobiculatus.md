@@ -1,5 +1,5 @@
-#lactarius_scrobiculatus 
-#no_sources: 2
+#lactarius_scrobiculatus
+#no_sources: 3
 
 ---
 latin_name: Lactarius scrobiculatus
@@ -44,6 +44,19 @@ Według polskich kluczy m. dołkowany także jest niejadalny, jednakowoż ma by�
 
 ## Zastosowanie
 Mleczaj dołkowany jest grzybem niejadalnym, na surowo, niedosmażony bądź niedogotowany ohydny w smaku. Z powodu szerokiego rozprzestrzeniania oraz znacznej liczebności bywa w niektórych krajach dość chętnie badany.
+
+
+---
+latin_name: Lactarius scrobiculatus
+polish_name: Mleczaj dołkowany
+source: https://grzyby.pl/gatunki/Lactarius_scrobiculatus.htm
+---
+
+# Mleczaj dołkowany
+
+## Występowanie, ekologia
+
+W żyznych lasach iglastych i mieszanych, wilgotnych, ze świerkami.
 
 
 ---

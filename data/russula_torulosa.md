@@ -1,5 +1,5 @@
-#russula_torulosa 
-#no_sources: 1
+#russula_torulosa
+#no_sources: 2
 
 ---
 latin_name: Russula torulosa
@@ -44,3 +44,12 @@ Gołąbek poduchowaty to grzyb niejadalny, może nawet trujący, na północ od 
 
 ## Zastosowanie
 Z uwagi na ohydny smak i zapewne toksyczne właściwości gołąbek poduchowaty nie znajduje zastosowań kulinarnych.
+
+
+---
+latin_name: Russula torulosa
+polish_name: Gołąbek poduchowaty
+source: https://grzyby.pl/gatunki/Russula_torulosa.htm
+---
+
+# Gołąbek poduchowaty

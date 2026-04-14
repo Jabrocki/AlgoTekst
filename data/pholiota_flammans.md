@@ -1,4 +1,4 @@
-#pholiota_flammans 
+#pholiota_flammans
 #no_sources: 2
 
 ---

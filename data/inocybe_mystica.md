@@ -1,5 +1,18 @@
-#inocybe_mystica 
-#no_sources: 1
+#inocybe_mystica
+#no_sources: 2
+
+---
+latin_name: Inocybe mystica
+polish_name: Strzępiak tajemniczy
+source: https://grzyby.pl/gatunki/Inocybe_mystica.htm
+---
+
+# Strzępiak tajemniczy
+
+## Występowanie, ekologia
+
+W borach sosnowych, na ziemi.
+
 
 ---
 latin_name: Inocybe mystica

@@ -1,4 +1,4 @@
-#russula_ionochlora 
+#russula_ionochlora
 #no_sources: 3
 
 ---

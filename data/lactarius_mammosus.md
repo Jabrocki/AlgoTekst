@@ -1,4 +1,4 @@
-#lactarius_mammosus 
+#lactarius_mammosus
 #no_sources: 2
 
 ---

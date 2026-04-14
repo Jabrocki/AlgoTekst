@@ -1,4 +1,4 @@
-#peziza_badia 
+#peziza_badia
 #no_sources: 2
 
 ---

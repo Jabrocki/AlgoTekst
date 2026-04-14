@@ -1,5 +1,14 @@
-#physconia_grisea 
-#no_sources: 1
+#physconia_grisea
+#no_sources: 2
+
+---
+latin_name: Physconia grisea
+polish_name: Soreniec popielaty
+source: https://grzyby.pl/gatunki/Physconia_grisea.htm
+---
+
+# Soreniec popielaty
+
 
 ---
 latin_name: Physconia grisea

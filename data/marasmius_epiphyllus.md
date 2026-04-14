@@ -1,4 +1,4 @@
-#marasmius_epiphyllus 
+#marasmius_epiphyllus
 #no_sources: 2
 
 ---

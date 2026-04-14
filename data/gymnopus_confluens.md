@@ -1,4 +1,4 @@
-#gymnopus_confluens 
+#gymnopus_confluens
 #no_sources: 2
 
 ---

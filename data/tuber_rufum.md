@@ -1,5 +1,14 @@
-#tuber_rufum 
-#no_sources: 2
+#tuber_rufum
+#no_sources: 3
+
+---
+latin_name: Tuber rufum
+polish_name: Trufla ruda
+source: https://grzyby.pl/gatunki/Tuber_rufum.htm
+---
+
+# Trufla ruda
+
 
 ---
 latin_name: Tuber rufum

@@ -1,5 +1,5 @@
-#tricholoma_matsutake 
-#no_sources: 2
+#tricholoma_matsutake
+#no_sources: 3
 
 ---
 latin_name: Tricholoma matsutake
@@ -46,6 +46,23 @@ W Japonii i Chinach gąsce tej przypisuje się także właściwości lecznicze, 
 
 ## Zastosowanie
 Gąska sosnowa jest bardzo smaczna, wysoka ceniona za niezwykły aromat, przypominający cynamon i nie znikający nawet po długim gotowaniu lub smażeniu. W Japonii owocniki gąski sosnowej bywają wręczane jako prezent na specjalne okazje typu ślub lub awans w pracy. Cena jednego kilograma g. sosnowych mocno zależy od pory roku i od pochodzenia danej partii towaru. Najwyżej ceni się owocniki zebrane w samej Japonii, płacąc po 2 tys. euro za kg. Gąska sosnowa z importu bywa znacznie tańsze, nawet tylko około 90 dolarów za 1 kg.
+
+
+---
+latin_name: Tricholoma matsutake
+polish_name: Gąska matsutake
+source: https://grzyby.pl/gatunki/Tricholoma_matsutake.htm
+---
+
+# Gąska matsutake
+
+## Występowanie, ekologia
+
+W borach chrobotkowych, pod sosnami, na ubogich, piaszczystych glebach.
+
+## Jadalne czy trujące? 🟢
+
+Jadalna. [105 ] Jako "matsutake" wysoko ceniony grzyb w kuchni Dalekiego Wschodu.
 
 
 ---

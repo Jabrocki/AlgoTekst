@@ -1,4 +1,4 @@
-#gowardia_nigricans 
+#gowardia_nigricans
 #no_sources: 1
 
 ---

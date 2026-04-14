@@ -1,5 +1,14 @@
-#tricholoma_caligatum 
-#no_sources: 1
+#tricholoma_caligatum
+#no_sources: 2
+
+---
+latin_name: Tricholoma caligatum
+polish_name: Gąska krokodylowa
+source: https://grzyby.pl/gatunki/Tricholoma_caligatum.htm
+---
+
+# Gąska krokodylowa
+
 
 ---
 latin_name: Tricholoma caligatum

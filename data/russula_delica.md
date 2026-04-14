@@ -1,5 +1,5 @@
-#russula_delica 
-#no_sources: 2
+#russula_delica
+#no_sources: 3
 
 ---
 latin_name: Russula delica
@@ -40,6 +40,23 @@ Gołąbek smaczny jest grzybem jadalnym, ale wymaga pewnej obróbki. Dlatego w n
 
 ## Zastosowanie
 Gołąbek smaczny to ważny składnik tradycyjnych potraw na greckich wyspach , marynowany, zalewany octem lub oliwą , zwykle jednak po dość długim gotowaniu i odlewaniu wody .
+
+
+---
+latin_name: Russula delica
+polish_name: Gołąbek smaczny
+source: https://grzyby.pl/gatunki/Russula_delica.htm
+---
+
+# Gołąbek smaczny
+
+## Występowanie, ekologia
+
+W lasach różnego typu i na leśnych polanach; czerwiec-listopad.
+
+## Jadalne czy trujące? 🟢
+
+Jadalny. [105 ]
 
 
 ---

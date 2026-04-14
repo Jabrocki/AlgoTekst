@@ -1,4 +1,4 @@
-#mycena_viridimarginata 
+#mycena_viridimarginata
 #no_sources: 2
 
 ---

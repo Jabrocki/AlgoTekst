@@ -1,4 +1,4 @@
-#asterophora_lycoperdoides 
+#asterophora_lycoperdoides
 #no_sources: 2
 
 ---

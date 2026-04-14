@@ -1,5 +1,14 @@
-#ramalina_pollinaria 
-#no_sources: 1
+#ramalina_pollinaria
+#no_sources: 2
+
+---
+latin_name: Ramalina pollinaria
+polish_name: Odnożyca opylona
+source: https://grzyby.pl/gatunki/Ramalina_pollinaria.htm
+---
+
+# Odnożyca opylona
+
 
 ---
 latin_name: Ramalina pollinaria

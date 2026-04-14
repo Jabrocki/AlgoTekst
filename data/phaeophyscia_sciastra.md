@@ -1,5 +1,14 @@
-#phaeophyscia_sciastra 
-#no_sources: 1
+#phaeophyscia_sciastra
+#no_sources: 2
+
+---
+latin_name: Phaeophyscia sciastra
+polish_name: Orzast promienisty
+source: https://grzyby.pl/gatunki/Phaeophyscia_sciastra.htm
+---
+
+# Orzast promienisty
+
 
 ---
 latin_name: Phaeophyscia sciastra

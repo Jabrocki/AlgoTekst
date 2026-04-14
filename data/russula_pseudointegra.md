@@ -1,5 +1,18 @@
-#russula_pseudointegra 
-#no_sources: 1
+#russula_pseudointegra
+#no_sources: 2
+
+---
+latin_name: Russula pseudointegra
+polish_name: Gołąbek rumiany
+source: https://grzyby.pl/gatunki/Russula_pseudointegra.htm
+---
+
+# Gołąbek rumiany
+
+## Występowanie, ekologia
+
+Pod bukami i dębami.
+
 
 ---
 latin_name: Russula pseudointegra

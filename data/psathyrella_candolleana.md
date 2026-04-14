@@ -1,4 +1,4 @@
-#psathyrella_candolleana 
+#psathyrella_candolleana
 #no_sources: 1
 
 ---

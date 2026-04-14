@@ -1,5 +1,14 @@
-#myriolecis_dispersa 
-#no_sources: 1
+#myriolecis_dispersa
+#no_sources: 2
+
+---
+latin_name: Myriolecis dispersa
+polish_name: Nocotnik pospolity
+source: https://grzyby.pl/gatunki/Myriolecis_dispersa.htm
+---
+
+# Nocotnik pospolity
+
 
 ---
 latin_name: Myriolecis dispersa

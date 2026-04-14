@@ -1,5 +1,14 @@
-#cladonia_coccifera 
-#no_sources: 1
+#cladonia_coccifera
+#no_sources: 2
+
+---
+latin_name: Cladonia coccifera
+polish_name: Chrobotek koralkowy
+source: https://grzyby.pl/gatunki/Cladonia_coccifera.htm
+---
+
+# Chrobotek koralkowy
+
 
 ---
 latin_name: Cladonia coccifera

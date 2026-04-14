@@ -1,5 +1,5 @@
-#entoloma_elodes 
-#no_sources: 2
+#entoloma_elodes
+#no_sources: 3
 
 ---
 latin_name: Entoloma elodes
@@ -40,6 +40,21 @@ Dzwonkówka torfowiskowa jest trująca. Właściwości rzadko spotykanych wierus
 
 ## Zastosowanie
 Dzwonkówka torfowiskowa nie znajduje obecnie zastosowań medycznych ani naukowych.
+
+
+---
+latin_name: Entoloma elodes
+polish_name: Dzwonkówka torfowiskowa
+source: https://grzyby.pl/gatunki/Entoloma_elodes.htm
+---
+
+# Dzwonkówka torfowiskowa
+
+## Występowanie, ekologia
+
+W lasach, na ziemi, wśród mchów torfowców.
+
+Czerwona Lista [125 ] — R–rzadki - potencjalnie zagrożony wymarciem
 
 
 ---

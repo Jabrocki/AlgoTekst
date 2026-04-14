@@ -1,4 +1,4 @@
-#heterobasidion_annosum 
+#heterobasidion_annosum
 #no_sources: 3
 
 ---

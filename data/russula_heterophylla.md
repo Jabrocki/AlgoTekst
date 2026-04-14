@@ -1,5 +1,5 @@
-#russula_heterophylla 
-#no_sources: 2
+#russula_heterophylla
+#no_sources: 3
 
 ---
 latin_name: Russula heterophylla
@@ -38,6 +38,23 @@ Gołąbek oliwkowozielony jest grzybem jadalnym o niezbyt wyszukanym smaku. W ok
 
 ## Zastosowanie
 Gołąbek oliwkowozielony może być przyrządzany na różne sposoby. Można go dusić i gotować. Nadaje się do robienia sosów i zup . Z powodzeniem można podawać go również jako dodatek do dań mięsnych i makaronów .
+
+
+---
+latin_name: Russula heterophylla
+polish_name: Gołąbek oliwkowozielony
+source: https://grzyby.pl/gatunki/Russula_heterophylla.htm
+---
+
+# Gołąbek oliwkowozielony
+
+## Występowanie
+
+W lasach różnego typu, na ziemi, na glebach lekkich.
+
+## Jadalne czy trujące? 🟢
+
+Jadalny.
 
 
 ---

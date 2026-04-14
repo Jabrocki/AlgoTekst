@@ -1,4 +1,4 @@
-#mycena_haematopus 
+#mycena_haematopus
 #no_sources: 3
 
 ---

@@ -1,5 +1,20 @@
-#nidularia_deformis 
-#no_sources: 1
+#nidularia_deformis
+#no_sources: 2
+
+---
+latin_name: Nidularia deformis
+polish_name: Gniazdnica kulista
+source: https://grzyby.pl/gatunki/Nidularia_deformis.htm
+---
+
+# Gniazdnica kulista
+
+## Występowanie, ekologia
+
+Na martwym, starym drewnie, czasami na wypaleniskach i resztkach roślinnych.
+
+Czerwona Lista [125 ] — R–rzadki - potencjalnie zagrożony wymarciem
+
 
 ---
 latin_name: Nidularia deformis

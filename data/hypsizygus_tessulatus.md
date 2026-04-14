@@ -1,5 +1,18 @@
-#hypsizygus_tessulatus 
-#no_sources: 1
+#hypsizygus_tessulatus
+#no_sources: 2
+
+---
+latin_name: Hypsizygus tessulatus
+polish_name: Bokownik plamisty
+source: https://grzyby.pl/gatunki/Hypsizygus_tessulatus.htm
+---
+
+# Bokownik plamisty
+
+## Jadalne czy trujące? 🟢
+
+Gatunek uprawiany, różny od dziko rosnącego bokownika wiązowego ( Hypsizygus ulmarius ) .
+
 
 ---
 latin_name: Hypsizygus tessulatus

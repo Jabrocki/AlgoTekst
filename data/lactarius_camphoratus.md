@@ -1,4 +1,4 @@
-#lactarius_camphoratus 
+#lactarius_camphoratus
 #no_sources: 3
 
 ---

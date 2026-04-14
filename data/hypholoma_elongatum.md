@@ -1,4 +1,4 @@
-#hypholoma_elongatum 
+#hypholoma_elongatum
 #no_sources: 2
 
 ---

@@ -1,5 +1,14 @@
-#peltigera_leucophlebia 
-#no_sources: 1
+#peltigera_leucophlebia
+#no_sources: 2
+
+---
+latin_name: Peltigera leucophlebia
+polish_name: Pawężnica żyłkowana
+source: https://grzyby.pl/gatunki/Peltigera_leucophlebia.htm
+---
+
+# Pawężnica żyłkowana
+
 
 ---
 latin_name: Peltigera leucophlebia

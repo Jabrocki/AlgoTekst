@@ -1,5 +1,5 @@
-#agaricus_bohusii 
-#no_sources: 2
+#agaricus_bohusii
+#no_sources: 3
 
 ---
 latin_name: Agaricus bohusii
@@ -38,6 +38,19 @@ Wysyp spor czerwonawy lub czerwono brązowy. Zarodniki eliptyczne, gładkie, poz
 ## Właściwości
 ## Zastosowanie
 W krajach gdzie pieczarka kępkowa rośnie pospolicie, bywa dodawana do twarożków i śmietany by zapobiec ich pleśnieniu.
+
+
+---
+latin_name: Agaricus bohusii
+polish_name: Pieczarka kępkowa
+source: https://grzyby.pl/gatunki/Agaricus_bohusii.htm
+---
+
+# Pieczarka kępkowa
+
+## Występowanie, ekologia
+
+W lasach i parkach; na ziemi; sierpień-wrzesień. Bardzo rzadko notowana.
 
 
 ---

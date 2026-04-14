@@ -1,4 +1,4 @@
-#leucocoprinus_birnbaumii 
+#leucocoprinus_birnbaumii
 #no_sources: 2
 
 ---

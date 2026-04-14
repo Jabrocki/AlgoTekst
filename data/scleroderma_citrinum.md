@@ -1,4 +1,4 @@
-#scleroderma_citrinum 
+#scleroderma_citrinum
 #no_sources: 3
 
 ---

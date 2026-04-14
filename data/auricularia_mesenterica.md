@@ -1,4 +1,4 @@
-#auricularia_mesenterica 
+#auricularia_mesenterica
 #no_sources: 2
 
 ---

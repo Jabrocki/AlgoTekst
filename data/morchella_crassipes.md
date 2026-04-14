@@ -1,4 +1,4 @@
-#morchella_crassipes 
+#morchella_crassipes
 #no_sources: 1
 
 ---

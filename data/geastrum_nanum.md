@@ -1,4 +1,4 @@
-#geastrum_nanum 
+#geastrum_nanum
 #no_sources: 1
 
 ---

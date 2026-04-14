@@ -1,5 +1,20 @@
-#galerina_paludosa 
-#no_sources: 1
+#galerina_paludosa
+#no_sources: 2
+
+---
+latin_name: Galerina paludosa
+polish_name: Hełmówka błotna
+source: https://grzyby.pl/gatunki/Galerina_paludosa.htm
+---
+
+# Hełmówka błotna
+
+## Występowanie, ekologia
+
+W lasach bagiennych i torfowiskach, wśród mchów torfowców ( Sphagnum ) .
+
+Czerwona Lista [125 ] — R–rzadki - potencjalnie zagrożony wymarciem
+
 
 ---
 latin_name: Galerina paludosa

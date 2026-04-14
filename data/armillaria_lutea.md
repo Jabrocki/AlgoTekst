@@ -1,4 +1,4 @@
-#armillaria_lutea 
+#armillaria_lutea
 #no_sources: 1
 
 ---

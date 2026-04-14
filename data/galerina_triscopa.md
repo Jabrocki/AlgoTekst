@@ -1,4 +1,4 @@
-#galerina_triscopa 
+#galerina_triscopa
 #no_sources: 2
 
 ---

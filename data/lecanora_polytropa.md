@@ -1,4 +1,4 @@
-#lecanora_polytropa 
+#lecanora_polytropa
 #no_sources: 1
 
 ---

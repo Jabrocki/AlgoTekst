@@ -1,4 +1,4 @@
-#schizophyllum_commune 
+#schizophyllum_commune
 #no_sources: 3
 
 ---

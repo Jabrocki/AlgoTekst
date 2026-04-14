@@ -1,5 +1,5 @@
-#lactarius_fuliginosus 
-#no_sources: 2
+#lactarius_fuliginosus
+#no_sources: 3
 
 ---
 latin_name: Lactarius fuliginosus
@@ -42,6 +42,23 @@ Mleczaj jelonek to gatunek niejadalny.
 
 ## Zastosowanie
 Brak współcześnie zastosowań dla mleczaja jelonka. W latach 90. zeszłego wieku odkryto właściwości owadobójcze m. jelonka, jednak nie znaleziono dla nich większych zastosowań praktycznych.
+
+
+---
+latin_name: Lactarius fuliginosus
+polish_name: Mleczaj jelonek
+source: https://grzyby.pl/gatunki/Lactarius_fuliginosus.htm
+---
+
+# Mleczaj jelonek
+
+## Występowanie, ekologia
+
+Pod bukami, rzadziej pod leszczyną; na ziemi; lipiec-październik.
+
+## Jadalne czy trujące? 🟡🟢
+
+Jadalny ale niesmaczny. [105 ]
 
 
 ---

@@ -1,4 +1,4 @@
-#macrotyphula_fistulosa 
+#macrotyphula_fistulosa
 #no_sources: 1
 
 ---

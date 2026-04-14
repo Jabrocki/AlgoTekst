@@ -1,4 +1,4 @@
-#ganoderma_australe 
+#ganoderma_australe
 #no_sources: 1
 
 ---

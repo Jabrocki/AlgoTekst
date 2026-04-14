@@ -1,4 +1,4 @@
-#cortinarius_mucosus 
+#cortinarius_mucosus
 #no_sources: 2
 
 ---

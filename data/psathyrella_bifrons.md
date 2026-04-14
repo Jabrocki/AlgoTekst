@@ -1,4 +1,4 @@
-#psathyrella_bifrons 
+#psathyrella_bifrons
 #no_sources: 2
 
 ---

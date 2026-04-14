@@ -1,4 +1,4 @@
-#scleroderma_bovista 
+#scleroderma_bovista
 #no_sources: 2
 
 ---

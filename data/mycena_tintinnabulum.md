@@ -1,4 +1,4 @@
-#mycena_tintinnabulum 
+#mycena_tintinnabulum
 #no_sources: 2
 
 ---

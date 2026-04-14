@@ -1,4 +1,4 @@
-#lepista_panaeolus 
+#lepista_panaeolus
 #no_sources: 1
 
 ---

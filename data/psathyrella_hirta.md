@@ -1,5 +1,18 @@
-#psathyrella_hirta 
-#no_sources: 1
+#psathyrella_hirta
+#no_sources: 2
+
+---
+latin_name: Psathyrella hirta
+polish_name: Kruchaweczka odchodowa
+source: https://grzyby.pl/gatunki/Psathyrella_hirta.htm
+---
+
+# Kruchaweczka odchodowa
+
+## Występowanie, ekologia
+
+Na odchodach roślinożerców (krowa, koń).
+
 
 ---
 latin_name: Psathyrella hirta

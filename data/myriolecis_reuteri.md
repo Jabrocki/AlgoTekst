@@ -1,5 +1,14 @@
-#myriolecis_reuteri 
-#no_sources: 1
+#myriolecis_reuteri
+#no_sources: 2
+
+---
+latin_name: Myriolecis reuteri
+polish_name: Nocotnik reutera
+source: https://grzyby.pl/gatunki/Myriolecis_reuteri.htm
+---
+
+# Nocotnik reutera
+
 
 ---
 latin_name: Myriolecis reuteri

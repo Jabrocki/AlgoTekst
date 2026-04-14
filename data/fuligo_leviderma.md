@@ -1,4 +1,4 @@
-#fuligo_leviderma 
+#fuligo_leviderma
 #no_sources: 1
 
 ---

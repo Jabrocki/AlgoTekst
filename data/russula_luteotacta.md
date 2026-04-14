@@ -1,4 +1,4 @@
-#russula_luteotacta 
+#russula_luteotacta
 #no_sources: 3
 
 ---

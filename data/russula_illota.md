@@ -1,5 +1,5 @@
-#russula_illota 
-#no_sources: 2
+#russula_illota
+#no_sources: 3
 
 ---
 latin_name: Russula illota
@@ -28,6 +28,15 @@ Gołąbek brudny nie posiada żadnych właściwości.
 
 ## Zastosowanie
 Gołąbek brudny nie jest wykorzystywany w kuchni, ponieważ określany jest jako grzyb niejadalny, poza tym nie występuje w Polsce.
+
+
+---
+latin_name: Russula illota
+polish_name: Gołąbek brudny
+source: https://grzyby.pl/gatunki/Russula_illota.htm
+---
+
+# Gołąbek brudny
 
 
 ---

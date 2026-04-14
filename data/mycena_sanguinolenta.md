@@ -1,4 +1,4 @@
-#mycena_sanguinolenta 
+#mycena_sanguinolenta
 #no_sources: 2
 
 ---

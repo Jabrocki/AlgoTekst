@@ -1,4 +1,4 @@
-#sarcoscypha_coccinea 
+#sarcoscypha_coccinea
 #no_sources: 2
 
 ---

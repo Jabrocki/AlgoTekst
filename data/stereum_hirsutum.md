@@ -1,4 +1,4 @@
-#stereum_hirsutum 
+#stereum_hirsutum
 #no_sources: 3
 
 ---

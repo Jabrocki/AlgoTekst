@@ -1,4 +1,4 @@
-#flavoplaca_citrina 
+#flavoplaca_citrina
 #no_sources: 1
 
 ---

@@ -1,5 +1,5 @@
-#agaricus_placomyces 
-#no_sources: 2
+#agaricus_placomyces
+#no_sources: 3
 
 ---
 latin_name: Agaricus placomyces
@@ -38,6 +38,25 @@ Pieczarka płaska jest grzybem trującym. Zjedzenie jej powoduje silne zaburzeni
 
 ## Zastosowanie
 Pieczarka płaska jest grzybem trującym i nie wolno jej spożywać pod żadnym pozorem!
+
+
+---
+latin_name: Agaricus placomyces
+polish_name: Pieczarka płaska
+source: https://grzyby.pl/gatunki/Agaricus_placomyces.htm
+---
+
+# Pieczarka płaska
+
+## Występowanie, ekologia
+
+W lasach liściastych; na ziemi.
+
+Czerwona Lista [125 ] — E–wymierający - krytycznie zagrożony
+
+## Jadalne czy trujące? 🔴
+
+Trująca. [105 ]
 
 
 ---

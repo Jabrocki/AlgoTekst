@@ -1,4 +1,4 @@
-#hygrophoropsis_aurantiaca 
+#hygrophoropsis_aurantiaca
 #no_sources: 3
 
 ---

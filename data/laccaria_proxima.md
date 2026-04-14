@@ -1,4 +1,4 @@
-#laccaria_proxima 
+#laccaria_proxima
 #no_sources: 2
 
 ---

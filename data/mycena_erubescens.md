@@ -1,4 +1,4 @@
-#mycena_erubescens 
+#mycena_erubescens
 #no_sources: 2
 
 ---

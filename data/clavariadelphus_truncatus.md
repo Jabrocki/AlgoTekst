@@ -1,4 +1,4 @@
-#clavariadelphus_truncatus 
+#clavariadelphus_truncatus
 #no_sources: 3
 
 ---

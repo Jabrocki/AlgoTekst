@@ -1,5 +1,5 @@
-#agaricus_moellerii 
-#no_sources: 1
+#agaricus_moellerii
+#no_sources: 2
 
 ---
 latin_name: Agaricus moellerii
@@ -44,3 +44,16 @@ U toksycznych pieczarek żółtawych (karbolowych), podobnie jak u czernidłakó
 
 ## Zastosowanie
 Brak znanych zastosowań tejże pieczarki szarołuskowej.
+
+
+---
+latin_name: Agaricus moelleri
+polish_name: Pieczarka szarołuskowa
+source: https://grzyby.pl/gatunki/Agaricus_moelleri.htm
+---
+
+# Pieczarka szarołuskowa
+
+## Występowanie, ekologia
+
+Pod gruszą; na ziemi.

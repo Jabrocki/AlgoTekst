@@ -1,5 +1,18 @@
-#rutstroemia_bulgarioides 
-#no_sources: 1
+#rutstroemia_bulgarioides
+#no_sources: 2
+
+---
+latin_name: Rutstroemia bulgarioides
+polish_name: Baziówka szyszkowata
+source: https://grzyby.pl/gatunki/Rutstroemia_bulgarioides.htm
+---
+
+# Baziówka szyszkowata
+
+## Występowanie, ekologia
+
+Na opadłych szyszkach świerkowych.
+
 
 ---
 latin_name: Rutstroemia bulgarioides

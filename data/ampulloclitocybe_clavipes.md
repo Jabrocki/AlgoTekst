@@ -1,4 +1,4 @@
-#ampulloclitocybe_clavipes 
+#ampulloclitocybe_clavipes
 #no_sources: 2
 
 ---

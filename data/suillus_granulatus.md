@@ -1,4 +1,4 @@
-#suillus_granulatus 
+#suillus_granulatus
 #no_sources: 3
 
 ---

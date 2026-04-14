@@ -1,4 +1,4 @@
-#leucocybe_connata 
+#leucocybe_connata
 #no_sources: 1
 
 ---

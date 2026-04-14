@@ -1,4 +1,4 @@
-#volvariella_gloiocephala 
+#volvariella_gloiocephala
 #no_sources: 1
 
 ---

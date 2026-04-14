@@ -1,4 +1,4 @@
-#dermatocarpon_luridum 
+#dermatocarpon_luridum
 #no_sources: 1
 
 ---

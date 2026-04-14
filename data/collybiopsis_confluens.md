@@ -1,4 +1,4 @@
-#collybiopsis_confluens 
+#collybiopsis_confluens
 #no_sources: 1
 
 ---

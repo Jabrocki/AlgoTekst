@@ -1,5 +1,18 @@
-#parmelia_sulcata 
-#no_sources: 1
+#parmelia_sulcata
+#no_sources: 2
+
+---
+latin_name: Parmelia sulcata
+polish_name: Tarczownica bruzdkowana
+source: https://grzyby.pl/gatunki/Parmelia_sulcata.htm
+---
+
+# Tarczownica bruzdkowana
+
+## Cechy charakterystyczne
+
+Standardowe reakcje porostowe : kora: K+ żółta przechodząca w czerwoną; miąższ i soralia: K+ pomarańczowy, KC+ pomarańczowy, C-, P+ pomarańczowy, UV-.
+
 
 ---
 latin_name: Parmelia sulcata

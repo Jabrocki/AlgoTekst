@@ -1,5 +1,22 @@
-#bjerkandera_fumosa 
-#no_sources: 1
+#bjerkandera_fumosa
+#no_sources: 2
+
+---
+latin_name: Bjerkandera fumosa
+polish_name: Szaroporka odymiona
+source: https://grzyby.pl/gatunki/Bjerkandera_fumosa.htm
+---
+
+# Szaroporka odymiona
+
+## Występowanie, ekologia
+
+W lasach i poza nimi, na martwy, rzadko na żywym, drewnie drzew i krzewów liściastych, głównie na wierzbach; owocniki tworzone w ciągu całego roku. Saprotrof . Powoduje białą zgniliznę drewna .
+
+## Uwagi
+
+Drugi, pospolity gatunek rodzaju - szaroporka podpalana ( Bjerkandera adusta ) ma cieńsze owocniki, o ciemniejszym hymenoforem, większe drobniejsze, na przekroju miąższu jasny zbliżony barwą do rurek.
+
 
 ---
 latin_name: Bjerkandera fumosa

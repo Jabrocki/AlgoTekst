@@ -1,4 +1,4 @@
-#helvella_elastica 
+#helvella_elastica
 #no_sources: 2
 
 ---

@@ -1,5 +1,18 @@
-#cortinarius_cinnabarinus 
-#no_sources: 1
+#cortinarius_cinnabarinus
+#no_sources: 2
+
+---
+latin_name: Cortinarius cinnabarinus
+polish_name: Zasłonak cynobrowy
+source: https://grzyby.pl/gatunki/Cortinarius_cinnabarinus.htm
+---
+
+# Zasłonak cynobrowy
+
+## Występowanie, ekologia
+
+W lasach liściastych i mieszanych, z bukami i dębami, najczęściej w buczynach i lasach bukowo-świerkowych; na ziemi, wśród mchów; wrzesień-listopad.
+
 
 ---
 latin_name: Cortinarius cinnabarinus

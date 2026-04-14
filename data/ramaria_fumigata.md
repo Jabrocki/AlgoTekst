@@ -1,5 +1,14 @@
-#ramaria_fumigata 
-#no_sources: 1
+#ramaria_fumigata
+#no_sources: 2
+
+---
+latin_name: Ramaria fumigata
+polish_name: Koralówka fioletowobrązowa
+source: https://grzyby.pl/gatunki/Ramaria_fumigata.htm
+---
+
+# Koralówka fioletowobrązowa
+
 
 ---
 latin_name: Ramaria fumigata

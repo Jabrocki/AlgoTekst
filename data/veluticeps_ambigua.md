@@ -1,5 +1,18 @@
-#veluticeps_ambigua 
-#no_sources: 1
+#veluticeps_ambigua
+#no_sources: 2
+
+---
+latin_name: Veluticeps ambigua
+polish_name: Skórowiec żółtobrązowy
+source: https://grzyby.pl/gatunki/Veluticeps_ambigua.htm
+---
+
+# Skórowiec żółtobrązowy
+
+## Występowanie, ekologia
+
+Czerwona Lista [125 ] — E–wymierający - krytycznie zagrożony
+
 
 ---
 latin_name: Veluticeps ambigua

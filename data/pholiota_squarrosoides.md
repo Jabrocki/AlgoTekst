@@ -1,5 +1,5 @@
-#pholiota_squarrosoides 
-#no_sources: 2
+#pholiota_squarrosoides
+#no_sources: 3
 
 ---
 latin_name: Pholiota squarrosoides
@@ -34,6 +34,21 @@ Zarodniki są gładkie, elipsoidalne, fasolowate, koloru rdzawobrązowego.
 
 ## Zastosowanie
 Łuskwiak rdzawołuskowy uważany jest za gatunek saprotroficzny, który rozkłada martwe drewno , przyczyniając się do wzrostu żyzności podłoża . Również uznany za gatunek pasożytniczy ze względu na możliwość rozwijania owocników na drzewach stale wegetujących .
+
+
+---
+latin_name: Pholiota squarrosoides
+polish_name: Łuskwiak rdzawołuskowy
+source: https://grzyby.pl/gatunki/Pholiota_squarrosoides.htm
+---
+
+# Łuskwiak rdzawołuskowy
+
+## Występowanie, ekologia
+
+W lasach, na martwych pniach drzew liściastych; jesienią.
+
+Czerwona Lista [125 ] — E–wymierający - krytycznie zagrożony
 
 
 ---

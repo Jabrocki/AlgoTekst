@@ -1,5 +1,5 @@
-#pleurotus_eryngii 
-#no_sources: 1
+#pleurotus_eryngii
+#no_sources: 3
 
 ---
 latin_name: Pleurotus eryngii
@@ -55,3 +55,59 @@ Tym, co poza smakiem i wysoką zawartością białka wyróżnia go na tle innych
 W jakiej formie boczniaki królewskie nadają się do spożycia?
 
 W praktyce w każdej – w zależności od indywidualnych upodobań można je smażyć, gotować, dusić, piec, grillować, marynować, kisić czy nawet jeść na surowo.
+
+
+---
+latin_name: Pleurotus eryngii
+polish_name: Boczniak mikołajkowy
+source: https://grzyby.pl/gatunki/Pleurotus_eryngii.htm
+---
+
+# Boczniak mikołajkowy
+
+## Występowanie, ekologia
+
+W parkach, na ziemi, wśród traw i korzeni dębu; pasożytuje na korzeniach bylin z rodziny selerowatych ( Apiaceae ) .
+
+## Jadalne czy trujące? 🟢
+
+Jadalny. [105 ] Gatunek chroniony w kraju. Do obrotu lub przetwórstwa dopuszczony pozyskany z uprawy lub z importu.
+
+
+---
+latin_name: Pleurotus eryngi
+source: https://www.nagrzyby.pl/atlas/593
+---
+
+# Pleurotus eryngi
+# boczniak mikołajkowy
+
+## Podstawowe informacje
+Grzyb chroniony
+Typ grzyba:
+blaszki
+
+## Opis
+Gatunek objęty ochroną ścisłą na podstawie rozporządzenia Ministra Środowiska z dnia 9 października 2014 r. w sprawie ochrony gatunkowej grzybów.
+Blaszki
+- szerokość do 5 mm, średnio gęste, zbiegające na trzonie początkowo kremowe, później szarokremowe.
+
+## Trzon
+- 3 do 4 cm wysokości, 1,5 do 2,5 grubości. Początkowo biały, później kremowy. Cylindryczny zwężający się ku dołowi.
+Miąższ
+- biały, mięsisty.
+Wysyp zarodników
+- biały
+
+## Występowanie
+- od maja do listopada, na resztkach roślin z rodziny selerowatych (baldaszkowatych)
+Zastosowanie
+- bardzo smaczny grzyb jadalny o niepowtarzalnym smaku
+Uwagi
+- w Polsce w naturze bardzo rzadki
+Inne nazwy zwyczajowe
+- boczniak eryngii, boczniak mikołajkowy
+
+## Występowanie
+Podłoże:
+drewno

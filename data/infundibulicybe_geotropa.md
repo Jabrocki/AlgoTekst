@@ -1,4 +1,4 @@
-#infundibulicybe_geotropa 
+#infundibulicybe_geotropa
 #no_sources: 2
 
 ---

@@ -1,5 +1,18 @@
-#mycena_alphitophora 
-#no_sources: 1
+#mycena_alphitophora
+#no_sources: 2
+
+---
+latin_name: Mycena alphitophora
+polish_name: Grzybówka długoszowata
+source: https://grzyby.pl/gatunki/Mycena_alphitophora.htm
+---
+
+# Grzybówka długoszowata
+
+## Występowanie, ekologia
+
+Gatunek tropikalny, u nas w szklarniach na korzeniach tropikalnych paproci.
+
 
 ---
 latin_name: Mycena alphitophora

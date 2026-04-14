@@ -1,4 +1,4 @@
-#gyrodon_lividus 
+#gyrodon_lividus
 #no_sources: 2
 
 ---

@@ -1,4 +1,4 @@
-#meripilus_giganteus 
+#meripilus_giganteus
 #no_sources: 3
 
 ---

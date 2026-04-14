@@ -1,5 +1,14 @@
-#candelariella_reflexa 
-#no_sources: 1
+#candelariella_reflexa
+#no_sources: 2
+
+---
+latin_name: Candelariella reflexa
+polish_name: Liszajecznik odmienny
+source: https://grzyby.pl/gatunki/Candelariella_reflexa.htm
+---
+
+# Liszajecznik odmienny
+
 
 ---
 latin_name: Candelariella reflexa

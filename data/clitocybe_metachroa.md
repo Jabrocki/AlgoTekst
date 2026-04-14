@@ -1,4 +1,4 @@
-#clitocybe_metachroa 
+#clitocybe_metachroa
 #no_sources: 2
 
 ---

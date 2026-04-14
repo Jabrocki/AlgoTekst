@@ -1,5 +1,14 @@
-#myriolecis_albescens 
-#no_sources: 1
+#myriolecis_albescens
+#no_sources: 2
+
+---
+latin_name: Myriolecis albescens
+polish_name: Nocotnik białawy
+source: https://grzyby.pl/gatunki/Myriolecis_albescens.htm
+---
+
+# Nocotnik białawy
+
 
 ---
 latin_name: Myriolecis albescens

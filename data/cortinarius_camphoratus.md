@@ -1,5 +1,5 @@
-#cortinarius_camphoratus 
-#no_sources: 2
+#cortinarius_camphoratus
+#no_sources: 3
 
 ---
 latin_name: Cortinarius camphoratus
@@ -38,6 +38,19 @@ Zasłonak odrażający jest lekko trujący, jednak do zatruć prawie nigdy nie d
 
 ## Zastosowanie
 W przeciwieństwie do opisanego już na portalu Ekologia.pl zasłonaka gorzkawego, zasłonaka odrażającego nie wykazuje właściwości leczniczych. Dlatego nie znajduje współcześnie żadnych zastosowań.
+
+
+---
+latin_name: Cortinarius camphoratus
+polish_name: Zasłonak odrażający
+source: https://grzyby.pl/gatunki/Cortinarius_camphoratus.htm
+---
+
+# Zasłonak odrażający
+
+## Występowanie, ekologia
+
+W lasach świerkowych, sosnowych i w mieszanych; na ziemi; wrzesień.
 
 
 ---

@@ -1,4 +1,4 @@
-#xanthoria_calcicola 
+#xanthoria_calcicola
 #no_sources: 1
 
 ---

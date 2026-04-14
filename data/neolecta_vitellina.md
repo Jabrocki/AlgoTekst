@@ -1,4 +1,4 @@
-#neolecta_vitellina 
+#neolecta_vitellina
 #no_sources: 1
 
 ---

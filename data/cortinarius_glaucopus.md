@@ -1,5 +1,18 @@
-#cortinarius_glaucopus 
-#no_sources: 1
+#cortinarius_glaucopus
+#no_sources: 2
+
+---
+latin_name: Cortinarius glaucopus
+polish_name: Zasłonak niebieskostopy
+source: https://grzyby.pl/gatunki/Cortinarius_glaucopus.htm
+---
+
+# Zasłonak niebieskostopy
+
+## Występowanie, ekologia
+
+W lasach iglastych i mieszanych na ziemi.
+
 
 ---
 latin_name: Cortinarius glaucopus

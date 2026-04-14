@@ -1,4 +1,4 @@
-#mycena_rosea 
+#mycena_rosea
 #no_sources: 3
 
 ---

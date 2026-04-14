@@ -1,4 +1,4 @@
-#tricholoma_colossus 
+#tricholoma_colossus
 #no_sources: 3
 
 ---

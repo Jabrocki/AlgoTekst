@@ -1,4 +1,4 @@
-#lepista 
+#lepista
 #no_sources: 1
 
 ---

@@ -1,4 +1,4 @@
-#geastrum_rufescens 
+#geastrum_rufescens
 #no_sources: 2
 
 ---

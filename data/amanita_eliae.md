@@ -1,4 +1,4 @@
-#amanita_eliae 
+#amanita_eliae
 #no_sources: 2
 
 ---

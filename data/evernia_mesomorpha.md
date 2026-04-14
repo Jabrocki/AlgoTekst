@@ -1,5 +1,14 @@
-#evernia_mesomorpha 
-#no_sources: 1
+#evernia_mesomorpha
+#no_sources: 2
+
+---
+latin_name: Evernia mesomorpha
+polish_name: Mąkla odmienna
+source: https://grzyby.pl/gatunki/Evernia_mesomorpha.htm
+---
+
+# Mąkla odmienna
+
 
 ---
 latin_name: Evernia mesomorpha

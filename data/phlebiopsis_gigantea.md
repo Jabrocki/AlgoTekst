@@ -1,5 +1,18 @@
-#phlebiopsis_gigantea 
-#no_sources: 1
+#phlebiopsis_gigantea
+#no_sources: 2
+
+---
+latin_name: Phlebiopsis gigantea
+polish_name: Korownica okazała
+source: https://grzyby.pl/gatunki/Phlebiopsis_gigantea.htm
+---
+
+# Korownica okazała
+
+## Występowanie, ekologia
+
+Owocniki w przeciągu całego roku, w lasach i poza nimi, na drewnie drzew iglastych, na pniakach, pniach, gałęziach i gałązkach.
+
 
 ---
 latin_name: Phlebiopsis gigantea

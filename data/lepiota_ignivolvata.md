@@ -1,5 +1,18 @@
-#lepiota_ignivolvata 
-#no_sources: 1
+#lepiota_ignivolvata
+#no_sources: 2
+
+---
+latin_name: Lepiota ignivolvata
+polish_name: Czubajeczka czerwonopochwowa
+source: https://grzyby.pl/gatunki/Lepiota_ignivolvata.htm
+---
+
+# Czubajeczka czerwonopochwowa
+
+## Występowanie, ekologia
+
+W lasach liściastych, na glebach wapiennych, na ściółce z liści.
+
 
 ---
 latin_name: Lepiota ignivolvata

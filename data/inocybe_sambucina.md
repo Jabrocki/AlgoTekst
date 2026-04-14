@@ -1,5 +1,5 @@
-#inocybe_sambucina 
-#no_sources: 2
+#inocybe_sambucina
+#no_sources: 3
 
 ---
 latin_name: Inocybe sambucina
@@ -42,6 +42,23 @@ Strzępiak bzowy jest trujący jak wszyscy przedstawiciele rodzaju. Zawiera musk
 
 ## Zastosowanie
 Strzępiak bzowy nie znajduje obecnie zastosowań gospodarczych, naukowych ani kulinarnych. Zasługuje na ochronę i dalsze badania naukowe jako gatunek rzadki, zapewne zagrożony wymarciem.
+
+
+---
+latin_name: Inocybe sambucina
+polish_name: Strzępiak bzowy
+source: https://grzyby.pl/gatunki/Inocybe_sambucina.htm
+---
+
+# Strzępiak bzowy
+
+## Występowanie, ekologia
+
+W lasach różnego typu na bardzo ubogich, piaszczystych glebach.
+
+## Jadalne czy trujące? 🔴
+
+Trujący. [105 ] [134 ]
 
 
 ---

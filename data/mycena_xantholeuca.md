@@ -1,5 +1,20 @@
-#mycena_xantholeuca 
-#no_sources: 1
+#mycena_xantholeuca
+#no_sources: 2
+
+---
+latin_name: Mycena xantholeuca
+polish_name: Grzybówka kremowa
+source: https://grzyby.pl/gatunki/Mycena_xantholeuca.htm
+---
+
+# Grzybówka kremowa
+
+## Występowanie, ekologia
+
+Na zmurszałym drewnie, wśród mchów; sierpień-wrzesień.
+
+Czerwona Lista [125 ] — E–wymierający - krytycznie zagrożony
+
 
 ---
 latin_name: Mycena xantholeuca

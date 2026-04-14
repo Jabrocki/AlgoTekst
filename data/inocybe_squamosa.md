@@ -1,4 +1,4 @@
-#inocybe_squamosa 
+#inocybe_squamosa
 #no_sources: 1
 
 ---

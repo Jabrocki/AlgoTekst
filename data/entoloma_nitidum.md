@@ -1,4 +1,4 @@
-#entoloma_nitidum 
+#entoloma_nitidum
 #no_sources: 1
 
 ---

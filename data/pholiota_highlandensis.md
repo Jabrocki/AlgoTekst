@@ -1,4 +1,4 @@
-#pholiota_highlandensis 
+#pholiota_highlandensis
 #no_sources: 2
 
 ---

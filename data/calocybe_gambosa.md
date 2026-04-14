@@ -1,4 +1,4 @@
-#calocybe_gambosa 
+#calocybe_gambosa
 #no_sources: 3
 
 ---

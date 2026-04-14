@@ -1,4 +1,4 @@
-#stropharia_rugosoannulata 
+#stropharia_rugosoannulata
 #no_sources: 2
 
 ---

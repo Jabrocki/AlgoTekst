@@ -1,5 +1,14 @@
-#parmelina_tiliacea 
-#no_sources: 1
+#parmelina_tiliacea
+#no_sources: 2
+
+---
+latin_name: Parmelina tiliacea
+polish_name: Szarzynka skórzasta
+source: https://grzyby.pl/gatunki/Parmelina_tiliacea.htm
+---
+
+# Szarzynka skórzasta
+
 
 ---
 latin_name: Parmelina tiliacea

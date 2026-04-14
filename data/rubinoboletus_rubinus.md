@@ -1,5 +1,14 @@
-#rubinoboletus_rubinus 
-#no_sources: 1
+#rubinoboletus_rubinus
+#no_sources: 2
+
+---
+latin_name: Rubinoboletus rubinus
+polish_name: Rubinoborowik dębowy
+source: https://grzyby.pl/gatunki/Chalciporus_rubinus.htm
+---
+
+# Rubinoborowik dębowy
+
 
 ---
 latin_name: Rubinoboletus rubinus

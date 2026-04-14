@@ -1,4 +1,4 @@
-#mycena_pelianthina 
+#mycena_pelianthina
 #no_sources: 2
 
 ---

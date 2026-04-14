@@ -1,5 +1,14 @@
-#physcia_aipolia 
-#no_sources: 1
+#physcia_aipolia
+#no_sources: 2
+
+---
+latin_name: Physcia aipolia
+polish_name: Obrost sinawy
+source: https://grzyby.pl/gatunki/Physcia_aipolia_ssp._aipolia.htm
+---
+
+# Obrost sinawy
+
 
 ---
 latin_name: Physcia aipolia

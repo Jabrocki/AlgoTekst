@@ -1,5 +1,14 @@
-#candelariella_coralliza 
-#no_sources: 1
+#candelariella_coralliza
+#no_sources: 2
+
+---
+latin_name: Candelariella coralliza
+polish_name: Liszajecznik koralkowaty
+source: https://grzyby.pl/gatunki/Candelariella_coralliza.htm
+---
+
+# Liszajecznik koralkowaty
+
 
 ---
 latin_name: Candelariella coralliza

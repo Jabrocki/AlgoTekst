@@ -1,5 +1,14 @@
-#diatrypella_quercina 
-#no_sources: 1
+#diatrypella_quercina
+#no_sources: 2
+
+---
+latin_name: Diatrypella quercina
+polish_name: Gruzaczka dębowa
+source: https://grzyby.pl/gatunki/Diatrypella_quercina.htm
+---
+
+# Gruzaczka dębowa
+
 
 ---
 latin_name: Diatrypella quercina

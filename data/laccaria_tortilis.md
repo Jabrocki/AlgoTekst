@@ -1,4 +1,4 @@
-#laccaria_tortilis 
+#laccaria_tortilis
 #no_sources: 2
 
 ---

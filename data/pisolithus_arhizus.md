@@ -1,5 +1,24 @@
-#pisolithus_arhizus 
-#no_sources: 1
+#pisolithus_arhizus
+#no_sources: 2
+
+---
+latin_name: Pisolithus arhizus
+polish_name: Purchatnica piaskowa
+source: https://grzyby.pl/gatunki/Pisolithus_arrhizus.htm
+---
+
+# Purchatnica piaskowa
+
+## Występowanie, ekologia
+
+Na wydmach, przydrożach, hałdach kopalnianych, z preferencją dla gleb piaszczystych. Gatunek mykoryzowy związany z drzewami liściastymi, brzozami, dębami.
+
+Czerwona Lista [125 ] — R–rzadki - potencjalnie zagrożony wymarciem
+
+## Jadalne czy trujące? 🟢
+
+Młody jadalny, dobry grzyb przyprawowy do sosów i zup. [134 ]
+
 
 ---
 latin_name: Pisolithus arhizus

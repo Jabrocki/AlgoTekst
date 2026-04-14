@@ -1,4 +1,4 @@
-#cantharellus_amethysteus 
+#cantharellus_amethysteus
 #no_sources: 3
 
 ---

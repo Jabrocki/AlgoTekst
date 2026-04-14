@@ -1,5 +1,18 @@
-#mycena_pseudopicta 
-#no_sources: 1
+#mycena_pseudopicta
+#no_sources: 2
+
+---
+latin_name: Mycena pseudopicta
+polish_name: Grzybówka białawoostrzowa
+source: https://grzyby.pl/gatunki/Mycena_pseudopicta.htm
+---
+
+# Grzybówka białawoostrzowa
+
+## Występowanie, ekologia
+
+U nasady pni żywych dębów.
+
 
 ---
 latin_name: Mycena pseudopicta

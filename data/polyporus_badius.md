@@ -1,4 +1,4 @@
-#polyporus_badius 
+#polyporus_badius
 #no_sources: 1
 
 ---

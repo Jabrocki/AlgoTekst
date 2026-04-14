@@ -1,4 +1,4 @@
-#hericium_alpestre 
+#hericium_alpestre
 #no_sources: 2
 
 ---

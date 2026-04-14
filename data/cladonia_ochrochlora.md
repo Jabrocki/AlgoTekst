@@ -1,5 +1,14 @@
-#cladonia_ochrochlora 
-#no_sources: 1
+#cladonia_ochrochlora
+#no_sources: 2
+
+---
+latin_name: Cladonia ochrochlora
+polish_name: Chrobotek rdzawy
+source: https://grzyby.pl/gatunki/Cladonia_ochrochlora.htm
+---
+
+# Chrobotek rdzawy
+
 
 ---
 latin_name: Cladonia ochrochlora

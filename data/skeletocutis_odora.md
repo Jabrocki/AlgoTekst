@@ -1,5 +1,5 @@
-#skeletocutis_odora 
-#no_sources: 2
+#skeletocutis_odora
+#no_sources: 3
 
 ---
 latin_name: Skeletocutis odora
@@ -42,6 +42,21 @@ Szkieletnica jest niejadalna, pozbawiona walorów medycznych, z racji swojej rza
 
 ## Zastosowanie
 Szkieletnica wonna przy masowym występowaniu w lasach gospodarczych Rosji szkodzi tamże niekiedy leśnictwu i przemysłowi drzewnemu. Wskutek białej zgnilizny drewno rozpada się na włókna wzdłuż słojów przyrostu rocznego .
+
+
+---
+latin_name: Skeletocutis odora
+polish_name: Szkieletnica wonna
+source: https://grzyby.pl/gatunki/Skeletocutis_odora.htm
+---
+
+# Szkieletnica wonna
+
+## Występowanie, ekologia
+
+W lasach o charakterze naturalnym, na drewnie drzew iglastych, jodły, świerka i sosny, rzadko na topoli osice.
+
+Czerwona Lista [125 ] — V–narażony na wymarcie
 
 
 ---

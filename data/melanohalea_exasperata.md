@@ -1,5 +1,14 @@
-#melanohalea_exasperata 
-#no_sources: 1
+#melanohalea_exasperata
+#no_sources: 2
+
+---
+latin_name: Melanohalea exasperata
+polish_name: Przylepniczka szorstka
+source: https://grzyby.pl/gatunki/Melanohalea_exasperata.htm
+---
+
+# Przylepniczka szorstka
+
 
 ---
 latin_name: Melanohalea exasperata

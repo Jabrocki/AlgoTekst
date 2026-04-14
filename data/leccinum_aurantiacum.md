@@ -1,4 +1,4 @@
-#leccinum_aurantiacum 
+#leccinum_aurantiacum
 #no_sources: 3
 
 ---

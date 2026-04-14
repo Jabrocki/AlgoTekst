@@ -1,4 +1,4 @@
-#gyalolechia_flavovirescens 
+#gyalolechia_flavovirescens
 #no_sources: 1
 
 ---

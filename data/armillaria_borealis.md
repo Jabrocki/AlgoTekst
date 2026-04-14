@@ -1,4 +1,4 @@
-#armillaria_borealis 
+#armillaria_borealis
 #no_sources: 3
 
 ---

@@ -1,5 +1,14 @@
-#butyriboletus_roseogriseus 
-#no_sources: 1
+#butyriboletus_roseogriseus
+#no_sources: 2
+
+---
+latin_name: Butyriboletus roseogriseus
+polish_name: Masłoborowik różowoszary
+source: https://grzyby.pl/gatunki/Butyriboletus_roseogriseus.htm
+---
+
+# Masłoborowik różowoszary
+
 
 ---
 latin_name: Butyriboletus roseogriseus

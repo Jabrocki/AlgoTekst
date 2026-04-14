@@ -1,4 +1,4 @@
-#gymnopilus_penetrans 
+#gymnopilus_penetrans
 #no_sources: 2
 
 ---

@@ -1,4 +1,4 @@
-#hypholoma_lateritium 
+#hypholoma_lateritium
 #no_sources: 2
 
 ---

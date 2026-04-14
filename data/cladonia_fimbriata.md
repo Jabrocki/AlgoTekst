@@ -1,4 +1,4 @@
-#cladonia_fimbriata 
+#cladonia_fimbriata
 #no_sources: 1
 
 ---

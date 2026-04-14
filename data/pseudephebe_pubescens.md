@@ -1,5 +1,14 @@
-#pseudephebe_pubescens 
-#no_sources: 1
+#pseudephebe_pubescens
+#no_sources: 2
+
+---
+latin_name: Pseudephebe pubescens
+polish_name: Cienik kędzierzawy
+source: https://grzyby.pl/gatunki/Pseudephebe_pubescens.htm
+---
+
+# Cienik kędzierzawy
+
 
 ---
 latin_name: Pseudephebe pubescens

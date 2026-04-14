@@ -1,4 +1,4 @@
-#inocybe_favrei 
+#inocybe_favrei
 #no_sources: 1
 
 ---

@@ -1,4 +1,4 @@
-#geastrum_quadrifidum 
+#geastrum_quadrifidum
 #no_sources: 2
 
 ---
