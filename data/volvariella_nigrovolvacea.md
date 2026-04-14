@@ -1,0 +1,26 @@
+#volvariella_nigrovolvacea 
+#no_sources: 1
+
+---
+latin_name: Volvariella nigrovolvacea
+source: https://www.nagrzyby.pl/atlas/1615
+---
+
+# Volvariella nigrovolvacea
+# Volvariella nigrovolvacea
+
+## Podstawowe informacje
+Typ grzyba:
+blaszki
+
+## Trzon
+Typ trzonu:
+centralny
+
+## Hymenofor
+Kolor wysypu:
+odcienie różu i fioletu
+
+## Występowanie
+Podłoże:
+drewno

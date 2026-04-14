@@ -1,0 +1,20 @@
+#tremella_moriformis 
+#no_sources: 1
+
+---
+latin_name: Tremella moriformis
+source: https://www.nagrzyby.pl/atlas/4182
+---
+
+# Tremella moriformis
+# Trzęsak morwowaty
+
+## Podstawowe informacje
+Typ grzyba:
+owocniki galaretowate
+
+## Występowanie
+Podłoże:
+drewno
+Sposób odżywiania:
+saprotrof

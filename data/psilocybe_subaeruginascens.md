@@ -1,0 +1,28 @@
+#psilocybe_subaeruginascens 
+#no_sources: 1
+
+---
+latin_name: Psilocybe subaeruginascens
+source: https://www.nagrzyby.pl/atlas/1924
+---
+
+# Psilocybe subaeruginascens
+# Psilocybe subaeruginascens
+
+## Podstawowe informacje
+Typ grzyba:
+blaszki
+
+## Trzon
+Typ trzonu:
+centralny
+
+## Hymenofor
+Kolor wysypu:
+odcienie czerwieni
+
+## Występowanie
+Podłoże:
+gleba
+Sposób odżywiania:
+saprotrof

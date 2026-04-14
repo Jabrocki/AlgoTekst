@@ -1,0 +1,26 @@
+#volvariella_diplasia 
+#no_sources: 1
+
+---
+latin_name: Volvariella diplasia
+source: https://www.nagrzyby.pl/atlas/1740
+---
+
+# Volvariella diplasia
+# Volvariella diplasia
+
+## Podstawowe informacje
+Typ grzyba:
+blaszki
+
+## Trzon
+Typ trzonu:
+centralny
+
+## Hymenofor
+Kolor wysypu:
+odcienie różu i fioletu
+
+## Występowanie
+Podłoże:
+drewno

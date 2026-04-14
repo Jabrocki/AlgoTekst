@@ -1,0 +1,133 @@
+#clavariadelphus_truncatus 
+#no_sources: 3
+
+---
+latin_name: Clavariadelphus truncatus
+polish_name: Buławka obcięta
+source: https://www.ekologia.pl/grzyby/bulawka-obcieta/
+---
+
+# Clavariadelphus truncatus
+
+## Buławka obcięta
+
+## Wstęp
+Buławka obcięta to częściowo chroniona, nader rzadka w Polsce przedstawicielka rodziny buławkowatych ( Clavariadelphaceae ). Kategoria zagrożenia na Czerwonej Liście E – krytycznie zagrożona wyginięciem.
+
+## Sezon
+Buławka obcięta owocniki zawiązuje od sierpnia do listopada .
+
+## Występowanie
+Buławka obcięta jest w Polsce grzybem naturalnie rzadkim, trzymającym się głównie górskich świerczyn .
+
+## Wygląd
+Owocniki buławki obciętej są gładkie, rzadziej słabo pobrużdżone w pionie.
+
+Hymenofor okrywa całą zewnętrzną powierzchnię owocnika tego grzyba.
+
+Trzon w kształcie buławy hetmańskiej (stąd nazwa) lub maczugi, gładki w dotyku, centralny. Pierścienia oraz pochw brak. Barwy nóżki dość różnorodne, od jasnych i ciemnych żółci przez oranże po brązy.
+
+Miąższ pod skórką złocisty, wewnątrz białawy, po przecięciu ciemnieje robiąc się szary lub brunatny. Smak opisywany różnie, zwykle jako łagodny, słodki, ale mało przyjemny. Woń słaba, ale przyjemna.
+
+Wysyp zarodników buławki obciętej biały. Spory pozbawione koloru, z żółtawą kroplą wewnątrz, eliptyczne, osiągają 10-13 (wyjątkowo aż 16) x 5-7 (sporadycznie aż 10) µm. Podstawki niekiedy dwuzarodnikowe.
+
+Buławkę obciętą łatwo odróżnić od podobnych grzybów za sprawą ściętego wierzchołka. Dość zbliżony wyglądem bywa równie bliski wymarcia w Polsce siatkolist maczugowaty (lejkowiec bulwiasty, lejek klinowy, „zajęcze uszy”) Gomphus clavatus . Siatkolist jednak zasiedla więcej typów siedlisk , ma kapelusze o bardziej liliowym odcieniu i ciemnożółty wysyp zarodników, poza tym jest smaczniejszy.
+
+Również buławka pałeczkowata Clavariadelphus pistillaris może przypominać buławkę obcięta , oba gatunki różnią się jednak kształtem owocnika: zaokrąglonym u buławki pałeczkowatej, a płasko ściętym u ściętej.
+
+## Właściwości
+Według niektórych buławka obcięta jest grzybem niejadalnym , wg innych np. amerykańskich jadalnym ale przykrym w smaku. Zbiór i spożywanie nielegalne w Polsce z powodu ochrony gatunkowej .
+
+## Zastosowanie
+Obecnie brak zastosowanie buławki obciętej, trwają jednak wytężone badania nad wykorzystaniem kwasu klawarynowego z buławek i innych grzybów w medycynie i weterynarii. Kwas klawarynowy jest inhibitorem enzymu transferazy farnezylowej, co czyni z niego potencjalne lekarstwo przeciwko nowotworom , progerii (przedwczesnemu starzeniu się), chorobie Alzheimera oraz inwazjom pasożytniczych pierwotniaków (malarii i śpiączce afrykańskiej).
+
+
+---
+latin_name: Clavariadelphus truncatus
+polish_name: Buławka obcięta
+source: https://grzyby.pl/gatunki/Clavariadelphus_truncatus.htm
+---
+
+# Buławka obcięta
+
+## Owocnik
+
+**Owocnik** pałeczkowaty, początkowo cylindryczny lub maczugowaty, z wiekiem odwrotnie wąsko-stożkowaty, z ±płasko uciętym szczytem , 50-100(150) × 20-50 mm; żółty do żółtopomarańczowego, z wiekiem brązowożółty, ochrowożółty, czasem z liliowym odcieniem; szczyt grubo brodawkowaty, bruzdowany, boki gładkie lub wzdłużnie bruzdowane; owocnik wewnątrz pełny.
+
+## Zarodniki
+
+Barwa wysypu zarodników bladoochrowa. Zarodniki elipsoidalne, gładkie, hialinowe, z ziarenkowatą zawartością, nieamyloidalne, 10-13 × 6-7.5 µm.
+
+## Występowanie
+
+Rzadka. Owocniki wyrastają latem i jesienią, pojedynczo lub w grupach, w lasach iglastych i mieszanych, na glebach wapiennych, w górach, pod świerkami i jodłami.
+
+Czerwona Lista [125 ] — E–wymierający - krytycznie zagrożony
+
+## Jadalne czy trujące? 🟢
+
+Jadalna. [105 ] [134 ]
+
+## Uwagi
+
+Gatunek dość podobny do buławki pałeczkowatej ( Clavariadelphus pistillaris ) , różni się reakcją hymenoforu z KOH i nieco większymi owocnikami. Podobny pokrój ma siatkoblaszek maczugowaty ( Gomphus clavatus ) - ma on początkowo intensywną fioletową barwę i żyłkowaną powierzchnię hymenoforu.
+
+
+---
+latin_name: Clavariadelphus truncatus
+source: https://www.nagrzyby.pl/atlas/11
+---
+
+# Clavariadelphus truncatus
+# buławka obcięta
+
+## Podstawowe informacje
+Grzyb chroniony
+Jadalność:
+jadalny I nieszczególny w smaku
+Typ grzyba:
+maczugowate
+
+## Opis
+Gatunek objęty ochroną częściową na podstawie rozporządzenia Ministra Środowiska z dnia 9 października 2014 r. w sprawie ochrony gatunkowej grzybów.
+Owocnik-
+wysokość do 15 cm maczugowaty ucięty na szczycie żółtawy, ochrowy, cynamonowy, czasem z czerwonawym odcieniem gładki lub ze słabo widocznymi, pionowymi bruzdami
+Miąższ-
+białawy, pod skórką żółtawy po przecięciu zmieniający się na szary lub brązowawy, smak i zapach słaby, przyjemny.
+Występowanie-
+latem i jesienią na ziemi w borach iglastych w Polsce rzadki
+Zastosowanie
+- jadalna.
+Gatunki podobne
+-buławka pałeczkowata(Clavariadelphus pistillaris), nieco większymi owocnikami. Podobny pokrój ma siatkolist maczugowaty (Gomphus clavatus).
+Podobne gatunki
+buławka pałeczkowata
+
+## Trzon
+Kolor trzonu:
+odcienie brązu,
+odcienie pomarańczu,
+odcienie żółci
+Kształt trzonu:
+maczugowaty
+Podstawa trzonu:
+brak pochwy
+Powierzchnia trzonu:
+gładka
+Typ trzonu:
+centralny
+
+## Występowanie
+Podłoże:
+gleba
+Siedlisko:
+lasy iglaste
+Sposób odżywiania:
+saprotrof
+Pora występowania:
+lato,
+jesień
+
+## Inne
+Zapach:
+przyjemny

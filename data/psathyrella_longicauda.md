@@ -1,0 +1,26 @@
+#psathyrella_longicauda 
+#no_sources: 1
+
+---
+latin_name: Psathyrella longicauda
+source: https://www.nagrzyby.pl/atlas/4331
+---
+
+# Psathyrella longicauda
+# kruchaweczka długotrzonowa
+
+## Podstawowe informacje
+Typ grzyba:
+blaszki
+
+## Trzon
+Typ trzonu:
+centralny
+
+## Hymenofor
+Kolor wysypu:
+odcienie czerwieni
+
+## Występowanie
+Sposób odżywiania:
+saprotrof

@@ -1,0 +1,17 @@
+#sowerbyella_radiculata 
+#no_sources: 1
+
+---
+latin_name: Sowerbyella radiculata
+source: https://www.nagrzyby.pl/atlas/5552
+---
+
+# Sowerbyella radiculata
+# Sowerbyella radiculata
+
+## Podstawowe informacje
+Typ grzyba:
+uchowate, miseczkowate
+
+## Inne nazwy
+Synonimy łacińskie: Peziza radiculata

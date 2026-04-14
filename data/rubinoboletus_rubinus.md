@@ -1,0 +1,46 @@
+#rubinoboletus_rubinus 
+#no_sources: 1
+
+---
+latin_name: Rubinoboletus rubinus
+source: https://www.nagrzyby.pl/atlas/1473
+---
+
+# Rubinoboletus rubinus
+# maślaczek rubinowy - Rubinoborowik dębowy*
+
+## Podstawowe informacje
+Jadalność:
+jadalny I nieszczególny w smaku
+Typ grzyba:
+rurki
+
+## Opis
+* Rekomendacja nr 1/2021 Komisji ds. Polskiego Nazewnictwa Grzybów Polskiego Towarzystwa Mykologicznego
+Owocnik
+- 1-2,5cm średnicy, rdzawożółtawy, początkowo wypukły, potem spłaszczony. W czasie suchej pory błyszczący i suchy.
+Rurki
+- różowoczerwonawe, później rdzawoczerwone, przyrośnięte do trzonu.
+Pory
+- barwy malinowoczerwonej.
+
+## Trzon
+- cylindryczny, często bywa przekrzywiony gładki, suchy barwy podobnej jak kapelusz. Na szczycie jasnożółty, w środkowej części rdzawoczerwonawy do brązowego u podstawy złotożółty.
+Miąższ
+- w owocniku gruby 3-5mm, jasnokremowy do bladożółtego, nad rurkami delikatnie malinowoczerwony, w trzonie żółty, a u podstawy czerwonobrązowawy. Smak łagodniejszy jak maślaczek pieprzowy, zapach słaby przyjemny.
+Wysyp zarodników
+- bladoceglastobrązowy.
+
+## Występowanie
+- rzadki, występuje głównie w lasach i parkach pod dębami i bukami.
+Zastosowanie
+- jadalny bez praktycznego zastosowania.
+Możliwość popełnienia pomyłki
+- brak podobnych gatunków.
+
+## Inne nazwy
+Synonimy łacińskie: Chalciporus rubinus
+
+## Występowanie
+Podłoże:
+gleba

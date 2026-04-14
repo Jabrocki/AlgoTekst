@@ -1,0 +1,28 @@
+#entoloma_platyphylloides 
+#no_sources: 1
+
+---
+latin_name: Entoloma platyphylloides
+source: https://www.nagrzyby.pl/atlas/4287
+---
+
+# Entoloma platyphylloides
+# Dzwonkówka pieniążnicowata
+
+## Podstawowe informacje
+Typ grzyba:
+blaszki
+
+## Trzon
+Typ trzonu:
+centralny
+
+## Hymenofor
+Kolor wysypu:
+odcienie różu i fioletu
+
+## Występowanie
+Podłoże:
+gleba
+Sposób odżywiania:
+saprotrof

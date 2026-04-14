@@ -1,0 +1,18 @@
+#melanogaster_intermedius 
+#no_sources: 1
+
+---
+latin_name: Melanogaster intermedius
+source: https://www.nagrzyby.pl/atlas/4836
+---
+
+# Melanogaster intermedius
+# Melanogaster intermedius
+
+## Podstawowe informacje
+Typ grzyba:
+owocniki podziemne
+
+## Występowanie
+Podłoże:
+gleba

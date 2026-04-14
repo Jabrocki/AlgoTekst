@@ -1,0 +1,28 @@
+#inocybe_masoviensis 
+#no_sources: 1
+
+---
+latin_name: Inocybe masoviensis
+source: https://www.nagrzyby.pl/atlas/2369
+---
+
+# Inocybe masoviensis
+# Inocybe masoviensis
+
+## Podstawowe informacje
+Typ grzyba:
+blaszki
+
+## Trzon
+Typ trzonu:
+centralny
+
+## Hymenofor
+Kolor wysypu:
+odcienie brązu
+
+## Występowanie
+Podłoże:
+gleba
+Sposób odżywiania:
+symbiont(mikoryza)
