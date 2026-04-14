@@ -1,5 +1,5 @@
 ---
-name: Enchylium tenax
+latin_name: Enchylium tenax
 source: https://www.nagrzyby.pl/atlas/5232
 ---
 

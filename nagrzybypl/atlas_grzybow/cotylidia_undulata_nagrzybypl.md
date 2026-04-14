@@ -1,5 +1,5 @@
 ---
-name: Cotylidia undulata
+latin_name: Cotylidia undulata
 source: https://www.nagrzyby.pl/atlas/3033
 ---
 

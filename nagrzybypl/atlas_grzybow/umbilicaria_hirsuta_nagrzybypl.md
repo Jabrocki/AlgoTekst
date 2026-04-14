@@ -1,5 +1,5 @@
 ---
-name: Umbilicaria hirsuta
+latin_name: Umbilicaria hirsuta
 source: https://www.nagrzyby.pl/atlas/5346
 ---
 

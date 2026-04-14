@@ -1,5 +1,5 @@
 ---
-name: Rubroboletus satanas
+latin_name: Rubroboletus satanas
 source: https://www.nagrzyby.pl/atlas/13
 ---
 

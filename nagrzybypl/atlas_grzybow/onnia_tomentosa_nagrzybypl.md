@@ -1,5 +1,5 @@
 ---
-name: Onnia tomentosa
+latin_name: Onnia tomentosa
 source: https://www.nagrzyby.pl/atlas/677
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Cortinarius incisus
+latin_name: Cortinarius incisus
 source: https://www.nagrzyby.pl/atlas/2190
 ---
 

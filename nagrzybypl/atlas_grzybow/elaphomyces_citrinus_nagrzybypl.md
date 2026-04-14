@@ -1,5 +1,5 @@
 ---
-name: Elaphomyces citrinus
+latin_name: Elaphomyces citrinus
 source: https://www.nagrzyby.pl/atlas/1645
 ---
 

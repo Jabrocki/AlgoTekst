@@ -1,5 +1,5 @@
 ---
-name: Morchella elata
+latin_name: Morchella elata
 source: https://www.nagrzyby.pl/atlas/627
 ---
 

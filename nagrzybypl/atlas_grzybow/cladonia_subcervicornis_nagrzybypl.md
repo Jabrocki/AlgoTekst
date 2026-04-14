@@ -1,5 +1,5 @@
 ---
-name: Cladonia subcervicornis
+latin_name: Cladonia subcervicornis
 source: https://www.nagrzyby.pl/atlas/5162
 ---
 

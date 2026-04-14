@@ -1,5 +1,5 @@
 ---
-name: Toninia sedifolia
+latin_name: Toninia sedifolia
 source: https://www.nagrzyby.pl/atlas/5237
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Entoloma jubatum
+latin_name: Entoloma jubatum
 source: https://www.nagrzyby.pl/atlas/4768
 ---
 

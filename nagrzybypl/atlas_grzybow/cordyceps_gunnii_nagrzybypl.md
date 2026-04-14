@@ -1,5 +1,5 @@
 ---
-name: Cordyceps gunnii
+latin_name: Cordyceps gunnii
 source: https://www.nagrzyby.pl/atlas/5077
 ---
 

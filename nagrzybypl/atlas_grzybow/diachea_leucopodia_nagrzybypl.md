@@ -1,5 +1,5 @@
 ---
-name: Diachea leucopodia
+latin_name: Diachea leucopodia
 source: https://www.nagrzyby.pl/atlas/4859
 ---
 

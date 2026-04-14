@@ -1,5 +1,5 @@
 ---
-name: Entoloma infula
+latin_name: Entoloma infula
 source: https://www.nagrzyby.pl/atlas/4767
 ---
 

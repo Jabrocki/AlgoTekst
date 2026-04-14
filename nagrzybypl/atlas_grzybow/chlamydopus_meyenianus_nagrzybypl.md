@@ -1,5 +1,5 @@
 ---
-name: Chlamydopus meyenianus
+latin_name: Chlamydopus meyenianus
 source: https://www.nagrzyby.pl/atlas/5899
 ---
 

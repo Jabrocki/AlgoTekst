@@ -1,5 +1,5 @@
 ---
-name: Hygrophorus poetarum
+latin_name: Hygrophorus poetarum
 source: https://www.nagrzyby.pl/atlas/1239
 ---
 

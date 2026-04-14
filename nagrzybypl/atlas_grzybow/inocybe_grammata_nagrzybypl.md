@@ -1,5 +1,5 @@
 ---
-name: Inocybe grammata
+latin_name: Inocybe grammata
 source: https://www.nagrzyby.pl/atlas/2353
 ---
 

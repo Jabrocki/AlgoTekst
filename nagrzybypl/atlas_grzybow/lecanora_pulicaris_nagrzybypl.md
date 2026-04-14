@@ -1,5 +1,5 @@
 ---
-name: Lecanora pulicaris
+latin_name: Lecanora pulicaris
 source: https://www.nagrzyby.pl/atlas/5275
 ---
 

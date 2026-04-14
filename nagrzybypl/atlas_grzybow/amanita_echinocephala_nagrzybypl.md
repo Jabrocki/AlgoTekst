@@ -1,5 +1,5 @@
 ---
-name: Amanita echinocephala
+latin_name: Amanita echinocephala
 source: https://www.nagrzyby.pl/atlas/1185
 ---
 

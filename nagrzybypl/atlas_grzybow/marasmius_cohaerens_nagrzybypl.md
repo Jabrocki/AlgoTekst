@@ -1,5 +1,5 @@
 ---
-name: Marasmius cohaerens
+latin_name: Marasmius cohaerens
 source: https://www.nagrzyby.pl/atlas/5116
 ---
 

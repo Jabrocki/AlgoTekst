@@ -1,5 +1,5 @@
 ---
-name: Nidularia deformis
+latin_name: Nidularia deformis
 source: https://www.nagrzyby.pl/atlas/1625
 ---
 

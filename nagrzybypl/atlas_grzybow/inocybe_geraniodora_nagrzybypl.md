@@ -1,5 +1,5 @@
 ---
-name: Inocybe geraniodora
+latin_name: Inocybe geraniodora
 source: https://www.nagrzyby.pl/atlas/2350
 ---
 

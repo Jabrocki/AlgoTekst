@@ -1,5 +1,5 @@
 ---
-name: Sarcodontia crocea
+latin_name: Sarcodontia crocea
 source: https://www.nagrzyby.pl/atlas/4270
 ---
 

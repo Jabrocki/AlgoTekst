@@ -1,5 +1,5 @@
 ---
-name: Tricholoma ustale
+latin_name: Tricholoma ustale
 source: https://www.nagrzyby.pl/atlas/989
 ---
 

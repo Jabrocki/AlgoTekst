@@ -1,5 +1,5 @@
 ---
-name: Conocybe lenticulospora
+latin_name: Conocybe lenticulospora
 source: https://www.nagrzyby.pl/atlas/2032
 ---
 

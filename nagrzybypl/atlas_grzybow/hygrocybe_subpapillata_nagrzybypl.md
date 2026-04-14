@@ -1,5 +1,5 @@
 ---
-name: Hygrocybe subpapillata
+latin_name: Hygrocybe subpapillata
 source: https://www.nagrzyby.pl/atlas/1424
 ---
 

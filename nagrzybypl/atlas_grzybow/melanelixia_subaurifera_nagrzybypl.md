@@ -1,5 +1,5 @@
 ---
-name: Melanelixia subaurifera
+latin_name: Melanelixia subaurifera
 source: https://www.nagrzyby.pl/atlas/5381
 ---
 

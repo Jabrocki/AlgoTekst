@@ -1,5 +1,5 @@
 ---
-name: Hygrocybe turunda
+latin_name: Hygrocybe turunda
 source: https://www.nagrzyby.pl/atlas/4558
 ---
 

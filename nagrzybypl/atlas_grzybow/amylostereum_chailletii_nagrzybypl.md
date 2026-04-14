@@ -1,5 +1,5 @@
 ---
-name: Amylostereum chailletii
+latin_name: Amylostereum chailletii
 source: https://www.nagrzyby.pl/atlas/1859
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Tuckermanopsis chlorophylla
+latin_name: Tuckermanopsis chlorophylla
 source: https://www.nagrzyby.pl/atlas/5386
 ---
 

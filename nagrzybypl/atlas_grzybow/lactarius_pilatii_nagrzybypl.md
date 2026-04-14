@@ -1,5 +1,5 @@
 ---
-name: Lactarius pilatii
+latin_name: Lactarius pilatii
 source: https://www.nagrzyby.pl/atlas/802
 ---
 

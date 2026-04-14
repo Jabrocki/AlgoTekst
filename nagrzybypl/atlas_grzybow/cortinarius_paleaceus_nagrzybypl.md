@@ -1,5 +1,5 @@
 ---
-name: Cortinarius paleaceus
+latin_name: Cortinarius paleaceus
 source: https://www.nagrzyby.pl/atlas/283
 ---
 

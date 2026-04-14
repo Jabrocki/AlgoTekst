@@ -1,5 +1,5 @@
 ---
-name: Russula mustelina
+latin_name: Russula mustelina
 source: https://www.nagrzyby.pl/atlas/110
 ---
 

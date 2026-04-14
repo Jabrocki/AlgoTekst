@@ -1,5 +1,5 @@
 ---
-name: Mycena cyanorhiza
+latin_name: Mycena cyanorhiza
 source: https://www.nagrzyby.pl/atlas/1559
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Mutinus ravenelii
+latin_name: Mutinus ravenelii
 source: https://www.nagrzyby.pl/atlas/291
 ---
 

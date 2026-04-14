@@ -1,5 +1,5 @@
 ---
-name: Leucocortinarius bulbiger
+latin_name: Leucocortinarius bulbiger
 source: https://www.nagrzyby.pl/atlas/1689
 ---
 

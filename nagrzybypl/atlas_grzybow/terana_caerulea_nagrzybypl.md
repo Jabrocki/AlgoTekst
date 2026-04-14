@@ -1,5 +1,5 @@
 ---
-name: Terana caerulea
+latin_name: Terana caerulea
 source: https://www.nagrzyby.pl/atlas/4255
 ---
 

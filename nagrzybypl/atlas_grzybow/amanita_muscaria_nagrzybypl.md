@@ -1,5 +1,5 @@
 ---
-name: Amanita muscaria
+latin_name: Amanita muscaria
 source: https://www.nagrzyby.pl/atlas/266
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Psilocybe medullosa
+latin_name: Psilocybe medullosa
 source: https://www.nagrzyby.pl/atlas/5137
 ---
 

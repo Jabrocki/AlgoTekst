@@ -1,5 +1,5 @@
 ---
-name: Tremella globispora
+latin_name: Tremella globispora
 source: https://www.nagrzyby.pl/atlas/1562
 ---
 

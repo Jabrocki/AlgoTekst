@@ -1,5 +1,5 @@
 ---
-name: Psathyrella pygmaea
+latin_name: Psathyrella pygmaea
 source: https://www.nagrzyby.pl/atlas/5741
 ---
 

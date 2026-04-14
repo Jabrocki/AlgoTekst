@@ -1,5 +1,5 @@
 ---
-name: Geopora sumneriana
+latin_name: Geopora sumneriana
 source: https://www.nagrzyby.pl/atlas/5918
 ---
 

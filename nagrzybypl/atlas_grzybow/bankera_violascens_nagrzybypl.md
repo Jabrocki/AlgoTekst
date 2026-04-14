@@ -1,5 +1,5 @@
 ---
-name: Bankera violascens
+latin_name: Bankera violascens
 source: https://www.nagrzyby.pl/atlas/1882
 ---
 

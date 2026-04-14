@@ -1,5 +1,5 @@
 ---
-name: Agaricus pilatianus
+latin_name: Agaricus pilatianus
 source: https://www.nagrzyby.pl/atlas/875
 ---
 

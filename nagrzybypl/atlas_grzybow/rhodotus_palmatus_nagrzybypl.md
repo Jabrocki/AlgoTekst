@@ -1,5 +1,5 @@
 ---
-name: Rhodotus palmatus
+latin_name: Rhodotus palmatus
 source: https://www.nagrzyby.pl/atlas/709
 ---
 

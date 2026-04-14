@@ -1,5 +1,5 @@
 ---
-name: Peziza gerardii
+latin_name: Peziza gerardii
 source: https://www.nagrzyby.pl/atlas/1283
 ---
 

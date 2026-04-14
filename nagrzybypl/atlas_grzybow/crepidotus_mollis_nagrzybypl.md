@@ -1,5 +1,5 @@
 ---
-name: Crepidotus mollis
+latin_name: Crepidotus mollis
 source: https://www.nagrzyby.pl/atlas/2286
 ---
 

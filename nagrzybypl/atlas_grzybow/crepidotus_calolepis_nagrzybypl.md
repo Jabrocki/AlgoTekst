@@ -1,5 +1,5 @@
 ---
-name: Crepidotus calolepis
+latin_name: Crepidotus calolepis
 source: https://www.nagrzyby.pl/atlas/5104
 ---
 

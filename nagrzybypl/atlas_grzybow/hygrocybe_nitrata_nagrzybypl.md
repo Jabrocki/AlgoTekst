@@ -1,5 +1,5 @@
 ---
-name: Hygrocybe nitrata
+latin_name: Hygrocybe nitrata
 source: https://www.nagrzyby.pl/atlas/1422
 ---
 

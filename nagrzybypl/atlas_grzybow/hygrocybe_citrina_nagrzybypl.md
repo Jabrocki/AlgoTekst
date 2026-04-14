@@ -1,5 +1,5 @@
 ---
-name: Hygrocybe citrina
+latin_name: Hygrocybe citrina
 source: https://www.nagrzyby.pl/atlas/1252
 ---
 

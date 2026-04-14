@@ -1,5 +1,5 @@
 ---
-name: Hygrocybe citrinovirens
+latin_name: Hygrocybe citrinovirens
 source: https://www.nagrzyby.pl/atlas/4219
 ---
 

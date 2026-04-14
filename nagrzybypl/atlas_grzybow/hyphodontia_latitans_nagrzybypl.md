@@ -1,5 +1,5 @@
 ---
-name: Hyphodontia latitans
+latin_name: Hyphodontia latitans
 source: https://www.nagrzyby.pl/atlas/4044
 ---
 

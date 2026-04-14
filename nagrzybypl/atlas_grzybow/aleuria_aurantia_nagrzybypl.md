@@ -1,5 +1,5 @@
 ---
-name: Aleuria aurantia
+latin_name: Aleuria aurantia
 source: https://www.nagrzyby.pl/atlas/73
 ---
 

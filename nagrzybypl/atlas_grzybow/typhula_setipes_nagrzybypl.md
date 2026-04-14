@@ -1,5 +1,5 @@
 ---
-name: Typhula setipes
+latin_name: Typhula setipes
 source: https://www.nagrzyby.pl/atlas/4231
 ---
 

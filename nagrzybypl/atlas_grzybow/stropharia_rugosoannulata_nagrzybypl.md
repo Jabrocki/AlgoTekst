@@ -1,5 +1,5 @@
 ---
-name: Stropharia rugosoannulata
+latin_name: Stropharia rugosoannulata
 source: https://www.nagrzyby.pl/atlas/510
 ---
 

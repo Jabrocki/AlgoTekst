@@ -1,5 +1,5 @@
 ---
-name: Camarops tubulina
+latin_name: Camarops tubulina
 source: https://www.nagrzyby.pl/atlas/4962
 ---
 

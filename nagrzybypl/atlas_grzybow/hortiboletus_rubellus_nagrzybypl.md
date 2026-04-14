@@ -1,5 +1,5 @@
 ---
-name: Hortiboletus rubellus
+latin_name: Hortiboletus rubellus
 source: https://www.nagrzyby.pl/atlas/308
 ---
 

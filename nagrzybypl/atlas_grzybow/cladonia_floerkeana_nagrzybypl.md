@@ -1,5 +1,5 @@
 ---
-name: Cladonia floerkeana
+latin_name: Cladonia floerkeana
 source: https://www.nagrzyby.pl/atlas/5658
 ---
 

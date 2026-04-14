@@ -1,5 +1,5 @@
 ---
-name: Hymenogaster populetorum
+latin_name: Hymenogaster populetorum
 source: https://www.nagrzyby.pl/atlas/5850
 ---
 

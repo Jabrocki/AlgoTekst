@@ -1,5 +1,5 @@
 ---
-name: Lycoperdon lividum
+latin_name: Lycoperdon lividum
 source: https://www.nagrzyby.pl/atlas/1168
 ---
 

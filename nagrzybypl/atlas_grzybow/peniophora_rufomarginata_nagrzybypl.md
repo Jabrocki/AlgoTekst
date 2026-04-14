@@ -1,5 +1,5 @@
 ---
-name: Peniophora rufomarginata
+latin_name: Peniophora rufomarginata
 source: https://www.nagrzyby.pl/atlas/1828
 ---
 

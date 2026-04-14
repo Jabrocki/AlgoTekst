@@ -1,5 +1,5 @@
 ---
-name: Pholiota spumosa
+latin_name: Pholiota spumosa
 source: https://www.nagrzyby.pl/atlas/1411
 ---
 

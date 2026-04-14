@@ -1,5 +1,5 @@
 ---
-name: Entoloma politum
+latin_name: Entoloma politum
 source: https://www.nagrzyby.pl/atlas/4781
 ---
 

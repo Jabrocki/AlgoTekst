@@ -1,5 +1,5 @@
 ---
-name: Psilocybe montana
+latin_name: Psilocybe montana
 source: https://www.nagrzyby.pl/atlas/1331
 ---
 

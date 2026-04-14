@@ -1,5 +1,5 @@
 ---
-name: Hypholoma subericaeum
+latin_name: Hypholoma subericaeum
 source: https://www.nagrzyby.pl/atlas/1513
 ---
 

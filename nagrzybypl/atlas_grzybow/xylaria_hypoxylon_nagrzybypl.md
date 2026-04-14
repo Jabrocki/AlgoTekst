@@ -1,5 +1,5 @@
 ---
-name: Xylaria hypoxylon
+latin_name: Xylaria hypoxylon
 source: https://www.nagrzyby.pl/atlas/357
 ---
 

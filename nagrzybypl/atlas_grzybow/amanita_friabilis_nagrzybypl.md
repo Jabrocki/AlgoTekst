@@ -1,5 +1,5 @@
 ---
-name: Amanita friabilis
+latin_name: Amanita friabilis
 source: https://www.nagrzyby.pl/atlas/1042
 ---
 

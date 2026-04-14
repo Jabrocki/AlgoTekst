@@ -1,5 +1,5 @@
 ---
-name: Xerula pudens
+latin_name: Xerula pudens
 source: https://www.nagrzyby.pl/atlas/537
 ---
 

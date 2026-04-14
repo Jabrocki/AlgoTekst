@@ -1,5 +1,5 @@
 ---
-name: Hygrocybe parvula
+latin_name: Hygrocybe parvula
 source: https://www.nagrzyby.pl/atlas/1261
 ---
 

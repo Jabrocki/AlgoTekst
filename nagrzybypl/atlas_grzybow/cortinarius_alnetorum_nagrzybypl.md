@@ -1,5 +1,5 @@
 ---
-name: Cortinarius alnetorum
+latin_name: Cortinarius alnetorum
 source: https://www.nagrzyby.pl/atlas/2111
 ---
 

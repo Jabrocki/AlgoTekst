@@ -1,5 +1,5 @@
 ---
-name: Tricholoma matsutake
+latin_name: Tricholoma matsutake
 source: https://www.nagrzyby.pl/atlas/5885
 ---
 

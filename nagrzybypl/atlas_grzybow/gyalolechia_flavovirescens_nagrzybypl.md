@@ -1,5 +1,5 @@
 ---
-name: Gyalolechia flavovirescens
+latin_name: Gyalolechia flavovirescens
 source: https://www.nagrzyby.pl/atlas/5444
 ---
 

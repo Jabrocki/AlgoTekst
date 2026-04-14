@@ -1,5 +1,5 @@
 ---
-name: Cortinarius malachius
+latin_name: Cortinarius malachius
 source: https://www.nagrzyby.pl/atlas/2200
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Volvariella taylorii
+latin_name: Volvariella taylorii
 source: https://www.nagrzyby.pl/atlas/5474
 ---
 

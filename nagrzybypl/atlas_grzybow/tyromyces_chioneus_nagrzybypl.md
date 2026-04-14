@@ -1,5 +1,5 @@
 ---
-name: Tyromyces chioneus
+latin_name: Tyromyces chioneus
 source: https://www.nagrzyby.pl/atlas/5897
 ---
 

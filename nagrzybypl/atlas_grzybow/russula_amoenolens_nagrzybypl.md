@@ -1,5 +1,5 @@
 ---
-name: Russula amoenolens
+latin_name: Russula amoenolens
 source: https://www.nagrzyby.pl/atlas/585
 ---
 

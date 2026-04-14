@@ -1,5 +1,5 @@
 ---
-name: Tricholoma populinum
+latin_name: Tricholoma populinum
 source: https://www.nagrzyby.pl/atlas/533
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Puccinia caricina
+latin_name: Puccinia caricina
 source: https://www.nagrzyby.pl/atlas/1931
 ---
 

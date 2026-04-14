@@ -1,5 +1,5 @@
 ---
-name: Macrolepiota procera
+latin_name: Macrolepiota procera
 source: https://www.nagrzyby.pl/atlas/38
 ---
 

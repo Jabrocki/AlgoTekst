@@ -1,5 +1,5 @@
 ---
-name: Hymenogaster bucholtzii
+latin_name: Hymenogaster bucholtzii
 source: https://www.nagrzyby.pl/atlas/5840
 ---
 

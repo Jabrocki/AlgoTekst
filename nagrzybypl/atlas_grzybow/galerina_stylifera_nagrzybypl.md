@@ -1,5 +1,5 @@
 ---
-name: Galerina stylifera
+latin_name: Galerina stylifera
 source: https://www.nagrzyby.pl/atlas/1675
 ---
 

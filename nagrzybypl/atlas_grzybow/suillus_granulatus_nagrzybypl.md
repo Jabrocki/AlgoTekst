@@ -1,5 +1,5 @@
 ---
-name: Suillus granulatus
+latin_name: Suillus granulatus
 source: https://www.nagrzyby.pl/atlas/77
 ---
 

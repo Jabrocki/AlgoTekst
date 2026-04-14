@@ -1,5 +1,5 @@
 ---
-name: Clitocybe subalutacea
+latin_name: Clitocybe subalutacea
 source: https://www.nagrzyby.pl/atlas/2000
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Inocybe tabacina
+latin_name: Inocybe tabacina
 source: https://www.nagrzyby.pl/atlas/2396
 ---
 

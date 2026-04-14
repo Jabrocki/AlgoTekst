@@ -1,5 +1,5 @@
 ---
-name: Conocybe intrusa
+latin_name: Conocybe intrusa
 source: https://www.nagrzyby.pl/atlas/2030
 ---
 

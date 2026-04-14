@@ -1,5 +1,5 @@
 ---
-name: Badhamia utricularis
+latin_name: Badhamia utricularis
 source: https://www.nagrzyby.pl/atlas/5055
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Tricholoma atrosquamosum varietas squarrulosum
+latin_name: Tricholoma atrosquamosum varietas squarrulosum
 source: https://www.nagrzyby.pl/atlas/995
 ---
 

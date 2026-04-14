@@ -1,5 +1,5 @@
 ---
-name: Kuehneromyces mutabilis
+latin_name: Kuehneromyces mutabilis
 source: https://www.nagrzyby.pl/atlas/85
 ---
 

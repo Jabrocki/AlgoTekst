@@ -1,5 +1,5 @@
 ---
-name: Entoloma clypeatum
+latin_name: Entoloma clypeatum
 source: https://www.nagrzyby.pl/atlas/757
 ---
 

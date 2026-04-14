@@ -1,5 +1,5 @@
 ---
-name: Sarcosoma globosum
+latin_name: Sarcosoma globosum
 source: https://www.nagrzyby.pl/atlas/4271
 ---
 

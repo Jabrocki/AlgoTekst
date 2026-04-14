@@ -1,5 +1,5 @@
 ---
-name: Peziza echinospora
+latin_name: Peziza echinospora
 source: https://www.nagrzyby.pl/atlas/1272
 ---
 

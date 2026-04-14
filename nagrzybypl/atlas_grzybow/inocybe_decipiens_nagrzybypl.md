@@ -1,5 +1,5 @@
 ---
-name: Inocybe decipiens
+latin_name: Inocybe decipiens
 source: https://www.nagrzyby.pl/atlas/2342
 ---
 

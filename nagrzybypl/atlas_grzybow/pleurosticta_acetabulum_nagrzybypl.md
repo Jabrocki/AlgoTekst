@@ -1,5 +1,5 @@
 ---
-name: Pleurosticta acetabulum
+latin_name: Pleurosticta acetabulum
 source: https://www.nagrzyby.pl/atlas/5227
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Neonectria coccinea
+latin_name: Neonectria coccinea
 source: https://www.nagrzyby.pl/atlas/5914
 ---
 

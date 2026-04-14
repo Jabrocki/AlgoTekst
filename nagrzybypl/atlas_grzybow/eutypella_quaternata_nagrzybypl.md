@@ -1,5 +1,5 @@
 ---
-name: Eutypella quaternata
+latin_name: Eutypella quaternata
 source: https://www.nagrzyby.pl/atlas/696
 ---
 

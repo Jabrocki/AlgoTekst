@@ -1,5 +1,5 @@
 ---
-name: Ciboria amentacea
+latin_name: Ciboria amentacea
 source: https://www.nagrzyby.pl/atlas/1519
 ---
 

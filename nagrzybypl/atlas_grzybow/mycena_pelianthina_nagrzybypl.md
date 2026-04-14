@@ -1,5 +1,5 @@
 ---
-name: Mycena pelianthina
+latin_name: Mycena pelianthina
 source: https://www.nagrzyby.pl/atlas/1080
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Calocybe naucoria
+latin_name: Calocybe naucoria
 source: https://www.nagrzyby.pl/atlas/1915
 ---
 

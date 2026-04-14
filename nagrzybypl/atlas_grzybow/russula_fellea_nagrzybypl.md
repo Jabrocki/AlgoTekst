@@ -1,5 +1,5 @@
 ---
-name: Russula fellea
+latin_name: Russula fellea
 source: https://www.nagrzyby.pl/atlas/432
 ---
 

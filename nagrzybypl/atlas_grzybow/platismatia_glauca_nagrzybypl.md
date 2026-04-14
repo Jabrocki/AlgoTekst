@@ -1,5 +1,5 @@
 ---
-name: Platismatia glauca
+latin_name: Platismatia glauca
 source: https://www.nagrzyby.pl/atlas/5387
 ---
 

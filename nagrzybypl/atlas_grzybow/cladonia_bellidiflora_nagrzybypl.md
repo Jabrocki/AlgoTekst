@@ -1,5 +1,5 @@
 ---
-name: Cladonia bellidiflora
+latin_name: Cladonia bellidiflora
 source: https://www.nagrzyby.pl/atlas/5193
 ---
 

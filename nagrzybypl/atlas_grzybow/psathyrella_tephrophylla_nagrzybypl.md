@@ -1,5 +1,5 @@
 ---
-name: Psathyrella tephrophylla
+latin_name: Psathyrella tephrophylla
 source: https://www.nagrzyby.pl/atlas/4742
 ---
 

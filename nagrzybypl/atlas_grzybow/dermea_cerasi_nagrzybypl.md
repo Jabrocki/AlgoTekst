@@ -1,5 +1,5 @@
 ---
-name: Dermea cerasi
+latin_name: Dermea cerasi
 source: https://www.nagrzyby.pl/atlas/5102
 ---
 

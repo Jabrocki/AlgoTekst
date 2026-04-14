@@ -1,5 +1,5 @@
 ---
-name: Psathyrella ridicula
+latin_name: Psathyrella ridicula
 source: https://www.nagrzyby.pl/atlas/4740
 ---
 

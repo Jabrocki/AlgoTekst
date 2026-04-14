@@ -1,5 +1,5 @@
 ---
-name: Inonotus hastifer
+latin_name: Inonotus hastifer
 source: https://www.nagrzyby.pl/atlas/4420
 ---
 

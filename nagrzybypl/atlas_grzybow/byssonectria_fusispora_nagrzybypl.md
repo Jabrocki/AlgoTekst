@@ -1,5 +1,5 @@
 ---
-name: Byssonectria fusispora
+latin_name: Byssonectria fusispora
 source: https://www.nagrzyby.pl/atlas/1711
 ---
 

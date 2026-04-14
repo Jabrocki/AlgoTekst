@@ -1,5 +1,5 @@
 ---
-name: Agaricus augustus
+latin_name: Agaricus augustus
 source: https://www.nagrzyby.pl/atlas/449
 ---
 

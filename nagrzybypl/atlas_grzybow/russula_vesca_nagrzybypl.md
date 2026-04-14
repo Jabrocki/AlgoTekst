@@ -1,5 +1,5 @@
 ---
-name: Russula vesca
+latin_name: Russula vesca
 source: https://www.nagrzyby.pl/atlas/108
 ---
 

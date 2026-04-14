@@ -1,5 +1,5 @@
 ---
-name: Hygrophoropsis aurantiaca
+latin_name: Hygrophoropsis aurantiaca
 source: https://www.nagrzyby.pl/atlas/426
 ---
 

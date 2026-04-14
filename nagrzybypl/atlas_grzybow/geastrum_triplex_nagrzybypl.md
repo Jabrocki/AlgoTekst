@@ -1,5 +1,5 @@
 ---
-name: Geastrum triplex
+latin_name: Geastrum triplex
 source: https://www.nagrzyby.pl/atlas/440
 ---
 

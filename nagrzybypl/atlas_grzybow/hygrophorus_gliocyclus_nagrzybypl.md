@@ -1,5 +1,5 @@
 ---
-name: Hygrophorus gliocyclus
+latin_name: Hygrophorus gliocyclus
 source: https://www.nagrzyby.pl/atlas/4432
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Calocera cornea
+latin_name: Calocera cornea
 source: https://www.nagrzyby.pl/atlas/497
 ---
 

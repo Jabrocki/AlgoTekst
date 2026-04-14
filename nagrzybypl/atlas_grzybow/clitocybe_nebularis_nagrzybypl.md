@@ -1,5 +1,5 @@
 ---
-name: Clitocybe nebularis
+latin_name: Clitocybe nebularis
 source: https://www.nagrzyby.pl/atlas/195
 ---
 

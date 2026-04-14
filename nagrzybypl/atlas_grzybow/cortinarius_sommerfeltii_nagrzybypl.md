@@ -1,5 +1,5 @@
 ---
-name: Cortinarius sommerfeltii
+latin_name: Cortinarius sommerfeltii
 source: https://www.nagrzyby.pl/atlas/913
 ---
 

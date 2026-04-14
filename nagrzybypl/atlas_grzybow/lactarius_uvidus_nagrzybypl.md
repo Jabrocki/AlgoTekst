@@ -1,5 +1,5 @@
 ---
-name: Lactarius uvidus
+latin_name: Lactarius uvidus
 source: https://www.nagrzyby.pl/atlas/1153
 ---
 

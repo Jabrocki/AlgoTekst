@@ -1,5 +1,5 @@
 ---
-name: Lepiota grangei
+latin_name: Lepiota grangei
 source: https://www.nagrzyby.pl/atlas/4401
 ---
 

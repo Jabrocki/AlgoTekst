@@ -1,5 +1,5 @@
 ---
-name: Hohenbuehelia atrocoerulea
+latin_name: Hohenbuehelia atrocoerulea
 source: https://www.nagrzyby.pl/atlas/803
 ---
 

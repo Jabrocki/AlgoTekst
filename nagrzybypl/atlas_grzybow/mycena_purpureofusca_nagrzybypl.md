@@ -1,5 +1,5 @@
 ---
-name: Mycena purpureofusca
+latin_name: Mycena purpureofusca
 source: https://www.nagrzyby.pl/atlas/2442
 ---
 

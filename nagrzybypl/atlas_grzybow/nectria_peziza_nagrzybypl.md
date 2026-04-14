@@ -1,5 +1,5 @@
 ---
-name: Nectria peziza
+latin_name: Nectria peziza
 source: https://www.nagrzyby.pl/atlas/5451
 ---
 

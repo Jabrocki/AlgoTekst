@@ -1,5 +1,5 @@
 ---
-name: Ramaria rubripermanens
+latin_name: Ramaria rubripermanens
 source: https://www.nagrzyby.pl/atlas/5450
 ---
 

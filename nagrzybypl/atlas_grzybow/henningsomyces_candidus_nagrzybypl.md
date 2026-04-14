@@ -1,5 +1,5 @@
 ---
-name: Henningsomyces candidus
+latin_name: Henningsomyces candidus
 source: https://www.nagrzyby.pl/atlas/5724
 ---
 

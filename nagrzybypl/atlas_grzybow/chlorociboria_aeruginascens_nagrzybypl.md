@@ -1,5 +1,5 @@
 ---
-name: Chlorociboria aeruginascens
+latin_name: Chlorociboria aeruginascens
 source: https://www.nagrzyby.pl/atlas/279
 ---
 

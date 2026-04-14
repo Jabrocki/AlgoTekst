@@ -1,5 +1,5 @@
 ---
-name: Perichaena corticalis
+latin_name: Perichaena corticalis
 source: https://www.nagrzyby.pl/atlas/5439
 ---
 

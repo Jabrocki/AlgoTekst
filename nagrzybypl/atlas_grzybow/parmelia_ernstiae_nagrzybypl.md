@@ -1,5 +1,5 @@
 ---
-name: Parmelia ernstiae
+latin_name: Parmelia ernstiae
 source: https://www.nagrzyby.pl/atlas/5668
 ---
 

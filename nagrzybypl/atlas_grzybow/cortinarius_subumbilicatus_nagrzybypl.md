@@ -1,5 +1,5 @@
 ---
-name: Cortinarius subumbilicatus
+latin_name: Cortinarius subumbilicatus
 source: https://www.nagrzyby.pl/atlas/2257
 ---
 

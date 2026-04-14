@@ -1,5 +1,5 @@
 ---
-name: Aureoboletus moravicus
+latin_name: Aureoboletus moravicus
 source: https://www.nagrzyby.pl/atlas/1786
 ---
 

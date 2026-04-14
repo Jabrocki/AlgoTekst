@@ -1,5 +1,5 @@
 ---
-name: Hymenochaete rubiginosa
+latin_name: Hymenochaete rubiginosa
 source: https://www.nagrzyby.pl/atlas/404
 ---
 

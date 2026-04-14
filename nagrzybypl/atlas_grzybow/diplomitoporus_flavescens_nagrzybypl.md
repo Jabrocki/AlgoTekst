@@ -1,5 +1,5 @@
 ---
-name: Diplomitoporus flavescens
+latin_name: Diplomitoporus flavescens
 source: https://www.nagrzyby.pl/atlas/1105
 ---
 

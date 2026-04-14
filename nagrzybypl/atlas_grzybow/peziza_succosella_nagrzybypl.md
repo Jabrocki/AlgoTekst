@@ -1,5 +1,5 @@
 ---
-name: Peziza succosella
+latin_name: Peziza succosella
 source: https://www.nagrzyby.pl/atlas/1269
 ---
 

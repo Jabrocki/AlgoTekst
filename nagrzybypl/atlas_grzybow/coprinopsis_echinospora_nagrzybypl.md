@@ -1,5 +1,5 @@
 ---
-name: Coprinopsis echinospora
+latin_name: Coprinopsis echinospora
 source: https://www.nagrzyby.pl/atlas/1017
 ---
 

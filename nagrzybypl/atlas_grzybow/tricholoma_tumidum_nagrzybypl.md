@@ -1,5 +1,5 @@
 ---
-name: Tricholoma tumidum
+latin_name: Tricholoma tumidum
 source: https://www.nagrzyby.pl/atlas/4253
 ---
 

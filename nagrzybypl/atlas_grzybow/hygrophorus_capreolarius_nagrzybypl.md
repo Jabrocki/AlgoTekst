@@ -1,5 +1,5 @@
 ---
-name: Hygrophorus capreolarius
+latin_name: Hygrophorus capreolarius
 source: https://www.nagrzyby.pl/atlas/1243
 ---
 

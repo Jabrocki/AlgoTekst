@@ -1,5 +1,5 @@
 ---
-name: Radulomyces confluens
+latin_name: Radulomyces confluens
 source: https://www.nagrzyby.pl/atlas/5089
 ---
 

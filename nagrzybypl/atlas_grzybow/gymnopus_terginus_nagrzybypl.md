@@ -1,5 +1,5 @@
 ---
-name: Gymnopus terginus
+latin_name: Gymnopus terginus
 source: https://www.nagrzyby.pl/atlas/1440
 ---
 

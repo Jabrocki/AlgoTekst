@@ -1,5 +1,5 @@
 ---
-name: Lactarius omphaliiformis
+latin_name: Lactarius omphaliiformis
 source: https://www.nagrzyby.pl/atlas/1818
 ---
 

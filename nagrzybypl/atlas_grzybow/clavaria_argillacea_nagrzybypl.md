@@ -1,5 +1,5 @@
 ---
-name: Clavaria argillacea
+latin_name: Clavaria argillacea
 source: https://www.nagrzyby.pl/atlas/1973
 ---
 

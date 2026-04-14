@@ -1,5 +1,5 @@
 ---
-name: Candelariella coralliza
+latin_name: Candelariella coralliza
 source: https://www.nagrzyby.pl/atlas/5256
 ---
 

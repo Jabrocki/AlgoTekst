@@ -1,5 +1,5 @@
 ---
-name: Xanthomendoza fulva
+latin_name: Xanthomendoza fulva
 source: https://www.nagrzyby.pl/atlas/5626
 ---
 

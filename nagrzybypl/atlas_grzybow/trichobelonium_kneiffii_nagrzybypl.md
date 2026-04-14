@@ -1,5 +1,5 @@
 ---
-name: Trichobelonium kneiffii
+latin_name: Trichobelonium kneiffii
 source: https://www.nagrzyby.pl/atlas/5671
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Oxyporus corticola
+latin_name: Oxyporus corticola
 source: https://www.nagrzyby.pl/atlas/4045
 ---
 

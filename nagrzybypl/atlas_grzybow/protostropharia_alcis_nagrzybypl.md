@@ -1,5 +1,5 @@
 ---
-name: Protostropharia alcis
+latin_name: Protostropharia alcis
 source: https://www.nagrzyby.pl/atlas/5696
 ---
 

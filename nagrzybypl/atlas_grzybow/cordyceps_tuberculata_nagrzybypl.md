@@ -1,5 +1,5 @@
 ---
-name: Cordyceps tuberculata
+latin_name: Cordyceps tuberculata
 source: https://www.nagrzyby.pl/atlas/430
 ---
 

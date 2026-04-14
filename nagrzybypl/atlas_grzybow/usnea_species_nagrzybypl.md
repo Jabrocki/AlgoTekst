@@ -1,5 +1,5 @@
 ---
-name: Usnea species
+latin_name: Usnea species
 source: https://www.nagrzyby.pl/atlas/5399
 ---
 

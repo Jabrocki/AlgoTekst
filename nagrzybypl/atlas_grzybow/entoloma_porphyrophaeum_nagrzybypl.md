@@ -1,5 +1,5 @@
 ---
-name: Entoloma porphyrophaeum
+latin_name: Entoloma porphyrophaeum
 source: https://www.nagrzyby.pl/atlas/4746
 ---
 

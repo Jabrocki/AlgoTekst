@@ -1,5 +1,5 @@
 ---
-name: Tricholoma stans
+latin_name: Tricholoma stans
 source: https://www.nagrzyby.pl/atlas/4252
 ---
 

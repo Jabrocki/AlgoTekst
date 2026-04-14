@@ -1,5 +1,5 @@
 ---
-name: Hymenoscyphus lutescens
+latin_name: Hymenoscyphus lutescens
 source: https://www.nagrzyby.pl/atlas/4851
 ---
 

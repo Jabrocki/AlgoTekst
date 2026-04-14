@@ -1,5 +1,5 @@
 ---
-name: Lenzites betulina
+latin_name: Lenzites betulina
 source: https://www.nagrzyby.pl/atlas/255
 ---
 

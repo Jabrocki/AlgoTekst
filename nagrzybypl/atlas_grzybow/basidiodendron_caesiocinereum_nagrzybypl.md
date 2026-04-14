@@ -1,5 +1,5 @@
 ---
-name: Basidiodendron caesiocinereum
+latin_name: Basidiodendron caesiocinereum
 source: https://www.nagrzyby.pl/atlas/1883
 ---
 

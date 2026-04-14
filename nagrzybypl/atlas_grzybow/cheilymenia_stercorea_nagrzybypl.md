@@ -1,5 +1,5 @@
 ---
-name: Cheilymenia stercorea
+latin_name: Cheilymenia stercorea
 source: https://www.nagrzyby.pl/atlas/5978
 ---
 

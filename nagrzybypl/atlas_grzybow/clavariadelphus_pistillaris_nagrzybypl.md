@@ -1,5 +1,5 @@
 ---
-name: Clavariadelphus pistillaris
+latin_name: Clavariadelphus pistillaris
 source: https://www.nagrzyby.pl/atlas/44
 ---
 

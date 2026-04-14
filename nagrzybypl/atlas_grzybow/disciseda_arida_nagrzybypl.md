@@ -1,5 +1,5 @@
 ---
-name: Disciseda arida
+latin_name: Disciseda arida
 source: https://www.nagrzyby.pl/atlas/1174
 ---
 

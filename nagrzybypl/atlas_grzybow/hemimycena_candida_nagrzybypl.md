@@ -1,5 +1,5 @@
 ---
-name: Hemimycena candida
+latin_name: Hemimycena candida
 source: https://www.nagrzyby.pl/atlas/5625
 ---
 

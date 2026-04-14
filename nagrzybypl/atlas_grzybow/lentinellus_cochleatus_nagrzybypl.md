@@ -1,5 +1,5 @@
 ---
-name: Lentinellus cochleatus
+latin_name: Lentinellus cochleatus
 source: https://www.nagrzyby.pl/atlas/567
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Phlebia albida
+latin_name: Phlebia albida
 source: https://www.nagrzyby.pl/atlas/4346
 ---
 

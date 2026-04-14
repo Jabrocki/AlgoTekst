@@ -1,5 +1,5 @@
 ---
-name: Entoloma turbidum
+latin_name: Entoloma turbidum
 source: https://www.nagrzyby.pl/atlas/4294
 ---
 

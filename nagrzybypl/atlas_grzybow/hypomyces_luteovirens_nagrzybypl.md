@@ -1,5 +1,5 @@
 ---
-name: Hypomyces luteovirens
+latin_name: Hypomyces luteovirens
 source: https://www.nagrzyby.pl/atlas/1712
 ---
 

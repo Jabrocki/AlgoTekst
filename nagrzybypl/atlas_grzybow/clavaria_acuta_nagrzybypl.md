@@ -1,5 +1,5 @@
 ---
-name: Clavaria acuta
+latin_name: Clavaria acuta
 source: https://www.nagrzyby.pl/atlas/4988
 ---
 

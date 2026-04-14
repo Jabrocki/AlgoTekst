@@ -1,5 +1,5 @@
 ---
-name: Tricholoma orirubens
+latin_name: Tricholoma orirubens
 source: https://www.nagrzyby.pl/atlas/978
 ---
 

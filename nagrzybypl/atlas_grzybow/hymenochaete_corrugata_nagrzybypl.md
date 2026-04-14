@@ -1,5 +1,5 @@
 ---
-name: Hymenochaete corrugata
+latin_name: Hymenochaete corrugata
 source: https://www.nagrzyby.pl/atlas/4416
 ---
 

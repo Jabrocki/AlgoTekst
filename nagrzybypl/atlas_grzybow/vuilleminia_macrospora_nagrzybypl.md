@@ -1,5 +1,5 @@
 ---
-name: Vuilleminia macrospora
+latin_name: Vuilleminia macrospora
 source: https://www.nagrzyby.pl/atlas/4971
 ---
 

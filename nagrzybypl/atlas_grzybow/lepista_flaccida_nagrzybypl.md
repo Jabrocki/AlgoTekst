@@ -1,5 +1,5 @@
 ---
-name: Lepista flaccida
+latin_name: Lepista flaccida
 source: https://www.nagrzyby.pl/atlas/60
 ---
 

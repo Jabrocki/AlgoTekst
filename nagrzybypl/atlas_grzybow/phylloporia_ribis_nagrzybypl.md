@@ -1,5 +1,5 @@
 ---
-name: Phylloporia ribis
+latin_name: Phylloporia ribis
 source: https://www.nagrzyby.pl/atlas/1129
 ---
 

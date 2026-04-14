@@ -1,5 +1,5 @@
 ---
-name: Pholiota scamba
+latin_name: Pholiota scamba
 source: https://www.nagrzyby.pl/atlas/1410
 ---
 

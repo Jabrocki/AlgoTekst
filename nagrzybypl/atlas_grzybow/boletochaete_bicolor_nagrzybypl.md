@@ -1,5 +1,5 @@
 ---
-name: Boletochaete bicolor
+latin_name: Boletochaete bicolor
 source: https://www.nagrzyby.pl/atlas/5074
 ---
 

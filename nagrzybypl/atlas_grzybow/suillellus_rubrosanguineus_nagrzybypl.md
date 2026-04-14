@@ -1,5 +1,5 @@
 ---
-name: Suillellus rubrosanguineus
+latin_name: Suillellus rubrosanguineus
 source: https://www.nagrzyby.pl/atlas/706
 ---
 

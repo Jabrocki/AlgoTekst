@@ -1,5 +1,5 @@
 ---
-name: Geoglossum difforme
+latin_name: Geoglossum difforme
 source: https://www.nagrzyby.pl/atlas/5800
 ---
 

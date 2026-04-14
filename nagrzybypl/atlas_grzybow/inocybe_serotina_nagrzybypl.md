@@ -1,5 +1,5 @@
 ---
-name: Inocybe serotina
+latin_name: Inocybe serotina
 source: https://www.nagrzyby.pl/atlas/2390
 ---
 

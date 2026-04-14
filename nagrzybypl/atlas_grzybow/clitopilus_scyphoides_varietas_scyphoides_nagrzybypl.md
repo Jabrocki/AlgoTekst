@@ -1,5 +1,5 @@
 ---
-name: Clitopilus scyphoides varietas scyphoides
+latin_name: Clitopilus scyphoides varietas scyphoides
 source: https://www.nagrzyby.pl/atlas/2005
 ---
 

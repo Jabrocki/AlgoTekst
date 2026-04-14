@@ -1,5 +1,5 @@
 ---
-name: Cyphelium tigillare
+latin_name: Cyphelium tigillare
 source: https://www.nagrzyby.pl/atlas/5331
 ---
 

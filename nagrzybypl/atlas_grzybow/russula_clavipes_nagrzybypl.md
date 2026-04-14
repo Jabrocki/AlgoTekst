@@ -1,5 +1,5 @@
 ---
-name: Russula clavipes
+latin_name: Russula clavipes
 source: https://www.nagrzyby.pl/atlas/5663
 ---
 

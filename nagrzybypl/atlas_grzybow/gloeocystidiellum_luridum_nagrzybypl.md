@@ -1,5 +1,5 @@
 ---
-name: Gloeocystidiellum luridum
+latin_name: Gloeocystidiellum luridum
 source: https://www.nagrzyby.pl/atlas/4458
 ---
 

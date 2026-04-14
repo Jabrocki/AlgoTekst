@@ -1,5 +1,5 @@
 ---
-name: Clavaria fragilis
+latin_name: Clavaria fragilis
 source: https://www.nagrzyby.pl/atlas/1375
 ---
 

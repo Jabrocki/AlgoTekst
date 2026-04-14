@@ -1,5 +1,5 @@
 ---
-name: Dendrothele acerina
+latin_name: Dendrothele acerina
 source: https://www.nagrzyby.pl/atlas/4494
 ---
 

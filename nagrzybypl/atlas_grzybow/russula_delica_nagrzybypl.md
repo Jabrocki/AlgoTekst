@@ -1,5 +1,5 @@
 ---
-name: Russula delica
+latin_name: Russula delica
 source: https://www.nagrzyby.pl/atlas/680
 ---
 

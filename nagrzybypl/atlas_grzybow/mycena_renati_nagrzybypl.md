@@ -1,5 +1,5 @@
 ---
-name: Mycena renati
+latin_name: Mycena renati
 source: https://www.nagrzyby.pl/atlas/730
 ---
 

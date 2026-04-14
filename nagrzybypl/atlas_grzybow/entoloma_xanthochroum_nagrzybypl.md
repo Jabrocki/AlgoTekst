@@ -1,5 +1,5 @@
 ---
-name: Entoloma xanthochroum
+latin_name: Entoloma xanthochroum
 source: https://www.nagrzyby.pl/atlas/4801
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Lactarius acerrimus
+latin_name: Lactarius acerrimus
 source: https://www.nagrzyby.pl/atlas/1809
 ---
 

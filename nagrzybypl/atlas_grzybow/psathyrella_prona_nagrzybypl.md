@@ -1,5 +1,5 @@
 ---
-name: Psathyrella prona
+latin_name: Psathyrella prona
 source: https://www.nagrzyby.pl/atlas/1759
 ---
 

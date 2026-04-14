@@ -1,5 +1,5 @@
 ---
-name: Jimgerdemannia lactiflua
+latin_name: Jimgerdemannia lactiflua
 source: https://www.nagrzyby.pl/atlas/5837
 ---
 

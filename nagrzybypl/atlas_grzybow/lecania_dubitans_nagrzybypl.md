@@ -1,5 +1,5 @@
 ---
-name: Lecania dubitans
+latin_name: Lecania dubitans
 source: https://www.nagrzyby.pl/atlas/5631
 ---
 

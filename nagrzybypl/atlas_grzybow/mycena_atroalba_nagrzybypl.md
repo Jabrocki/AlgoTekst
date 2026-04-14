@@ -1,5 +1,5 @@
 ---
-name: Mycena atroalba
+latin_name: Mycena atroalba
 source: https://www.nagrzyby.pl/atlas/2410
 ---
 

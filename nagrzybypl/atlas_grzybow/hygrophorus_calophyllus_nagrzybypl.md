@@ -1,5 +1,5 @@
 ---
-name: Hygrophorus calophyllus
+latin_name: Hygrophorus calophyllus
 source: https://www.nagrzyby.pl/atlas/4532
 ---
 

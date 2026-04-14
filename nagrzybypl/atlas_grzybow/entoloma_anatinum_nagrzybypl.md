@@ -1,5 +1,5 @@
 ---
-name: Entoloma anatinum
+latin_name: Entoloma anatinum
 source: https://www.nagrzyby.pl/atlas/4752
 ---
 

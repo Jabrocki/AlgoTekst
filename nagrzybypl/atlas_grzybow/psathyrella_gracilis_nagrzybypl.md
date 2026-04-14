@@ -1,5 +1,5 @@
 ---
-name: Psathyrella gracilis
+latin_name: Psathyrella gracilis
 source: https://www.nagrzyby.pl/atlas/4734
 ---
 

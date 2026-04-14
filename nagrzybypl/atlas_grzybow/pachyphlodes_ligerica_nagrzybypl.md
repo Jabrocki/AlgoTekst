@@ -1,5 +1,5 @@
 ---
-name: Pachyphlodes ligerica
+latin_name: Pachyphlodes ligerica
 source: https://www.nagrzyby.pl/atlas/4882
 ---
 

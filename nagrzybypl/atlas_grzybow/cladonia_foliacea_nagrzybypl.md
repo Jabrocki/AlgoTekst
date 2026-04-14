@@ -1,5 +1,5 @@
 ---
-name: Cladonia foliacea
+latin_name: Cladonia foliacea
 source: https://www.nagrzyby.pl/atlas/5180
 ---
 

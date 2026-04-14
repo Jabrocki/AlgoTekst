@@ -1,5 +1,5 @@
 ---
-name: Parasola kuehneri
+latin_name: Parasola kuehneri
 source: https://www.nagrzyby.pl/atlas/2074
 ---
 

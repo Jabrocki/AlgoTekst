@@ -1,5 +1,5 @@
 ---
-name: Hydnellum caeruleum
+latin_name: Hydnellum caeruleum
 source: https://www.nagrzyby.pl/atlas/4176
 ---
 

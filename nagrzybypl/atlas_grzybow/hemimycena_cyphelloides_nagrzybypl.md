@@ -1,5 +1,5 @@
 ---
-name: Hemimycena cyphelloides
+latin_name: Hemimycena cyphelloides
 source: https://www.nagrzyby.pl/atlas/4443
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Tricholoma cartilagineum
+latin_name: Tricholoma cartilagineum
 source: https://www.nagrzyby.pl/atlas/5576
 ---
 

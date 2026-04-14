@@ -1,5 +1,5 @@
 ---
-name: Conocybe fragilis
+latin_name: Conocybe fragilis
 source: https://www.nagrzyby.pl/atlas/2027
 ---
 

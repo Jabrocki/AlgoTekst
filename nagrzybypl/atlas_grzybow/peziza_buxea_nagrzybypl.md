@@ -1,5 +1,5 @@
 ---
-name: Peziza buxea
+latin_name: Peziza buxea
 source: https://www.nagrzyby.pl/atlas/1303
 ---
 

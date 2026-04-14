@@ -1,5 +1,5 @@
 ---
-name: Ascotremella faginea
+latin_name: Ascotremella faginea
 source: https://www.nagrzyby.pl/atlas/1227
 ---
 

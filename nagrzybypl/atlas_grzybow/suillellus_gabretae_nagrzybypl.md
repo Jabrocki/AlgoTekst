@@ -1,5 +1,5 @@
 ---
-name: Suillellus gabretae
+latin_name: Suillellus gabretae
 source: https://www.nagrzyby.pl/atlas/1787
 ---
 

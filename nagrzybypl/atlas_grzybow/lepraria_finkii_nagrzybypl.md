@@ -1,5 +1,5 @@
 ---
-name: Lepraria finkii
+latin_name: Lepraria finkii
 source: https://www.nagrzyby.pl/atlas/5255
 ---
 

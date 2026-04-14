@@ -1,5 +1,5 @@
 ---
-name: Solorina crocea
+latin_name: Solorina crocea
 source: https://www.nagrzyby.pl/atlas/5394
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Cortinarius multiformis
+latin_name: Cortinarius multiformis
 source: https://www.nagrzyby.pl/atlas/2208
 ---
 

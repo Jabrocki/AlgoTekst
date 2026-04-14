@@ -1,5 +1,5 @@
 ---
-name: Pseudevernia furfuracea
+latin_name: Pseudevernia furfuracea
 source: https://www.nagrzyby.pl/atlas/5273
 ---
 

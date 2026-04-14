@@ -1,5 +1,5 @@
 ---
-name: Amanita franchetii
+latin_name: Amanita franchetii
 source: https://www.nagrzyby.pl/atlas/579
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Leproplaca cirrochroa
+latin_name: Leproplaca cirrochroa
 source: https://www.nagrzyby.pl/atlas/5244
 ---
 

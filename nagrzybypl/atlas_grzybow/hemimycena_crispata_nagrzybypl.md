@@ -1,5 +1,5 @@
 ---
-name: Hemimycena crispata
+latin_name: Hemimycena crispata
 source: https://www.nagrzyby.pl/atlas/4444
 ---
 

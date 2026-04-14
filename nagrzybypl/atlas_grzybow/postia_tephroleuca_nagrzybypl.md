@@ -1,5 +1,5 @@
 ---
-name: Postia tephroleuca
+latin_name: Postia tephroleuca
 source: https://www.nagrzyby.pl/atlas/5896
 ---
 

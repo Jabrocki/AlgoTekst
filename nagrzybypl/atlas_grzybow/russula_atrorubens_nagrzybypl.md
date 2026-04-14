@@ -1,5 +1,5 @@
 ---
-name: Russula atrorubens
+latin_name: Russula atrorubens
 source: https://www.nagrzyby.pl/atlas/846
 ---
 

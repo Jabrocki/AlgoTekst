@@ -1,5 +1,5 @@
 ---
-name: Agaricus bitorquis
+latin_name: Agaricus bitorquis
 source: https://www.nagrzyby.pl/atlas/337
 ---
 

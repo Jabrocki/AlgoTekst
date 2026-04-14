@@ -1,5 +1,5 @@
 ---
-name: Lepista glaucocana
+latin_name: Lepista glaucocana
 source: https://www.nagrzyby.pl/atlas/1016
 ---
 

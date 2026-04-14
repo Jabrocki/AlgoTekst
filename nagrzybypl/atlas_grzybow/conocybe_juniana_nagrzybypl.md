@@ -1,5 +1,5 @@
 ---
-name: Conocybe juniana
+latin_name: Conocybe juniana
 source: https://www.nagrzyby.pl/atlas/2031
 ---
 

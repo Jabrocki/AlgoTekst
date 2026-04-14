@@ -1,5 +1,5 @@
 ---
-name: Lathagrium fuscovirens
+latin_name: Lathagrium fuscovirens
 source: https://www.nagrzyby.pl/atlas/5231
 ---
 

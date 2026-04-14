@@ -1,5 +1,5 @@
 ---
-name: Polycauliona polycarpa
+latin_name: Polycauliona polycarpa
 source: https://www.nagrzyby.pl/atlas/5225
 ---
 

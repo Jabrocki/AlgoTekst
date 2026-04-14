@@ -1,5 +1,5 @@
 ---
-name: Suillus viscidus
+latin_name: Suillus viscidus
 source: https://www.nagrzyby.pl/atlas/225
 ---
 

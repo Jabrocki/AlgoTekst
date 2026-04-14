@@ -1,5 +1,5 @@
 ---
-name: Hyphodontia sambuci
+latin_name: Hyphodontia sambuci
 source: https://www.nagrzyby.pl/atlas/100
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Cladonia ciliata
+latin_name: Cladonia ciliata
 source: https://www.nagrzyby.pl/atlas/5170
 ---
 

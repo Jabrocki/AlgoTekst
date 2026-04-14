@@ -1,5 +1,5 @@
 ---
-name: Mollisia amenticola
+latin_name: Mollisia amenticola
 source: https://www.nagrzyby.pl/atlas/5619
 ---
 

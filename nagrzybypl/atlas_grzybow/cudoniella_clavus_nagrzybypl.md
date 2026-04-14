@@ -1,5 +1,5 @@
 ---
-name: Cudoniella clavus
+latin_name: Cudoniella clavus
 source: https://www.nagrzyby.pl/atlas/4685
 ---
 

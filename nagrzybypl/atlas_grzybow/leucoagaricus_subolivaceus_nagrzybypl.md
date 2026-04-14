@@ -1,5 +1,5 @@
 ---
-name: Leucoagaricus subolivaceus
+latin_name: Leucoagaricus subolivaceus
 source: https://www.nagrzyby.pl/atlas/3883
 ---
 

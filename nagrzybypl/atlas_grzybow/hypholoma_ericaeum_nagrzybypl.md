@@ -1,5 +1,5 @@
 ---
-name: Hypholoma ericaeum
+latin_name: Hypholoma ericaeum
 source: https://www.nagrzyby.pl/atlas/1509
 ---
 

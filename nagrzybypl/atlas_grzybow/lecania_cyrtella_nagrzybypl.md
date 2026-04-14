@@ -1,5 +1,5 @@
 ---
-name: Lecania cyrtella
+latin_name: Lecania cyrtella
 source: https://www.nagrzyby.pl/atlas/5290
 ---
 

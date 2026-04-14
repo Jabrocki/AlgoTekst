@@ -1,5 +1,5 @@
 ---
-name: Entoloma sinuatum
+latin_name: Entoloma sinuatum
 source: https://www.nagrzyby.pl/atlas/649
 ---
 

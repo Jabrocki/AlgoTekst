@@ -1,5 +1,5 @@
 ---
-name: Inocybe bongardii
+latin_name: Inocybe bongardii
 source: https://www.nagrzyby.pl/atlas/2333
 ---
 

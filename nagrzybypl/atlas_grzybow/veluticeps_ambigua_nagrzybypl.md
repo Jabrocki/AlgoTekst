@@ -1,5 +1,5 @@
 ---
-name: Veluticeps ambigua
+latin_name: Veluticeps ambigua
 source: https://www.nagrzyby.pl/atlas/2592
 ---
 

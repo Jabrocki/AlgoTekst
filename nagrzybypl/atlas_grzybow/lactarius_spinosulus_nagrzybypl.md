@@ -1,5 +1,5 @@
 ---
-name: Lactarius spinosulus
+latin_name: Lactarius spinosulus
 source: https://www.nagrzyby.pl/atlas/1805
 ---
 

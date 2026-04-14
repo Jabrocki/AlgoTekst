@@ -1,5 +1,5 @@
 ---
-name: Hygrophorus pustulatus
+latin_name: Hygrophorus pustulatus
 source: https://www.nagrzyby.pl/atlas/4549
 ---
 

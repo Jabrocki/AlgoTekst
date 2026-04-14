@@ -1,5 +1,5 @@
 ---
-name: Inocybe griseolilacina
+latin_name: Inocybe griseolilacina
 source: https://www.nagrzyby.pl/atlas/2354
 ---
 

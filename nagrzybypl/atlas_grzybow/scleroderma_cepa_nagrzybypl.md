@@ -1,5 +1,5 @@
 ---
-name: Scleroderma cepa
+latin_name: Scleroderma cepa
 source: https://www.nagrzyby.pl/atlas/1649
 ---
 

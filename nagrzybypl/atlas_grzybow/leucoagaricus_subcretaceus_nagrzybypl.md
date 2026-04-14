@@ -1,5 +1,5 @@
 ---
-name: Leucoagaricus subcretaceus
+latin_name: Leucoagaricus subcretaceus
 source: https://www.nagrzyby.pl/atlas/952
 ---
 

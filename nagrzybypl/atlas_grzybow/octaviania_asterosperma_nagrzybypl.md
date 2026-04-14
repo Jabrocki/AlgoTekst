@@ -1,5 +1,5 @@
 ---
-name: Octaviania asterosperma
+latin_name: Octaviania asterosperma
 source: https://www.nagrzyby.pl/atlas/4690
 ---
 

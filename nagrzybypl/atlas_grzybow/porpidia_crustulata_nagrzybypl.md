@@ -1,5 +1,5 @@
 ---
-name: Porpidia crustulata
+latin_name: Porpidia crustulata
 source: https://www.nagrzyby.pl/atlas/5251
 ---
 

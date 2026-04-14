@@ -1,5 +1,5 @@
 ---
-name: Infundibulicybe geotropa
+latin_name: Infundibulicybe geotropa
 source: https://www.nagrzyby.pl/atlas/1566
 ---
 

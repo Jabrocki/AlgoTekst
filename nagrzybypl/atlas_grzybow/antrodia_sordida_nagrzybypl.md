@@ -1,5 +1,5 @@
 ---
-name: Antrodia sordida
+latin_name: Antrodia sordida
 source: https://www.nagrzyby.pl/atlas/2400
 ---
 

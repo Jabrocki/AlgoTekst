@@ -1,5 +1,5 @@
 ---
-name: Leccinum vulpinum
+latin_name: Leccinum vulpinum
 source: https://www.nagrzyby.pl/atlas/70
 ---
 

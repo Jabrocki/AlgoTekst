@@ -1,5 +1,5 @@
 ---
-name: Lyophyllum gangraenosum
+latin_name: Lyophyllum gangraenosum
 source: https://www.nagrzyby.pl/atlas/4199
 ---
 

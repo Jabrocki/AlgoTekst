@@ -1,5 +1,5 @@
 ---
-name: Tricholoma fucatum
+latin_name: Tricholoma fucatum
 source: https://www.nagrzyby.pl/atlas/4247
 ---
 

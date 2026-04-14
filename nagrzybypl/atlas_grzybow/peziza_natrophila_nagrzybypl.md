@@ -1,5 +1,5 @@
 ---
-name: Peziza natrophila
+latin_name: Peziza natrophila
 source: https://www.nagrzyby.pl/atlas/1282
 ---
 

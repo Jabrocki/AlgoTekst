@@ -1,5 +1,5 @@
 ---
-name: Phallus hadriani
+latin_name: Phallus hadriani
 source: https://www.nagrzyby.pl/atlas/621
 ---
 

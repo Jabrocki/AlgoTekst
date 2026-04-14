@@ -1,5 +1,5 @@
 ---
-name: Rhizocarpon geographicum
+latin_name: Rhizocarpon geographicum
 source: https://www.nagrzyby.pl/atlas/5298
 ---
 

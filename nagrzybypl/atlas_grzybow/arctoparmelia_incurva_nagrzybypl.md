@@ -1,5 +1,5 @@
 ---
-name: Arctoparmelia incurva
+latin_name: Arctoparmelia incurva
 source: https://www.nagrzyby.pl/atlas/5301
 ---
 

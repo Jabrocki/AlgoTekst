@@ -1,5 +1,5 @@
 ---
-name: Tricholoma aestuans
+latin_name: Tricholoma aestuans
 source: https://www.nagrzyby.pl/atlas/1010
 ---
 

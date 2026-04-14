@@ -1,5 +1,5 @@
 ---
-name: Arrhenia retiruga
+latin_name: Arrhenia retiruga
 source: https://www.nagrzyby.pl/atlas/1867
 ---
 

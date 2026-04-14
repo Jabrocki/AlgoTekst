@@ -1,5 +1,5 @@
 ---
-name: Cladonia pleurota
+latin_name: Cladonia pleurota
 source: https://www.nagrzyby.pl/atlas/5174
 ---
 

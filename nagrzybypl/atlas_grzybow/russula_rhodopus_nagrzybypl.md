@@ -1,5 +1,5 @@
 ---
-name: Russula rhodopus
+latin_name: Russula rhodopus
 source: https://www.nagrzyby.pl/atlas/5753
 ---
 

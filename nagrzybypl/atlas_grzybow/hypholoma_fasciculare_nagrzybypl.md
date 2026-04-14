@@ -1,5 +1,5 @@
 ---
-name: Hypholoma fasciculare
+latin_name: Hypholoma fasciculare
 source: https://www.nagrzyby.pl/atlas/238
 ---
 

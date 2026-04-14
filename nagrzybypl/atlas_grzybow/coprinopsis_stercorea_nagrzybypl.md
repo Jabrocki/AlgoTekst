@@ -1,5 +1,5 @@
 ---
-name: Coprinopsis stercorea
+latin_name: Coprinopsis stercorea
 source: https://www.nagrzyby.pl/atlas/2104
 ---
 

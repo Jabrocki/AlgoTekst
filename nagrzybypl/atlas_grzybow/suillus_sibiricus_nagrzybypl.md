@@ -1,5 +1,5 @@
 ---
-name: Suillus sibiricus
+latin_name: Suillus sibiricus
 source: https://www.nagrzyby.pl/atlas/768
 ---
 

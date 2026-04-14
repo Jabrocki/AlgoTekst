@@ -1,5 +1,5 @@
 ---
-name: Agaricus sylvaticus
+latin_name: Agaricus sylvaticus
 source: https://www.nagrzyby.pl/atlas/343
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Mycena sanguinolenta
+latin_name: Mycena sanguinolenta
 source: https://www.nagrzyby.pl/atlas/1083
 ---
 

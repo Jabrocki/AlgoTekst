@@ -1,5 +1,5 @@
 ---
-name: Daldinia concentrica
+latin_name: Daldinia concentrica
 source: https://www.nagrzyby.pl/atlas/493
 ---
 

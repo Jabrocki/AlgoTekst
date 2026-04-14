@@ -1,5 +1,5 @@
 ---
-name: Hygrocybe colemanniana
+latin_name: Hygrocybe colemanniana
 source: https://www.nagrzyby.pl/atlas/1418
 ---
 

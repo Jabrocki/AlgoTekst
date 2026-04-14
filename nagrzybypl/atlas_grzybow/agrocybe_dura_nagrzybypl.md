@@ -1,5 +1,5 @@
 ---
-name: Agrocybe dura
+latin_name: Agrocybe dura
 source: https://www.nagrzyby.pl/atlas/351
 ---
 

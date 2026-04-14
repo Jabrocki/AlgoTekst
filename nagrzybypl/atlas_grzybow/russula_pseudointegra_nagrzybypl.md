@@ -1,5 +1,5 @@
 ---
-name: Russula pseudointegra
+latin_name: Russula pseudointegra
 source: https://www.nagrzyby.pl/atlas/821
 ---
 

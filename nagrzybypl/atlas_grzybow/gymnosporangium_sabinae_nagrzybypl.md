@@ -1,5 +1,5 @@
 ---
-name: Gymnosporangium sabinae
+latin_name: Gymnosporangium sabinae
 source: https://www.nagrzyby.pl/atlas/1678
 ---
 

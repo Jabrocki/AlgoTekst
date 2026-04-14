@@ -1,5 +1,5 @@
 ---
-name: Armillaria ostoyae
+latin_name: Armillaria ostoyae
 source: https://www.nagrzyby.pl/atlas/1699
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Lepiota subincarnata
+latin_name: Lepiota subincarnata
 source: https://www.nagrzyby.pl/atlas/5140
 ---
 

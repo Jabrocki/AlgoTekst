@@ -1,5 +1,5 @@
 ---
-name: Helvella atra
+latin_name: Helvella atra
 source: https://www.nagrzyby.pl/atlas/1459
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Camarophyllopsis hymenocephala
+latin_name: Camarophyllopsis hymenocephala
 source: https://www.nagrzyby.pl/atlas/4565
 ---
 

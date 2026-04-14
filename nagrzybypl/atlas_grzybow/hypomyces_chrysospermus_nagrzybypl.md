@@ -1,5 +1,5 @@
 ---
-name: Hypomyces chrysospermus
+latin_name: Hypomyces chrysospermus
 source: https://www.nagrzyby.pl/atlas/5456
 ---
 

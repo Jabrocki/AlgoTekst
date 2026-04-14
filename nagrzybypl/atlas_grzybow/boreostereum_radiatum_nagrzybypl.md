@@ -1,5 +1,5 @@
 ---
-name: Boreostereum radiatum
+latin_name: Boreostereum radiatum
 source: https://www.nagrzyby.pl/atlas/1887
 ---
 

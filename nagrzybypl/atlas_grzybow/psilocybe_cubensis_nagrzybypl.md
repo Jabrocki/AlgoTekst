@@ -1,5 +1,5 @@
 ---
-name: Psilocybe cubensis
+latin_name: Psilocybe cubensis
 source: https://www.nagrzyby.pl/atlas/1329
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Pluteus phlebophorus
+latin_name: Pluteus phlebophorus
 source: https://www.nagrzyby.pl/atlas/1197
 ---
 

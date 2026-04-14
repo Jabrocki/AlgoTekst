@@ -1,5 +1,5 @@
 ---
-name: Marasmius curreyi
+latin_name: Marasmius curreyi
 source: https://www.nagrzyby.pl/atlas/5117
 ---
 

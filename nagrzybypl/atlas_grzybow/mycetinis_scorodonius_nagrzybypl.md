@@ -1,5 +1,5 @@
 ---
-name: Mycetinis scorodonius
+latin_name: Mycetinis scorodonius
 source: https://www.nagrzyby.pl/atlas/368
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Agaricus semotus
+latin_name: Agaricus semotus
 source: https://www.nagrzyby.pl/atlas/878
 ---
 

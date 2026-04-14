@@ -1,5 +1,5 @@
 ---
-name: Scleroderma septentrionale
+latin_name: Scleroderma septentrionale
 source: https://www.nagrzyby.pl/atlas/5421
 ---
 

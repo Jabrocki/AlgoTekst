@@ -1,5 +1,5 @@
 ---
-name: Cheilymenia granulata
+latin_name: Cheilymenia granulata
 source: https://www.nagrzyby.pl/atlas/1950
 ---
 

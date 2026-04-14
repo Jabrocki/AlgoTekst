@@ -1,5 +1,5 @@
 ---
-name: Hygrocybe psittacina varietas perplexa
+latin_name: Hygrocybe psittacina varietas perplexa
 source: https://www.nagrzyby.pl/atlas/4223
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Cortinarius livido-ochraceus
+latin_name: Cortinarius livido-ochraceus
 source: https://www.nagrzyby.pl/atlas/2197
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Tricholoma fulvum
+latin_name: Tricholoma fulvum
 source: https://www.nagrzyby.pl/atlas/977
 ---
 

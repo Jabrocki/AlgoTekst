@@ -1,5 +1,5 @@
 ---
-name: Amanita caesarea
+latin_name: Amanita caesarea
 source: https://www.nagrzyby.pl/atlas/546
 ---
 

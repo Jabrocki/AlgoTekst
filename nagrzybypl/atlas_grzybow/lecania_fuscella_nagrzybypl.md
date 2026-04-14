@@ -1,5 +1,5 @@
 ---
-name: Lecania fuscella
+latin_name: Lecania fuscella
 source: https://www.nagrzyby.pl/atlas/5632
 ---
 

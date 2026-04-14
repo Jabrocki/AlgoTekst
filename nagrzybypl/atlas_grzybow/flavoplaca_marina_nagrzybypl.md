@@ -1,5 +1,5 @@
 ---
-name: Flavoplaca marina
+latin_name: Flavoplaca marina
 source: https://www.nagrzyby.pl/atlas/5241
 ---
 

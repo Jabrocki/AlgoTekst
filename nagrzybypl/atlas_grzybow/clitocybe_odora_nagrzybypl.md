@@ -1,5 +1,5 @@
 ---
-name: Clitocybe odora
+latin_name: Clitocybe odora
 source: https://www.nagrzyby.pl/atlas/506
 ---
 

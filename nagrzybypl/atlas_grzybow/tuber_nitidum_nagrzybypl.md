@@ -1,5 +1,5 @@
 ---
-name: Tuber nitidum
+latin_name: Tuber nitidum
 source: https://www.nagrzyby.pl/atlas/5815
 ---
 

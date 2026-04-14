@@ -1,5 +1,5 @@
 ---
-name: Tremella versicolor
+latin_name: Tremella versicolor
 source: https://www.nagrzyby.pl/atlas/5080
 ---
 

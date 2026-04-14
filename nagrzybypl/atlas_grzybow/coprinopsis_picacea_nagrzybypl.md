@@ -1,5 +1,5 @@
 ---
-name: Coprinopsis picacea
+latin_name: Coprinopsis picacea
 source: https://www.nagrzyby.pl/atlas/35
 ---
 

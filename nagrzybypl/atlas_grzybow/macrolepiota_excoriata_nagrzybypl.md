@@ -1,5 +1,5 @@
 ---
-name: Macrolepiota excoriata
+latin_name: Macrolepiota excoriata
 source: https://www.nagrzyby.pl/atlas/19
 ---
 

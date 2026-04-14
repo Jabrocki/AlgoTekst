@@ -1,5 +1,5 @@
 ---
-name: Biscogniauxia marginata
+latin_name: Biscogniauxia marginata
 source: https://www.nagrzyby.pl/atlas/5103
 ---
 

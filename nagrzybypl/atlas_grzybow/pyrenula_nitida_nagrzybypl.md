@@ -1,5 +1,5 @@
 ---
-name: Pyrenula nitida
+latin_name: Pyrenula nitida
 source: https://www.nagrzyby.pl/atlas/5341
 ---
 

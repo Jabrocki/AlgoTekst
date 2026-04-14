@@ -1,5 +1,5 @@
 ---
-name: Parasola megasperma
+latin_name: Parasola megasperma
 source: https://www.nagrzyby.pl/atlas/5130
 ---
 

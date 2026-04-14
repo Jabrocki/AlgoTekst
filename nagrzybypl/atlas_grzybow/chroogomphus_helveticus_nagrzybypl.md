@@ -1,5 +1,5 @@
 ---
-name: Chroogomphus helveticus
+latin_name: Chroogomphus helveticus
 source: https://www.nagrzyby.pl/atlas/1529
 ---
 

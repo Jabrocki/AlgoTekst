@@ -1,5 +1,5 @@
 ---
-name: Hypomyces viridis
+latin_name: Hypomyces viridis
 source: https://www.nagrzyby.pl/atlas/539
 ---
 

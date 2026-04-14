@@ -1,5 +1,5 @@
 ---
-name: Boletus betulicola
+latin_name: Boletus betulicola
 source: https://www.nagrzyby.pl/atlas/699
 ---
 

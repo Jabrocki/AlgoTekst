@@ -1,5 +1,5 @@
 ---
-name: Corticium roseum
+latin_name: Corticium roseum
 source: https://www.nagrzyby.pl/atlas/2108
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Peziza limnaea
+latin_name: Peziza limnaea
 source: https://www.nagrzyby.pl/atlas/1830
 ---
 

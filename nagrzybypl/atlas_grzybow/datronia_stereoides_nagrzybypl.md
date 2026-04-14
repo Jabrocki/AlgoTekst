@@ -1,5 +1,5 @@
 ---
-name: Datronia stereoides
+latin_name: Datronia stereoides
 source: https://www.nagrzyby.pl/atlas/4496
 ---
 

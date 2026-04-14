@@ -1,5 +1,5 @@
 ---
-name: Hohenbuehelia grisea
+latin_name: Hohenbuehelia grisea
 source: https://www.nagrzyby.pl/atlas/4820
 ---
 

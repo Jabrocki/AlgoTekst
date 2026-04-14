@@ -1,5 +1,5 @@
 ---
-name: Rhizopogon luteolus
+latin_name: Rhizopogon luteolus
 source: https://www.nagrzyby.pl/atlas/5872
 ---
 

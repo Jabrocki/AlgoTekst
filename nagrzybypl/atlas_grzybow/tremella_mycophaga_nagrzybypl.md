@@ -1,5 +1,5 @@
 ---
-name: Tremella mycophaga
+latin_name: Tremella mycophaga
 source: https://www.nagrzyby.pl/atlas/4889
 ---
 

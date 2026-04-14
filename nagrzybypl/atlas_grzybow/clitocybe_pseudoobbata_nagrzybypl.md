@@ -1,5 +1,5 @@
 ---
-name: Clitocybe pseudoobbata
+latin_name: Clitocybe pseudoobbata
 source: https://www.nagrzyby.pl/atlas/1996
 ---
 

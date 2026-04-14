@@ -1,5 +1,5 @@
 ---
-name: Inocybe jacobi
+latin_name: Inocybe jacobi
 source: https://www.nagrzyby.pl/atlas/2360
 ---
 

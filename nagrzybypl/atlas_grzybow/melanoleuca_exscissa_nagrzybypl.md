@@ -1,5 +1,5 @@
 ---
-name: Melanoleuca exscissa
+latin_name: Melanoleuca exscissa
 source: https://www.nagrzyby.pl/atlas/2323
 ---
 

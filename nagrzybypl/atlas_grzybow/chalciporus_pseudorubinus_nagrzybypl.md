@@ -1,5 +1,5 @@
 ---
-name: Chalciporus pseudorubinus
+latin_name: Chalciporus pseudorubinus
 source: https://www.nagrzyby.pl/atlas/751
 ---
 

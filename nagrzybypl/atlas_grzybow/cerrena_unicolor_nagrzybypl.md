@@ -1,5 +1,5 @@
 ---
-name: Cerrena unicolor
+latin_name: Cerrena unicolor
 source: https://www.nagrzyby.pl/atlas/1966
 ---
 

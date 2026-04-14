@@ -1,5 +1,5 @@
 ---
-name: Russula sororia
+latin_name: Russula sororia
 source: https://www.nagrzyby.pl/atlas/721
 ---
 

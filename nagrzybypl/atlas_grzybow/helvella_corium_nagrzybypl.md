@@ -1,5 +1,5 @@
 ---
-name: Helvella corium
+latin_name: Helvella corium
 source: https://www.nagrzyby.pl/atlas/1464
 ---
 

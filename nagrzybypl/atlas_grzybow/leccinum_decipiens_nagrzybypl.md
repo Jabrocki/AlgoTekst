@@ -1,5 +1,5 @@
 ---
-name: Leccinum decipiens
+latin_name: Leccinum decipiens
 source: https://www.nagrzyby.pl/atlas/2089
 ---
 

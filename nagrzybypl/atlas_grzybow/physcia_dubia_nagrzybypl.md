@@ -1,5 +1,5 @@
 ---
-name: Physcia dubia
+latin_name: Physcia dubia
 source: https://www.nagrzyby.pl/atlas/5328
 ---
 

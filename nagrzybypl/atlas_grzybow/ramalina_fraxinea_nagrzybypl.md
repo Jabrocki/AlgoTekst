@@ -1,5 +1,5 @@
 ---
-name: Ramalina fraxinea
+latin_name: Ramalina fraxinea
 source: https://www.nagrzyby.pl/atlas/5332
 ---
 

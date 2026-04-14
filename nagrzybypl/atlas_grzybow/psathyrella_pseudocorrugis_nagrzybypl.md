@@ -1,5 +1,5 @@
 ---
-name: Psathyrella pseudocorrugis
+latin_name: Psathyrella pseudocorrugis
 source: https://www.nagrzyby.pl/atlas/4739
 ---
 

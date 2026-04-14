@@ -1,5 +1,5 @@
 ---
-name: Menegazzia terebrata
+latin_name: Menegazzia terebrata
 source: https://www.nagrzyby.pl/atlas/5305
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Cortinarius depressus
+latin_name: Cortinarius depressus
 source: https://www.nagrzyby.pl/atlas/5575
 ---
 

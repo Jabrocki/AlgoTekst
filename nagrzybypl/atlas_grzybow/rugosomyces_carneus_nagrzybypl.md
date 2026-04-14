@@ -1,5 +1,5 @@
 ---
-name: Rugosomyces carneus
+latin_name: Rugosomyces carneus
 source: https://www.nagrzyby.pl/atlas/1912
 ---
 

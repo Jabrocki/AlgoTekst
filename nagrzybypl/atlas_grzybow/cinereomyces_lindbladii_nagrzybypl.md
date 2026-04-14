@@ -1,5 +1,5 @@
 ---
-name: Cinereomyces lindbladii
+latin_name: Cinereomyces lindbladii
 source: https://www.nagrzyby.pl/atlas/4318
 ---
 

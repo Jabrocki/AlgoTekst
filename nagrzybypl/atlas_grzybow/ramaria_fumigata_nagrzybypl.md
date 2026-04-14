@@ -1,5 +1,5 @@
 ---
-name: Ramaria fumigata
+latin_name: Ramaria fumigata
 source: https://www.nagrzyby.pl/atlas/1659
 ---
 

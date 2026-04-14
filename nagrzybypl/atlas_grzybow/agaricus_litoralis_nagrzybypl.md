@@ -1,5 +1,5 @@
 ---
-name: Agaricus litoralis
+latin_name: Agaricus litoralis
 source: https://www.nagrzyby.pl/atlas/867
 ---
 

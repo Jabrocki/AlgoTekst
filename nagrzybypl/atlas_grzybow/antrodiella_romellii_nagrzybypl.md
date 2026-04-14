@@ -1,5 +1,5 @@
 ---
-name: Antrodiella romellii
+latin_name: Antrodiella romellii
 source: https://www.nagrzyby.pl/atlas/2097
 ---
 

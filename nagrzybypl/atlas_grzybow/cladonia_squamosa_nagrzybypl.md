@@ -1,5 +1,5 @@
 ---
-name: Cladonia squamosa
+latin_name: Cladonia squamosa
 source: https://www.nagrzyby.pl/atlas/5634
 ---
 

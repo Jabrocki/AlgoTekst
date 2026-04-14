@@ -1,5 +1,5 @@
 ---
-name: Pluteus cinereofuscus
+latin_name: Pluteus cinereofuscus
 source: https://www.nagrzyby.pl/atlas/1202
 ---
 

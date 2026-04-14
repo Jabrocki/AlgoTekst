@@ -1,5 +1,5 @@
 ---
-name: Gymnopus inodorus
+latin_name: Gymnopus inodorus
 source: https://www.nagrzyby.pl/atlas/1436
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Geoglossum glabrum
+latin_name: Geoglossum glabrum
 source: https://www.nagrzyby.pl/atlas/4981
 ---
 

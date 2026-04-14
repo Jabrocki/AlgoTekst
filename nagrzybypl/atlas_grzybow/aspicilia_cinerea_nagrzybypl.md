@@ -1,5 +1,5 @@
 ---
-name: Aspicilia cinerea
+latin_name: Aspicilia cinerea
 source: https://www.nagrzyby.pl/atlas/5440
 ---
 

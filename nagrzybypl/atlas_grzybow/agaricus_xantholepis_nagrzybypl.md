@@ -1,5 +1,5 @@
 ---
-name: Agaricus xantholepis
+latin_name: Agaricus xantholepis
 source: https://www.nagrzyby.pl/atlas/884
 ---
 

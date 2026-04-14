@@ -1,5 +1,5 @@
 ---
-name: Stereum sanguinolentum
+latin_name: Stereum sanguinolentum
 source: https://www.nagrzyby.pl/atlas/1780
 ---
 

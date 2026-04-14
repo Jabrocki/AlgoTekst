@@ -1,5 +1,5 @@
 ---
-name: Biatora tetramera
+latin_name: Biatora tetramera
 source: https://www.nagrzyby.pl/atlas/5293
 ---
 

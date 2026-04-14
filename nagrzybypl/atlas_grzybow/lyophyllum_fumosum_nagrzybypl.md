@@ -1,5 +1,5 @@
 ---
-name: Lyophyllum fumosum
+latin_name: Lyophyllum fumosum
 source: https://www.nagrzyby.pl/atlas/1314
 ---
 

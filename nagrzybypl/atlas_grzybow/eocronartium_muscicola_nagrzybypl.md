@@ -1,5 +1,5 @@
 ---
-name: Eocronartium muscicola
+latin_name: Eocronartium muscicola
 source: https://www.nagrzyby.pl/atlas/4480
 ---
 

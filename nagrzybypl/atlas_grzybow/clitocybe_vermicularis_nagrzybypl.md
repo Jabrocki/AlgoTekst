@@ -1,5 +1,5 @@
 ---
-name: Clitocybe vermicularis
+latin_name: Clitocybe vermicularis
 source: https://www.nagrzyby.pl/atlas/733
 ---
 

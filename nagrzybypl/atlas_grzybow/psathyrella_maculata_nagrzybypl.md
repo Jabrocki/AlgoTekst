@@ -1,5 +1,5 @@
 ---
-name: Psathyrella maculata
+latin_name: Psathyrella maculata
 source: https://www.nagrzyby.pl/atlas/4538
 ---
 

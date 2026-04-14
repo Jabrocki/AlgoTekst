@@ -1,5 +1,5 @@
 ---
-name: Clitocybe squamulosa
+latin_name: Clitocybe squamulosa
 source: https://www.nagrzyby.pl/atlas/1578
 ---
 

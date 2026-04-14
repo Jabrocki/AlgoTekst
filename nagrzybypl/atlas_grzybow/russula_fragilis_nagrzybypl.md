@@ -1,5 +1,5 @@
 ---
-name: Russula fragilis
+latin_name: Russula fragilis
 source: https://www.nagrzyby.pl/atlas/571
 ---
 

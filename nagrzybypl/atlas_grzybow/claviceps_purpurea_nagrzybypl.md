@@ -1,5 +1,5 @@
 ---
-name: Claviceps purpurea
+latin_name: Claviceps purpurea
 source: https://www.nagrzyby.pl/atlas/566
 ---
 

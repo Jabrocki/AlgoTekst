@@ -1,5 +1,5 @@
 ---
-name: Diatrype bullata
+latin_name: Diatrype bullata
 source: https://www.nagrzyby.pl/atlas/5569
 ---
 

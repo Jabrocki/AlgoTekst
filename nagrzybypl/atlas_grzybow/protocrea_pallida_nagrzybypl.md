@@ -1,5 +1,5 @@
 ---
-name: Protocrea pallida
+latin_name: Protocrea pallida
 source: https://www.nagrzyby.pl/atlas/5656
 ---
 

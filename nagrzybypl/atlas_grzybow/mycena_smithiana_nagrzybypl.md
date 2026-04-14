@@ -1,5 +1,5 @@
 ---
-name: Mycena smithiana
+latin_name: Mycena smithiana
 source: https://www.nagrzyby.pl/atlas/2452
 ---
 

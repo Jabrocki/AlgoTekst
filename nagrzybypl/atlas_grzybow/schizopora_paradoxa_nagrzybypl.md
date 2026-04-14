@@ -1,5 +1,5 @@
 ---
-name: Schizopora paradoxa
+latin_name: Schizopora paradoxa
 source: https://www.nagrzyby.pl/atlas/92
 ---
 

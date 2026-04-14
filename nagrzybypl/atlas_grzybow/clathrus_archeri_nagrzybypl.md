@@ -1,5 +1,5 @@
 ---
-name: Clathrus archeri
+latin_name: Clathrus archeri
 source: https://www.nagrzyby.pl/atlas/166
 ---
 

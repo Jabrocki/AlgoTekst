@@ -1,5 +1,5 @@
 ---
-name: Physconia perisidiosa
+latin_name: Physconia perisidiosa
 source: https://www.nagrzyby.pl/atlas/5266
 ---
 

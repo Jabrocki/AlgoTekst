@@ -1,5 +1,5 @@
 ---
-name: Floccularia albolanaripes
+latin_name: Floccularia albolanaripes
 source: https://www.nagrzyby.pl/atlas/1861
 ---
 

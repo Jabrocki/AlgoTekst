@@ -1,5 +1,5 @@
 ---
-name: Conocybe semiglobata
+latin_name: Conocybe semiglobata
 source: https://www.nagrzyby.pl/atlas/2047
 ---
 

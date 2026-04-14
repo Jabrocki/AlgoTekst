@@ -1,5 +1,5 @@
 ---
-name: Conocybe striaepes
+latin_name: Conocybe striaepes
 source: https://www.nagrzyby.pl/atlas/2049
 ---
 

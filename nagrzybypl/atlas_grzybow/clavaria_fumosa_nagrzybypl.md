@@ -1,5 +1,5 @@
 ---
-name: Clavaria fumosa
+latin_name: Clavaria fumosa
 source: https://www.nagrzyby.pl/atlas/391
 ---
 

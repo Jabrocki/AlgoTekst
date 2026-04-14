@@ -1,5 +1,5 @@
 ---
-name: Conocybe subpallida
+latin_name: Conocybe subpallida
 source: https://www.nagrzyby.pl/atlas/5135
 ---
 

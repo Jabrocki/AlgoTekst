@@ -1,5 +1,5 @@
 ---
-name: Nidularia pulvinata
+latin_name: Nidularia pulvinata
 source: https://www.nagrzyby.pl/atlas/1641
 ---
 

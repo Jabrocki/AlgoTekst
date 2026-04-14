@@ -1,5 +1,5 @@
 ---
-name: Inonotus nidus-pici
+latin_name: Inonotus nidus-pici
 source: https://www.nagrzyby.pl/atlas/4725
 ---
 

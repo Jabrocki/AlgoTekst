@@ -1,5 +1,5 @@
 ---
-name: Entoloma cuspidiferum
+latin_name: Entoloma cuspidiferum
 source: https://www.nagrzyby.pl/atlas/4760
 ---
 

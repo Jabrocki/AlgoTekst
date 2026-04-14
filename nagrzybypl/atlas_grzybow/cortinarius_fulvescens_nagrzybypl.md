@@ -1,5 +1,5 @@
 ---
-name: Cortinarius fulvescens
+latin_name: Cortinarius fulvescens
 source: https://www.nagrzyby.pl/atlas/2173
 ---
 

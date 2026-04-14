@@ -1,5 +1,5 @@
 ---
-name: Podophacidium xanthomelum
+latin_name: Podophacidium xanthomelum
 source: https://www.nagrzyby.pl/atlas/5702
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Cortinarius huronensis
+latin_name: Cortinarius huronensis
 source: https://www.nagrzyby.pl/atlas/918
 ---
 

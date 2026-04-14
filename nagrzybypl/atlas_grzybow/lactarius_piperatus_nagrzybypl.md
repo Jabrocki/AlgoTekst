@@ -1,5 +1,5 @@
 ---
-name: Lactarius piperatus
+latin_name: Lactarius piperatus
 source: https://www.nagrzyby.pl/atlas/771
 ---
 

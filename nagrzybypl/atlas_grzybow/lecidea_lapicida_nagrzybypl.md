@@ -1,5 +1,5 @@
 ---
-name: Lecidea lapicida
+latin_name: Lecidea lapicida
 source: https://www.nagrzyby.pl/atlas/5548
 ---
 

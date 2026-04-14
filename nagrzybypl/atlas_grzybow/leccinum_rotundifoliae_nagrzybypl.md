@@ -1,5 +1,5 @@
 ---
-name: Leccinum rotundifoliae
+latin_name: Leccinum rotundifoliae
 source: https://www.nagrzyby.pl/atlas/795
 ---
 

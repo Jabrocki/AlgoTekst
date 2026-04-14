@@ -1,5 +1,5 @@
 ---
-name: Cladonia glauca
+latin_name: Cladonia glauca
 source: https://www.nagrzyby.pl/atlas/5192
 ---
 

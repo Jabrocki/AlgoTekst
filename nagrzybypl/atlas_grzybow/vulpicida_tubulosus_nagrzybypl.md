@@ -1,5 +1,5 @@
 ---
-name: Vulpicida tubulosus
+latin_name: Vulpicida tubulosus
 source: https://www.nagrzyby.pl/atlas/5637
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Mycena concolor
+latin_name: Mycena concolor
 source: https://www.nagrzyby.pl/atlas/2418
 ---
 

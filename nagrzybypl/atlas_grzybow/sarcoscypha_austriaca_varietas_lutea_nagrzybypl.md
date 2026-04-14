@@ -1,5 +1,5 @@
 ---
-name: Sarcoscypha austriaca varietas lutea
+latin_name: Sarcoscypha austriaca varietas lutea
 source: https://www.nagrzyby.pl/atlas/5660
 ---
 

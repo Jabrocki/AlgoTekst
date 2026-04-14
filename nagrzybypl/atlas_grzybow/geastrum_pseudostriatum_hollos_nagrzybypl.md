@@ -1,5 +1,5 @@
 ---
-name: Geastrum pseudostriatum Hollós
+latin_name: Geastrum pseudostriatum Hollós
 source: https://www.nagrzyby.pl/atlas/5785
 ---
 

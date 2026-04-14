@@ -1,5 +1,5 @@
 ---
-name: Cortinarius eburneus
+latin_name: Cortinarius eburneus
 source: https://www.nagrzyby.pl/atlas/2163
 ---
 

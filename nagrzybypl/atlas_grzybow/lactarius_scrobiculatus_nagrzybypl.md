@@ -1,5 +1,5 @@
 ---
-name: Lactarius scrobiculatus
+latin_name: Lactarius scrobiculatus
 source: https://www.nagrzyby.pl/atlas/242
 ---
 

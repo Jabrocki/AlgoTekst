@@ -1,5 +1,5 @@
 ---
-name: Cortinarius fusisporus
+latin_name: Cortinarius fusisporus
 source: https://www.nagrzyby.pl/atlas/2175
 ---
 

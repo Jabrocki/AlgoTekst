@@ -1,5 +1,5 @@
 ---
-name: Xerocomellus ripariellus
+latin_name: Xerocomellus ripariellus
 source: https://www.nagrzyby.pl/atlas/5889
 ---
 

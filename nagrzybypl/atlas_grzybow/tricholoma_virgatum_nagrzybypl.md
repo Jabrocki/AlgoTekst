@@ -1,5 +1,5 @@
 ---
-name: Tricholoma virgatum
+latin_name: Tricholoma virgatum
 source: https://www.nagrzyby.pl/atlas/650
 ---
 

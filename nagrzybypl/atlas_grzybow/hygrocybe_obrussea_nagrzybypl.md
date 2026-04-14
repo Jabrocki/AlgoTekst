@@ -1,5 +1,5 @@
 ---
-name: Hygrocybe  obrussea
+latin_name: Hygrocybe  obrussea
 source: https://www.nagrzyby.pl/atlas/2185
 ---
 

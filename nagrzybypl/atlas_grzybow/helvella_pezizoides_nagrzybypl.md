@@ -1,5 +1,5 @@
 ---
-name: Helvella pezizoides
+latin_name: Helvella pezizoides
 source: https://www.nagrzyby.pl/atlas/1462
 ---
 

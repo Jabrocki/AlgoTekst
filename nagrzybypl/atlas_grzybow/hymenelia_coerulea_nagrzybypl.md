@@ -1,5 +1,5 @@
 ---
-name: Hymenelia coerulea
+latin_name: Hymenelia coerulea
 source: https://www.nagrzyby.pl/atlas/2009
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Auricularia auricula-judae varietas lactea
+latin_name: Auricularia auricula-judae varietas lactea
 source: https://www.nagrzyby.pl/atlas/684
 ---
 

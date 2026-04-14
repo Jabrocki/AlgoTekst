@@ -1,5 +1,5 @@
 ---
-name: Anomoloma myceliosum
+latin_name: Anomoloma myceliosum
 source: https://www.nagrzyby.pl/atlas/1962
 ---
 

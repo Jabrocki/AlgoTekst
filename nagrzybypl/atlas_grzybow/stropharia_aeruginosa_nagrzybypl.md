@@ -1,5 +1,5 @@
 ---
-name: Stropharia aeruginosa
+latin_name: Stropharia aeruginosa
 source: https://www.nagrzyby.pl/atlas/235
 ---
 

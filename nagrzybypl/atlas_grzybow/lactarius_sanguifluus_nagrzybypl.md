@@ -1,5 +1,5 @@
 ---
-name: Lactarius sanguifluus
+latin_name: Lactarius sanguifluus
 source: https://www.nagrzyby.pl/atlas/1802
 ---
 

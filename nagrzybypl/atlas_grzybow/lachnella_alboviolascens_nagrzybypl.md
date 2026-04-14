@@ -1,5 +1,5 @@
 ---
-name: Lachnella alboviolascens
+latin_name: Lachnella alboviolascens
 source: https://www.nagrzyby.pl/atlas/5106
 ---
 

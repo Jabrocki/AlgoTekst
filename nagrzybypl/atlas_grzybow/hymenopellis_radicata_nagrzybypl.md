@@ -1,5 +1,5 @@
 ---
-name: Hymenopellis radicata
+latin_name: Hymenopellis radicata
 source: https://www.nagrzyby.pl/atlas/349
 ---
 

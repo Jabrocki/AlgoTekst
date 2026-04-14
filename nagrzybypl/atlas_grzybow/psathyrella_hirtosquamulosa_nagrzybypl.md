@@ -1,5 +1,5 @@
 ---
-name: Psathyrella hirtosquamulosa
+latin_name: Psathyrella hirtosquamulosa
 source: https://www.nagrzyby.pl/atlas/5787
 ---
 

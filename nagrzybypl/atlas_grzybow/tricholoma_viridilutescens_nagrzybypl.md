@@ -1,5 +1,5 @@
 ---
-name: Tricholoma viridilutescens
+latin_name: Tricholoma viridilutescens
 source: https://www.nagrzyby.pl/atlas/5895
 ---
 

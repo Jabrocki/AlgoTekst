@@ -1,5 +1,5 @@
 ---
-name: Calocybe alpestris
+latin_name: Calocybe alpestris
 source: https://www.nagrzyby.pl/atlas/1911
 ---
 

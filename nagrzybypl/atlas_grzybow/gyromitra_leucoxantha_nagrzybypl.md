@@ -1,5 +1,5 @@
 ---
-name: Gyromitra leucoxantha
+latin_name: Gyromitra leucoxantha
 source: https://www.nagrzyby.pl/atlas/4854
 ---
 

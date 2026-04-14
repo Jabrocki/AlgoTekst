@@ -1,5 +1,5 @@
 ---
-name: Hygrocybe substrangulata
+latin_name: Hygrocybe substrangulata
 source: https://www.nagrzyby.pl/atlas/4557
 ---
 

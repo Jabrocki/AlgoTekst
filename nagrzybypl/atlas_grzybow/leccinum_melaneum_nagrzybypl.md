@@ -1,5 +1,5 @@
 ---
-name: Leccinum melaneum
+latin_name: Leccinum melaneum
 source: https://www.nagrzyby.pl/atlas/438
 ---
 

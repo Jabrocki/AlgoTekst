@@ -1,5 +1,5 @@
 ---
-name: Ramaria formosa
+latin_name: Ramaria formosa
 source: https://www.nagrzyby.pl/atlas/762
 ---
 

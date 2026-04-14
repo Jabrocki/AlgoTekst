@@ -1,5 +1,5 @@
 ---
-name: Parasola conopilus
+latin_name: Parasola conopilus
 source: https://www.nagrzyby.pl/atlas/655
 ---
 

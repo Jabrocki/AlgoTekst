@@ -1,5 +1,5 @@
 ---
-name: Pholiota mixta
+latin_name: Pholiota mixta
 source: https://www.nagrzyby.pl/atlas/1407
 ---
 

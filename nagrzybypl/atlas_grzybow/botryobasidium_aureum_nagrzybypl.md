@@ -1,5 +1,5 @@
 ---
-name: Botryobasidium aureum
+latin_name: Botryobasidium aureum
 source: https://www.nagrzyby.pl/atlas/1888
 ---
 

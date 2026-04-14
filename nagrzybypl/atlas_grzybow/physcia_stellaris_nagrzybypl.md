@@ -1,5 +1,5 @@
 ---
-name: Physcia stellaris
+latin_name: Physcia stellaris
 source: https://www.nagrzyby.pl/atlas/5324
 ---
 

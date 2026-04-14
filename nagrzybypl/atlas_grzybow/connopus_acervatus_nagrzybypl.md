@@ -1,5 +1,5 @@
 ---
-name: Connopus acervatus
+latin_name: Connopus acervatus
 source: https://www.nagrzyby.pl/atlas/1443
 ---
 

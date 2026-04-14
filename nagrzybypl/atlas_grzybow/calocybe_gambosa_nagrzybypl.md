@@ -1,5 +1,5 @@
 ---
-name: Calocybe gambosa
+latin_name: Calocybe gambosa
 source: https://www.nagrzyby.pl/atlas/86
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Pertusaria hymenea
+latin_name: Pertusaria hymenea
 source: https://www.nagrzyby.pl/atlas/5389
 ---
 

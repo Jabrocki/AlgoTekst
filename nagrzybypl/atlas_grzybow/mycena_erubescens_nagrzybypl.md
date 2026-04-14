@@ -1,5 +1,5 @@
 ---
-name: Mycena erubescens
+latin_name: Mycena erubescens
 source: https://www.nagrzyby.pl/atlas/1070
 ---
 

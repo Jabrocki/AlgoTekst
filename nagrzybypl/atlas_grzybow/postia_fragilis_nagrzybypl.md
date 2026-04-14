@@ -1,5 +1,5 @@
 ---
-name: Postia fragilis
+latin_name: Postia fragilis
 source: https://www.nagrzyby.pl/atlas/4527
 ---
 

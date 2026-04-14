@@ -1,5 +1,5 @@
 ---
-name: Aleurodiscus disciformis
+latin_name: Aleurodiscus disciformis
 source: https://www.nagrzyby.pl/atlas/4958
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Stropharia squamosa
+latin_name: Stropharia squamosa
 source: https://www.nagrzyby.pl/atlas/326
 ---
 

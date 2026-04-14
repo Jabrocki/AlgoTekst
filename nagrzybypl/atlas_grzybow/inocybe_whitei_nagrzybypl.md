@@ -1,5 +1,5 @@
 ---
-name: Inocybe whitei
+latin_name: Inocybe whitei
 source: https://www.nagrzyby.pl/atlas/2392
 ---
 

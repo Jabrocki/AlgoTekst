@@ -1,5 +1,5 @@
 ---
-name: Cortinarius emollitus
+latin_name: Cortinarius emollitus
 source: https://www.nagrzyby.pl/atlas/5709
 ---
 

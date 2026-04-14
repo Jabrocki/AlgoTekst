@@ -1,5 +1,5 @@
 ---
-name: Cortinarius caninus
+latin_name: Cortinarius caninus
 source: https://www.nagrzyby.pl/atlas/2139
 ---
 

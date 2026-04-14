@@ -1,5 +1,5 @@
 ---
-name: Cladonia deformis
+latin_name: Cladonia deformis
 source: https://www.nagrzyby.pl/atlas/5392
 ---
 

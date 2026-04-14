@@ -1,5 +1,5 @@
 ---
-name: Lactarius flexuosus
+latin_name: Lactarius flexuosus
 source: https://www.nagrzyby.pl/atlas/1803
 ---
 

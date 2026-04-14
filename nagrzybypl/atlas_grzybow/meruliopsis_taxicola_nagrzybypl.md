@@ -1,5 +1,5 @@
 ---
-name: Meruliopsis taxicola
+latin_name: Meruliopsis taxicola
 source: https://www.nagrzyby.pl/atlas/2468
 ---
 

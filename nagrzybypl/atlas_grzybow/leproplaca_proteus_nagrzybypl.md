@@ -1,5 +1,5 @@
 ---
-name: Leproplaca proteus
+latin_name: Leproplaca proteus
 source: https://www.nagrzyby.pl/atlas/5239
 ---
 

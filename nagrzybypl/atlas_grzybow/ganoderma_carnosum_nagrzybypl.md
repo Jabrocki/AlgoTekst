@@ -1,5 +1,5 @@
 ---
-name: Ganoderma carnosum
+latin_name: Ganoderma carnosum
 source: https://www.nagrzyby.pl/atlas/540
 ---
 

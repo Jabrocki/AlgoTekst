@@ -1,5 +1,5 @@
 ---
-name: Gymnopus hybridus
+latin_name: Gymnopus hybridus
 source: https://www.nagrzyby.pl/atlas/1447
 ---
 

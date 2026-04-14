@@ -1,5 +1,5 @@
 ---
-name: Tephrocybe putida
+latin_name: Tephrocybe putida
 source: https://www.nagrzyby.pl/atlas/4207
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Agaricus bernardii
+latin_name: Agaricus bernardii
 source: https://www.nagrzyby.pl/atlas/868
 ---
 

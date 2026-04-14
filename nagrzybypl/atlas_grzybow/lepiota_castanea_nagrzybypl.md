@@ -1,5 +1,5 @@
 ---
-name: Lepiota castanea
+latin_name: Lepiota castanea
 source: https://www.nagrzyby.pl/atlas/951
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Stropharia caerulea
+latin_name: Stropharia caerulea
 source: https://www.nagrzyby.pl/atlas/1490
 ---
 

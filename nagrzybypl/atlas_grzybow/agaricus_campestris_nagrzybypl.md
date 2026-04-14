@@ -1,5 +1,5 @@
 ---
-name: Agaricus campestris
+latin_name: Agaricus campestris
 source: https://www.nagrzyby.pl/atlas/342
 ---
 

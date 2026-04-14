@@ -1,5 +1,5 @@
 ---
-name: Agaricus fuscofibrillosus
+latin_name: Agaricus fuscofibrillosus
 source: https://www.nagrzyby.pl/atlas/858
 ---
 

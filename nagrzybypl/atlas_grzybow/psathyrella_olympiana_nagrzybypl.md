@@ -1,5 +1,5 @@
 ---
-name: Psathyrella olympiana
+latin_name: Psathyrella olympiana
 source: https://www.nagrzyby.pl/atlas/1755
 ---
 

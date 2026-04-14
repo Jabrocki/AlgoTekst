@@ -1,5 +1,5 @@
 ---
-name: Dacrymyces ovisporus
+latin_name: Dacrymyces ovisporus
 source: https://www.nagrzyby.pl/atlas/4501
 ---
 

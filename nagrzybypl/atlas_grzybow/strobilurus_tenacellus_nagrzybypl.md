@@ -1,5 +1,5 @@
 ---
-name: Strobilurus tenacellus
+latin_name: Strobilurus tenacellus
 source: https://www.nagrzyby.pl/atlas/480
 ---
 

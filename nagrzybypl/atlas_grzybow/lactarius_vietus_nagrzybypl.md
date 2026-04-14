@@ -1,5 +1,5 @@
 ---
-name: Lactarius vietus
+latin_name: Lactarius vietus
 source: https://www.nagrzyby.pl/atlas/1159
 ---
 

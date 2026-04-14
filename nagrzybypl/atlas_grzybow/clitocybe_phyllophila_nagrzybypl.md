@@ -1,5 +1,5 @@
 ---
-name: Clitocybe phyllophila
+latin_name: Clitocybe phyllophila
 source: https://www.nagrzyby.pl/atlas/1569
 ---
 

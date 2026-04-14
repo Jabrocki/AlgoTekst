@@ -1,5 +1,5 @@
 ---
-name: Galerina marginata
+latin_name: Galerina marginata
 source: https://www.nagrzyby.pl/atlas/1685
 ---
 

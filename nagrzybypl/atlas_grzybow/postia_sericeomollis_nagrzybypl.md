@@ -1,5 +1,5 @@
 ---
-name: Postia sericeomollis
+latin_name: Postia sericeomollis
 source: https://www.nagrzyby.pl/atlas/4139
 ---
 

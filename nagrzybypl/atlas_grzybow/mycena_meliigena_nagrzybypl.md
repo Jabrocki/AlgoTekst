@@ -1,5 +1,5 @@
 ---
-name: Mycena meliigena
+latin_name: Mycena meliigena
 source: https://www.nagrzyby.pl/atlas/2438
 ---
 

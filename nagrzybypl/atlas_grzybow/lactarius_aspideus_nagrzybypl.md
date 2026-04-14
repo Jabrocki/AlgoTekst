@@ -1,5 +1,5 @@
 ---
-name: Lactarius aspideus
+latin_name: Lactarius aspideus
 source: https://www.nagrzyby.pl/atlas/1798
 ---
 

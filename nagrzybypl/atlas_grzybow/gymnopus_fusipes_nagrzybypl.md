@@ -1,5 +1,5 @@
 ---
-name: Gymnopus fusipes
+latin_name: Gymnopus fusipes
 source: https://www.nagrzyby.pl/atlas/550
 ---
 

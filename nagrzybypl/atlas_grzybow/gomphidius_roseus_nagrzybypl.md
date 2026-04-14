@@ -1,5 +1,5 @@
 ---
-name: Gomphidius roseus
+latin_name: Gomphidius roseus
 source: https://www.nagrzyby.pl/atlas/121
 ---
 

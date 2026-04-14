@@ -1,5 +1,5 @@
 ---
-name: Russula emetica
+latin_name: Russula emetica
 source: https://www.nagrzyby.pl/atlas/117
 ---
 

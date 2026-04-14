@@ -1,5 +1,5 @@
 ---
-name: Pseudochaete tabacina
+latin_name: Pseudochaete tabacina
 source: https://www.nagrzyby.pl/atlas/4418
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Didymium squamulosum
+latin_name: Didymium squamulosum
 source: https://www.nagrzyby.pl/atlas/5119
 ---
 

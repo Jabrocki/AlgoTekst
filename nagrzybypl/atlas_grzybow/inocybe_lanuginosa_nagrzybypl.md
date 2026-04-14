@@ -1,5 +1,5 @@
 ---
-name: Inocybe lanuginosa
+latin_name: Inocybe lanuginosa
 source: https://www.nagrzyby.pl/atlas/905
 ---
 

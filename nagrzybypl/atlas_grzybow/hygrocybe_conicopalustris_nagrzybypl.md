@@ -1,5 +1,5 @@
 ---
-name: Hygrocybe conicopalustris
+latin_name: Hygrocybe conicopalustris
 source: https://www.nagrzyby.pl/atlas/4552
 ---
 

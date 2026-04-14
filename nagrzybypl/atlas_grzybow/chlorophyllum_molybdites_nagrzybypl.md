@@ -1,5 +1,5 @@
 ---
-name: Chlorophyllum molybdites
+latin_name: Chlorophyllum molybdites
 source: https://www.nagrzyby.pl/atlas/5555
 ---
 

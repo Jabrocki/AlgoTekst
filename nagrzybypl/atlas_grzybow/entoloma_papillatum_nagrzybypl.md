@@ -1,5 +1,5 @@
 ---
-name: Entoloma papillatum
+latin_name: Entoloma papillatum
 source: https://www.nagrzyby.pl/atlas/4285
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Calongea prieguensis
+latin_name: Calongea prieguensis
 source: https://www.nagrzyby.pl/atlas/4884
 ---
 

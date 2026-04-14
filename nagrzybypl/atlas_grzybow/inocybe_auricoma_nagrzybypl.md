@@ -1,5 +1,5 @@
 ---
-name: Inocybe auricoma
+latin_name: Inocybe auricoma
 source: https://www.nagrzyby.pl/atlas/2331
 ---
 

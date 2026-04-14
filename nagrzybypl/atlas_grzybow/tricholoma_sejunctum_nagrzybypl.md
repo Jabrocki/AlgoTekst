@@ -1,5 +1,5 @@
 ---
-name: Tricholoma sejunctum
+latin_name: Tricholoma sejunctum
 source: https://www.nagrzyby.pl/atlas/648
 ---
 

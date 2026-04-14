@@ -1,5 +1,5 @@
 ---
-name: Peziza domiciliana
+latin_name: Peziza domiciliana
 source: https://www.nagrzyby.pl/atlas/1289
 ---
 

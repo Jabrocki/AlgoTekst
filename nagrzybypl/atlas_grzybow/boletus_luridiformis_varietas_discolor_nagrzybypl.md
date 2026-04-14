@@ -1,5 +1,5 @@
 ---
-name: Boletus luridiformis varietas discolor
+latin_name: Boletus luridiformis varietas discolor
 source: https://www.nagrzyby.pl/atlas/5747
 ---
 

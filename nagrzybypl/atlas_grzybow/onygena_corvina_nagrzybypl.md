@@ -1,5 +1,5 @@
 ---
-name: Onygena corvina
+latin_name: Onygena corvina
 source: https://www.nagrzyby.pl/atlas/4175
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Pholiota henningsii
+latin_name: Pholiota henningsii
 source: https://www.nagrzyby.pl/atlas/1399
 ---
 

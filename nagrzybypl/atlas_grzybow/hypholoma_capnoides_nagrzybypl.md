@@ -1,5 +1,5 @@
 ---
-name: Hypholoma capnoides
+latin_name: Hypholoma capnoides
 source: https://www.nagrzyby.pl/atlas/239
 ---
 

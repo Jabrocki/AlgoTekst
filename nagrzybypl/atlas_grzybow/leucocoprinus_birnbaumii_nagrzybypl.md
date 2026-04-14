@@ -1,5 +1,5 @@
 ---
-name: Leucocoprinus birnbaumii
+latin_name: Leucocoprinus birnbaumii
 source: https://www.nagrzyby.pl/atlas/817
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Inocybe fraudans
+latin_name: Inocybe fraudans
 source: https://www.nagrzyby.pl/atlas/938
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Inocybe curvipes
+latin_name: Inocybe curvipes
 source: https://www.nagrzyby.pl/atlas/910
 ---
 

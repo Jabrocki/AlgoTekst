@@ -1,5 +1,5 @@
 ---
-name: Xylodon radula
+latin_name: Xylodon radula
 source: https://www.nagrzyby.pl/atlas/580
 ---
 

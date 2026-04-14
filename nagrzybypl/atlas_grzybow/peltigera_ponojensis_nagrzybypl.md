@@ -1,5 +1,5 @@
 ---
-name: Peltigera ponojensis
+latin_name: Peltigera ponojensis
 source: https://www.nagrzyby.pl/atlas/5359
 ---
 

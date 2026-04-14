@@ -1,5 +1,5 @@
 ---
-name: Russula alnetorum
+latin_name: Russula alnetorum
 source: https://www.nagrzyby.pl/atlas/5505
 ---
 

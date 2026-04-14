@@ -1,5 +1,5 @@
 ---
-name: Laetiporus sulphureus
+latin_name: Laetiporus sulphureus
 source: https://www.nagrzyby.pl/atlas/147
 ---
 

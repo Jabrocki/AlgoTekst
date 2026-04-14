@@ -1,5 +1,5 @@
 ---
-name: Neodasyscypha cerina
+latin_name: Neodasyscypha cerina
 source: https://www.nagrzyby.pl/atlas/5975
 ---
 

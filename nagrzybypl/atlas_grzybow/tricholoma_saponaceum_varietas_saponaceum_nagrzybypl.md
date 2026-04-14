@@ -1,5 +1,5 @@
 ---
-name: Tricholoma saponaceum varietas saponaceum
+latin_name: Tricholoma saponaceum varietas saponaceum
 source: https://www.nagrzyby.pl/atlas/176
 ---
 

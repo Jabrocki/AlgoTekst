@@ -1,5 +1,5 @@
 ---
-name: Psilocybe stuntzii
+latin_name: Psilocybe stuntzii
 source: https://www.nagrzyby.pl/atlas/1923
 ---
 

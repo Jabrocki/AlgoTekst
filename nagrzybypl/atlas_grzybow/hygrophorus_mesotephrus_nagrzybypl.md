@@ -1,5 +1,5 @@
 ---
-name: Hygrophorus mesotephrus
+latin_name: Hygrophorus mesotephrus
 source: https://www.nagrzyby.pl/atlas/1245
 ---
 

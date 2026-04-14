@@ -1,5 +1,5 @@
 ---
-name: Endocarpon pusillum
+latin_name: Endocarpon pusillum
 source: https://www.nagrzyby.pl/atlas/5445
 ---
 

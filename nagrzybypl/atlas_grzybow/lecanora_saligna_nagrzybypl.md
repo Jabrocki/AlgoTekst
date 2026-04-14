@@ -1,5 +1,5 @@
 ---
-name: Lecanora saligna
+latin_name: Lecanora saligna
 source: https://www.nagrzyby.pl/atlas/5287
 ---
 

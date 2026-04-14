@@ -1,5 +1,5 @@
 ---
-name: Phlebia radiata
+latin_name: Phlebia radiata
 source: https://www.nagrzyby.pl/atlas/143
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Bovista pusilliformis
+latin_name: Bovista pusilliformis
 source: https://www.nagrzyby.pl/atlas/1181
 ---
 

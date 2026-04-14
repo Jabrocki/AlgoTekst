@@ -1,5 +1,5 @@
 ---
-name: Glomus macrocarpum
+latin_name: Glomus macrocarpum
 source: https://www.nagrzyby.pl/atlas/5833
 ---
 

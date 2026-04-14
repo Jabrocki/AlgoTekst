@@ -1,5 +1,5 @@
 ---
-name: Postia stiptica
+latin_name: Postia stiptica
 source: https://www.nagrzyby.pl/atlas/1101
 ---
 

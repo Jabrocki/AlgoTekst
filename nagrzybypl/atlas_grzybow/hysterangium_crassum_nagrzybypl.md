@@ -1,5 +1,5 @@
 ---
-name: Hysterangium crassum
+latin_name: Hysterangium crassum
 source: https://www.nagrzyby.pl/atlas/5862
 ---
 

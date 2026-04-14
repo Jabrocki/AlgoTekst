@@ -1,5 +1,5 @@
 ---
-name: Sparassis nemecii
+latin_name: Sparassis nemecii
 source: https://www.nagrzyby.pl/atlas/4217
 ---
 

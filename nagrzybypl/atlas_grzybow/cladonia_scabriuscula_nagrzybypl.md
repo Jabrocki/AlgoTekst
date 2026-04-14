@@ -1,5 +1,5 @@
 ---
-name: Cladonia scabriuscula
+latin_name: Cladonia scabriuscula
 source: https://www.nagrzyby.pl/atlas/5171
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Panus conchatus
+latin_name: Panus conchatus
 source: https://www.nagrzyby.pl/atlas/4404
 ---
 

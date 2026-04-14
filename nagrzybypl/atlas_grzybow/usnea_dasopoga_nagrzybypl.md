@@ -1,5 +1,5 @@
 ---
-name: Usnea dasopoga
+latin_name: Usnea dasopoga
 source: https://www.nagrzyby.pl/atlas/5153
 ---
 

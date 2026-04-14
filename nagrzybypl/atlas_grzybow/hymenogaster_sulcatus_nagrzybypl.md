@@ -1,5 +1,5 @@
 ---
-name: Hymenogaster sulcatus
+latin_name: Hymenogaster sulcatus
 source: https://www.nagrzyby.pl/atlas/5853
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Nectria episphaeria sensu lato
+latin_name: Nectria episphaeria sensu lato
 source: https://www.nagrzyby.pl/atlas/5144
 ---
 

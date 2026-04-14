@@ -1,5 +1,5 @@
 ---
-name: Daldinia decipiens
+latin_name: Daldinia decipiens
 source: https://www.nagrzyby.pl/atlas/5582
 ---
 

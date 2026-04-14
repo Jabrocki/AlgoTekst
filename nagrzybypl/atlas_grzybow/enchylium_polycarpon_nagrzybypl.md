@@ -1,5 +1,5 @@
 ---
-name: Enchylium polycarpon
+latin_name: Enchylium polycarpon
 source: https://www.nagrzyby.pl/atlas/5235
 ---
 

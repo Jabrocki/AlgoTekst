@@ -1,5 +1,5 @@
 ---
-name: Hygrophorus flavodiscus
+latin_name: Hygrophorus flavodiscus
 source: https://www.nagrzyby.pl/atlas/4544
 ---
 

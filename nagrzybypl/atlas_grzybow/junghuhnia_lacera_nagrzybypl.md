@@ -1,5 +1,5 @@
 ---
-name: Junghuhnia lacera
+latin_name: Junghuhnia lacera
 source: https://www.nagrzyby.pl/atlas/4027
 ---
 

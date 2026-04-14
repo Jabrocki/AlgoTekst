@@ -1,5 +1,5 @@
 ---
-name: Phlebia subserialis
+latin_name: Phlebia subserialis
 source: https://www.nagrzyby.pl/atlas/4356
 ---
 

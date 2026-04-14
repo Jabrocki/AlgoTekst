@@ -1,5 +1,5 @@
 ---
-name: Megaspora verrucosa
+latin_name: Megaspora verrucosa
 source: https://www.nagrzyby.pl/atlas/5621
 ---
 

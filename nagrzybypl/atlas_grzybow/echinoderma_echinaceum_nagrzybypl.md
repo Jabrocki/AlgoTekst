@@ -1,5 +1,5 @@
 ---
-name: Echinoderma echinaceum
+latin_name: Echinoderma echinaceum
 source: https://www.nagrzyby.pl/atlas/1219
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Helvella solitaria
+latin_name: Helvella solitaria
 source: https://www.nagrzyby.pl/atlas/1460
 ---
 

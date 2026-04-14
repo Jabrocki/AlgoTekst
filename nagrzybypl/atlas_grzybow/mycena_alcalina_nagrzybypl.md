@@ -1,5 +1,5 @@
 ---
-name: Mycena alcalina
+latin_name: Mycena alcalina
 source: https://www.nagrzyby.pl/atlas/606
 ---
 

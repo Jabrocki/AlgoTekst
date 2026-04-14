@@ -1,5 +1,5 @@
 ---
-name: Thelephora caryophyllea
+latin_name: Thelephora caryophyllea
 source: https://www.nagrzyby.pl/atlas/559
 ---
 

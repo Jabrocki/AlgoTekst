@@ -1,5 +1,5 @@
 ---
-name: Inocybe maculata
+latin_name: Inocybe maculata
 source: https://www.nagrzyby.pl/atlas/2365
 ---
 

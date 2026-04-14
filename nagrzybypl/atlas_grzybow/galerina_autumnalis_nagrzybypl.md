@@ -1,5 +1,5 @@
 ---
-name: Galerina autumnalis
+latin_name: Galerina autumnalis
 source: https://www.nagrzyby.pl/atlas/4821
 ---
 

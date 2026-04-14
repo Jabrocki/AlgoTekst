@@ -1,5 +1,5 @@
 ---
-name: Armillaria ectypa
+latin_name: Armillaria ectypa
 source: https://www.nagrzyby.pl/atlas/1863
 ---
 

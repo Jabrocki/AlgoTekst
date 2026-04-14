@@ -1,5 +1,5 @@
 ---
-name: Elaphomyces anthracinus
+latin_name: Elaphomyces anthracinus
 source: https://www.nagrzyby.pl/atlas/1644
 ---
 

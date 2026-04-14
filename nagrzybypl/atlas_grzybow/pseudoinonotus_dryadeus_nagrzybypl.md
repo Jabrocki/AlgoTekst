@@ -1,5 +1,5 @@
 ---
-name: Pseudoinonotus dryadeus
+latin_name: Pseudoinonotus dryadeus
 source: https://www.nagrzyby.pl/atlas/512
 ---
 

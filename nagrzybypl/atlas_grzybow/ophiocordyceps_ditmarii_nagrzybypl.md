@@ -1,5 +1,5 @@
 ---
-name: Ophiocordyceps ditmarii
+latin_name: Ophiocordyceps ditmarii
 source: https://www.nagrzyby.pl/atlas/4987
 ---
 

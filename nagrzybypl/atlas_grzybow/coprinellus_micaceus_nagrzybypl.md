@@ -1,5 +1,5 @@
 ---
-name: Coprinellus micaceus
+latin_name: Coprinellus micaceus
 source: https://www.nagrzyby.pl/atlas/46
 ---
 

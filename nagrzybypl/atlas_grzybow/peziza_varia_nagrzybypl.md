@@ -1,5 +1,5 @@
 ---
-name: Peziza varia
+latin_name: Peziza varia
 source: https://www.nagrzyby.pl/atlas/1299
 ---
 

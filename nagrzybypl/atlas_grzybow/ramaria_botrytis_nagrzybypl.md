@@ -1,5 +1,5 @@
 ---
-name: Ramaria botrytis
+latin_name: Ramaria botrytis
 source: https://www.nagrzyby.pl/atlas/555
 ---
 

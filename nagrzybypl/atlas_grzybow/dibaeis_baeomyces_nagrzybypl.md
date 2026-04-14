@@ -1,5 +1,5 @@
 ---
-name: Dibaeis baeomyces
+latin_name: Dibaeis baeomyces
 source: https://www.nagrzyby.pl/atlas/2916
 ---
 

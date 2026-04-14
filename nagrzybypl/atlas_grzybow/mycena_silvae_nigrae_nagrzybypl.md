@@ -1,5 +1,5 @@
 ---
-name: Mycena silvae-nigrae
+latin_name: Mycena silvae-nigrae
 source: https://www.nagrzyby.pl/atlas/5438
 ---
 

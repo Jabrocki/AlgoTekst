@@ -1,5 +1,5 @@
 ---
-name: Cortinarius stillatitius
+latin_name: Cortinarius stillatitius
 source: https://www.nagrzyby.pl/atlas/2249
 ---
 

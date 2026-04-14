@@ -1,5 +1,5 @@
 ---
-name: Cantharellus cibarius
+latin_name: Cantharellus cibarius
 source: https://www.nagrzyby.pl/atlas/328
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Lactarius glyciosmus
+latin_name: Lactarius glyciosmus
 source: https://www.nagrzyby.pl/atlas/776
 ---
 

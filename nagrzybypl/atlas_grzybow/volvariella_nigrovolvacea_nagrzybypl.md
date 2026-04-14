@@ -1,5 +1,5 @@
 ---
-name: Volvariella nigrovolvacea
+latin_name: Volvariella nigrovolvacea
 source: https://www.nagrzyby.pl/atlas/1615
 ---
 

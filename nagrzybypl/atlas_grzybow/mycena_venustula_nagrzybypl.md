@@ -1,5 +1,5 @@
 ---
-name: Mycena venustula
+latin_name: Mycena venustula
 source: https://www.nagrzyby.pl/atlas/2454
 ---
 

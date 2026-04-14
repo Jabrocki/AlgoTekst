@@ -1,5 +1,5 @@
 ---
-name: Proliferodiscus pulveraceus
+latin_name: Proliferodiscus pulveraceus
 source: https://www.nagrzyby.pl/atlas/5126
 ---
 

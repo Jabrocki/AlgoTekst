@@ -1,5 +1,5 @@
 ---
-name: Lactarius necator
+latin_name: Lactarius necator
 source: https://www.nagrzyby.pl/atlas/189
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Comatricha species
+latin_name: Comatricha species
 source: https://www.nagrzyby.pl/atlas/5051
 ---
 

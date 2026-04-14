@@ -1,5 +1,5 @@
 ---
-name: Coprinus alopecia
+latin_name: Coprinus alopecia
 source: https://www.nagrzyby.pl/atlas/578
 ---
 

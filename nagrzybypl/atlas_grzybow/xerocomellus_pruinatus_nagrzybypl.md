@@ -1,5 +1,5 @@
 ---
-name: Xerocomellus pruinatus
+latin_name: Xerocomellus pruinatus
 source: https://www.nagrzyby.pl/atlas/752
 ---
 

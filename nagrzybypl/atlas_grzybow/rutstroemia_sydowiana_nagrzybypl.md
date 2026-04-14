@@ -1,5 +1,5 @@
 ---
-name: Rutstroemia sydowiana
+latin_name: Rutstroemia sydowiana
 source: https://www.nagrzyby.pl/atlas/5591
 ---
 

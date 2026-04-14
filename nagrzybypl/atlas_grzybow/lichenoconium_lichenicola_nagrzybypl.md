@@ -1,5 +1,5 @@
 ---
-name: Lichenoconium lichenicola
+latin_name: Lichenoconium lichenicola
 source: https://www.nagrzyby.pl/atlas/5609
 ---
 

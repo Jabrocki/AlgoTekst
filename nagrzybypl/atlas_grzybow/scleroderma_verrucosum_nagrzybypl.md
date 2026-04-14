@@ -1,5 +1,5 @@
 ---
-name: Scleroderma verrucosum
+latin_name: Scleroderma verrucosum
 source: https://www.nagrzyby.pl/atlas/911
 ---
 

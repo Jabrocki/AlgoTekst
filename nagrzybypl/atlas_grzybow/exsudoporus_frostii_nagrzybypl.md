@@ -1,5 +1,5 @@
 ---
-name: Exsudoporus frostii
+latin_name: Exsudoporus frostii
 source: https://www.nagrzyby.pl/atlas/5073
 ---
 

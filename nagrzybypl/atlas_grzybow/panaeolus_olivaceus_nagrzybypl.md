@@ -1,5 +1,5 @@
 ---
-name: Panaeolus olivaceus
+latin_name: Panaeolus olivaceus
 source: https://www.nagrzyby.pl/atlas/1824
 ---
 

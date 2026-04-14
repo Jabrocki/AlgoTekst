@@ -1,5 +1,5 @@
 ---
-name: Elaphocordyceps longisegmentis
+latin_name: Elaphocordyceps longisegmentis
 source: https://www.nagrzyby.pl/atlas/1387
 ---
 

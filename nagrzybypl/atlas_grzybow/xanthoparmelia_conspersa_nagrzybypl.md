@@ -1,5 +1,5 @@
 ---
-name: Xanthoparmelia conspersa
+latin_name: Xanthoparmelia conspersa
 source: https://www.nagrzyby.pl/atlas/5209
 ---
 

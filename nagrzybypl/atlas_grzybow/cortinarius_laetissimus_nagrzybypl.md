@@ -1,5 +1,5 @@
 ---
-name: Cortinarius laetissimus
+latin_name: Cortinarius laetissimus
 source: https://www.nagrzyby.pl/atlas/2193
 ---
 

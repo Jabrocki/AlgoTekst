@@ -1,5 +1,5 @@
 ---
-name: Neolentinus adhaerens
+latin_name: Neolentinus adhaerens
 source: https://www.nagrzyby.pl/atlas/678
 ---
 

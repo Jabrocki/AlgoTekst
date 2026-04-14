@@ -1,5 +1,5 @@
 ---
-name: Sarcoscypha jurana
+latin_name: Sarcoscypha jurana
 source: https://www.nagrzyby.pl/atlas/4570
 ---
 

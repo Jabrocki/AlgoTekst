@@ -1,5 +1,5 @@
 ---
-name: Entoloma elodes
+latin_name: Entoloma elodes
 source: https://www.nagrzyby.pl/atlas/33
 ---
 

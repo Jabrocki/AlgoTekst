@@ -1,5 +1,5 @@
 ---
-name: Microglossum griseoviride
+latin_name: Microglossum griseoviride
 source: https://www.nagrzyby.pl/atlas/5789
 ---
 

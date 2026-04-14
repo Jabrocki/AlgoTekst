@@ -1,5 +1,5 @@
 ---
-name: Arthonia atra
+latin_name: Arthonia atra
 source: https://www.nagrzyby.pl/atlas/5366
 ---
 

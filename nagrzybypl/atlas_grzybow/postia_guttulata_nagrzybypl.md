@@ -1,5 +1,5 @@
 ---
-name: Postia guttulata
+latin_name: Postia guttulata
 source: https://www.nagrzyby.pl/atlas/444
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Echinoderma asperum
+latin_name: Echinoderma asperum
 source: https://www.nagrzyby.pl/atlas/49
 ---
 

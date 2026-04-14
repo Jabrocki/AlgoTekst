@@ -1,5 +1,5 @@
 ---
-name: Stereum ostrea
+latin_name: Stereum ostrea
 source: https://www.nagrzyby.pl/atlas/5929
 ---
 

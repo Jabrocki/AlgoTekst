@@ -1,5 +1,5 @@
 ---
-name: Galerina ampullaceocystis
+latin_name: Galerina ampullaceocystis
 source: https://www.nagrzyby.pl/atlas/4467
 ---
 

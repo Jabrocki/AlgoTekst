@@ -1,5 +1,5 @@
 ---
-name: Lecanora chlarotera
+latin_name: Lecanora chlarotera
 source: https://www.nagrzyby.pl/atlas/5277
 ---
 

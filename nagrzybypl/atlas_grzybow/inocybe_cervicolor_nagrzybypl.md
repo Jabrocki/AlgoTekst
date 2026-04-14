@@ -1,5 +1,5 @@
 ---
-name: Inocybe cervicolor
+latin_name: Inocybe cervicolor
 source: https://www.nagrzyby.pl/atlas/2337
 ---
 

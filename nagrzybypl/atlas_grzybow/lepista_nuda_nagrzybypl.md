@@ -1,5 +1,5 @@
 ---
-name: Lepista nuda
+latin_name: Lepista nuda
 source: https://www.nagrzyby.pl/atlas/55
 ---
 

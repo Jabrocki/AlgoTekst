@@ -1,5 +1,5 @@
 ---
-name: Entoloma jahnii
+latin_name: Entoloma jahnii
 source: https://www.nagrzyby.pl/atlas/5064
 ---
 

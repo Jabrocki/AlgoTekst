@@ -1,5 +1,5 @@
 ---
-name: Agaricus benesii
+latin_name: Agaricus benesii
 source: https://www.nagrzyby.pl/atlas/643
 ---
 

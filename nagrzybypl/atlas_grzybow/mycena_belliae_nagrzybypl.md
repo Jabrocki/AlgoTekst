@@ -1,5 +1,5 @@
 ---
-name: Mycena belliae
+latin_name: Mycena belliae
 source: https://www.nagrzyby.pl/atlas/2412
 ---
 

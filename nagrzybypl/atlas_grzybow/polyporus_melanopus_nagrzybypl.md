@@ -1,5 +1,5 @@
 ---
-name: Polyporus melanopus
+latin_name: Polyporus melanopus
 source: https://www.nagrzyby.pl/atlas/844
 ---
 

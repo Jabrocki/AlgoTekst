@@ -1,5 +1,5 @@
 ---
-name: Fistulina hepatica
+latin_name: Fistulina hepatica
 source: https://www.nagrzyby.pl/atlas/168
 ---
 

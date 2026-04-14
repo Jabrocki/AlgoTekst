@@ -1,5 +1,5 @@
 ---
-name: Lepista metachroides
+latin_name: Lepista metachroides
 source: https://www.nagrzyby.pl/atlas/1013
 ---
 

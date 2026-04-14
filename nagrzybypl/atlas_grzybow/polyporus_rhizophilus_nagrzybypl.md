@@ -1,5 +1,5 @@
 ---
-name: Polyporus rhizophilus
+latin_name: Polyporus rhizophilus
 source: https://www.nagrzyby.pl/atlas/4227
 ---
 

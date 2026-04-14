@@ -1,5 +1,5 @@
 ---
-name: Hypholoma laeticolor
+latin_name: Hypholoma laeticolor
 source: https://www.nagrzyby.pl/atlas/4274
 ---
 

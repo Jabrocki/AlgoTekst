@@ -1,5 +1,5 @@
 ---
-name: Hysterangium coriaceum
+latin_name: Hysterangium coriaceum
 source: https://www.nagrzyby.pl/atlas/5861
 ---
 

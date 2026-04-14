@@ -1,5 +1,5 @@
 ---
-name: Lecanora cenisia
+latin_name: Lecanora cenisia
 source: https://www.nagrzyby.pl/atlas/5281
 ---
 

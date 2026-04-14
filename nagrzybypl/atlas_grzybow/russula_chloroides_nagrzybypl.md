@@ -1,5 +1,5 @@
 ---
-name: Russula chloroides
+latin_name: Russula chloroides
 source: https://www.nagrzyby.pl/atlas/5012
 ---
 

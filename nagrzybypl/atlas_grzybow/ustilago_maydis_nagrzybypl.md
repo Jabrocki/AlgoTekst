@@ -1,5 +1,5 @@
 ---
-name: Ustilago maydis
+latin_name: Ustilago maydis
 source: https://www.nagrzyby.pl/atlas/527
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Entoloma griseocyaneum
+latin_name: Entoloma griseocyaneum
 source: https://www.nagrzyby.pl/atlas/4282
 ---
 

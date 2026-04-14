@@ -1,5 +1,5 @@
 ---
-name: Inocybe gymnocarpa
+latin_name: Inocybe gymnocarpa
 source: https://www.nagrzyby.pl/atlas/2356
 ---
 

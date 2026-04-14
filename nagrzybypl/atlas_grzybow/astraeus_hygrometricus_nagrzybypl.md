@@ -1,5 +1,5 @@
 ---
-name: Astraeus hygrometricus
+latin_name: Astraeus hygrometricus
 source: https://www.nagrzyby.pl/atlas/622
 ---
 

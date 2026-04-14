@@ -1,5 +1,5 @@
 ---
-name: Cortinarius variecolor
+latin_name: Cortinarius variecolor
 source: https://www.nagrzyby.pl/atlas/2269
 ---
 

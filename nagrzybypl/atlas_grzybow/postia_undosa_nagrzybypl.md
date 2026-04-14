@@ -1,5 +1,5 @@
 ---
-name: Postia undosa
+latin_name: Postia undosa
 source: https://www.nagrzyby.pl/atlas/731
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Lepidoderma tigrinum
+latin_name: Lepidoderma tigrinum
 source: https://www.nagrzyby.pl/atlas/4873
 ---
 

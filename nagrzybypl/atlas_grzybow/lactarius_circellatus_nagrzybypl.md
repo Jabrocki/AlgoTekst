@@ -1,5 +1,5 @@
 ---
-name: Lactarius circellatus
+latin_name: Lactarius circellatus
 source: https://www.nagrzyby.pl/atlas/475
 ---
 

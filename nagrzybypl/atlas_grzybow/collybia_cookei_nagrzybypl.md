@@ -1,5 +1,5 @@
 ---
-name: Collybia cookei
+latin_name: Collybia cookei
 source: https://www.nagrzyby.pl/atlas/1451
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Calocybe graveolens
+latin_name: Calocybe graveolens
 source: https://www.nagrzyby.pl/atlas/1916
 ---
 

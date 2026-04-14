@@ -1,5 +1,5 @@
 ---
-name: Fuscoporia contigua
+latin_name: Fuscoporia contigua
 source: https://www.nagrzyby.pl/atlas/3289
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Clitocybe diosma
+latin_name: Clitocybe diosma
 source: https://www.nagrzyby.pl/atlas/1987
 ---
 

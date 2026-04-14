@@ -1,5 +1,5 @@
 ---
-name: Exidia umbrinella
+latin_name: Exidia umbrinella
 source: https://www.nagrzyby.pl/atlas/4472
 ---
 

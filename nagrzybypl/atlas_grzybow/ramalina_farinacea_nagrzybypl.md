@@ -1,5 +1,5 @@
 ---
-name: Ramalina farinacea
+latin_name: Ramalina farinacea
 source: https://www.nagrzyby.pl/atlas/5334
 ---
 

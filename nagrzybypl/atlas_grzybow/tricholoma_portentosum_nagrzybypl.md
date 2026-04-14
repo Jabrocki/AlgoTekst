@@ -1,5 +1,5 @@
 ---
-name: Tricholoma portentosum
+latin_name: Tricholoma portentosum
 source: https://www.nagrzyby.pl/atlas/179
 ---
 

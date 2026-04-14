@@ -1,5 +1,5 @@
 ---
-name: Gomphidius maculatus
+latin_name: Gomphidius maculatus
 source: https://www.nagrzyby.pl/atlas/588
 ---
 

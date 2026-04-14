@@ -1,5 +1,5 @@
 ---
-name: Pleurotus cornucopiae
+latin_name: Pleurotus cornucopiae
 source: https://www.nagrzyby.pl/atlas/24
 ---
 

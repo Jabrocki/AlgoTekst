@@ -1,5 +1,5 @@
 ---
-name: Dendrostilbella smaragdina
+latin_name: Dendrostilbella smaragdina
 source: https://www.nagrzyby.pl/atlas/5910
 ---
 

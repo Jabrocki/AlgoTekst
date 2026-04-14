@@ -1,5 +1,5 @@
 ---
-name: Sporastatia testudinea
+latin_name: Sporastatia testudinea
 source: https://www.nagrzyby.pl/atlas/5189
 ---
 

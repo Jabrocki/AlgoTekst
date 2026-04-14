@@ -1,5 +1,5 @@
 ---
-name: Phellinus laevigatus
+latin_name: Phellinus laevigatus
 source: https://www.nagrzyby.pl/atlas/3288
 ---
 

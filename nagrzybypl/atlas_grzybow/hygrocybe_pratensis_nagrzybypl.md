@@ -1,5 +1,5 @@
 ---
-name: Hygrocybe pratensis
+latin_name: Hygrocybe pratensis
 source: https://www.nagrzyby.pl/atlas/679
 ---
 

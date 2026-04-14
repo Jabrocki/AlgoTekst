@@ -1,5 +1,5 @@
 ---
-name: Hygrophorus queletii
+latin_name: Hygrophorus queletii
 source: https://www.nagrzyby.pl/atlas/1244
 ---
 

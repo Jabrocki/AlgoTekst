@@ -1,5 +1,5 @@
 ---
-name: Cortinarius evernius
+latin_name: Cortinarius evernius
 source: https://www.nagrzyby.pl/atlas/2169
 ---
 

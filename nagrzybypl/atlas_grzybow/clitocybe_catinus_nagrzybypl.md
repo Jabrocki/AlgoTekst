@@ -1,5 +1,5 @@
 ---
-name: Clitocybe catinus
+latin_name: Clitocybe catinus
 source: https://www.nagrzyby.pl/atlas/1567
 ---
 

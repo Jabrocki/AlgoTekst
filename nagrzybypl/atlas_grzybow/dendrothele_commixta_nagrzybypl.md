@@ -1,5 +1,5 @@
 ---
-name: Dendrothele commixta
+latin_name: Dendrothele commixta
 source: https://www.nagrzyby.pl/atlas/4492
 ---
 

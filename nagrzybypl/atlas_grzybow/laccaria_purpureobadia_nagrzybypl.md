@@ -1,5 +1,5 @@
 ---
-name: Laccaria purpureobadia
+latin_name: Laccaria purpureobadia
 source: https://www.nagrzyby.pl/atlas/946
 ---
 

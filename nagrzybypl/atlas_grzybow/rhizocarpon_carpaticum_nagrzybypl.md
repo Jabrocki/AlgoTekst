@@ -1,5 +1,5 @@
 ---
-name: Rhizocarpon carpaticum
+latin_name: Rhizocarpon carpaticum
 source: https://www.nagrzyby.pl/atlas/5543
 ---
 

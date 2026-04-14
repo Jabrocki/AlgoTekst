@@ -1,5 +1,5 @@
 ---
-name: Hygrophorus eburneus
+latin_name: Hygrophorus eburneus
 source: https://www.nagrzyby.pl/atlas/675
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Gymnopus fagiphilus
+latin_name: Gymnopus fagiphilus
 source: https://www.nagrzyby.pl/atlas/1439
 ---
 

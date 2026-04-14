@@ -1,5 +1,5 @@
 ---
-name: Geoglossum glutinosum
+latin_name: Geoglossum glutinosum
 source: https://www.nagrzyby.pl/atlas/1557
 ---
 

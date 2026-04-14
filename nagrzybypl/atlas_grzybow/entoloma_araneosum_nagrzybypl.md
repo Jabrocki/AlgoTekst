@@ -1,5 +1,5 @@
 ---
-name: Entoloma araneosum
+latin_name: Entoloma araneosum
 source: https://www.nagrzyby.pl/atlas/4755
 ---
 

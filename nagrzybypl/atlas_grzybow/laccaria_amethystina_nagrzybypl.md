@@ -1,5 +1,5 @@
 ---
-name: Laccaria amethystina
+latin_name: Laccaria amethystina
 source: https://www.nagrzyby.pl/atlas/81
 ---
 

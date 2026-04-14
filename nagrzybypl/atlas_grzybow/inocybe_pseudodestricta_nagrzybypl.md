@@ -1,5 +1,5 @@
 ---
-name: Inocybe pseudodestricta
+latin_name: Inocybe pseudodestricta
 source: https://www.nagrzyby.pl/atlas/5493
 ---
 

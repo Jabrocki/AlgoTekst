@@ -1,5 +1,5 @@
 ---
-name: Lecanora subcarnea
+latin_name: Lecanora subcarnea
 source: https://www.nagrzyby.pl/atlas/5288
 ---
 

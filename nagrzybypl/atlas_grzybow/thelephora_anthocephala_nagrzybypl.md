@@ -1,5 +1,5 @@
 ---
-name: Thelephora anthocephala
+latin_name: Thelephora anthocephala
 source: https://www.nagrzyby.pl/atlas/89
 ---
 

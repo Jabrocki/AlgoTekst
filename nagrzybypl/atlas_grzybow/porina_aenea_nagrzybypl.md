@@ -1,5 +1,5 @@
 ---
-name: Porina aenea
+latin_name: Porina aenea
 source: https://www.nagrzyby.pl/atlas/5337
 ---
 

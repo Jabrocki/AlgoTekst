@@ -1,5 +1,5 @@
 ---
-name: Lactarius subdulcis
+latin_name: Lactarius subdulcis
 source: https://www.nagrzyby.pl/atlas/1524
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Clitocybe inornata
+latin_name: Clitocybe inornata
 source: https://www.nagrzyby.pl/atlas/1587
 ---
 

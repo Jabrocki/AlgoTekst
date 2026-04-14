@@ -1,5 +1,5 @@
 ---
-name: Cortinarius semivestitus
+latin_name: Cortinarius semivestitus
 source: https://www.nagrzyby.pl/atlas/2242
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Suillellus rhodoxanthus
+latin_name: Suillellus rhodoxanthus
 source: https://www.nagrzyby.pl/atlas/786
 ---
 

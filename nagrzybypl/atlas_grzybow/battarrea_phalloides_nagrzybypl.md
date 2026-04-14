@@ -1,5 +1,5 @@
 ---
-name: Battarrea phalloides
+latin_name: Battarrea phalloides
 source: https://www.nagrzyby.pl/atlas/1886
 ---
 

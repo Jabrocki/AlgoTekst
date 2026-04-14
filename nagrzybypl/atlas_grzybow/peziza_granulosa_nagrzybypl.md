@@ -1,5 +1,5 @@
 ---
-name: Peziza granulosa
+latin_name: Peziza granulosa
 source: https://www.nagrzyby.pl/atlas/1301
 ---
 

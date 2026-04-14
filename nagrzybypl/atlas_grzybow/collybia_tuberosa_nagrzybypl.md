@@ -1,5 +1,5 @@
 ---
-name: Collybia tuberosa
+latin_name: Collybia tuberosa
 source: https://www.nagrzyby.pl/atlas/1452
 ---
 

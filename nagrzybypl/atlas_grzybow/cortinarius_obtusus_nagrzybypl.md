@@ -1,5 +1,5 @@
 ---
-name: Cortinarius obtusus
+latin_name: Cortinarius obtusus
 source: https://www.nagrzyby.pl/atlas/2214
 ---
 

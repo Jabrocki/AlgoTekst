@@ -1,5 +1,5 @@
 ---
-name: Gymnopus huijsmanii
+latin_name: Gymnopus huijsmanii
 source: https://www.nagrzyby.pl/atlas/1442
 ---
 

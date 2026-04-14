@@ -1,5 +1,5 @@
 ---
-name: Chrysomphalina grossula
+latin_name: Chrysomphalina grossula
 source: https://www.nagrzyby.pl/atlas/1713
 ---
 

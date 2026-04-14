@@ -1,5 +1,5 @@
 ---
-name: Mycena adscendens
+latin_name: Mycena adscendens
 source: https://www.nagrzyby.pl/atlas/1489
 ---
 

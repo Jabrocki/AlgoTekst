@@ -1,5 +1,5 @@
 ---
-name: Cladonia gracilis
+latin_name: Cladonia gracilis
 source: https://www.nagrzyby.pl/atlas/5197
 ---
 

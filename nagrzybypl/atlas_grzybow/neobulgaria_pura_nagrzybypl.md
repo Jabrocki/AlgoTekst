@@ -1,5 +1,5 @@
 ---
-name: Neobulgaria pura
+latin_name: Neobulgaria pura
 source: https://www.nagrzyby.pl/atlas/95
 ---
 

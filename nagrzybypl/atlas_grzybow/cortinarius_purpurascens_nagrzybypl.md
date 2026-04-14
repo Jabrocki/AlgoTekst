@@ -1,5 +1,5 @@
 ---
-name: Cortinarius purpurascens
+latin_name: Cortinarius purpurascens
 source: https://www.nagrzyby.pl/atlas/925
 ---
 

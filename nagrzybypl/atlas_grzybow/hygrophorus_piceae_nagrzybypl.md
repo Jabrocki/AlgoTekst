@@ -1,5 +1,5 @@
 ---
-name: Hygrophorus piceae
+latin_name: Hygrophorus piceae
 source: https://www.nagrzyby.pl/atlas/1231
 ---
 

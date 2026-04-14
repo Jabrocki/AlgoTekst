@@ -1,5 +1,5 @@
 ---
-name: Tricholoma acerbum
+latin_name: Tricholoma acerbum
 source: https://www.nagrzyby.pl/atlas/1009
 ---
 

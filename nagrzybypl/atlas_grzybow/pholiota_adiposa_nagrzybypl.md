@@ -1,5 +1,5 @@
 ---
-name: Pholiota adiposa
+latin_name: Pholiota adiposa
 source: https://www.nagrzyby.pl/atlas/1394
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Entoloma subradiatum
+latin_name: Entoloma subradiatum
 source: https://www.nagrzyby.pl/atlas/4797
 ---
 

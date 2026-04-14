@@ -1,5 +1,5 @@
 ---
-name: Mutinus elegans
+latin_name: Mutinus elegans
 source: https://www.nagrzyby.pl/atlas/1639
 ---
 

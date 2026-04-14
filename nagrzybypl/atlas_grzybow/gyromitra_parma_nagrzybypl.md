@@ -1,5 +1,5 @@
 ---
-name: Gyromitra parma
+latin_name: Gyromitra parma
 source: https://www.nagrzyby.pl/atlas/4719
 ---
 

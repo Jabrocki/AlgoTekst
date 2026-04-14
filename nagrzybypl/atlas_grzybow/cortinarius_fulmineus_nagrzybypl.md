@@ -1,5 +1,5 @@
 ---
-name: Cortinarius fulmineus
+latin_name: Cortinarius fulmineus
 source: https://www.nagrzyby.pl/atlas/2172
 ---
 

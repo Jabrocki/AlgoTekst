@@ -1,5 +1,5 @@
 ---
-name: Capitotricha bicolor
+latin_name: Capitotricha bicolor
 source: https://www.nagrzyby.pl/atlas/5710
 ---
 

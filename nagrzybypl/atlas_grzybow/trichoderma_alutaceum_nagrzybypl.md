@@ -1,5 +1,5 @@
 ---
-name: Trichoderma alutaceum
+latin_name: Trichoderma alutaceum
 source: https://www.nagrzyby.pl/atlas/1547
 ---
 

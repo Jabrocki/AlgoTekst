@@ -1,5 +1,5 @@
 ---
-name: Botryobasidium candicans
+latin_name: Botryobasidium candicans
 source: https://www.nagrzyby.pl/atlas/1889
 ---
 

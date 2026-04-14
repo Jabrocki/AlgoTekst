@@ -1,5 +1,5 @@
 ---
-name: Cribraria cancellata
+latin_name: Cribraria cancellata
 source: https://www.nagrzyby.pl/atlas/5008
 ---
 

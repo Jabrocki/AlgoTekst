@@ -1,5 +1,5 @@
 ---
-name: Bovista colorata
+latin_name: Bovista colorata
 source: https://www.nagrzyby.pl/atlas/1183
 ---
 

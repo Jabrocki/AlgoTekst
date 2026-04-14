@@ -1,5 +1,5 @@
 ---
-name: Strobilurus esculentus
+latin_name: Strobilurus esculentus
 source: https://www.nagrzyby.pl/atlas/410
 ---
 

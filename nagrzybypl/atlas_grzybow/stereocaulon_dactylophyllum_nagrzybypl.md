@@ -1,5 +1,5 @@
 ---
-name: Stereocaulon dactylophyllum
+latin_name: Stereocaulon dactylophyllum
 source: https://www.nagrzyby.pl/atlas/5190
 ---
 

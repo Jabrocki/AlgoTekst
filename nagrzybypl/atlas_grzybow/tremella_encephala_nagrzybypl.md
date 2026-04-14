@@ -1,5 +1,5 @@
 ---
-name: Tremella encephala
+latin_name: Tremella encephala
 source: https://www.nagrzyby.pl/atlas/654
 ---
 

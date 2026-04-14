@@ -1,5 +1,5 @@
 ---
-name: Perichaena depressa
+latin_name: Perichaena depressa
 source: https://www.nagrzyby.pl/atlas/5982
 ---
 

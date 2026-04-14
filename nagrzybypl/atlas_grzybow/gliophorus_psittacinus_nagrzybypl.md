@@ -1,5 +1,5 @@
 ---
-name: Gliophorus psittacinus
+latin_name: Gliophorus psittacinus
 source: https://www.nagrzyby.pl/atlas/1248
 ---
 

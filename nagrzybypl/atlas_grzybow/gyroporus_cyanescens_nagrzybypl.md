@@ -1,5 +1,5 @@
 ---
-name: Gyroporus cyanescens
+latin_name: Gyroporus cyanescens
 source: https://www.nagrzyby.pl/atlas/16
 ---
 

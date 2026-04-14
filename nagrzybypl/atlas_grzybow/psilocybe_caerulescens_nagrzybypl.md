@@ -1,5 +1,5 @@
 ---
-name: Psilocybe caerulescens
+latin_name: Psilocybe caerulescens
 source: https://www.nagrzyby.pl/atlas/1343
 ---
 

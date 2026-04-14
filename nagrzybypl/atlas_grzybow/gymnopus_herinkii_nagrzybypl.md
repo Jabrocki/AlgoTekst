@@ -1,5 +1,5 @@
 ---
-name: Gymnopus herinkii
+latin_name: Gymnopus herinkii
 source: https://www.nagrzyby.pl/atlas/1428
 ---
 

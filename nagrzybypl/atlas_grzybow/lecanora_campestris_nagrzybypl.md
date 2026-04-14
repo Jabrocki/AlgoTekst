@@ -1,5 +1,5 @@
 ---
-name: Lecanora campestris
+latin_name: Lecanora campestris
 source: https://www.nagrzyby.pl/atlas/5282
 ---
 

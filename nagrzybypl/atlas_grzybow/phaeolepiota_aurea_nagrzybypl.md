@@ -1,5 +1,5 @@
 ---
-name: Phaeolepiota aurea
+latin_name: Phaeolepiota aurea
 source: https://www.nagrzyby.pl/atlas/443
 ---
 

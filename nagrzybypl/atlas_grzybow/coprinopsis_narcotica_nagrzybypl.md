@@ -1,5 +1,5 @@
 ---
-name: Coprinopsis narcotica
+latin_name: Coprinopsis narcotica
 source: https://www.nagrzyby.pl/atlas/1029
 ---
 

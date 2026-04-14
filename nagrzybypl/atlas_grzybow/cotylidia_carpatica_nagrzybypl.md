@@ -1,5 +1,5 @@
 ---
-name: Cotylidia carpatica
+latin_name: Cotylidia carpatica
 source: https://www.nagrzyby.pl/atlas/3031
 ---
 

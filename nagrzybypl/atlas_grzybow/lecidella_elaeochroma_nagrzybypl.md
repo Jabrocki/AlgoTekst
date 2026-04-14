@@ -1,5 +1,5 @@
 ---
-name: Lecidella elaeochroma
+latin_name: Lecidella elaeochroma
 source: https://www.nagrzyby.pl/atlas/5145
 ---
 

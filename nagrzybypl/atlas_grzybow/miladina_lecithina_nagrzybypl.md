@@ -1,5 +1,5 @@
 ---
-name: Miladina lecithina
+latin_name: Miladina lecithina
 source: https://www.nagrzyby.pl/atlas/5652
 ---
 

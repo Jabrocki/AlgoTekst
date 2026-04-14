@@ -1,5 +1,5 @@
 ---
-name: Leucoscypha leucotricha
+latin_name: Leucoscypha leucotricha
 source: https://www.nagrzyby.pl/atlas/5501
 ---
 

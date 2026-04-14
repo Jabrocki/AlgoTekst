@@ -1,5 +1,5 @@
 ---
-name: Hygrophorus nemoreus
+latin_name: Hygrophorus nemoreus
 source: https://www.nagrzyby.pl/atlas/1240
 ---
 

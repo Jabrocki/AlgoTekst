@@ -1,5 +1,5 @@
 ---
-name: Trametes versicolor
+latin_name: Trametes versicolor
 source: https://www.nagrzyby.pl/atlas/386
 ---
 

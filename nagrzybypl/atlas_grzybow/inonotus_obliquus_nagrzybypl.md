@@ -1,5 +1,5 @@
 ---
-name: Inonotus obliquus
+latin_name: Inonotus obliquus
 source: https://www.nagrzyby.pl/atlas/388
 ---
 

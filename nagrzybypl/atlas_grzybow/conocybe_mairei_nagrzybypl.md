@@ -1,5 +1,5 @@
 ---
-name: Conocybe mairei
+latin_name: Conocybe mairei
 source: https://www.nagrzyby.pl/atlas/2036
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Tricholoma frondosae
+latin_name: Tricholoma frondosae
 source: https://www.nagrzyby.pl/atlas/1000
 ---
 

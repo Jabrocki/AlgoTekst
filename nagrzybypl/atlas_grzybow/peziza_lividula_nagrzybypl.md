@@ -1,5 +1,5 @@
 ---
-name: Peziza lividula
+latin_name: Peziza lividula
 source: https://www.nagrzyby.pl/atlas/1284
 ---
 

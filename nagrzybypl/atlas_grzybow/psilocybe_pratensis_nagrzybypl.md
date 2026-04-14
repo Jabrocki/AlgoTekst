@@ -1,5 +1,5 @@
 ---
-name: Psilocybe pratensis
+latin_name: Psilocybe pratensis
 source: https://www.nagrzyby.pl/atlas/1919
 ---
 

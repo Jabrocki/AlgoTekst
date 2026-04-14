@@ -1,5 +1,5 @@
 ---
-name: Hygrocybe ingrata
+latin_name: Hygrocybe ingrata
 source: https://www.nagrzyby.pl/atlas/4220
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Lactarius pterosporus
+latin_name: Lactarius pterosporus
 source: https://www.nagrzyby.pl/atlas/1707
 ---
 

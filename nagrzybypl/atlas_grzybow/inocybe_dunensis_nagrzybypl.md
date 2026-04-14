@@ -1,5 +1,5 @@
 ---
-name: Inocybe dunensis
+latin_name: Inocybe dunensis
 source: https://www.nagrzyby.pl/atlas/2343
 ---
 

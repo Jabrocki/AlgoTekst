@@ -1,5 +1,5 @@
 ---
-name: Geoglossum vleugelianum
+latin_name: Geoglossum vleugelianum
 source: https://www.nagrzyby.pl/atlas/5797
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Peziza prosthetica
+latin_name: Peziza prosthetica
 source: https://www.nagrzyby.pl/atlas/1278
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Tylopilus felleus
+latin_name: Tylopilus felleus
 source: https://www.nagrzyby.pl/atlas/64
 ---
 

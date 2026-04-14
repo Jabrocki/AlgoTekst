@@ -1,5 +1,5 @@
 ---
-name: Steccherinum fimbriatum
+latin_name: Steccherinum fimbriatum
 source: https://www.nagrzyby.pl/atlas/2472
 ---
 

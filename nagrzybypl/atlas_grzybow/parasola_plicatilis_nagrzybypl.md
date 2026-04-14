@@ -1,5 +1,5 @@
 ---
-name: Parasola plicatilis
+latin_name: Parasola plicatilis
 source: https://www.nagrzyby.pl/atlas/124
 ---
 

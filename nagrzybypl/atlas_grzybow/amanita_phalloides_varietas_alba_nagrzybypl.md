@@ -1,5 +1,5 @@
 ---
-name: Amanita phalloides varietas alba
+latin_name: Amanita phalloides varietas alba
 source: https://www.nagrzyby.pl/atlas/626
 ---
 

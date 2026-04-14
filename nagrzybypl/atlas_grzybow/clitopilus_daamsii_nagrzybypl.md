@@ -1,5 +1,5 @@
 ---
-name: Clitopilus daamsii
+latin_name: Clitopilus daamsii
 source: https://www.nagrzyby.pl/atlas/5067
 ---
 

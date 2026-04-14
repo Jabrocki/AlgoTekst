@@ -1,5 +1,5 @@
 ---
-name: Cordyceps militaris
+latin_name: Cordyceps militaris
 source: https://www.nagrzyby.pl/atlas/273
 ---
 

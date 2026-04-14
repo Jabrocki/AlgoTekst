@@ -1,5 +1,5 @@
 ---
-name: Hypomyces lactifluorum
+latin_name: Hypomyces lactifluorum
 source: https://www.nagrzyby.pl/atlas/5805
 ---
 

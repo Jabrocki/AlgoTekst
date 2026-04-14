@@ -1,5 +1,5 @@
 ---
-name: Thelephora penicillata
+latin_name: Thelephora penicillata
 source: https://www.nagrzyby.pl/atlas/500
 ---
 

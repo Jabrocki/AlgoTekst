@@ -1,5 +1,5 @@
 ---
-name: Mycena alnetorum
+latin_name: Mycena alnetorum
 source: https://www.nagrzyby.pl/atlas/1094
 ---
 

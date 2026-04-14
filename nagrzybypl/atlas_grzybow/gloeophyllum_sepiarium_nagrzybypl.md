@@ -1,5 +1,5 @@
 ---
-name: Gloeophyllum sepiarium
+latin_name: Gloeophyllum sepiarium
 source: https://www.nagrzyby.pl/atlas/464
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Mycena xantholeuca
+latin_name: Mycena xantholeuca
 source: https://www.nagrzyby.pl/atlas/2441
 ---
 

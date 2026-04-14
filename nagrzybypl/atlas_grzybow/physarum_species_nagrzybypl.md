@@ -1,5 +1,5 @@
 ---
-name: Physarum species
+latin_name: Physarum species
 source: https://www.nagrzyby.pl/atlas/5048
 ---
 

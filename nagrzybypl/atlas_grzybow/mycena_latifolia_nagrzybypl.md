@@ -1,5 +1,5 @@
 ---
-name: Mycena latifolia
+latin_name: Mycena latifolia
 source: https://www.nagrzyby.pl/atlas/969
 ---
 

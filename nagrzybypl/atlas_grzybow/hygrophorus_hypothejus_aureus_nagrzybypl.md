@@ -1,5 +1,5 @@
 ---
-name: Hygrophorus hypothejus aureus
+latin_name: Hygrophorus hypothejus aureus
 source: https://www.nagrzyby.pl/atlas/2459
 ---
 

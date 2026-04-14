@@ -1,5 +1,5 @@
 ---
-name: Cetrelia cetrarioides
+latin_name: Cetrelia cetrarioides
 source: https://www.nagrzyby.pl/atlas/5743
 ---
 

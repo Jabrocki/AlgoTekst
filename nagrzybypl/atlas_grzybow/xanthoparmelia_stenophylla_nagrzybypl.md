@@ -1,5 +1,5 @@
 ---
-name: Xanthoparmelia stenophylla
+latin_name: Xanthoparmelia stenophylla
 source: https://www.nagrzyby.pl/atlas/5210
 ---
 

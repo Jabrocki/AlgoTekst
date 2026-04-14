@@ -1,5 +1,5 @@
 ---
-name: Geastrum minimum
+latin_name: Geastrum minimum
 source: https://www.nagrzyby.pl/atlas/834
 ---
 

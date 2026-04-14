@@ -1,5 +1,5 @@
 ---
-name: Entoloma costatum
+latin_name: Entoloma costatum
 source: https://www.nagrzyby.pl/atlas/4759
 ---
 

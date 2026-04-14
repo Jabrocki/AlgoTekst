@@ -1,5 +1,5 @@
 ---
-name: Diderma radiatum
+latin_name: Diderma radiatum
 source: https://www.nagrzyby.pl/atlas/5003
 ---
 

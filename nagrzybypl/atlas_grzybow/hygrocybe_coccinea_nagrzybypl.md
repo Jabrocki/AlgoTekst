@@ -1,5 +1,5 @@
 ---
-name: Hygrocybe coccinea
+latin_name: Hygrocybe coccinea
 source: https://www.nagrzyby.pl/atlas/131
 ---
 

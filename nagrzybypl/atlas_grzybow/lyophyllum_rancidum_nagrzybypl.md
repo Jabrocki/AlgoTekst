@@ -1,5 +1,5 @@
 ---
-name: Lyophyllum rancidum
+latin_name: Lyophyllum rancidum
 source: https://www.nagrzyby.pl/atlas/4208
 ---
 

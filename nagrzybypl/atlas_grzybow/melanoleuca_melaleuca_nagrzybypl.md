@@ -1,5 +1,5 @@
 ---
-name: Melanoleuca melaleuca
+latin_name: Melanoleuca melaleuca
 source: https://www.nagrzyby.pl/atlas/1731
 ---
 

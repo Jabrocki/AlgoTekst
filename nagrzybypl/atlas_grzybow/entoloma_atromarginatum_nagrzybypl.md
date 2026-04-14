@@ -1,5 +1,5 @@
 ---
-name: Entoloma atromarginatum
+latin_name: Entoloma atromarginatum
 source: https://www.nagrzyby.pl/atlas/4019
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Tricholoma atrosquamosum
+latin_name: Tricholoma atrosquamosum
 source: https://www.nagrzyby.pl/atlas/993
 ---
 

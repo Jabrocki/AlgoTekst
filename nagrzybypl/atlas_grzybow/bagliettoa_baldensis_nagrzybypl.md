@@ -1,5 +1,5 @@
 ---
-name: Bagliettoa baldensis
+latin_name: Bagliettoa baldensis
 source: https://www.nagrzyby.pl/atlas/856
 ---
 

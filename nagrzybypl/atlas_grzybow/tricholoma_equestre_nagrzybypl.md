@@ -1,5 +1,5 @@
 ---
-name: Tricholoma equestre
+latin_name: Tricholoma equestre
 source: https://www.nagrzyby.pl/atlas/468
 ---
 

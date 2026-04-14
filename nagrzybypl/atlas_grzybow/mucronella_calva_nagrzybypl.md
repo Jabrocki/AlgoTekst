@@ -1,5 +1,5 @@
 ---
-name: Mucronella calva
+latin_name: Mucronella calva
 source: https://www.nagrzyby.pl/atlas/5714
 ---
 

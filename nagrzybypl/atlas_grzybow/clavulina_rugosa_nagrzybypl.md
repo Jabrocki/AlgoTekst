@@ -1,5 +1,5 @@
 ---
-name: Clavulina rugosa
+latin_name: Clavulina rugosa
 source: https://www.nagrzyby.pl/atlas/436
 ---
 

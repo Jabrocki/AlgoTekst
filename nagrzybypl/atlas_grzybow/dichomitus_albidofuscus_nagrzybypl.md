@@ -1,5 +1,5 @@
 ---
-name: Dichomitus albidofuscus
+latin_name: Dichomitus albidofuscus
 source: https://www.nagrzyby.pl/atlas/4487
 ---
 

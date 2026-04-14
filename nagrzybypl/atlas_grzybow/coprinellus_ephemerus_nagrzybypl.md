@@ -1,5 +1,5 @@
 ---
-name: Coprinellus ephemerus
+latin_name: Coprinellus ephemerus
 source: https://www.nagrzyby.pl/atlas/2068
 ---
 

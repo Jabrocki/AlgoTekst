@@ -1,5 +1,5 @@
 ---
-name: Peziza ammophila
+latin_name: Peziza ammophila
 source: https://www.nagrzyby.pl/atlas/1297
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Conocybe pulchella
+latin_name: Conocybe pulchella
 source: https://www.nagrzyby.pl/atlas/5081
 ---
 

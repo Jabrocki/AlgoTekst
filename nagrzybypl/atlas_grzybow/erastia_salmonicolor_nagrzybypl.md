@@ -1,5 +1,5 @@
 ---
-name: Erastia salmonicolor
+latin_name: Erastia salmonicolor
 source: https://www.nagrzyby.pl/atlas/4451
 ---
 

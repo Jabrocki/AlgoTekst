@@ -1,5 +1,5 @@
 ---
-name: Pseudephebe pubescens
+latin_name: Pseudephebe pubescens
 source: https://www.nagrzyby.pl/atlas/5393
 ---
 

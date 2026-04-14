@@ -1,5 +1,5 @@
 ---
-name: Psathyrella spadicea
+latin_name: Psathyrella spadicea
 source: https://www.nagrzyby.pl/atlas/4741
 ---
 

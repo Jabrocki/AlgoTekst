@@ -1,5 +1,5 @@
 ---
-name: Polycauliona candelaria
+latin_name: Polycauliona candelaria
 source: https://www.nagrzyby.pl/atlas/5221
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Stropharia albonitens
+latin_name: Stropharia albonitens
 source: https://www.nagrzyby.pl/atlas/1502
 ---
 

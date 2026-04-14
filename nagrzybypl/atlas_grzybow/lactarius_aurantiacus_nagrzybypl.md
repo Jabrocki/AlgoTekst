@@ -1,5 +1,5 @@
 ---
-name: Lactarius aurantiacus
+latin_name: Lactarius aurantiacus
 source: https://www.nagrzyby.pl/atlas/774
 ---
 

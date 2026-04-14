@@ -1,5 +1,5 @@
 ---
-name: Cortinarius mucosus
+latin_name: Cortinarius mucosus
 source: https://www.nagrzyby.pl/atlas/689
 ---
 

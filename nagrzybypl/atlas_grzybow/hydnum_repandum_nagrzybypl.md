@@ -1,5 +1,5 @@
 ---
-name: Hydnum repandum
+latin_name: Hydnum repandum
 source: https://www.nagrzyby.pl/atlas/184
 ---
 

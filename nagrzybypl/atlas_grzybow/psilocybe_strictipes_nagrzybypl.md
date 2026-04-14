@@ -1,5 +1,5 @@
 ---
-name: Psilocybe strictipes
+latin_name: Psilocybe strictipes
 source: https://www.nagrzyby.pl/atlas/1363
 ---
 

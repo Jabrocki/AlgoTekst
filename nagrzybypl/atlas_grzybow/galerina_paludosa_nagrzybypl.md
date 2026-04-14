@@ -1,5 +1,5 @@
 ---
-name: Galerina paludosa
+latin_name: Galerina paludosa
 source: https://www.nagrzyby.pl/atlas/1620
 ---
 

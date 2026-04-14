@@ -1,5 +1,5 @@
 ---
-name: Lactarius bresadolanus
+latin_name: Lactarius bresadolanus
 source: https://www.nagrzyby.pl/atlas/1808
 ---
 

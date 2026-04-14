@@ -1,5 +1,5 @@
 ---
-name: Hygrophorus russula
+latin_name: Hygrophorus russula
 source: https://www.nagrzyby.pl/atlas/673
 ---
 

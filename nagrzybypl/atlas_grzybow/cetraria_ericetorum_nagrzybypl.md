@@ -1,5 +1,5 @@
 ---
-name: Cetraria ericetorum
+latin_name: Cetraria ericetorum
 source: https://www.nagrzyby.pl/atlas/5383
 ---
 

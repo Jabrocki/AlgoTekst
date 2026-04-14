@@ -1,5 +1,5 @@
 ---
-name: Morchella conica
+latin_name: Morchella conica
 source: https://www.nagrzyby.pl/atlas/163
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Youngiomyces multiplex
+latin_name: Youngiomyces multiplex
 source: https://www.nagrzyby.pl/atlas/738
 ---
 

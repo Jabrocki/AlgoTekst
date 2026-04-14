@@ -1,5 +1,5 @@
 ---
-name: Lactarius rubrocinctus
+latin_name: Lactarius rubrocinctus
 source: https://www.nagrzyby.pl/atlas/1814
 ---
 

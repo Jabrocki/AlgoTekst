@@ -1,5 +1,5 @@
 ---
-name: Cladonia caespiticia
+latin_name: Cladonia caespiticia
 source: https://www.nagrzyby.pl/atlas/5156
 ---
 

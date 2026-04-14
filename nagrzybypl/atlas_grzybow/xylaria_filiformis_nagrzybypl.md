@@ -1,5 +1,5 @@
 ---
-name: Xylaria filiformis
+latin_name: Xylaria filiformis
 source: https://www.nagrzyby.pl/atlas/4691
 ---
 

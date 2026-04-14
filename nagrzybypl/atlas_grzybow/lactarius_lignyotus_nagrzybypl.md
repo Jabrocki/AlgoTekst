@@ -1,5 +1,5 @@
 ---
-name: Lactarius lignyotus
+latin_name: Lactarius lignyotus
 source: https://www.nagrzyby.pl/atlas/243
 ---
 

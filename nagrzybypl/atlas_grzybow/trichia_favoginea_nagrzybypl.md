@@ -1,5 +1,5 @@
 ---
-name: Trichia favoginea
+latin_name: Trichia favoginea
 source: https://www.nagrzyby.pl/atlas/4997
 ---
 

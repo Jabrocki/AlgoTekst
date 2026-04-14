@@ -1,5 +1,5 @@
 ---
-name: Russula farinipes
+latin_name: Russula farinipes
 source: https://www.nagrzyby.pl/atlas/686
 ---
 

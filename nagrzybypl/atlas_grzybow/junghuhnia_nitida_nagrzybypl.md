@@ -1,5 +1,5 @@
 ---
-name: Junghuhnia nitida
+latin_name: Junghuhnia nitida
 source: https://www.nagrzyby.pl/atlas/4856
 ---
 

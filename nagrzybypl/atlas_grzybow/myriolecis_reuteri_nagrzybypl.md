@@ -1,5 +1,5 @@
 ---
-name: Myriolecis reuteri
+latin_name: Myriolecis reuteri
 source: https://www.nagrzyby.pl/atlas/5564
 ---
 

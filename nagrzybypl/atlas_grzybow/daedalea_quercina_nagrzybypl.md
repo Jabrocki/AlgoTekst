@@ -1,5 +1,5 @@
 ---
-name: Daedalea quercina
+latin_name: Daedalea quercina
 source: https://www.nagrzyby.pl/atlas/63
 ---
 

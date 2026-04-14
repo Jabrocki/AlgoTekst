@@ -1,5 +1,5 @@
 ---
-name: Leucophleps aculeatispora
+latin_name: Leucophleps aculeatispora
 source: https://www.nagrzyby.pl/atlas/5868
 ---
 

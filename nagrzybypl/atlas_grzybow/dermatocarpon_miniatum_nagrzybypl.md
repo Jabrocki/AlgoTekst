@@ -1,5 +1,5 @@
 ---
-name: Dermatocarpon miniatum
+latin_name: Dermatocarpon miniatum
 source: https://www.nagrzyby.pl/atlas/5539
 ---
 

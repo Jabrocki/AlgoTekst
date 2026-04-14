@@ -1,5 +1,5 @@
 ---
-name: Serpula lacrymans
+latin_name: Serpula lacrymans
 source: https://www.nagrzyby.pl/atlas/1619
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Lactarius albocremeus
+latin_name: Lactarius albocremeus
 source: https://www.nagrzyby.pl/atlas/1819
 ---
 

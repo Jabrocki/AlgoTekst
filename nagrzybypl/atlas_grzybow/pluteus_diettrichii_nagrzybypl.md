@@ -1,5 +1,5 @@
 ---
-name: Pluteus diettrichii
+latin_name: Pluteus diettrichii
 source: https://www.nagrzyby.pl/atlas/1192
 ---
 

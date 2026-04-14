@@ -1,5 +1,5 @@
 ---
-name: Peziza violacea
+latin_name: Peziza violacea
 source: https://www.nagrzyby.pl/atlas/1281
 ---
 

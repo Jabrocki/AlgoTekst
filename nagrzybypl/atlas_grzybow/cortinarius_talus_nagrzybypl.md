@@ -1,5 +1,5 @@
 ---
-name: Cortinarius talus
+latin_name: Cortinarius talus
 source: https://www.nagrzyby.pl/atlas/2259
 ---
 

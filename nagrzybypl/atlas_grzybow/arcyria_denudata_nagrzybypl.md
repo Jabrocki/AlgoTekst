@@ -1,5 +1,5 @@
 ---
-name: Arcyria denudata
+latin_name: Arcyria denudata
 source: https://www.nagrzyby.pl/atlas/1682
 ---
 

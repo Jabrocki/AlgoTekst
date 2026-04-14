@@ -1,5 +1,5 @@
 ---
-name: Neoboletus luridiformis
+latin_name: Neoboletus luridiformis
 source: https://www.nagrzyby.pl/atlas/4847
 ---
 

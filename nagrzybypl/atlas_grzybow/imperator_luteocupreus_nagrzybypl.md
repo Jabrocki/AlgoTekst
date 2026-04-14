@@ -1,5 +1,5 @@
 ---
-name: Imperator luteocupreus
+latin_name: Imperator luteocupreus
 source: https://www.nagrzyby.pl/atlas/4697
 ---
 

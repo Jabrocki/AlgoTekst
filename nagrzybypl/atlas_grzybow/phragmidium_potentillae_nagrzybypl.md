@@ -1,5 +1,5 @@
 ---
-name: Phragmidium potentillae
+latin_name: Phragmidium potentillae
 source: https://www.nagrzyby.pl/atlas/5748
 ---
 

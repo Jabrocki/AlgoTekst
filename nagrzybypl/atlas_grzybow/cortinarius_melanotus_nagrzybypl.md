@@ -1,5 +1,5 @@
 ---
-name: Cortinarius melanotus
+latin_name: Cortinarius melanotus
 source: https://www.nagrzyby.pl/atlas/2201
 ---
 

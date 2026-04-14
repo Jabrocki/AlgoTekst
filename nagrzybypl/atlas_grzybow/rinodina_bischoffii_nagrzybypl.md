@@ -1,5 +1,5 @@
 ---
-name: Rinodina bischoffii
+latin_name: Rinodina bischoffii
 source: https://www.nagrzyby.pl/atlas/5478
 ---
 

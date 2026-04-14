@@ -1,5 +1,5 @@
 ---
-name: Hymenogaster arenarius
+latin_name: Hymenogaster arenarius
 source: https://www.nagrzyby.pl/atlas/5838
 ---
 

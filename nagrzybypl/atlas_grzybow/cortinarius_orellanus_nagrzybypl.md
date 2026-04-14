@@ -1,5 +1,5 @@
 ---
-name: Cortinarius orellanus
+latin_name: Cortinarius orellanus
 source: https://www.nagrzyby.pl/atlas/1135
 ---
 

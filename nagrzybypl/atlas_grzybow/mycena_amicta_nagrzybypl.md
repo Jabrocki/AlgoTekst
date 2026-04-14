@@ -1,5 +1,5 @@
 ---
-name: Mycena amicta
+latin_name: Mycena amicta
 source: https://www.nagrzyby.pl/atlas/1455
 ---
 

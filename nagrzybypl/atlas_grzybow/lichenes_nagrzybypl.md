@@ -1,5 +1,5 @@
 ---
-name: Lichenes
+latin_name: Lichenes
 source: https://www.nagrzyby.pl/atlas/5400
 ---
 

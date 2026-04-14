@@ -1,5 +1,5 @@
 ---
-name: Vulpicida pinastri
+latin_name: Vulpicida pinastri
 source: https://www.nagrzyby.pl/atlas/5219
 ---
 

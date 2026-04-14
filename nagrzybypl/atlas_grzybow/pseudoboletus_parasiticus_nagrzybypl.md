@@ -1,5 +1,5 @@
 ---
-name: Pseudoboletus parasiticus
+latin_name: Pseudoboletus parasiticus
 source: https://www.nagrzyby.pl/atlas/311
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: * Illosporiopsis christiansenii
+latin_name: * Illosporiopsis christiansenii
 source: https://www.nagrzyby.pl/atlas/5502
 ---
 

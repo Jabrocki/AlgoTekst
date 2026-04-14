@@ -1,5 +1,5 @@
 ---
-name: Climacodon pulcherrimus
+latin_name: Climacodon pulcherrimus
 source: https://www.nagrzyby.pl/atlas/3034
 ---
 

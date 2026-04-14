@@ -1,5 +1,5 @@
 ---
-name: Tubaria furfuracea
+latin_name: Tubaria furfuracea
 source: https://www.nagrzyby.pl/atlas/250
 ---
 

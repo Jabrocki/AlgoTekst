@@ -1,5 +1,5 @@
 ---
-name: Pseudoclitocybe expallens
+latin_name: Pseudoclitocybe expallens
 source: https://www.nagrzyby.pl/atlas/2317
 ---
 

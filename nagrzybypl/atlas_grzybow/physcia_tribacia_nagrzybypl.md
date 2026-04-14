@@ -1,5 +1,5 @@
 ---
-name: Physcia tribacia
+latin_name: Physcia tribacia
 source: https://www.nagrzyby.pl/atlas/5545
 ---
 

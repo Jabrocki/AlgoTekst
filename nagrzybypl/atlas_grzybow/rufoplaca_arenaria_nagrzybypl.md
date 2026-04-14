@@ -1,5 +1,5 @@
 ---
-name: Rufoplaca arenaria
+latin_name: Rufoplaca arenaria
 source: https://www.nagrzyby.pl/atlas/5245
 ---
 

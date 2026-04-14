@@ -1,5 +1,5 @@
 ---
-name: Pholiota tuberculosa
+latin_name: Pholiota tuberculosa
 source: https://www.nagrzyby.pl/atlas/1413
 ---
 

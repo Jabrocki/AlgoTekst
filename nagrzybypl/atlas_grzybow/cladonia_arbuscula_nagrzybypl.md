@@ -1,5 +1,5 @@
 ---
-name: Cladonia arbuscula
+latin_name: Cladonia arbuscula
 source: https://www.nagrzyby.pl/atlas/5160
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Boletus edulis
+latin_name: Boletus edulis
 source: https://www.nagrzyby.pl/atlas/4
 ---
 

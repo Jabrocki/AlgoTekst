@@ -1,5 +1,5 @@
 ---
-name: Entoloma depluens
+latin_name: Entoloma depluens
 source: https://www.nagrzyby.pl/atlas/4762
 ---
 

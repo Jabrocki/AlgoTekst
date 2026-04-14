@@ -1,5 +1,5 @@
 ---
-name: Russula nitida
+latin_name: Russula nitida
 source: https://www.nagrzyby.pl/atlas/819
 ---
 

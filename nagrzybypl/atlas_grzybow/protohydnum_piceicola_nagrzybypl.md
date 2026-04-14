@@ -1,5 +1,5 @@
 ---
-name: Protohydnum piceicola
+latin_name: Protohydnum piceicola
 source: https://www.nagrzyby.pl/atlas/4325
 ---
 

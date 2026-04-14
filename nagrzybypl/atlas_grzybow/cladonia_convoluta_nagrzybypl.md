@@ -1,5 +1,5 @@
 ---
-name: Cladonia convoluta
+latin_name: Cladonia convoluta
 source: https://www.nagrzyby.pl/atlas/5617
 ---
 

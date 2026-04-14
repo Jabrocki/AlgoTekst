@@ -1,5 +1,5 @@
 ---
-name: Psathyrella hirta
+latin_name: Psathyrella hirta
 source: https://www.nagrzyby.pl/atlas/5884
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Pluteus aurantiorugosus
+latin_name: Pluteus aurantiorugosus
 source: https://www.nagrzyby.pl/atlas/1201
 ---
 

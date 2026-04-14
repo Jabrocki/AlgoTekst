@@ -1,5 +1,5 @@
 ---
-name: Entoloma placidum
+latin_name: Entoloma placidum
 source: https://www.nagrzyby.pl/atlas/4286
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Heyderia cucullata
+latin_name: Heyderia cucullata
 source: https://www.nagrzyby.pl/atlas/5508
 ---
 

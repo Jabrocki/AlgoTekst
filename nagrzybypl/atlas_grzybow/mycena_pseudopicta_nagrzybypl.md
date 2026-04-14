@@ -1,5 +1,5 @@
 ---
-name: Mycena pseudopicta
+latin_name: Mycena pseudopicta
 source: https://www.nagrzyby.pl/atlas/2444
 ---
 

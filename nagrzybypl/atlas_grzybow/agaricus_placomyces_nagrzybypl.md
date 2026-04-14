@@ -1,5 +1,5 @@
 ---
-name: Agaricus placomyces
+latin_name: Agaricus placomyces
 source: https://www.nagrzyby.pl/atlas/341
 ---
 

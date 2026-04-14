@@ -1,5 +1,5 @@
 ---
-name: Lyophyllum semitale
+latin_name: Lyophyllum semitale
 source: https://www.nagrzyby.pl/atlas/948
 ---
 

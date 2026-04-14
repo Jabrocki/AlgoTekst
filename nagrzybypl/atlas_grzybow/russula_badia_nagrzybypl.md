@@ -1,5 +1,5 @@
 ---
-name: Russula badia
+latin_name: Russula badia
 source: https://www.nagrzyby.pl/atlas/847
 ---
 

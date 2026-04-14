@@ -1,5 +1,5 @@
 ---
-name: Mycena aurantiomarginata
+latin_name: Mycena aurantiomarginata
 source: https://www.nagrzyby.pl/atlas/1067
 ---
 

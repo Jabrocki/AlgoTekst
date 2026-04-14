@@ -1,5 +1,5 @@
 ---
-name: Russula gracillima
+latin_name: Russula gracillima
 source: https://www.nagrzyby.pl/atlas/5507
 ---
 

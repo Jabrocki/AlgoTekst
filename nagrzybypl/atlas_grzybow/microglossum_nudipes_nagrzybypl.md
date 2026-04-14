@@ -1,5 +1,5 @@
 ---
-name: Microglossum nudipes
+latin_name: Microglossum nudipes
 source: https://www.nagrzyby.pl/atlas/5788
 ---
 

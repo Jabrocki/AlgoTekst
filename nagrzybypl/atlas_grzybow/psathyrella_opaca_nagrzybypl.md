@@ -1,5 +1,5 @@
 ---
-name: Psathyrella opaca
+latin_name: Psathyrella opaca
 source: https://www.nagrzyby.pl/atlas/4736
 ---
 

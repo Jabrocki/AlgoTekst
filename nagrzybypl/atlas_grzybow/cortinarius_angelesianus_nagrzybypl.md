@@ -1,5 +1,5 @@
 ---
-name: Cortinarius angelesianus
+latin_name: Cortinarius angelesianus
 source: https://www.nagrzyby.pl/atlas/2250
 ---
 

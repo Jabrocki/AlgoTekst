@@ -1,5 +1,5 @@
 ---
-name: Strobilurus stephanocystis
+latin_name: Strobilurus stephanocystis
 source: https://www.nagrzyby.pl/atlas/476
 ---
 

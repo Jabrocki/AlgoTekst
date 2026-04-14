@@ -1,5 +1,5 @@
 ---
-name: Coprinellus bisporus
+latin_name: Coprinellus bisporus
 source: https://www.nagrzyby.pl/atlas/2061
 ---
 

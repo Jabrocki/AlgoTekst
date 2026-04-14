@@ -1,5 +1,5 @@
 ---
-name: Lecanora intricata
+latin_name: Lecanora intricata
 source: https://www.nagrzyby.pl/atlas/5286
 ---
 

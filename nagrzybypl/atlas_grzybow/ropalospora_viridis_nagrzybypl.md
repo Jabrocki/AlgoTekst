@@ -1,5 +1,5 @@
 ---
-name: Ropalospora viridis
+latin_name: Ropalospora viridis
 source: https://www.nagrzyby.pl/atlas/5376
 ---
 

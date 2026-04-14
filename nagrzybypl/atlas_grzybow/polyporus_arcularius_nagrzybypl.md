@@ -1,5 +1,5 @@
 ---
-name: Polyporus arcularius
+latin_name: Polyporus arcularius
 source: https://www.nagrzyby.pl/atlas/296
 ---
 

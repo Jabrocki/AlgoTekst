@@ -1,5 +1,5 @@
 ---
-name: Amanita vittadinii
+latin_name: Amanita vittadinii
 source: https://www.nagrzyby.pl/atlas/1045
 ---
 

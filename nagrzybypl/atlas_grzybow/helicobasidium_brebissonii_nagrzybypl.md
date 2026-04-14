@@ -1,5 +1,5 @@
 ---
-name: Helicobasidium brebissonii
+latin_name: Helicobasidium brebissonii
 source: https://www.nagrzyby.pl/atlas/4804
 ---
 

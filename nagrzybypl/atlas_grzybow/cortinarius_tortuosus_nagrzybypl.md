@@ -1,5 +1,5 @@
 ---
-name: Cortinarius tortuosus
+latin_name: Cortinarius tortuosus
 source: https://www.nagrzyby.pl/atlas/2261
 ---
 

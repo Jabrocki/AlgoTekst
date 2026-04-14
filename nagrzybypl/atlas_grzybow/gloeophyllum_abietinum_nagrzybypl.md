@@ -1,5 +1,5 @@
 ---
-name: Gloeophyllum abietinum
+latin_name: Gloeophyllum abietinum
 source: https://www.nagrzyby.pl/atlas/1097
 ---
 

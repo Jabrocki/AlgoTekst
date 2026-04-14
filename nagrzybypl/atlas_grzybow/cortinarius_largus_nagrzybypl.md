@@ -1,5 +1,5 @@
 ---
-name: Cortinarius largus
+latin_name: Cortinarius largus
 source: https://www.nagrzyby.pl/atlas/5594
 ---
 

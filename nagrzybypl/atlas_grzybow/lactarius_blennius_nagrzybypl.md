@@ -1,5 +1,5 @@
 ---
-name: Lactarius blennius
+latin_name: Lactarius blennius
 source: https://www.nagrzyby.pl/atlas/411
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Cortinarius aureofulvus
+latin_name: Cortinarius aureofulvus
 source: https://www.nagrzyby.pl/atlas/2127
 ---
 

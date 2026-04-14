@@ -1,5 +1,5 @@
 ---
-name: Auricularia mesenterica
+latin_name: Auricularia mesenterica
 source: https://www.nagrzyby.pl/atlas/375
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Hohenbuehelia pinacearum
+latin_name: Hohenbuehelia pinacearum
 source: https://www.nagrzyby.pl/atlas/5713
 ---
 

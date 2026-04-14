@@ -1,5 +1,5 @@
 ---
-name: Lanmaoa fragrans
+latin_name: Lanmaoa fragrans
 source: https://www.nagrzyby.pl/atlas/702
 ---
 

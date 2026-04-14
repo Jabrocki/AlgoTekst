@@ -1,5 +1,5 @@
 ---
-name: Tricholoma colossus
+latin_name: Tricholoma colossus
 source: https://www.nagrzyby.pl/atlas/984
 ---
 

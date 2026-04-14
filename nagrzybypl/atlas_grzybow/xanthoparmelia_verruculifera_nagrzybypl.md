@@ -1,5 +1,5 @@
 ---
-name: Xanthoparmelia verruculifera
+latin_name: Xanthoparmelia verruculifera
 source: https://www.nagrzyby.pl/atlas/5188
 ---
 

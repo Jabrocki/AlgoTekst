@@ -1,5 +1,5 @@
 ---
-name: Trichia crateriformis
+latin_name: Trichia crateriformis
 source: https://www.nagrzyby.pl/atlas/5494
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Postia caesia
+latin_name: Postia caesia
 source: https://www.nagrzyby.pl/atlas/653
 ---
 

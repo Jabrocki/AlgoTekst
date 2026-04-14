@@ -1,5 +1,5 @@
 ---
-name: Sporophagomyces chrysostomus
+latin_name: Sporophagomyces chrysostomus
 source: https://www.nagrzyby.pl/atlas/5894
 ---
 

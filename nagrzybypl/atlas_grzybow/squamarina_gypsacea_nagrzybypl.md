@@ -1,5 +1,5 @@
 ---
-name: Squamarina gypsacea
+latin_name: Squamarina gypsacea
 source: https://www.nagrzyby.pl/atlas/5627
 ---
 

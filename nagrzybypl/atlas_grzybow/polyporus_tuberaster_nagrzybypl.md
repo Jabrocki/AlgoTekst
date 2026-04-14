@@ -1,5 +1,5 @@
 ---
-name: Polyporus tuberaster
+latin_name: Polyporus tuberaster
 source: https://www.nagrzyby.pl/atlas/711
 ---
 

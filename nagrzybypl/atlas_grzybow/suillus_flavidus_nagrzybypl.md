@@ -1,5 +1,5 @@
 ---
-name: Suillus flavidus
+latin_name: Suillus flavidus
 source: https://www.nagrzyby.pl/atlas/616
 ---
 

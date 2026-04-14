@@ -1,5 +1,5 @@
 ---
-name: Entoloma apiculatum
+latin_name: Entoloma apiculatum
 source: https://www.nagrzyby.pl/atlas/4753
 ---
 

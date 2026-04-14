@@ -1,5 +1,5 @@
 ---
-name: Ceratiomyxa fruticulosa
+latin_name: Ceratiomyxa fruticulosa
 source: https://www.nagrzyby.pl/atlas/1671
 ---
 

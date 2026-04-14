@@ -1,5 +1,5 @@
 ---
-name: Entoloma cyanulum
+latin_name: Entoloma cyanulum
 source: https://www.nagrzyby.pl/atlas/4761
 ---
 

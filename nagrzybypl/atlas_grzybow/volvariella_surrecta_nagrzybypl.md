@@ -1,5 +1,5 @@
 ---
-name: Volvariella surrecta
+latin_name: Volvariella surrecta
 source: https://www.nagrzyby.pl/atlas/1616
 ---
 

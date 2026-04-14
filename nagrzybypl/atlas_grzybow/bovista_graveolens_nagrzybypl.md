@@ -1,5 +1,5 @@
 ---
-name: Bovista graveolens
+latin_name: Bovista graveolens
 source: https://www.nagrzyby.pl/atlas/1175
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Chamonixia caespitosa
+latin_name: Chamonixia caespitosa
 source: https://www.nagrzyby.pl/atlas/1968
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Inocybe glabripes
+latin_name: Inocybe glabripes
 source: https://www.nagrzyby.pl/atlas/2351
 ---
 

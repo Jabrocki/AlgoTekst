@@ -1,5 +1,5 @@
 ---
-name: Oxyporus latemarginatus
+latin_name: Oxyporus latemarginatus
 source: https://www.nagrzyby.pl/atlas/4046
 ---
 

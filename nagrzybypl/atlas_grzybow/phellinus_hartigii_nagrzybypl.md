@@ -1,5 +1,5 @@
 ---
-name: Phellinus hartigii
+latin_name: Phellinus hartigii
 source: https://www.nagrzyby.pl/atlas/487
 ---
 

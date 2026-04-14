@@ -1,5 +1,5 @@
 ---
-name: Geastrum elegans
+latin_name: Geastrum elegans
 source: https://www.nagrzyby.pl/atlas/1483
 ---
 

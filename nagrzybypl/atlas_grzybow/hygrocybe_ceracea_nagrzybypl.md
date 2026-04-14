@@ -1,5 +1,5 @@
 ---
-name: Hygrocybe ceracea
+latin_name: Hygrocybe ceracea
 source: https://www.nagrzyby.pl/atlas/1417
 ---
 

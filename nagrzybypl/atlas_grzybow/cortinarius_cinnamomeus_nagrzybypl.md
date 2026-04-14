@@ -1,5 +1,5 @@
 ---
-name: Cortinarius cinnamomeus
+latin_name: Cortinarius cinnamomeus
 source: https://www.nagrzyby.pl/atlas/843
 ---
 

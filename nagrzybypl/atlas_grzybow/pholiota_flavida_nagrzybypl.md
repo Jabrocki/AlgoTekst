@@ -1,5 +1,5 @@
 ---
-name: Pholiota flavida
+latin_name: Pholiota flavida
 source: https://www.nagrzyby.pl/atlas/1516
 ---
 

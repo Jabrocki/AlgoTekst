@@ -1,5 +1,5 @@
 ---
-name: Cantharellus pallens
+latin_name: Cantharellus pallens
 source: https://www.nagrzyby.pl/atlas/739
 ---
 

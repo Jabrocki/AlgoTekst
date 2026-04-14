@@ -1,5 +1,5 @@
 ---
-name: Amanita rubescens
+latin_name: Amanita rubescens
 source: https://www.nagrzyby.pl/atlas/259
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Psathyrella berolinensis
+latin_name: Psathyrella berolinensis
 source: https://www.nagrzyby.pl/atlas/5087
 ---
 

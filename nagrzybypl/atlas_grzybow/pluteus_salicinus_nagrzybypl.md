@@ -1,5 +1,5 @@
 ---
-name: Pluteus salicinus
+latin_name: Pluteus salicinus
 source: https://www.nagrzyby.pl/atlas/1193
 ---
 

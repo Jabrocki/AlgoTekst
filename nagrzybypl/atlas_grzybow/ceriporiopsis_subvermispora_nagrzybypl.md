@@ -1,5 +1,5 @@
 ---
-name: Ceriporiopsis subvermispora
+latin_name: Ceriporiopsis subvermispora
 source: https://www.nagrzyby.pl/atlas/1965
 ---
 

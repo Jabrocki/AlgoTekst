@@ -1,5 +1,5 @@
 ---
-name: Coprinellus truncorum
+latin_name: Coprinellus truncorum
 source: https://www.nagrzyby.pl/atlas/2106
 ---
 

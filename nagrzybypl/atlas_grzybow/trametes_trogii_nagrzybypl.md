@@ -1,5 +1,5 @@
 ---
-name: Trametes trogii
+latin_name: Trametes trogii
 source: https://www.nagrzyby.pl/atlas/1204
 ---
 

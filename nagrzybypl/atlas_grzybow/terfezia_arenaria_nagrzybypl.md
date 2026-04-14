@@ -1,5 +1,5 @@
 ---
-name: Terfezia arenaria
+latin_name: Terfezia arenaria
 source: https://www.nagrzyby.pl/atlas/5534
 ---
 

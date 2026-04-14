@@ -1,5 +1,5 @@
 ---
-name: Agaricus minimus
+latin_name: Agaricus minimus
 source: https://www.nagrzyby.pl/atlas/888
 ---
 

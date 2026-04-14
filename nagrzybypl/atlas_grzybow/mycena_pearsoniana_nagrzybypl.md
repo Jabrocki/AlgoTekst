@@ -1,5 +1,5 @@
 ---
-name: Mycena pearsoniana
+latin_name: Mycena pearsoniana
 source: https://www.nagrzyby.pl/atlas/2448
 ---
 

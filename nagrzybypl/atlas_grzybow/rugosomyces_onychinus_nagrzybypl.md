@@ -1,5 +1,5 @@
 ---
-name: Rugosomyces onychinus
+latin_name: Rugosomyces onychinus
 source: https://www.nagrzyby.pl/atlas/1935
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Metatrichia floriformis
+latin_name: Metatrichia floriformis
 source: https://www.nagrzyby.pl/atlas/4995
 ---
 

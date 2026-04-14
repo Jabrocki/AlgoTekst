@@ -1,5 +1,5 @@
 ---
-name: Mycena acicula
+latin_name: Mycena acicula
 source: https://www.nagrzyby.pl/atlas/723
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Lophodermium pinastri
+latin_name: Lophodermium pinastri
 source: https://www.nagrzyby.pl/atlas/5516
 ---
 

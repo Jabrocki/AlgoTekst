@@ -1,5 +1,5 @@
 ---
-name: Cortinarius argutus
+latin_name: Cortinarius argutus
 source: https://www.nagrzyby.pl/atlas/2121
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Inocybe pseudohiulca
+latin_name: Inocybe pseudohiulca
 source: https://www.nagrzyby.pl/atlas/2373
 ---
 

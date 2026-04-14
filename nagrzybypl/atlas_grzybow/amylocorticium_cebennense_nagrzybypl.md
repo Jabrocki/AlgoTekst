@@ -1,5 +1,5 @@
 ---
-name: Amylocorticium cebennense
+latin_name: Amylocorticium cebennense
 source: https://www.nagrzyby.pl/atlas/1856
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Cetraria sepincola
+latin_name: Cetraria sepincola
 source: https://www.nagrzyby.pl/atlas/5385
 ---
 

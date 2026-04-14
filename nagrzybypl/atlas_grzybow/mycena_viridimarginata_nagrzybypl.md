@@ -1,5 +1,5 @@
 ---
-name: Mycena viridimarginata
+latin_name: Mycena viridimarginata
 source: https://www.nagrzyby.pl/atlas/1086
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Clitocybe sinopica
+latin_name: Clitocybe sinopica
 source: https://www.nagrzyby.pl/atlas/423
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Hymenogaster bulliardii
+latin_name: Hymenogaster bulliardii
 source: https://www.nagrzyby.pl/atlas/1144
 ---
 

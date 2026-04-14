@@ -1,5 +1,5 @@
 ---
-name: Dacrymyces chrysocomus
+latin_name: Dacrymyces chrysocomus
 source: https://www.nagrzyby.pl/atlas/4505
 ---
 

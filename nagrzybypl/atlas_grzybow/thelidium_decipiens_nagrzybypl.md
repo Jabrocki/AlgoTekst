@@ -1,5 +1,5 @@
 ---
-name: Thelidium decipiens
+latin_name: Thelidium decipiens
 source: https://www.nagrzyby.pl/atlas/5312
 ---
 

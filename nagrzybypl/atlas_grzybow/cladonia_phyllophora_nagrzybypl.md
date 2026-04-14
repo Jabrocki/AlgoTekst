@@ -1,5 +1,5 @@
 ---
-name: Cladonia phyllophora
+latin_name: Cladonia phyllophora
 source: https://www.nagrzyby.pl/atlas/5198
 ---
 

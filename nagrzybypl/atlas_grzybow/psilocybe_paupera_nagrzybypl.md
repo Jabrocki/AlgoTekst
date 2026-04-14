@@ -1,5 +1,5 @@
 ---
-name: Psilocybe paupera
+latin_name: Psilocybe paupera
 source: https://www.nagrzyby.pl/atlas/4314
 ---
 

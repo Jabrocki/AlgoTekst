@@ -1,5 +1,5 @@
 ---
-name: Cetraria odontella
+latin_name: Cetraria odontella
 source: https://www.nagrzyby.pl/atlas/5707
 ---
 

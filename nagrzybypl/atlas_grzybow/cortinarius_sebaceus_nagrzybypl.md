@@ -1,5 +1,5 @@
 ---
-name: Cortinarius sebaceus
+latin_name: Cortinarius sebaceus
 source: https://www.nagrzyby.pl/atlas/2241
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Antrodia malicola
+latin_name: Antrodia malicola
 source: https://www.nagrzyby.pl/atlas/2082
 ---
 

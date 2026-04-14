@@ -1,5 +1,5 @@
 ---
-name: Amanita magnivolvata
+latin_name: Amanita magnivolvata
 source: https://www.nagrzyby.pl/atlas/1041
 ---
 

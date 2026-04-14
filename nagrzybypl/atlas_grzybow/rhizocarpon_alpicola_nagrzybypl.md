@@ -1,5 +1,5 @@
 ---
-name: Rhizocarpon alpicola
+latin_name: Rhizocarpon alpicola
 source: https://www.nagrzyby.pl/atlas/5297
 ---
 

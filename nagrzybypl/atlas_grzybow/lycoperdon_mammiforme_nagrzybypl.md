@@ -1,5 +1,5 @@
 ---
-name: Lycoperdon mammiforme
+latin_name: Lycoperdon mammiforme
 source: https://www.nagrzyby.pl/atlas/1161
 ---
 

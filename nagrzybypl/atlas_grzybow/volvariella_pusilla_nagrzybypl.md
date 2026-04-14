@@ -1,5 +1,5 @@
 ---
-name: Volvariella pusilla
+latin_name: Volvariella pusilla
 source: https://www.nagrzyby.pl/atlas/1607
 ---
 

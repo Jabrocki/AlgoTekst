@@ -1,5 +1,5 @@
 ---
-name: Russula versicolor
+latin_name: Russula versicolor
 source: https://www.nagrzyby.pl/atlas/769
 ---
 

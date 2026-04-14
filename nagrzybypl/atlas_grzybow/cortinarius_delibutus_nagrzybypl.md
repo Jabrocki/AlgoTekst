@@ -1,5 +1,5 @@
 ---
-name: Cortinarius delibutus
+latin_name: Cortinarius delibutus
 source: https://www.nagrzyby.pl/atlas/2159
 ---
 

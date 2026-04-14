@@ -1,5 +1,5 @@
 ---
-name: Mycena vulgaris
+latin_name: Mycena vulgaris
 source: https://www.nagrzyby.pl/atlas/1089
 ---
 

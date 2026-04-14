@@ -1,5 +1,5 @@
 ---
-name: Suillus grevillei
+latin_name: Suillus grevillei
 source: https://www.nagrzyby.pl/atlas/76
 ---
 

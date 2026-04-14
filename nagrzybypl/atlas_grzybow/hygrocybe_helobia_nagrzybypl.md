@@ -1,5 +1,5 @@
 ---
-name: Hygrocybe helobia
+latin_name: Hygrocybe helobia
 source: https://www.nagrzyby.pl/atlas/234
 ---
 

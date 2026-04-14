@@ -1,5 +1,5 @@
 ---
-name: Coprinellus domesticus
+latin_name: Coprinellus domesticus
 source: https://www.nagrzyby.pl/atlas/502
 ---
 

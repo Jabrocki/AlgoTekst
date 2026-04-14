@@ -1,5 +1,5 @@
 ---
-name: Gyromitra accumbens Harmaja
+latin_name: Gyromitra accumbens Harmaja
 source: https://www.nagrzyby.pl/atlas/5792
 ---
 

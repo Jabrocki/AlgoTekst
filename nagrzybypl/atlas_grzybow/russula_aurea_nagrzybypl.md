@@ -1,5 +1,5 @@
 ---
-name: Russula aurea
+latin_name: Russula aurea
 source: https://www.nagrzyby.pl/atlas/119
 ---
 

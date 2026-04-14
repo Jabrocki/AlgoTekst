@@ -1,5 +1,5 @@
 ---
-name: Elaphomyces aculeatus
+latin_name: Elaphomyces aculeatus
 source: https://www.nagrzyby.pl/atlas/1643
 ---
 

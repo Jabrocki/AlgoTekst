@@ -1,5 +1,5 @@
 ---
-name: Eichleriella leucophaea
+latin_name: Eichleriella leucophaea
 source: https://www.nagrzyby.pl/atlas/4483
 ---
 

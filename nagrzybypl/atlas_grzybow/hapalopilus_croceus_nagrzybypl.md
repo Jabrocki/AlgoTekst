@@ -1,5 +1,5 @@
 ---
-name: Hapalopilus croceus
+latin_name: Hapalopilus croceus
 source: https://www.nagrzyby.pl/atlas/617
 ---
 

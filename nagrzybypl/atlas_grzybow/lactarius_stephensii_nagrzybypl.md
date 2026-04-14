@@ -1,5 +1,5 @@
 ---
-name: Lactarius stephensii
+latin_name: Lactarius stephensii
 source: https://www.nagrzyby.pl/atlas/5867
 ---
 

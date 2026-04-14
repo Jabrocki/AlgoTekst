@@ -1,5 +1,5 @@
 ---
-name: Stereum subtomentosum
+latin_name: Stereum subtomentosum
 source: https://www.nagrzyby.pl/atlas/2675
 ---
 

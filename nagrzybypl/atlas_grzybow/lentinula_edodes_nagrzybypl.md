@@ -1,5 +1,5 @@
 ---
-name: Lentinula edodes
+latin_name: Lentinula edodes
 source: https://www.nagrzyby.pl/atlas/370
 ---
 

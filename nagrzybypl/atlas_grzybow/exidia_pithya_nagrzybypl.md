@@ -1,5 +1,5 @@
 ---
-name: Exidia pithya
+latin_name: Exidia pithya
 source: https://www.nagrzyby.pl/atlas/4890
 ---
 

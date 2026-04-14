@@ -1,5 +1,5 @@
 ---
-name: Scotomyces subviolaceus
+latin_name: Scotomyces subviolaceus
 source: https://www.nagrzyby.pl/atlas/4295
 ---
 

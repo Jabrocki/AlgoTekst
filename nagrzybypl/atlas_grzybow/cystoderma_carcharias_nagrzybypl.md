@@ -1,5 +1,5 @@
 ---
-name: Cystoderma carcharias
+latin_name: Cystoderma carcharias
 source: https://www.nagrzyby.pl/atlas/1628
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Myriolecis dispersa
+latin_name: Myriolecis dispersa
 source: https://www.nagrzyby.pl/atlas/5283
 ---
 

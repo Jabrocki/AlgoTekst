@@ -1,5 +1,5 @@
 ---
-name: Clitocybe augeana
+latin_name: Clitocybe augeana
 source: https://www.nagrzyby.pl/atlas/1576
 ---
 

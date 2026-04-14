@@ -1,5 +1,5 @@
 ---
-name: Xylobolus frustulatus
+latin_name: Xylobolus frustulatus
 source: https://www.nagrzyby.pl/atlas/531
 ---
 

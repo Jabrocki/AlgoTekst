@@ -1,5 +1,5 @@
 ---
-name: Verpa bohemica
+latin_name: Verpa bohemica
 source: https://www.nagrzyby.pl/atlas/396
 ---
 

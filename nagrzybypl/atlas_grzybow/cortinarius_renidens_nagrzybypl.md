@@ -1,5 +1,5 @@
 ---
-name: Cortinarius renidens
+latin_name: Cortinarius renidens
 source: https://www.nagrzyby.pl/atlas/2232
 ---
 

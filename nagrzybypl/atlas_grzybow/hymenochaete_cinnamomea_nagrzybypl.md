@@ -1,5 +1,5 @@
 ---
-name: Hymenochaete cinnamomea
+latin_name: Hymenochaete cinnamomea
 source: https://www.nagrzyby.pl/atlas/4415
 ---
 

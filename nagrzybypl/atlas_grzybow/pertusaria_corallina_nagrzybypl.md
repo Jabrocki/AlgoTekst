@@ -1,5 +1,5 @@
 ---
-name: Pertusaria corallina
+latin_name: Pertusaria corallina
 source: https://www.nagrzyby.pl/atlas/5388
 ---
 

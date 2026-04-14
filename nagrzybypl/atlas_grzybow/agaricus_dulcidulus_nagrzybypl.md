@@ -1,5 +1,5 @@
 ---
-name: Agaricus dulcidulus
+latin_name: Agaricus dulcidulus
 source: https://www.nagrzyby.pl/atlas/880
 ---
 

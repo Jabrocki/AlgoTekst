@@ -1,5 +1,5 @@
 ---
-name: Melanogaster intermedius
+latin_name: Melanogaster intermedius
 source: https://www.nagrzyby.pl/atlas/4836
 ---
 

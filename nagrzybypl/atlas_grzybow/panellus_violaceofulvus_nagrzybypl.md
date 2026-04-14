@@ -1,5 +1,5 @@
 ---
-name: Panellus violaceofulvus
+latin_name: Panellus violaceofulvus
 source: https://www.nagrzyby.pl/atlas/4365
 ---
 

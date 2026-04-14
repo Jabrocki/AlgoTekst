@@ -1,5 +1,5 @@
 ---
-name: Panellus ringens
+latin_name: Panellus ringens
 source: https://www.nagrzyby.pl/atlas/4364
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Porodaedalea pini
+latin_name: Porodaedalea pini
 source: https://www.nagrzyby.pl/atlas/128
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Phlebia tremellosa
+latin_name: Phlebia tremellosa
 source: https://www.nagrzyby.pl/atlas/556
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Peltigera membranacea
+latin_name: Peltigera membranacea
 source: https://www.nagrzyby.pl/atlas/5354
 ---
 

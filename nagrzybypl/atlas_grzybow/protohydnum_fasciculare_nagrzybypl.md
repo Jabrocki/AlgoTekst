@@ -1,5 +1,5 @@
 ---
-name: Protohydnum fasciculare
+latin_name: Protohydnum fasciculare
 source: https://www.nagrzyby.pl/atlas/4324
 ---
 

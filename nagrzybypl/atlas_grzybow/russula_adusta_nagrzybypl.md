@@ -1,5 +1,5 @@
 ---
-name: Russula adusta
+latin_name: Russula adusta
 source: https://www.nagrzyby.pl/atlas/682
 ---
 

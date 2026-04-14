@@ -1,5 +1,5 @@
 ---
-name: Leucoagaricus idae-fragum
+latin_name: Leucoagaricus idae-fragum
 source: https://www.nagrzyby.pl/atlas/3884
 ---
 

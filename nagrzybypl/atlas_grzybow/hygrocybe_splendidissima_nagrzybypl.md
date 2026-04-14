@@ -1,5 +1,5 @@
 ---
-name: Hygrocybe splendidissima
+latin_name: Hygrocybe splendidissima
 source: https://www.nagrzyby.pl/atlas/1257
 ---
 

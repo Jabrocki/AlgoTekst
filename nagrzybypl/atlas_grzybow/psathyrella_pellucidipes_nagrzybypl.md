@@ -1,5 +1,5 @@
 ---
-name: Psathyrella pellucidipes
+latin_name: Psathyrella pellucidipes
 source: https://www.nagrzyby.pl/atlas/1757
 ---
 

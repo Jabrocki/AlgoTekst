@@ -1,5 +1,5 @@
 ---
-name: Russula fragrantissima
+latin_name: Russula fragrantissima
 source: https://www.nagrzyby.pl/atlas/5746
 ---
 

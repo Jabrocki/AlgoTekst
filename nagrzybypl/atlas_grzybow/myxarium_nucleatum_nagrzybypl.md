@@ -1,5 +1,5 @@
 ---
-name: Myxarium nucleatum
+latin_name: Myxarium nucleatum
 source: https://www.nagrzyby.pl/atlas/5670
 ---
 

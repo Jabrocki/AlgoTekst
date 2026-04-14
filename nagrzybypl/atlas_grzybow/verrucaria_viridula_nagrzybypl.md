@@ -1,5 +1,5 @@
 ---
-name: Verrucaria viridula
+latin_name: Verrucaria viridula
 source: https://www.nagrzyby.pl/atlas/1176
 ---
 

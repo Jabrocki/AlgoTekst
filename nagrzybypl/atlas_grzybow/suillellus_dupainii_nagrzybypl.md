@@ -1,5 +1,5 @@
 ---
-name: Suillellus dupainii
+latin_name: Suillellus dupainii
 source: https://www.nagrzyby.pl/atlas/787
 ---
 

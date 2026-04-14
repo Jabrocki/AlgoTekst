@@ -1,5 +1,5 @@
 ---
-name: Coprinellus heterothrix
+latin_name: Coprinellus heterothrix
 source: https://www.nagrzyby.pl/atlas/5520
 ---
 

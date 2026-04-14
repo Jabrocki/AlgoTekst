@@ -1,5 +1,5 @@
 ---
-name: Coprinus equinus
+latin_name: Coprinus equinus
 source: https://www.nagrzyby.pl/atlas/2069
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Pycnothelia papillaria
+latin_name: Pycnothelia papillaria
 source: https://www.nagrzyby.pl/atlas/5252
 ---
 

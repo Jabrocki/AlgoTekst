@@ -1,5 +1,5 @@
 ---
-name: Amylocorticium subsulphureum
+latin_name: Amylocorticium subsulphureum
 source: https://www.nagrzyby.pl/atlas/1858
 ---
 

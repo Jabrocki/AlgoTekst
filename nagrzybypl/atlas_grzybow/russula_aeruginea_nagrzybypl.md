@@ -1,5 +1,5 @@
 ---
-name: Russula aeruginea
+latin_name: Russula aeruginea
 source: https://www.nagrzyby.pl/atlas/107
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Cortinarius limonius
+latin_name: Cortinarius limonius
 source: https://www.nagrzyby.pl/atlas/4520
 ---
 

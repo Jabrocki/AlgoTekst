@@ -1,5 +1,5 @@
 ---
-name: Botryobasidium vagum
+latin_name: Botryobasidium vagum
 source: https://www.nagrzyby.pl/atlas/1897
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Goidanichia ambrosiana
+latin_name: Goidanichia ambrosiana
 source: https://www.nagrzyby.pl/atlas/5296
 ---
 

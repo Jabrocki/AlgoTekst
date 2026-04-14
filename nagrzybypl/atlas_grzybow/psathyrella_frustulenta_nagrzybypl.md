@@ -1,5 +1,5 @@
 ---
-name: Psathyrella frustulenta
+latin_name: Psathyrella frustulenta
 source: https://www.nagrzyby.pl/atlas/4330
 ---
 

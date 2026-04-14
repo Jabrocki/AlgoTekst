@@ -1,5 +1,5 @@
 ---
-name: Sparassis brevipes
+latin_name: Sparassis brevipes
 source: https://www.nagrzyby.pl/atlas/549
 ---
 

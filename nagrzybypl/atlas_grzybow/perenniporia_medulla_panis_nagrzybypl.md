@@ -1,5 +1,5 @@
 ---
-name: Perenniporia medulla-panis
+latin_name: Perenniporia medulla-panis
 source: https://www.nagrzyby.pl/atlas/4047
 ---
 

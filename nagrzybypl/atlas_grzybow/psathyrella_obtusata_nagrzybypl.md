@@ -1,5 +1,5 @@
 ---
-name: Psathyrella obtusata
+latin_name: Psathyrella obtusata
 source: https://www.nagrzyby.pl/atlas/1756
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Sarcodontia pachyodon
+latin_name: Sarcodontia pachyodon
 source: https://www.nagrzyby.pl/atlas/662
 ---
 

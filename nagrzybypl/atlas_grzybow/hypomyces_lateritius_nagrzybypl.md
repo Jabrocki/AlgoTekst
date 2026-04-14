@@ -1,5 +1,5 @@
 ---
-name: Hypomyces lateritius
+latin_name: Hypomyces lateritius
 source: https://www.nagrzyby.pl/atlas/4819
 ---
 

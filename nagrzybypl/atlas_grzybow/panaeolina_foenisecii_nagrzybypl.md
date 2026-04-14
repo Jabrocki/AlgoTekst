@@ -1,5 +1,5 @@
 ---
-name: Panaeolina foenisecii
+latin_name: Panaeolina foenisecii
 source: https://www.nagrzyby.pl/atlas/1336
 ---
 

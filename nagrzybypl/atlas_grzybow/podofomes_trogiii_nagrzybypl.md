@@ -1,5 +1,5 @@
 ---
-name: Podofomes trogiii
+latin_name: Podofomes trogiii
 source: https://www.nagrzyby.pl/atlas/398
 ---
 

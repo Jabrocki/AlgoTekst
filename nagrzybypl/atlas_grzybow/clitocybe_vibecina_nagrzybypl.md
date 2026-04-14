@@ -1,5 +1,5 @@
 ---
-name: Clitocybe vibecina
+latin_name: Clitocybe vibecina
 source: https://www.nagrzyby.pl/atlas/1590
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Cortinarius armillatus
+latin_name: Cortinarius armillatus
 source: https://www.nagrzyby.pl/atlas/935
 ---
 

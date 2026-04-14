@@ -1,5 +1,5 @@
 ---
-name: Tephrocybe murina
+latin_name: Tephrocybe murina
 source: https://www.nagrzyby.pl/atlas/4203
 ---
 

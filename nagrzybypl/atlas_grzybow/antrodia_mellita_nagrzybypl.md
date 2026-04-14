@@ -1,5 +1,5 @@
 ---
-name: Antrodia mellita
+latin_name: Antrodia mellita
 source: https://www.nagrzyby.pl/atlas/2083
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Dacrymyces microsporus
+latin_name: Dacrymyces microsporus
 source: https://www.nagrzyby.pl/atlas/4502
 ---
 

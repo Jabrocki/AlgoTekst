@@ -1,5 +1,5 @@
 ---
-name: Lepiota brunneolilacea
+latin_name: Lepiota brunneolilacea
 source: https://www.nagrzyby.pl/atlas/3880
 ---
 

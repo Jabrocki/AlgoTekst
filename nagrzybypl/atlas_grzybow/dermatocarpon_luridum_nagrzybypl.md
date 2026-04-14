@@ -1,5 +1,5 @@
 ---
-name: Dermatocarpon luridum
+latin_name: Dermatocarpon luridum
 source: https://www.nagrzyby.pl/atlas/5265
 ---
 

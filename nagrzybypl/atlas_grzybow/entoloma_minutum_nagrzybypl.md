@@ -1,5 +1,5 @@
 ---
-name: Entoloma minutum
+latin_name: Entoloma minutum
 source: https://www.nagrzyby.pl/atlas/4773
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Gymnopus nivalis
+latin_name: Gymnopus nivalis
 source: https://www.nagrzyby.pl/atlas/1434
 ---
 

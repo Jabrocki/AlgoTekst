@@ -1,5 +1,5 @@
 ---
-name: Agaricus bohusii
+latin_name: Agaricus bohusii
 source: https://www.nagrzyby.pl/atlas/632
 ---
 

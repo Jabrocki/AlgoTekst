@@ -1,5 +1,5 @@
 ---
-name: Mycena galericulata
+latin_name: Mycena galericulata
 source: https://www.nagrzyby.pl/atlas/962
 ---
 

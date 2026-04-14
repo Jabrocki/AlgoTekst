@@ -1,5 +1,5 @@
 ---
-name: Mycena clavularis
+latin_name: Mycena clavularis
 source: https://www.nagrzyby.pl/atlas/959
 ---
 

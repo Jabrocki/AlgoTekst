@@ -1,5 +1,5 @@
 ---
-name: Entoloma mammosum
+latin_name: Entoloma mammosum
 source: https://www.nagrzyby.pl/atlas/4772
 ---
 

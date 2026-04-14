@@ -1,5 +1,5 @@
 ---
-name: Psilocybe turficola
+latin_name: Psilocybe turficola
 source: https://www.nagrzyby.pl/atlas/1334
 ---
 

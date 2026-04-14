@@ -1,5 +1,5 @@
 ---
-name: Tricholoma scalpturatum
+latin_name: Tricholoma scalpturatum
 source: https://www.nagrzyby.pl/atlas/997
 ---
 

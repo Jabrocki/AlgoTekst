@@ -1,5 +1,5 @@
 ---
-name: Lacrymaria pyrotricha
+latin_name: Lacrymaria pyrotricha
 source: https://www.nagrzyby.pl/atlas/2361
 ---
 

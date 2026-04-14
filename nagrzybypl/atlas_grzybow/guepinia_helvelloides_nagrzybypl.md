@@ -1,5 +1,5 @@
 ---
-name: Guepinia helvelloides
+latin_name: Guepinia helvelloides
 source: https://www.nagrzyby.pl/atlas/366
 ---
 

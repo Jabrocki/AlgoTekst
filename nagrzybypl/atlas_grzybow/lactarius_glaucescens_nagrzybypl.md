@@ -1,5 +1,5 @@
 ---
-name: Lactarius glaucescens
+latin_name: Lactarius glaucescens
 source: https://www.nagrzyby.pl/atlas/582
 ---
 

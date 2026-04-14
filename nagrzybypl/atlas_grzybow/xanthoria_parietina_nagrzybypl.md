@@ -1,5 +1,5 @@
 ---
-name: Xanthoria parietina
+latin_name: Xanthoria parietina
 source: https://www.nagrzyby.pl/atlas/5223
 ---
 

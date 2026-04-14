@@ -1,5 +1,5 @@
 ---
-name: Helvella dissingii
+latin_name: Helvella dissingii
 source: https://www.nagrzyby.pl/atlas/1466
 ---
 

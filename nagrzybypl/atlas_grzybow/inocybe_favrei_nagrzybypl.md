@@ -1,5 +1,5 @@
 ---
-name: Inocybe favrei
+latin_name: Inocybe favrei
 source: https://www.nagrzyby.pl/atlas/2346
 ---
 

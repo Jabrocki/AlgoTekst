@@ -1,5 +1,5 @@
 ---
-name: Pleurotus pulmonarius
+latin_name: Pleurotus pulmonarius
 source: https://www.nagrzyby.pl/atlas/45
 ---
 

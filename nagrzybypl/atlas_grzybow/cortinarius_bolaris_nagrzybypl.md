@@ -1,5 +1,5 @@
 ---
-name: Cortinarius bolaris
+latin_name: Cortinarius bolaris
 source: https://www.nagrzyby.pl/atlas/710
 ---
 

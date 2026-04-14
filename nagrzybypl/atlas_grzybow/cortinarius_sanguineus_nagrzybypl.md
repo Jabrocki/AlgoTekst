@@ -1,5 +1,5 @@
 ---
-name: Cortinarius sanguineus
+latin_name: Cortinarius sanguineus
 source: https://www.nagrzyby.pl/atlas/427
 ---
 

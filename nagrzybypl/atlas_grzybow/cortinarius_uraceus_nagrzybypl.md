@@ -1,5 +1,5 @@
 ---
-name: Cortinarius uraceus
+latin_name: Cortinarius uraceus
 source: https://www.nagrzyby.pl/atlas/2266
 ---
 

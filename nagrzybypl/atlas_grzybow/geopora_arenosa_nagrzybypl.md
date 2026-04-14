@@ -1,5 +1,5 @@
 ---
-name: Geopora arenosa
+latin_name: Geopora arenosa
 source: https://www.nagrzyby.pl/atlas/490
 ---
 

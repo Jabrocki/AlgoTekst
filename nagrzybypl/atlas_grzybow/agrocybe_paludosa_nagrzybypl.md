@@ -1,5 +1,5 @@
 ---
-name: Agrocybe paludosa
+latin_name: Agrocybe paludosa
 source: https://www.nagrzyby.pl/atlas/2302
 ---
 

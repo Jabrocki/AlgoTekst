@@ -1,5 +1,5 @@
 ---
-name: Mycena haematopus
+latin_name: Mycena haematopus
 source: https://www.nagrzyby.pl/atlas/1073
 ---
 

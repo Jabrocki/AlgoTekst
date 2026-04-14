@@ -1,5 +1,5 @@
 ---
-name: Trametes confragosa
+latin_name: Trametes confragosa
 source: https://www.nagrzyby.pl/atlas/133
 ---
 

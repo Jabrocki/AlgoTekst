@@ -1,5 +1,5 @@
 ---
-name: Armillaria mellea
+latin_name: Armillaria mellea
 source: https://www.nagrzyby.pl/atlas/5091
 ---
 

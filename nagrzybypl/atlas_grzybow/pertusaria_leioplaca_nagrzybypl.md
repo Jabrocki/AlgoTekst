@@ -1,5 +1,5 @@
 ---
-name: Pertusaria leioplaca
+latin_name: Pertusaria leioplaca
 source: https://www.nagrzyby.pl/atlas/5344
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Mycena crocata
+latin_name: Mycena crocata
 source: https://www.nagrzyby.pl/atlas/659
 ---
 

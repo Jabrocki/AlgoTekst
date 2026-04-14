@@ -1,5 +1,5 @@
 ---
-name: Cortinarius scaurus
+latin_name: Cortinarius scaurus
 source: https://www.nagrzyby.pl/atlas/2240
 ---
 

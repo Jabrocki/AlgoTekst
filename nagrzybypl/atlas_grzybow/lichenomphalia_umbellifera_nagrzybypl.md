@@ -1,5 +1,5 @@
 ---
-name: Lichenomphalia umbellifera
+latin_name: Lichenomphalia umbellifera
 source: https://www.nagrzyby.pl/atlas/1989
 ---
 

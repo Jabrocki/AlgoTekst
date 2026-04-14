@@ -1,5 +1,5 @@
 ---
-name: Xanthoconium separans
+latin_name: Xanthoconium separans
 source: https://www.nagrzyby.pl/atlas/701
 ---
 

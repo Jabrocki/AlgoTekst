@@ -1,5 +1,5 @@
 ---
-name: Haploporus odorus
+latin_name: Haploporus odorus
 source: https://www.nagrzyby.pl/atlas/5883
 ---
 

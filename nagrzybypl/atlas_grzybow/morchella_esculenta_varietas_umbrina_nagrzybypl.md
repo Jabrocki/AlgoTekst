@@ -1,5 +1,5 @@
 ---
-name: Morchella esculenta varietas umbrina
+latin_name: Morchella esculenta varietas umbrina
 source: https://www.nagrzyby.pl/atlas/1051
 ---
 

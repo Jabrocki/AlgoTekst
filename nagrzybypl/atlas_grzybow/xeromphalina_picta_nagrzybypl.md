@@ -1,5 +1,5 @@
 ---
-name: Xeromphalina picta
+latin_name: Xeromphalina picta
 source: https://www.nagrzyby.pl/atlas/4864
 ---
 

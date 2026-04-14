@@ -1,5 +1,5 @@
 ---
-name: Lactarius hysginus
+latin_name: Lactarius hysginus
 source: https://www.nagrzyby.pl/atlas/1813
 ---
 

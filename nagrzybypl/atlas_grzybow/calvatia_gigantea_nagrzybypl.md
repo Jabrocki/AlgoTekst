@@ -1,5 +1,5 @@
 ---
-name: Calvatia gigantea
+latin_name: Calvatia gigantea
 source: https://www.nagrzyby.pl/atlas/359
 ---
 

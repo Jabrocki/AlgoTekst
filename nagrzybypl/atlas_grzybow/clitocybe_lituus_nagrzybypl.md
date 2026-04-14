@@ -1,5 +1,5 @@
 ---
-name: Clitocybe lituus
+latin_name: Clitocybe lituus
 source: https://www.nagrzyby.pl/atlas/1597
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Coenogonium pineti
+latin_name: Coenogonium pineti
 source: https://www.nagrzyby.pl/atlas/5719
 ---
 

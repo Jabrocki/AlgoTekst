@@ -1,5 +1,5 @@
 ---
-name: Leccinum aurantiacum
+latin_name: Leccinum aurantiacum
 source: https://www.nagrzyby.pl/atlas/67
 ---
 

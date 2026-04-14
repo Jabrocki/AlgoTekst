@@ -1,5 +1,5 @@
 ---
-name: Peniophora incarnata
+latin_name: Peniophora incarnata
 source: https://www.nagrzyby.pl/atlas/4808
 ---
 

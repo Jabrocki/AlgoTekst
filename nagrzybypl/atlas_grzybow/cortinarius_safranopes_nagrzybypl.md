@@ -1,5 +1,5 @@
 ---
-name: Cortinarius safranopes
+latin_name: Cortinarius safranopes
 source: https://www.nagrzyby.pl/atlas/5588
 ---
 

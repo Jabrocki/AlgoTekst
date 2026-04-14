@@ -1,5 +1,5 @@
 ---
-name: Tremella mycetophiloides
+latin_name: Tremella mycetophiloides
 source: https://www.nagrzyby.pl/atlas/4183
 ---
 

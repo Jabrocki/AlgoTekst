@@ -1,5 +1,5 @@
 ---
-name: Flavocetraria nivalis
+latin_name: Flavocetraria nivalis
 source: https://www.nagrzyby.pl/atlas/5339
 ---
 

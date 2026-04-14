@@ -1,5 +1,5 @@
 ---
-name: Amanita olivaceogrisea
+latin_name: Amanita olivaceogrisea
 source: https://www.nagrzyby.pl/atlas/5416
 ---
 

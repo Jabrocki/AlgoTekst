@@ -1,5 +1,5 @@
 ---
-name: Incrucipulum ciliare
+latin_name: Incrucipulum ciliare
 source: https://www.nagrzyby.pl/atlas/5734
 ---
 

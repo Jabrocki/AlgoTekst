@@ -1,5 +1,5 @@
 ---
-name: Pholiota squarrosa
+latin_name: Pholiota squarrosa
 source: https://www.nagrzyby.pl/atlas/83
 ---
 

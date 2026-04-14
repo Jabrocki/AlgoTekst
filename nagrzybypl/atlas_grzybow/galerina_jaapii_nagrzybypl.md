@@ -1,5 +1,5 @@
 ---
-name: Galerina jaapii
+latin_name: Galerina jaapii
 source: https://www.nagrzyby.pl/atlas/4465
 ---
 

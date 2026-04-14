@@ -1,5 +1,5 @@
 ---
-name: Boletus edulis varietas clavipes
+latin_name: Boletus edulis varietas clavipes
 source: https://www.nagrzyby.pl/atlas/5676
 ---
 

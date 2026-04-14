@@ -1,5 +1,5 @@
 ---
-name: Volvariella caesiotincta
+latin_name: Volvariella caesiotincta
 source: https://www.nagrzyby.pl/atlas/1610
 ---
 

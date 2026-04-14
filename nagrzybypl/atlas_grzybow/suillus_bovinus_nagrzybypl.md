@@ -1,5 +1,5 @@
 ---
-name: Suillus bovinus
+latin_name: Suillus bovinus
 source: https://www.nagrzyby.pl/atlas/236
 ---
 

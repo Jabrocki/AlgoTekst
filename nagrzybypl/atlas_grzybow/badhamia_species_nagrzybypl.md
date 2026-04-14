@@ -1,5 +1,5 @@
 ---
-name: Badhamia species
+latin_name: Badhamia species
 source: https://www.nagrzyby.pl/atlas/5121
 ---
 

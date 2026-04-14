@@ -1,5 +1,5 @@
 ---
-name: Ionomidotis fulvotingens
+latin_name: Ionomidotis fulvotingens
 source: https://www.nagrzyby.pl/atlas/5600
 ---
 

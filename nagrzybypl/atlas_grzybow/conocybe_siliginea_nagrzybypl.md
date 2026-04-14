@@ -1,5 +1,5 @@
 ---
-name: Conocybe siliginea
+latin_name: Conocybe siliginea
 source: https://www.nagrzyby.pl/atlas/2048
 ---
 

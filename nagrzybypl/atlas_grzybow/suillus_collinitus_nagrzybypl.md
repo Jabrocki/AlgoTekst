@@ -1,5 +1,5 @@
 ---
-name: Suillus collinitus
+latin_name: Suillus collinitus
 source: https://www.nagrzyby.pl/atlas/764
 ---
 

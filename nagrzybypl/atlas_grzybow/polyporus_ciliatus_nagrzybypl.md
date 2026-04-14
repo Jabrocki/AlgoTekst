@@ -1,5 +1,5 @@
 ---
-name: Polyporus ciliatus
+latin_name: Polyporus ciliatus
 source: https://www.nagrzyby.pl/atlas/297
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Lacrymaria lacrymabunda
+latin_name: Lacrymaria lacrymabunda
 source: https://www.nagrzyby.pl/atlas/290
 ---
 

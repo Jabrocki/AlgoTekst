@@ -1,5 +1,5 @@
 ---
-name: Tuber aestivum
+latin_name: Tuber aestivum
 source: https://www.nagrzyby.pl/atlas/373
 ---
 

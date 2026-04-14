@@ -1,5 +1,5 @@
 ---
-name: Lepiota griseovirens
+latin_name: Lepiota griseovirens
 source: https://www.nagrzyby.pl/atlas/4400
 ---
 

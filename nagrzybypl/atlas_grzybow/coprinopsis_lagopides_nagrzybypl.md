@@ -1,5 +1,5 @@
 ---
-name: Coprinopsis lagopides
+latin_name: Coprinopsis lagopides
 source: https://www.nagrzyby.pl/atlas/758
 ---
 

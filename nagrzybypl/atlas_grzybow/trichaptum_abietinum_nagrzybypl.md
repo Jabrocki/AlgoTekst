@@ -1,5 +1,5 @@
 ---
-name: Trichaptum abietinum
+latin_name: Trichaptum abietinum
 source: https://www.nagrzyby.pl/atlas/553
 ---
 

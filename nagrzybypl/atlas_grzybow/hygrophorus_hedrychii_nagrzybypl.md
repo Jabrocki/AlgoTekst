@@ -1,5 +1,5 @@
 ---
-name: Hygrophorus hedrychii
+latin_name: Hygrophorus hedrychii
 source: https://www.nagrzyby.pl/atlas/4548
 ---
 

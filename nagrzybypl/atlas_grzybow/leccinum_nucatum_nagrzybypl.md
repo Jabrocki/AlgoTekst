@@ -1,5 +1,5 @@
 ---
-name: Leccinum nucatum
+latin_name: Leccinum nucatum
 source: https://www.nagrzyby.pl/atlas/796
 ---
 

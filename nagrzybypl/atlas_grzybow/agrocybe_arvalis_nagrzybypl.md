@@ -1,5 +1,5 @@
 ---
-name: Agrocybe arvalis
+latin_name: Agrocybe arvalis
 source: https://www.nagrzyby.pl/atlas/893
 ---
 

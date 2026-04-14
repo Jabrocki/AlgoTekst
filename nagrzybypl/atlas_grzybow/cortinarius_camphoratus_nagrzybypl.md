@@ -1,5 +1,5 @@
 ---
-name: Cortinarius camphoratus
+latin_name: Cortinarius camphoratus
 source: https://www.nagrzyby.pl/atlas/1138
 ---
 

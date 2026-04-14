@@ -1,5 +1,5 @@
 ---
-name: Psathyrella multipedata
+latin_name: Psathyrella multipedata
 source: https://www.nagrzyby.pl/atlas/676
 ---
 

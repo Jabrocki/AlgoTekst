@@ -1,5 +1,5 @@
 ---
-name: Phleogena faginea
+latin_name: Phleogena faginea
 source: https://www.nagrzyby.pl/atlas/581
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Laccaria tortilis
+latin_name: Laccaria tortilis
 source: https://www.nagrzyby.pl/atlas/947
 ---
 

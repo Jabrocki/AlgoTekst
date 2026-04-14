@@ -1,5 +1,5 @@
 ---
-name: Mycena zephirus
+latin_name: Mycena zephirus
 source: https://www.nagrzyby.pl/atlas/1090
 ---
 

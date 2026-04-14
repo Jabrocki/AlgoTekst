@@ -1,5 +1,5 @@
 ---
-name: Polyporus brumalis
+latin_name: Polyporus brumalis
 source: https://www.nagrzyby.pl/atlas/295
 ---
 

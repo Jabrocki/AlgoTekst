@@ -1,5 +1,5 @@
 ---
-name: Pluteus chrysophaeus
+latin_name: Pluteus chrysophaeus
 source: https://www.nagrzyby.pl/atlas/1668
 ---
 

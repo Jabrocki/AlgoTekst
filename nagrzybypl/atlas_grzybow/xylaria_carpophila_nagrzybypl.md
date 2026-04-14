@@ -1,5 +1,5 @@
 ---
-name: Xylaria carpophila
+latin_name: Xylaria carpophila
 source: https://www.nagrzyby.pl/atlas/459
 ---
 

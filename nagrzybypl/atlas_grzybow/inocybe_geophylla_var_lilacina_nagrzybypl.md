@@ -1,5 +1,5 @@
 ---
-name: Inocybe geophylla var lilacina
+latin_name: Inocybe geophylla var lilacina
 source: https://www.nagrzyby.pl/atlas/902
 ---
 

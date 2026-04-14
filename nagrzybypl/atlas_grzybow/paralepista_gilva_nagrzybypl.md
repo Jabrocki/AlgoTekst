@@ -1,5 +1,5 @@
 ---
-name: Paralepista gilva
+latin_name: Paralepista gilva
 source: https://www.nagrzyby.pl/atlas/940
 ---
 

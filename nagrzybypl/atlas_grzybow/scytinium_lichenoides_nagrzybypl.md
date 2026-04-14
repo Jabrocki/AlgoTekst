@@ -1,5 +1,5 @@
 ---
-name: Scytinium lichenoides
+latin_name: Scytinium lichenoides
 source: https://www.nagrzyby.pl/atlas/5351
 ---
 

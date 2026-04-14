@@ -1,5 +1,5 @@
 ---
-name: Tulostoma squamosum
+latin_name: Tulostoma squamosum
 source: https://www.nagrzyby.pl/atlas/1638
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Inocybe oblectabilis
+latin_name: Inocybe oblectabilis
 source: https://www.nagrzyby.pl/atlas/2372
 ---
 

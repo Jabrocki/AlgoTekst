@@ -1,5 +1,5 @@
 ---
-name: Entoloma rhodopolium
+latin_name: Entoloma rhodopolium
 source: https://www.nagrzyby.pl/atlas/2307
 ---
 

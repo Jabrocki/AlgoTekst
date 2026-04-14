@@ -1,5 +1,5 @@
 ---
-name: Tuber macrosporum
+latin_name: Tuber macrosporum
 source: https://www.nagrzyby.pl/atlas/1147
 ---
 

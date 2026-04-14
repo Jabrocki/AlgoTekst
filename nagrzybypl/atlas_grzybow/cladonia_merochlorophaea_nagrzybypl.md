@@ -1,5 +1,5 @@
 ---
-name: Cladonia merochlorophaea
+latin_name: Cladonia merochlorophaea
 source: https://www.nagrzyby.pl/atlas/5167
 ---
 

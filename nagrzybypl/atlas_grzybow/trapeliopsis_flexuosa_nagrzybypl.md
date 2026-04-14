@@ -1,5 +1,5 @@
 ---
-name: Trapeliopsis flexuosa
+latin_name: Trapeliopsis flexuosa
 source: https://www.nagrzyby.pl/atlas/5316
 ---
 

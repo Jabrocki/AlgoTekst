@@ -1,5 +1,5 @@
 ---
-name: Hypocenomyce scalaris
+latin_name: Hypocenomyce scalaris
 source: https://www.nagrzyby.pl/atlas/5362
 ---
 

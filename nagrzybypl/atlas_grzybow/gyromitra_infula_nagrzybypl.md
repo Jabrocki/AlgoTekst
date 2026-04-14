@@ -1,5 +1,5 @@
 ---
-name: Gyromitra infula
+latin_name: Gyromitra infula
 source: https://www.nagrzyby.pl/atlas/325
 ---
 

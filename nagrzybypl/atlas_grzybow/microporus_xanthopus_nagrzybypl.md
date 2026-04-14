@@ -1,5 +1,5 @@
 ---
-name: Microporus xanthopus
+latin_name: Microporus xanthopus
 source: https://www.nagrzyby.pl/atlas/5900
 ---
 

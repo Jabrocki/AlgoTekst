@@ -1,5 +1,5 @@
 ---
-name: Cortinarius trivialis
+latin_name: Cortinarius trivialis
 source: https://www.nagrzyby.pl/atlas/912
 ---
 

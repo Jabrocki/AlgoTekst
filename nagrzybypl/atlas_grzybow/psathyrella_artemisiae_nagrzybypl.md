@@ -1,5 +1,5 @@
 ---
-name: Psathyrella artemisiae
+latin_name: Psathyrella artemisiae
 source: https://www.nagrzyby.pl/atlas/1734
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Russula turci
+latin_name: Russula turci
 source: https://www.nagrzyby.pl/atlas/824
 ---
 

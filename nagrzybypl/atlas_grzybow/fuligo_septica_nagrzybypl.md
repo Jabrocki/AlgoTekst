@@ -1,5 +1,5 @@
 ---
-name: Fuligo septica
+latin_name: Fuligo septica
 source: https://www.nagrzyby.pl/atlas/387
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Phyllotopsis nidulans
+latin_name: Phyllotopsis nidulans
 source: https://www.nagrzyby.pl/atlas/565
 ---
 

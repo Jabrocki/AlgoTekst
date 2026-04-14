@@ -1,5 +1,5 @@
 ---
-name: Lentinus strigosus
+latin_name: Lentinus strigosus
 source: https://www.nagrzyby.pl/atlas/806
 ---
 

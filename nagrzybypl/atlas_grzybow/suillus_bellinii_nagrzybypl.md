@@ -1,5 +1,5 @@
 ---
-name: Suillus bellinii
+latin_name: Suillus bellinii
 source: https://www.nagrzyby.pl/atlas/4868
 ---
 

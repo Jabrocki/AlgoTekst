@@ -1,5 +1,5 @@
 ---
-name: Hohenbuehelia cyphelliformis
+latin_name: Hohenbuehelia cyphelliformis
 source: https://www.nagrzyby.pl/atlas/4839
 ---
 

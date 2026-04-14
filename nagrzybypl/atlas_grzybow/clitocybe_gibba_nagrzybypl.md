@@ -1,5 +1,5 @@
 ---
-name: Clitocybe gibba
+latin_name: Clitocybe gibba
 source: https://www.nagrzyby.pl/atlas/511
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Gomphus clavatus
+latin_name: Gomphus clavatus
 source: https://www.nagrzyby.pl/atlas/302
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Pycnoporellus alboluteus
+latin_name: Pycnoporellus alboluteus
 source: https://www.nagrzyby.pl/atlas/169
 ---
 

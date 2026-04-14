@@ -1,5 +1,5 @@
 ---
-name: Cortinarius tabularis
+latin_name: Cortinarius tabularis
 source: https://www.nagrzyby.pl/atlas/2157
 ---
 

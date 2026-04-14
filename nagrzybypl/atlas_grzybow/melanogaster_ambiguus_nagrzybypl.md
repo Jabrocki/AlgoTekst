@@ -1,5 +1,5 @@
 ---
-name: Melanogaster ambiguus
+latin_name: Melanogaster ambiguus
 source: https://www.nagrzyby.pl/atlas/91
 ---
 

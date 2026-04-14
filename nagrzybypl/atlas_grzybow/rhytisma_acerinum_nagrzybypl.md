@@ -1,5 +1,5 @@
 ---
-name: Rhytisma acerinum
+latin_name: Rhytisma acerinum
 source: https://www.nagrzyby.pl/atlas/418
 ---
 

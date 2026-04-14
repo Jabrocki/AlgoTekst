@@ -1,5 +1,5 @@
 ---
-name: Coprinellus xanthothrix
+latin_name: Coprinellus xanthothrix
 source: https://www.nagrzyby.pl/atlas/47
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Galerina nana
+latin_name: Galerina nana
 source: https://www.nagrzyby.pl/atlas/4464
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Ganoderma lucidum
+latin_name: Ganoderma lucidum
 source: https://www.nagrzyby.pl/atlas/309
 ---
 

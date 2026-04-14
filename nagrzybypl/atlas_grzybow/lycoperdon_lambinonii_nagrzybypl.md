@@ -1,5 +1,5 @@
 ---
-name: Lycoperdon lambinonii
+latin_name: Lycoperdon lambinonii
 source: https://www.nagrzyby.pl/atlas/1167
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Chrysomphalina chrysophylla
+latin_name: Chrysomphalina chrysophylla
 source: https://www.nagrzyby.pl/atlas/1971
 ---
 

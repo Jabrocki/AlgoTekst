@@ -1,5 +1,5 @@
 ---
-name: Inocybe proximella
+latin_name: Inocybe proximella
 source: https://www.nagrzyby.pl/atlas/2381
 ---
 

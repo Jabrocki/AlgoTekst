@@ -1,5 +1,5 @@
 ---
-name: Placynthiella uliginosa
+latin_name: Placynthiella uliginosa
 source: https://www.nagrzyby.pl/atlas/5211
 ---
 

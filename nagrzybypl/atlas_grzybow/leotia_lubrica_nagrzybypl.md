@@ -1,5 +1,5 @@
 ---
-name: Leotia lubrica
+latin_name: Leotia lubrica
 source: https://www.nagrzyby.pl/atlas/300
 ---
 

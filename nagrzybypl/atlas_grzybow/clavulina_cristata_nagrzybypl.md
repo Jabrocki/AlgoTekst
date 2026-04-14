@@ -1,5 +1,5 @@
 ---
-name: Clavulina cristata
+latin_name: Clavulina cristata
 source: https://www.nagrzyby.pl/atlas/435
 ---
 

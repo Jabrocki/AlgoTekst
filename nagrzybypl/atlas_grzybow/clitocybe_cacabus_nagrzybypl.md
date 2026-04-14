@@ -1,5 +1,5 @@
 ---
-name: Clitocybe cacabus
+latin_name: Clitocybe cacabus
 source: https://www.nagrzyby.pl/atlas/1984
 ---
 

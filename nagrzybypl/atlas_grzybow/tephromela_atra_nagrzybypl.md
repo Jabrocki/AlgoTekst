@@ -1,5 +1,5 @@
 ---
-name: Tephromela atra
+latin_name: Tephromela atra
 source: https://www.nagrzyby.pl/atlas/5185
 ---
 

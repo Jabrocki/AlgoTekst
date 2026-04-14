@@ -1,5 +1,5 @@
 ---
-name: Conocybe mesospora
+latin_name: Conocybe mesospora
 source: https://www.nagrzyby.pl/atlas/2037
 ---
 

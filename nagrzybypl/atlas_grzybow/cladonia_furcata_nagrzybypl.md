@@ -1,5 +1,5 @@
 ---
-name: Cladonia furcata
+latin_name: Cladonia furcata
 source: https://www.nagrzyby.pl/atlas/5196
 ---
 

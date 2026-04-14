@@ -1,5 +1,5 @@
 ---
-name: Abortiporus biennis
+latin_name: Abortiporus biennis
 source: https://www.nagrzyby.pl/atlas/1487
 ---
 

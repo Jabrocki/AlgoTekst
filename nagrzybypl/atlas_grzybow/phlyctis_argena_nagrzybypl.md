@@ -1,5 +1,5 @@
 ---
-name: Phlyctis argena
+latin_name: Phlyctis argena
 source: https://www.nagrzyby.pl/atlas/5268
 ---
 

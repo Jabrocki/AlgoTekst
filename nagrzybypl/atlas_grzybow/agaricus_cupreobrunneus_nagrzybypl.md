@@ -1,5 +1,5 @@
 ---
-name: Agaricus cupreobrunneus
+latin_name: Agaricus cupreobrunneus
 source: https://www.nagrzyby.pl/atlas/524
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Picipes badius
+latin_name: Picipes badius
 source: https://www.nagrzyby.pl/atlas/488
 ---
 

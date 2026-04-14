@@ -1,5 +1,5 @@
 ---
-name: Agaricus excellens
+latin_name: Agaricus excellens
 source: https://www.nagrzyby.pl/atlas/748
 ---
 

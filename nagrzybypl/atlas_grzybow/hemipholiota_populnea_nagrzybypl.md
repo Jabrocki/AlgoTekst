@@ -1,5 +1,5 @@
 ---
-name: Hemipholiota populnea
+latin_name: Hemipholiota populnea
 source: https://www.nagrzyby.pl/atlas/518
 ---
 

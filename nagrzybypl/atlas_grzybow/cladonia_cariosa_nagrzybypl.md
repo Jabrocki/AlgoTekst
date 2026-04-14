@@ -1,5 +1,5 @@
 ---
-name: Cladonia cariosa
+latin_name: Cladonia cariosa
 source: https://www.nagrzyby.pl/atlas/5169
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Tricholoma pessundatum
+latin_name: Tricholoma pessundatum
 source: https://www.nagrzyby.pl/atlas/134
 ---
 

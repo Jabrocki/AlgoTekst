@@ -1,5 +1,5 @@
 ---
-name: Xanthoria calcicola
+latin_name: Xanthoria calcicola
 source: https://www.nagrzyby.pl/atlas/5220
 ---
 

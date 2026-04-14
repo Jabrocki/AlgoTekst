@@ -1,5 +1,5 @@
 ---
-name: Gymnopus erythropus
+latin_name: Gymnopus erythropus
 source: https://www.nagrzyby.pl/atlas/1429
 ---
 

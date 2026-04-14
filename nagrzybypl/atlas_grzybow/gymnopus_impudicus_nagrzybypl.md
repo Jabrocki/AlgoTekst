@@ -1,5 +1,5 @@
 ---
-name: Gymnopus impudicus
+latin_name: Gymnopus impudicus
 source: https://www.nagrzyby.pl/atlas/1430
 ---
 

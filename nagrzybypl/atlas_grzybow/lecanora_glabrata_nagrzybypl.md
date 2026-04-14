@@ -1,5 +1,5 @@
 ---
-name: Lecanora glabrata
+latin_name: Lecanora glabrata
 source: https://www.nagrzyby.pl/atlas/5624
 ---
 

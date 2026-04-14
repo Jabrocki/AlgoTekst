@@ -1,5 +1,5 @@
 ---
-name: Rosellinia mammiformis
+latin_name: Rosellinia mammiformis
 source: https://www.nagrzyby.pl/atlas/5886
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Cystodermella granulosa
+latin_name: Cystodermella granulosa
 source: https://www.nagrzyby.pl/atlas/2300
 ---
 

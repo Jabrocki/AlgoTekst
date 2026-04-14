@@ -1,5 +1,5 @@
 ---
-name: Pluteus pellitus
+latin_name: Pluteus pellitus
 source: https://www.nagrzyby.pl/atlas/1669
 ---
 

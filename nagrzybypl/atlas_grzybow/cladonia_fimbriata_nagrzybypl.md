@@ -1,5 +1,5 @@
 ---
-name: Cladonia fimbriata
+latin_name: Cladonia fimbriata
 source: https://www.nagrzyby.pl/atlas/5194
 ---
 

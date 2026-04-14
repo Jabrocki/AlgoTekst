@@ -1,5 +1,5 @@
 ---
-name: Trichaptum biforme
+latin_name: Trichaptum biforme
 source: https://www.nagrzyby.pl/atlas/642
 ---
 

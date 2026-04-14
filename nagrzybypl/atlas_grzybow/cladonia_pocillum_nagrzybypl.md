@@ -1,5 +1,5 @@
 ---
-name: Cladonia pocillum
+latin_name: Cladonia pocillum
 source: https://www.nagrzyby.pl/atlas/5448
 ---
 

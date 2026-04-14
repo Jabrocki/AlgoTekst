@@ -1,5 +1,5 @@
 ---
-name: Lactarius mammosus
+latin_name: Lactarius mammosus
 source: https://www.nagrzyby.pl/atlas/775
 ---
 

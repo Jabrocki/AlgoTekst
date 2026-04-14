@@ -1,5 +1,5 @@
 ---
-name: Verpa conica varietas cerebriformis
+latin_name: Verpa conica varietas cerebriformis
 source: https://www.nagrzyby.pl/atlas/5791
 ---
 

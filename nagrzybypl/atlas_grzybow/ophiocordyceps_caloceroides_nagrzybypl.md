@@ -1,5 +1,5 @@
 ---
-name: Ophiocordyceps caloceroides
+latin_name: Ophiocordyceps caloceroides
 source: https://www.nagrzyby.pl/atlas/1654
 ---
 

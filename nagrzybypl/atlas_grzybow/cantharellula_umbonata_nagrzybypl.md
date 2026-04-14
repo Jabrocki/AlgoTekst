@@ -1,5 +1,5 @@
 ---
-name: Cantharellula umbonata
+latin_name: Cantharellula umbonata
 source: https://www.nagrzyby.pl/atlas/1605
 ---
 

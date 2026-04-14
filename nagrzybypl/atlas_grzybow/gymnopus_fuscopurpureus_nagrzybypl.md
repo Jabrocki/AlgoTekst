@@ -1,5 +1,5 @@
 ---
-name: Gymnopus fuscopurpureus
+latin_name: Gymnopus fuscopurpureus
 source: https://www.nagrzyby.pl/atlas/1432
 ---
 

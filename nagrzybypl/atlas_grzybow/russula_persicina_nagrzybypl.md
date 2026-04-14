@@ -1,5 +1,5 @@
 ---
-name: Russula persicina
+latin_name: Russula persicina
 source: https://www.nagrzyby.pl/atlas/820
 ---
 

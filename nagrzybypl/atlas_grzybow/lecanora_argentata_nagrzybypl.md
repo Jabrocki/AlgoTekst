@@ -1,5 +1,5 @@
 ---
-name: Lecanora argentata
+latin_name: Lecanora argentata
 source: https://www.nagrzyby.pl/atlas/5279
 ---
 

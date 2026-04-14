@@ -1,5 +1,5 @@
 ---
-name: Pholiota cerifera
+latin_name: Pholiota cerifera
 source: https://www.nagrzyby.pl/atlas/5132
 ---
 

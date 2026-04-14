@@ -1,5 +1,5 @@
 ---
-name: Psilocybe semilanceata
+latin_name: Psilocybe semilanceata
 source: https://www.nagrzyby.pl/atlas/419
 ---
 

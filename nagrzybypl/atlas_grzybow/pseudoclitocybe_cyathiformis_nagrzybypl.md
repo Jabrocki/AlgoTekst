@@ -1,5 +1,5 @@
 ---
-name: Pseudoclitocybe cyathiformis
+latin_name: Pseudoclitocybe cyathiformis
 source: https://www.nagrzyby.pl/atlas/260
 ---
 

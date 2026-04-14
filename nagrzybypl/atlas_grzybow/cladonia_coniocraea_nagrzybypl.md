@@ -1,5 +1,5 @@
 ---
-name: Cladonia coniocraea
+latin_name: Cladonia coniocraea
 source: https://www.nagrzyby.pl/atlas/5195
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Urnula craterium
+latin_name: Urnula craterium
 source: https://www.nagrzyby.pl/atlas/688
 ---
 

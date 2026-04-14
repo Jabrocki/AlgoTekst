@@ -1,5 +1,5 @@
 ---
-name: Candelariella vitellina
+latin_name: Candelariella vitellina
 source: https://www.nagrzyby.pl/atlas/5259
 ---
 

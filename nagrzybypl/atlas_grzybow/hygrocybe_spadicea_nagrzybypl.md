@@ -1,5 +1,5 @@
 ---
-name: Hygrocybe spadicea
+latin_name: Hygrocybe spadicea
 source: https://www.nagrzyby.pl/atlas/4225
 ---
 

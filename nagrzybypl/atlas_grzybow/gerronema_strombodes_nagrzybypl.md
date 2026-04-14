@@ -1,5 +1,5 @@
 ---
-name: Gerronema strombodes
+latin_name: Gerronema strombodes
 source: https://www.nagrzyby.pl/atlas/1972
 ---
 

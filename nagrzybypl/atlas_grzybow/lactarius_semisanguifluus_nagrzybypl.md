@@ -1,5 +1,5 @@
 ---
-name: Lactarius semisanguifluus
+latin_name: Lactarius semisanguifluus
 source: https://www.nagrzyby.pl/atlas/42
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Helvella lacunosa
+latin_name: Helvella lacunosa
 source: https://www.nagrzyby.pl/atlas/165
 ---
 

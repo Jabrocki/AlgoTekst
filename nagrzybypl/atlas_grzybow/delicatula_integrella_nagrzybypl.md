@@ -1,5 +1,5 @@
 ---
-name: Delicatula integrella
+latin_name: Delicatula integrella
 source: https://www.nagrzyby.pl/atlas/1560
 ---
 

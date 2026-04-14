@@ -1,5 +1,5 @@
 ---
-name: Amanita vaginata
+latin_name: Amanita vaginata
 source: https://www.nagrzyby.pl/atlas/286
 ---
 

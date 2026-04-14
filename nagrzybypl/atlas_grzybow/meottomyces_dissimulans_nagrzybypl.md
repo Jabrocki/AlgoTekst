@@ -1,5 +1,5 @@
 ---
-name: Meottomyces dissimulans
+latin_name: Meottomyces dissimulans
 source: https://www.nagrzyby.pl/atlas/5911
 ---
 

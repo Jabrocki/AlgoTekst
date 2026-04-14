@@ -1,5 +1,5 @@
 ---
-name: Chroogomphus fulmineus
+latin_name: Chroogomphus fulmineus
 source: https://www.nagrzyby.pl/atlas/5987
 ---
 

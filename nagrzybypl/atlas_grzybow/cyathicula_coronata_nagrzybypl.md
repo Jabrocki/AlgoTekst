@@ -1,5 +1,5 @@
 ---
-name: Cyathicula coronata
+latin_name: Cyathicula coronata
 source: https://www.nagrzyby.pl/atlas/5938
 ---
 

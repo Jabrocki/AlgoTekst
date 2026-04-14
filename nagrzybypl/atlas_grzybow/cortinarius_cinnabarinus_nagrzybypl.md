@@ -1,5 +1,5 @@
 ---
-name: Cortinarius cinnabarinus
+latin_name: Cortinarius cinnabarinus
 source: https://www.nagrzyby.pl/atlas/395
 ---
 

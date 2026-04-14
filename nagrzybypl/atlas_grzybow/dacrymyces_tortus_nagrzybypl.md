@@ -1,5 +1,5 @@
 ---
-name: Dacrymyces tortus
+latin_name: Dacrymyces tortus
 source: https://www.nagrzyby.pl/atlas/4967
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Ciboria caucus
+latin_name: Ciboria caucus
 source: https://www.nagrzyby.pl/atlas/4575
 ---
 

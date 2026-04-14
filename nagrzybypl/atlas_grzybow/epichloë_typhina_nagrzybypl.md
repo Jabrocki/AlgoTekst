@@ -1,5 +1,5 @@
 ---
-name: Epichloë typhina
+latin_name: Epichloë typhina
 source: https://www.nagrzyby.pl/atlas/4813
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Hygrocybe cantharellus
+latin_name: Hygrocybe cantharellus
 source: https://www.nagrzyby.pl/atlas/1416
 ---
 

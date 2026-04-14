@@ -1,5 +1,5 @@
 ---
-name: Skeletocutis stellae
+latin_name: Skeletocutis stellae
 source: https://www.nagrzyby.pl/atlas/4023
 ---
 

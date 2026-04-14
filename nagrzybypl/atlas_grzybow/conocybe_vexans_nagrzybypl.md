@@ -1,5 +1,5 @@
 ---
-name: Conocybe vexans
+latin_name: Conocybe vexans
 source: https://www.nagrzyby.pl/atlas/5436
 ---
 

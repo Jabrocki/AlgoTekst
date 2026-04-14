@@ -1,5 +1,5 @@
 ---
-name: Agaricus bresadolanus
+latin_name: Agaricus bresadolanus
 source: https://www.nagrzyby.pl/atlas/5907
 ---
 

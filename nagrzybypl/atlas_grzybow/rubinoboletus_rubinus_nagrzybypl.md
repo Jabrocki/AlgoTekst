@@ -1,5 +1,5 @@
 ---
-name: Rubinoboletus rubinus
+latin_name: Rubinoboletus rubinus
 source: https://www.nagrzyby.pl/atlas/1473
 ---
 

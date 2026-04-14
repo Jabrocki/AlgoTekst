@@ -1,5 +1,5 @@
 ---
-name: Albatrellus ovinus
+latin_name: Albatrellus ovinus
 source: https://www.nagrzyby.pl/atlas/5
 ---
 

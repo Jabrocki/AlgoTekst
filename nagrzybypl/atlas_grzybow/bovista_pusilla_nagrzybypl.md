@@ -1,5 +1,5 @@
 ---
-name: Bovista pusilla
+latin_name: Bovista pusilla
 source: https://www.nagrzyby.pl/atlas/1179
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Coccomyces coronatus
+latin_name: Coccomyces coronatus
 source: https://www.nagrzyby.pl/atlas/5490
 ---
 

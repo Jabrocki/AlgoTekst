@@ -1,5 +1,5 @@
 ---
-name: Entoloma neglectum
+latin_name: Entoloma neglectum
 source: https://www.nagrzyby.pl/atlas/4774
 ---
 

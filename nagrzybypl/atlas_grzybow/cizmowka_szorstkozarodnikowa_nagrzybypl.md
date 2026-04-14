@@ -1,5 +1,5 @@
 ---
-name: Ciżmówka szorstkozarodnikowa
+latin_name: Ciżmówka szorstkozarodnikowa
 source: https://www.nagrzyby.pl/atlas/2288
 ---
 

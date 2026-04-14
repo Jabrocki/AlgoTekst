@@ -1,5 +1,5 @@
 ---
-name: Puccinia punctiformis
+latin_name: Puccinia punctiformis
 source: https://www.nagrzyby.pl/atlas/5749
 ---
 

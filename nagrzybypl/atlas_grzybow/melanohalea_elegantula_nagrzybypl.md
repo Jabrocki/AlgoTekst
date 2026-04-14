@@ -1,5 +1,5 @@
 ---
-name: Melanohalea elegantula
+latin_name: Melanohalea elegantula
 source: https://www.nagrzyby.pl/atlas/5665
 ---
 

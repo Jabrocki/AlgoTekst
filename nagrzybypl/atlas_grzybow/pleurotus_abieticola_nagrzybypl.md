@@ -1,5 +1,5 @@
 ---
-name: Pleurotus abieticola
+latin_name: Pleurotus abieticola
 source: https://www.nagrzyby.pl/atlas/5764
 ---
 

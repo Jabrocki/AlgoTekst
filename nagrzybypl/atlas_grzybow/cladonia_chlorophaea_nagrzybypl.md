@@ -1,5 +1,5 @@
 ---
-name: Cladonia chlorophaea
+latin_name: Cladonia chlorophaea
 source: https://www.nagrzyby.pl/atlas/5158
 ---
 

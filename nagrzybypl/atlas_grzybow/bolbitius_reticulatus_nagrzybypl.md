@@ -1,5 +1,5 @@
 ---
-name: Bolbitius reticulatus
+latin_name: Bolbitius reticulatus
 source: https://www.nagrzyby.pl/atlas/1382
 ---
 

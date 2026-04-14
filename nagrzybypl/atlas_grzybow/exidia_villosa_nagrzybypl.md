@@ -1,5 +1,5 @@
 ---
-name: Exidia villosa
+latin_name: Exidia villosa
 source: https://www.nagrzyby.pl/atlas/4471
 ---
 

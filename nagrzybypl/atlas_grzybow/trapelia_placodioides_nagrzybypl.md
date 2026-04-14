@@ -1,5 +1,5 @@
 ---
-name: Trapelia placodioides
+latin_name: Trapelia placodioides
 source: https://www.nagrzyby.pl/atlas/5762
 ---
 

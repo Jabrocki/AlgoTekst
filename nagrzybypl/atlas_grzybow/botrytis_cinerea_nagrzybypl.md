@@ -1,5 +1,5 @@
 ---
-name: Botrytis cinerea
+latin_name: Botrytis cinerea
 source: https://www.nagrzyby.pl/atlas/1710
 ---
 

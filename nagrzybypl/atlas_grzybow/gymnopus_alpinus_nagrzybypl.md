@@ -1,5 +1,5 @@
 ---
-name: Gymnopus alpinus
+latin_name: Gymnopus alpinus
 source: https://www.nagrzyby.pl/atlas/1446
 ---
 

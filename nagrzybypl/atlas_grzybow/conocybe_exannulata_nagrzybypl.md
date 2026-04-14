@@ -1,5 +1,5 @@
 ---
-name: Conocybe exannulata
+latin_name: Conocybe exannulata
 source: https://www.nagrzyby.pl/atlas/2026
 ---
 

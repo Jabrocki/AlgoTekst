@@ -1,5 +1,5 @@
 ---
-name: Mycena urania
+latin_name: Mycena urania
 source: https://www.nagrzyby.pl/atlas/1085
 ---
 

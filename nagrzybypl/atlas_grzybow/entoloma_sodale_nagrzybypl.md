@@ -1,5 +1,5 @@
 ---
-name: Entoloma sodale
+latin_name: Entoloma sodale
 source: https://www.nagrzyby.pl/atlas/4793
 ---
 

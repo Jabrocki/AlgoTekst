@@ -1,5 +1,5 @@
 ---
-name: Coprinopsis fusispora
+latin_name: Coprinopsis fusispora
 source: https://www.nagrzyby.pl/atlas/1038
 ---
 

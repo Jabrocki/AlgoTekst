@@ -1,5 +1,5 @@
 ---
-name: Geastrum schmidelii
+latin_name: Geastrum schmidelii
 source: https://www.nagrzyby.pl/atlas/835
 ---
 

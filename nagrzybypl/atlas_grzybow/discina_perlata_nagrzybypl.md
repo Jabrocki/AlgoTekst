@@ -1,5 +1,5 @@
 ---
-name: Discina perlata
+latin_name: Discina perlata
 source: https://www.nagrzyby.pl/atlas/79
 ---
 

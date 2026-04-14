@@ -1,5 +1,5 @@
 ---
-name: Ditangium cerasi
+latin_name: Ditangium cerasi
 source: https://www.nagrzyby.pl/atlas/5890
 ---
 

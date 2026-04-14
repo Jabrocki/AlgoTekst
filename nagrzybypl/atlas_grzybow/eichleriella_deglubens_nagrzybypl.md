@@ -1,5 +1,5 @@
 ---
-name: Eichleriella deglubens
+latin_name: Eichleriella deglubens
 source: https://www.nagrzyby.pl/atlas/4481
 ---
 

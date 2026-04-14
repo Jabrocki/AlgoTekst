@@ -1,5 +1,5 @@
 ---
-name: Entoloma sarcitum
+latin_name: Entoloma sarcitum
 source: https://www.nagrzyby.pl/atlas/4743
 ---
 

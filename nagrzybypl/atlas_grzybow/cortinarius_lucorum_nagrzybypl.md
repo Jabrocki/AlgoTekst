@@ -1,5 +1,5 @@
 ---
-name: Cortinarius lucorum
+latin_name: Cortinarius lucorum
 source: https://www.nagrzyby.pl/atlas/2198
 ---
 

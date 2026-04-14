@@ -1,5 +1,5 @@
 ---
-name: Coprinopsis goudensis
+latin_name: Coprinopsis goudensis
 source: https://www.nagrzyby.pl/atlas/4977
 ---
 

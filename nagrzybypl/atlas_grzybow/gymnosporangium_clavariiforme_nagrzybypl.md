@@ -1,5 +1,5 @@
 ---
-name: Gymnosporangium clavariiforme
+latin_name: Gymnosporangium clavariiforme
 source: https://www.nagrzyby.pl/atlas/414
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Elaphomyces granulatus
+latin_name: Elaphomyces granulatus
 source: https://www.nagrzyby.pl/atlas/75
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Boletinus cavipes forma aureus
+latin_name: Boletinus cavipes forma aureus
 source: https://www.nagrzyby.pl/atlas/1706
 ---
 

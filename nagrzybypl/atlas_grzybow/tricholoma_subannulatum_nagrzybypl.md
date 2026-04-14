@@ -1,5 +1,5 @@
 ---
-name: Tricholoma subannulatum
+latin_name: Tricholoma subannulatum
 source: https://www.nagrzyby.pl/atlas/983
 ---
 

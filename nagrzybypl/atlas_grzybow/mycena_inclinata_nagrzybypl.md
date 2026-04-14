@@ -1,5 +1,5 @@
 ---
-name: Mycena inclinata
+latin_name: Mycena inclinata
 source: https://www.nagrzyby.pl/atlas/963
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Inocybe obsoleta
+latin_name: Inocybe obsoleta
 source: https://www.nagrzyby.pl/atlas/2368
 ---
 

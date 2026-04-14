@@ -1,5 +1,5 @@
 ---
-name: Russula curtipes
+latin_name: Russula curtipes
 source: https://www.nagrzyby.pl/atlas/1141
 ---
 

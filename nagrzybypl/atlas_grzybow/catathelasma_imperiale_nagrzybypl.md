@@ -1,5 +1,5 @@
 ---
-name: Catathelasma imperiale
+latin_name: Catathelasma imperiale
 source: https://www.nagrzyby.pl/atlas/93
 ---
 

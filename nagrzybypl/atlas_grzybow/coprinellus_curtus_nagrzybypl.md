@@ -1,5 +1,5 @@
 ---
-name: Coprinellus curtus
+latin_name: Coprinellus curtus
 source: https://www.nagrzyby.pl/atlas/2065
 ---
 

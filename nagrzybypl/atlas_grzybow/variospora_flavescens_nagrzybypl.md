@@ -1,5 +1,5 @@
 ---
-name: Variospora flavescens
+latin_name: Variospora flavescens
 source: https://www.nagrzyby.pl/atlas/5248
 ---
 

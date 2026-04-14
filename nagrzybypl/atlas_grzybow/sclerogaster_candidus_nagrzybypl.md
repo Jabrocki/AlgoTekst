@@ -1,5 +1,5 @@
 ---
-name: Sclerogaster candidus
+latin_name: Sclerogaster candidus
 source: https://www.nagrzyby.pl/atlas/4834
 ---
 

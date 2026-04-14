@@ -1,5 +1,5 @@
 ---
-name: Thelephora palmata
+latin_name: Thelephora palmata
 source: https://www.nagrzyby.pl/atlas/28
 ---
 

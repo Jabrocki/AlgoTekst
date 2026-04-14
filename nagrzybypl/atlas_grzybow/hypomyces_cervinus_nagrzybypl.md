@@ -1,5 +1,5 @@
 ---
-name: Hypomyces cervinus
+latin_name: Hypomyces cervinus
 source: https://www.nagrzyby.pl/atlas/5651
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Xerocomellus cisalpinus
+latin_name: Xerocomellus cisalpinus
 source: https://www.nagrzyby.pl/atlas/5904
 ---
 

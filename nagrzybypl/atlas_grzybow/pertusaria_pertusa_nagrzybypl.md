@@ -1,5 +1,5 @@
 ---
-name: Pertusaria pertusa
+latin_name: Pertusaria pertusa
 source: https://www.nagrzyby.pl/atlas/5342
 ---
 

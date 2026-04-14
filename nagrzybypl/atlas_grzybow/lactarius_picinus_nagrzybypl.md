@@ -1,5 +1,5 @@
 ---
-name: Lactarius picinus
+latin_name: Lactarius picinus
 source: https://www.nagrzyby.pl/atlas/241
 ---
 

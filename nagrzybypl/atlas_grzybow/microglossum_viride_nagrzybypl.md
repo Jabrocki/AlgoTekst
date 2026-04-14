@@ -1,5 +1,5 @@
 ---
-name: Microglossum viride
+latin_name: Microglossum viride
 source: https://www.nagrzyby.pl/atlas/4701
 ---
 

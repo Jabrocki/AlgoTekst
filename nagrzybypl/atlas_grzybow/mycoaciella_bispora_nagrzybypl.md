@@ -1,5 +1,5 @@
 ---
-name: Mycoaciella bispora
+latin_name: Mycoaciella bispora
 source: https://www.nagrzyby.pl/atlas/5574
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Plicaturopsis crispa
+latin_name: Plicaturopsis crispa
 source: https://www.nagrzyby.pl/atlas/554
 ---
 

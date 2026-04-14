@@ -1,5 +1,5 @@
 ---
-name: Mycena mirata
+latin_name: Mycena mirata
 source: https://www.nagrzyby.pl/atlas/965
 ---
 

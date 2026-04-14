@@ -1,5 +1,5 @@
 ---
-name: Pluteus umbrosus
+latin_name: Pluteus umbrosus
 source: https://www.nagrzyby.pl/atlas/667
 ---
 

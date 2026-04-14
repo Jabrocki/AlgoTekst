@@ -1,5 +1,5 @@
 ---
-name: Cortinarius damascenus
+latin_name: Cortinarius damascenus
 source: https://www.nagrzyby.pl/atlas/2155
 ---
 

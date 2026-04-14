@@ -1,5 +1,5 @@
 ---
-name: Usnea lapponica
+latin_name: Usnea lapponica
 source: https://www.nagrzyby.pl/atlas/5152
 ---
 

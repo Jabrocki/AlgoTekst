@@ -1,5 +1,5 @@
 ---
-name: Elaphocordyceps rouxii
+latin_name: Elaphocordyceps rouxii
 source: https://www.nagrzyby.pl/atlas/1540
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Cortinarius malicorius
+latin_name: Cortinarius malicorius
 source: https://www.nagrzyby.pl/atlas/842
 ---
 

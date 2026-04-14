@@ -1,5 +1,5 @@
 ---
-name: Myriolecis crenulata
+latin_name: Myriolecis crenulata
 source: https://www.nagrzyby.pl/atlas/5278
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Cortinarius hinnuleus
+latin_name: Cortinarius hinnuleus
 source: https://www.nagrzyby.pl/atlas/2183
 ---
 

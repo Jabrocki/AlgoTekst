@@ -1,5 +1,5 @@
 ---
-name: Tremella fuciformis
+latin_name: Tremella fuciformis
 source: https://www.nagrzyby.pl/atlas/517
 ---
 

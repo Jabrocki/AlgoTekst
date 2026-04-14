@@ -1,5 +1,5 @@
 ---
-name: Hypotrachyna revoluta
+latin_name: Hypotrachyna revoluta
 source: https://www.nagrzyby.pl/atlas/5372
 ---
 

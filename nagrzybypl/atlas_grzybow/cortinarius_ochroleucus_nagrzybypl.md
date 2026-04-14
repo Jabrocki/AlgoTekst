@@ -1,5 +1,5 @@
 ---
-name: Cortinarius ochroleucus
+latin_name: Cortinarius ochroleucus
 source: https://www.nagrzyby.pl/atlas/2215
 ---
 

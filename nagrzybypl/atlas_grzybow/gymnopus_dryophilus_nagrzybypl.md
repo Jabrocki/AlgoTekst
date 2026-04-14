@@ -1,5 +1,5 @@
 ---
-name: Gymnopus dryophilus
+latin_name: Gymnopus dryophilus
 source: https://www.nagrzyby.pl/atlas/481
 ---
 

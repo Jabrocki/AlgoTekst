@@ -1,5 +1,5 @@
 ---
-name: Albatrellus confluens
+latin_name: Albatrellus confluens
 source: https://www.nagrzyby.pl/atlas/1849
 ---
 

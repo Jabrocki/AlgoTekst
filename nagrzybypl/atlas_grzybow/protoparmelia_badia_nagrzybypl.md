@@ -1,5 +1,5 @@
 ---
-name: Protoparmelia badia
+latin_name: Protoparmelia badia
 source: https://www.nagrzyby.pl/atlas/5292
 ---
 

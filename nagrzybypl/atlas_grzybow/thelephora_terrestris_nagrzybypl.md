@@ -1,5 +1,5 @@
 ---
-name: Thelephora terrestris
+latin_name: Thelephora terrestris
 source: https://www.nagrzyby.pl/atlas/561
 ---
 

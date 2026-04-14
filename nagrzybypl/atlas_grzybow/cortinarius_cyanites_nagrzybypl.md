@@ -1,5 +1,5 @@
 ---
-name: Cortinarius cyanites
+latin_name: Cortinarius cyanites
 source: https://www.nagrzyby.pl/atlas/4519
 ---
 

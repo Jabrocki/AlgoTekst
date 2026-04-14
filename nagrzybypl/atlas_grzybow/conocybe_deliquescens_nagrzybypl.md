@@ -1,5 +1,5 @@
 ---
-name: Conocybe deliquescens
+latin_name: Conocybe deliquescens
 source: https://www.nagrzyby.pl/atlas/508
 ---
 

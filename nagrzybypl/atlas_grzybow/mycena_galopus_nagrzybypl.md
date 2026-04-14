@@ -1,5 +1,5 @@
 ---
-name: Mycena galopus
+latin_name: Mycena galopus
 source: https://www.nagrzyby.pl/atlas/220
 ---
 

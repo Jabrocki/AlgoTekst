@@ -1,5 +1,5 @@
 ---
-name: Arthonia radiata
+latin_name: Arthonia radiata
 source: https://www.nagrzyby.pl/atlas/5557
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Phaeocollybia christinae
+latin_name: Phaeocollybia christinae
 source: https://www.nagrzyby.pl/atlas/4212
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Lactarius resimus
+latin_name: Lactarius resimus
 source: https://www.nagrzyby.pl/atlas/1792
 ---
 

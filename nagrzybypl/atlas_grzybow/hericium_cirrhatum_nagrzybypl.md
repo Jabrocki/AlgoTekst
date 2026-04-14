@@ -1,5 +1,5 @@
 ---
-name: Hericium cirrhatum
+latin_name: Hericium cirrhatum
 source: https://www.nagrzyby.pl/atlas/354
 ---
 

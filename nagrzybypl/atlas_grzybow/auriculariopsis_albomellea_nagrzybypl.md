@@ -1,5 +1,5 @@
 ---
-name: Auriculariopsis albomellea
+latin_name: Auriculariopsis albomellea
 source: https://www.nagrzyby.pl/atlas/5647
 ---
 

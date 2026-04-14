@@ -1,5 +1,5 @@
 ---
-name: Cortinarius triformis
+latin_name: Cortinarius triformis
 source: https://www.nagrzyby.pl/atlas/2263
 ---
 

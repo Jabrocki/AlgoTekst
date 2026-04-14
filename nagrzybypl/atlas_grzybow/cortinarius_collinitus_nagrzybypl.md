@@ -1,5 +1,5 @@
 ---
-name: Cortinarius collinitus
+latin_name: Cortinarius collinitus
 source: https://www.nagrzyby.pl/atlas/707
 ---
 

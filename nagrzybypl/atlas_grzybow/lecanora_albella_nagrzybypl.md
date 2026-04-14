@@ -1,5 +1,5 @@
 ---
-name: Lecanora albella
+latin_name: Lecanora albella
 source: https://www.nagrzyby.pl/atlas/5480
 ---
 

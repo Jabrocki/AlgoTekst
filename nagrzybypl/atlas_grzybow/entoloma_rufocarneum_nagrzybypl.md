@@ -1,5 +1,5 @@
 ---
-name: Entoloma rufocarneum
+latin_name: Entoloma rufocarneum
 source: https://www.nagrzyby.pl/atlas/4787
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Exidia recisa
+latin_name: Exidia recisa
 source: https://www.nagrzyby.pl/atlas/463
 ---
 

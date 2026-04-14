@@ -1,5 +1,5 @@
 ---
-name: Dacrymyces variisporus
+latin_name: Dacrymyces variisporus
 source: https://www.nagrzyby.pl/atlas/1475
 ---
 

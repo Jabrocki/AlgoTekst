@@ -1,5 +1,5 @@
 ---
-name: Cudoniella acicularis.
+latin_name: Cudoniella acicularis.
 source: https://www.nagrzyby.pl/atlas/5981
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Meruliopsis corium
+latin_name: Meruliopsis corium
 source: https://www.nagrzyby.pl/atlas/1688
 ---
 

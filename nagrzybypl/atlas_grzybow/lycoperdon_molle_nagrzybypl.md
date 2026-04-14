@@ -1,5 +1,5 @@
 ---
-name: Lycoperdon molle
+latin_name: Lycoperdon molle
 source: https://www.nagrzyby.pl/atlas/1166
 ---
 

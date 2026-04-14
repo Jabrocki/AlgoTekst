@@ -1,5 +1,5 @@
 ---
-name: Inocybe hirtella
+latin_name: Inocybe hirtella
 source: https://www.nagrzyby.pl/atlas/896
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Phaeophyscia orbicularis
+latin_name: Phaeophyscia orbicularis
 source: https://www.nagrzyby.pl/atlas/5338
 ---
 

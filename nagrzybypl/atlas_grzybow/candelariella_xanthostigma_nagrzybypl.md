@@ -1,5 +1,5 @@
 ---
-name: Candelariella xanthostigma
+latin_name: Candelariella xanthostigma
 source: https://www.nagrzyby.pl/atlas/5258
 ---
 

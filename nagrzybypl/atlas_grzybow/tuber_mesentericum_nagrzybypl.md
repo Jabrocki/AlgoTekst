@@ -1,5 +1,5 @@
 ---
-name: Tuber mesentericum
+latin_name: Tuber mesentericum
 source: https://www.nagrzyby.pl/atlas/623
 ---
 

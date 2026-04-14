@@ -1,5 +1,5 @@
 ---
-name: Twardówka filcowata
+latin_name: Twardówka filcowata
 source: https://www.nagrzyby.pl/atlas/807
 ---
 

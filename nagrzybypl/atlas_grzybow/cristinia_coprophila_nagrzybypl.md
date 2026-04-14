@@ -1,5 +1,5 @@
 ---
-name: Cristinia coprophila
+latin_name: Cristinia coprophila
 source: https://www.nagrzyby.pl/atlas/1905
 ---
 

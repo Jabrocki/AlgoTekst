@@ -1,5 +1,5 @@
 ---
-name: Agrocybe pediades
+latin_name: Agrocybe pediades
 source: https://www.nagrzyby.pl/atlas/889
 ---
 

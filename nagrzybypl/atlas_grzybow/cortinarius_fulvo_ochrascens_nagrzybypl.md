@@ -1,5 +1,5 @@
 ---
-name: Cortinarius fulvo-ochrascens
+latin_name: Cortinarius fulvo-ochrascens
 source: https://www.nagrzyby.pl/atlas/2174
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Cortinarius hoeftii
+latin_name: Cortinarius hoeftii
 source: https://www.nagrzyby.pl/atlas/2187
 ---
 

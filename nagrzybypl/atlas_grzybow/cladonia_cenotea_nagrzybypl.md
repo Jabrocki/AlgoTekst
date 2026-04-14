@@ -1,5 +1,5 @@
 ---
-name: Cladonia cenotea
+latin_name: Cladonia cenotea
 source: https://www.nagrzyby.pl/atlas/5175
 ---
 

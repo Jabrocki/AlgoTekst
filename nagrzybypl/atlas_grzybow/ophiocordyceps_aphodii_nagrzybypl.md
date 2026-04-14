@@ -1,5 +1,5 @@
 ---
-name: Ophiocordyceps aphodii
+latin_name: Ophiocordyceps aphodii
 source: https://www.nagrzyby.pl/atlas/1650
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Clitopilus prunulus
+latin_name: Clitopilus prunulus
 source: https://www.nagrzyby.pl/atlas/514
 ---
 

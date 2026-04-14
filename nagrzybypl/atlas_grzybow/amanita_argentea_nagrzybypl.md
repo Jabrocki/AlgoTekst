@@ -1,5 +1,5 @@
 ---
-name: Amanita argentea
+latin_name: Amanita argentea
 source: https://www.nagrzyby.pl/atlas/1040
 ---
 

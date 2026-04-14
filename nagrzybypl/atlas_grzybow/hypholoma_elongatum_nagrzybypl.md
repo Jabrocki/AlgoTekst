@@ -1,5 +1,5 @@
 ---
-name: Hypholoma elongatum
+latin_name: Hypholoma elongatum
 source: https://www.nagrzyby.pl/atlas/1511
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Peltigera horizontalis
+latin_name: Peltigera horizontalis
 source: https://www.nagrzyby.pl/atlas/5356
 ---
 

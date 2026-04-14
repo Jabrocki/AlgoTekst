@@ -1,5 +1,5 @@
 ---
-name: Inocybe calida
+latin_name: Inocybe calida
 source: https://www.nagrzyby.pl/atlas/2335
 ---
 

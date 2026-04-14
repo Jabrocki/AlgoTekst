@@ -1,5 +1,5 @@
 ---
-name: Psilocybe subcubensis
+latin_name: Psilocybe subcubensis
 source: https://www.nagrzyby.pl/atlas/1367
 ---
 

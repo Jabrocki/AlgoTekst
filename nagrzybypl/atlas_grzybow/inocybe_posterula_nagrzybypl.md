@@ -1,5 +1,5 @@
 ---
-name: Inocybe posterula
+latin_name: Inocybe posterula
 source: https://www.nagrzyby.pl/atlas/2384
 ---
 

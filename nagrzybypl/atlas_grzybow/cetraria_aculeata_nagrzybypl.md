@@ -1,5 +1,5 @@
 ---
-name: Cetraria aculeata
+latin_name: Cetraria aculeata
 source: https://www.nagrzyby.pl/atlas/5384
 ---
 

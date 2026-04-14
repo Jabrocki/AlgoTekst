@@ -1,5 +1,5 @@
 ---
-name: Pluteus  thomsonii
+latin_name: Pluteus  thomsonii
 source: https://www.nagrzyby.pl/atlas/1199
 ---
 

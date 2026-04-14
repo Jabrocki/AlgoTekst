@@ -1,5 +1,5 @@
 ---
-name: Collema flaccidum
+latin_name: Collema flaccidum
 source: https://www.nagrzyby.pl/atlas/5236
 ---
 

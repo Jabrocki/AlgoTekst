@@ -1,5 +1,5 @@
 ---
-name: Coprinopsis spilospora
+latin_name: Coprinopsis spilospora
 source: https://www.nagrzyby.pl/atlas/5065
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Gymnopus peronatus
+latin_name: Gymnopus peronatus
 source: https://www.nagrzyby.pl/atlas/484
 ---
 

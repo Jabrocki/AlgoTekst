@@ -1,5 +1,5 @@
 ---
-name: Mycena mucor
+latin_name: Mycena mucor
 source: https://www.nagrzyby.pl/atlas/2443
 ---
 

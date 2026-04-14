@@ -1,5 +1,5 @@
 ---
-name: Fuligo muscorum
+latin_name: Fuligo muscorum
 source: https://www.nagrzyby.pl/atlas/1717
 ---
 

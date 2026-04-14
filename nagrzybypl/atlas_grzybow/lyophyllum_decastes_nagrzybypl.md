@@ -1,5 +1,5 @@
 ---
-name: Lyophyllum decastes
+latin_name: Lyophyllum decastes
 source: https://www.nagrzyby.pl/atlas/917
 ---
 

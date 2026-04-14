@@ -1,5 +1,5 @@
 ---
-name: Inocybe dulcamara
+latin_name: Inocybe dulcamara
 source: https://www.nagrzyby.pl/atlas/898
 ---
 

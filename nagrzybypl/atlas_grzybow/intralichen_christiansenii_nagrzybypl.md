@@ -1,5 +1,5 @@
 ---
-name: * Intralichen christiansenii
+latin_name: * Intralichen christiansenii
 source: https://www.nagrzyby.pl/atlas/5640
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Psathyrella senex
+latin_name: Psathyrella senex
 source: https://www.nagrzyby.pl/atlas/5138
 ---
 

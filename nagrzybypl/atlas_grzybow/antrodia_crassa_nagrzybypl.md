@@ -1,5 +1,5 @@
 ---
-name: Antrodia crassa
+latin_name: Antrodia crassa
 source: https://www.nagrzyby.pl/atlas/2077
 ---
 

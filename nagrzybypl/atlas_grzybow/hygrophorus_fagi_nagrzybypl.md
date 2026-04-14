@@ -1,5 +1,5 @@
 ---
-name: Hygrophorus fagi
+latin_name: Hygrophorus fagi
 source: https://www.nagrzyby.pl/atlas/2425
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Clavulina amethystina
+latin_name: Clavulina amethystina
 source: https://www.nagrzyby.pl/atlas/1978
 ---
 

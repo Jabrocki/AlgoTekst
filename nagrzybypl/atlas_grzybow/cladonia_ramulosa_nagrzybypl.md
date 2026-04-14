@@ -1,5 +1,5 @@
 ---
-name: Cladonia ramulosa
+latin_name: Cladonia ramulosa
 source: https://www.nagrzyby.pl/atlas/5165
 ---
 

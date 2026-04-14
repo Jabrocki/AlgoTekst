@@ -1,5 +1,5 @@
 ---
-name: Crustodontia chrysocreas
+latin_name: Crustodontia chrysocreas
 source: https://www.nagrzyby.pl/atlas/4348
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Hymenogaster thwaitesii
+latin_name: Hymenogaster thwaitesii
 source: https://www.nagrzyby.pl/atlas/5855
 ---
 

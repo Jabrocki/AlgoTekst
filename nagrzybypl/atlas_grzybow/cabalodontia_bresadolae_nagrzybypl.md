@@ -1,5 +1,5 @@
 ---
-name: Cabalodontia bresadolae
+latin_name: Cabalodontia bresadolae
 source: https://www.nagrzyby.pl/atlas/4347
 ---
 

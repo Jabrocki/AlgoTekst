@@ -1,5 +1,5 @@
 ---
-name: Clitocybe metachroa
+latin_name: Clitocybe metachroa
 source: https://www.nagrzyby.pl/atlas/5046
 ---
 

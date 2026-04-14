@@ -1,5 +1,5 @@
 ---
-name: Tricholoma luridum
+latin_name: Tricholoma luridum
 source: https://www.nagrzyby.pl/atlas/178
 ---
 

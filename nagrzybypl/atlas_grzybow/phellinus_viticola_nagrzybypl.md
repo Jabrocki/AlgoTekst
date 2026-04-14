@@ -1,5 +1,5 @@
 ---
-name: Phellinus viticola
+latin_name: Phellinus viticola
 source: https://www.nagrzyby.pl/atlas/3286
 ---
 

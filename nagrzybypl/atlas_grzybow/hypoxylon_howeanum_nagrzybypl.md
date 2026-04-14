@@ -1,5 +1,5 @@
 ---
-name: Hypoxylon howeanum
+latin_name: Hypoxylon howeanum
 source: https://www.nagrzyby.pl/atlas/5090
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Plectania melastoma
+latin_name: Plectania melastoma
 source: https://www.nagrzyby.pl/atlas/4338
 ---
 

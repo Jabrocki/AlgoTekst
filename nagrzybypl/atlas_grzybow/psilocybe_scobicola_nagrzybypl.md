@@ -1,5 +1,5 @@
 ---
-name: Psilocybe scobicola
+latin_name: Psilocybe scobicola
 source: https://www.nagrzyby.pl/atlas/1922
 ---
 

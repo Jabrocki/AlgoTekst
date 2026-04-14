@@ -1,5 +1,5 @@
 ---
-name: Suillus luteus
+latin_name: Suillus luteus
 source: https://www.nagrzyby.pl/atlas/78
 ---
 

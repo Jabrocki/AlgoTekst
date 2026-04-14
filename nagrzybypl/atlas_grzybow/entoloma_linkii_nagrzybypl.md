@@ -1,5 +1,5 @@
 ---
-name: Entoloma linkii
+latin_name: Entoloma linkii
 source: https://www.nagrzyby.pl/atlas/4770
 ---
 

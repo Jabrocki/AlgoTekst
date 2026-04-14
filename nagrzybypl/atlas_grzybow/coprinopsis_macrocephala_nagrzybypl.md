@@ -1,5 +1,5 @@
 ---
-name: Coprinopsis macrocephala
+latin_name: Coprinopsis macrocephala
 source: https://www.nagrzyby.pl/atlas/1036
 ---
 

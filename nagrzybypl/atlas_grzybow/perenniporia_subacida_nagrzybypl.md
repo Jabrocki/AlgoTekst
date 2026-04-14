@@ -1,5 +1,5 @@
 ---
-name: Perenniporia subacida
+latin_name: Perenniporia subacida
 source: https://www.nagrzyby.pl/atlas/265
 ---
 

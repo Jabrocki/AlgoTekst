@@ -1,5 +1,5 @@
 ---
-name: Rhizocarpon lecanorinum
+latin_name: Rhizocarpon lecanorinum
 source: https://www.nagrzyby.pl/atlas/5299
 ---
 

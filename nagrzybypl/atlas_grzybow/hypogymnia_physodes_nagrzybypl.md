@@ -1,5 +1,5 @@
 ---
-name: Hypogymnia physodes
+latin_name: Hypogymnia physodes
 source: https://www.nagrzyby.pl/atlas/5374
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Leccinum holopus
+latin_name: Leccinum holopus
 source: https://www.nagrzyby.pl/atlas/66
 ---
 

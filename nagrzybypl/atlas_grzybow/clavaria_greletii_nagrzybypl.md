@@ -1,5 +1,5 @@
 ---
-name: Clavaria greletii
+latin_name: Clavaria greletii
 source: https://www.nagrzyby.pl/atlas/1555
 ---
 

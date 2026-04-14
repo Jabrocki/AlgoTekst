@@ -1,5 +1,5 @@
 ---
-name: Lyophyllum deliberatum
+latin_name: Lyophyllum deliberatum
 source: https://www.nagrzyby.pl/atlas/4198
 ---
 

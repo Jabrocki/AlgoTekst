@@ -1,5 +1,5 @@
 ---
-name: Clitocybe strigosa
+latin_name: Clitocybe strigosa
 source: https://www.nagrzyby.pl/atlas/1999
 ---
 

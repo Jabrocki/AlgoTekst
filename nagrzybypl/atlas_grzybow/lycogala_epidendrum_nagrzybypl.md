@@ -1,5 +1,5 @@
 ---
-name: Lycogala epidendrum
+latin_name: Lycogala epidendrum
 source: https://www.nagrzyby.pl/atlas/389
 ---
 

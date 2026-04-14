@@ -1,5 +1,5 @@
 ---
-name: Mycena chlorantha
+latin_name: Mycena chlorantha
 source: https://www.nagrzyby.pl/atlas/2416
 ---
 

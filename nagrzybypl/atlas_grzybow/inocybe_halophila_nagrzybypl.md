@@ -1,5 +1,5 @@
 ---
-name: Inocybe halophila
+latin_name: Inocybe halophila
 source: https://www.nagrzyby.pl/atlas/2357
 ---
 

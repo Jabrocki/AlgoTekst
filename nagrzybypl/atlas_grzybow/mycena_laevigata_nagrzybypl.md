@@ -1,5 +1,5 @@
 ---
-name: Mycena laevigata
+latin_name: Mycena laevigata
 source: https://www.nagrzyby.pl/atlas/1074
 ---
 

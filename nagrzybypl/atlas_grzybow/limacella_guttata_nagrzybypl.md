@@ -1,5 +1,5 @@
 ---
-name: Limacella guttata
+latin_name: Limacella guttata
 source: https://www.nagrzyby.pl/atlas/624
 ---
 

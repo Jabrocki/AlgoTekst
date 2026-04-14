@@ -1,5 +1,5 @@
 ---
-name: Circinaria contorta
+latin_name: Circinaria contorta
 source: https://www.nagrzyby.pl/atlas/5204
 ---
 

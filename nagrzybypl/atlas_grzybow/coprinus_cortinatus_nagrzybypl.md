@@ -1,5 +1,5 @@
 ---
-name: Coprinus cortinatus
+latin_name: Coprinus cortinatus
 source: https://www.nagrzyby.pl/atlas/2064
 ---
 

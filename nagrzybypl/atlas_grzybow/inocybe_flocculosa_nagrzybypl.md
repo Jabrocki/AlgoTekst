@@ -1,5 +1,5 @@
 ---
-name: Inocybe flocculosa
+latin_name: Inocybe flocculosa
 source: https://www.nagrzyby.pl/atlas/895
 ---
 

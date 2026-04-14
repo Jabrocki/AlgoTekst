@@ -1,5 +1,5 @@
 ---
-name: Russula grata
+latin_name: Russula grata
 source: https://www.nagrzyby.pl/atlas/695
 ---
 

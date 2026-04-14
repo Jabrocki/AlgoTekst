@@ -1,5 +1,5 @@
 ---
-name: Agaricus depauperatus
+latin_name: Agaricus depauperatus
 source: https://www.nagrzyby.pl/atlas/2424
 ---
 

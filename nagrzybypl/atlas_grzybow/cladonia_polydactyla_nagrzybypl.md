@@ -1,5 +1,5 @@
 ---
-name: Cladonia polydactyla
+latin_name: Cladonia polydactyla
 source: https://www.nagrzyby.pl/atlas/5763
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Russula sanguinea
+latin_name: Russula sanguinea
 source: https://www.nagrzyby.pl/atlas/822
 ---
 

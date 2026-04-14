@@ -1,5 +1,5 @@
 ---
-name: Rutstroemia elatina
+latin_name: Rutstroemia elatina
 source: https://www.nagrzyby.pl/atlas/4927
 ---
 

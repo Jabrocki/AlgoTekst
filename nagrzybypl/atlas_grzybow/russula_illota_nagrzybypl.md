@@ -1,5 +1,5 @@
 ---
-name: Russula illota
+latin_name: Russula illota
 source: https://www.nagrzyby.pl/atlas/693
 ---
 

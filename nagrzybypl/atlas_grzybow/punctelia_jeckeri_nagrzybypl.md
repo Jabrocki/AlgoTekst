@@ -1,5 +1,5 @@
 ---
-name: Punctelia jeckeri
+latin_name: Punctelia jeckeri
 source: https://www.nagrzyby.pl/atlas/5654
 ---
 

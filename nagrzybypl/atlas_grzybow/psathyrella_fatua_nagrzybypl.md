@@ -1,5 +1,5 @@
 ---
-name: Psathyrella fatua
+latin_name: Psathyrella fatua
 source: https://www.nagrzyby.pl/atlas/4733
 ---
 

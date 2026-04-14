@@ -1,5 +1,5 @@
 ---
-name: Hymenogaster pusillus
+latin_name: Hymenogaster pusillus
 source: https://www.nagrzyby.pl/atlas/5851
 ---
 

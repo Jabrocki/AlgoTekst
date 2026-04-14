@@ -1,5 +1,5 @@
 ---
-name: Pholiota lenta
+latin_name: Pholiota lenta
 source: https://www.nagrzyby.pl/atlas/548
 ---
 

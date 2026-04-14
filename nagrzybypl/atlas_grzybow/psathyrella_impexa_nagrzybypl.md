@@ -1,5 +1,5 @@
 ---
-name: Psathyrella impexa
+latin_name: Psathyrella impexa
 source: https://www.nagrzyby.pl/atlas/4735
 ---
 

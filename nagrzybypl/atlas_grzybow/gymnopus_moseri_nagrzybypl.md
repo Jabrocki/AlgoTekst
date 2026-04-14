@@ -1,5 +1,5 @@
 ---
-name: Gymnopus moseri
+latin_name: Gymnopus moseri
 source: https://www.nagrzyby.pl/atlas/1441
 ---
 

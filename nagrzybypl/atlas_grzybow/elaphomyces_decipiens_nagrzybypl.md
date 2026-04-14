@@ -1,5 +1,5 @@
 ---
-name: Elaphomyces decipiens
+latin_name: Elaphomyces decipiens
 source: https://www.nagrzyby.pl/atlas/5819
 ---
 

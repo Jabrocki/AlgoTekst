@@ -1,5 +1,5 @@
 ---
-name: Therrya fuckelii
+latin_name: Therrya fuckelii
 source: https://www.nagrzyby.pl/atlas/5653
 ---
 

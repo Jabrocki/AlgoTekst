@@ -1,5 +1,5 @@
 ---
-name: Cuphophyllus virgineus.
+latin_name: Cuphophyllus virgineus.
 source: https://www.nagrzyby.pl/atlas/1258
 ---
 

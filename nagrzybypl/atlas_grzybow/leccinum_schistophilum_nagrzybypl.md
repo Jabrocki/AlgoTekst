@@ -1,5 +1,5 @@
 ---
-name: Leccinum schistophilum
+latin_name: Leccinum schistophilum
 source: https://www.nagrzyby.pl/atlas/5782
 ---
 

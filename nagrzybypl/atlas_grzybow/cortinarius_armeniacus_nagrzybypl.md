@@ -1,5 +1,5 @@
 ---
-name: Cortinarius armeniacus
+latin_name: Cortinarius armeniacus
 source: https://www.nagrzyby.pl/atlas/2122
 ---
 

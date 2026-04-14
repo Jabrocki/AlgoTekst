@@ -1,5 +1,5 @@
 ---
-name: Hymenogaster rehsteineri
+latin_name: Hymenogaster rehsteineri
 source: https://www.nagrzyby.pl/atlas/5852
 ---
 

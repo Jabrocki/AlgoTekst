@@ -1,5 +1,5 @@
 ---
-name: Lactarius volemus
+latin_name: Lactarius volemus
 source: https://www.nagrzyby.pl/atlas/246
 ---
 

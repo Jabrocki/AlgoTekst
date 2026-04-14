@@ -1,5 +1,5 @@
 ---
-name: Lobothalia radiosa
+latin_name: Lobothalia radiosa
 source: https://www.nagrzyby.pl/atlas/5403
 ---
 

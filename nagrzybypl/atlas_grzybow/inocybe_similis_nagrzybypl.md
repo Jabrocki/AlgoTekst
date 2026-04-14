@@ -1,5 +1,5 @@
 ---
-name: Inocybe similis
+latin_name: Inocybe similis
 source: https://www.nagrzyby.pl/atlas/2391
 ---
 

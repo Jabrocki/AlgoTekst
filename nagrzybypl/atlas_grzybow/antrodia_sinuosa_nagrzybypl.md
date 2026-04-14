@@ -1,5 +1,5 @@
 ---
-name: Antrodia sinuosa
+latin_name: Antrodia sinuosa
 source: https://www.nagrzyby.pl/atlas/2086
 ---
 

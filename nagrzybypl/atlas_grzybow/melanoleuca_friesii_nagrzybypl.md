@@ -1,5 +1,5 @@
 ---
-name: Melanoleuca friesii
+latin_name: Melanoleuca friesii
 source: https://www.nagrzyby.pl/atlas/5506
 ---
 

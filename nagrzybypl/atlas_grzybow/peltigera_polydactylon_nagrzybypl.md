@@ -1,5 +1,5 @@
 ---
-name: Peltigera polydactylon
+latin_name: Peltigera polydactylon
 source: https://www.nagrzyby.pl/atlas/5405
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Hygrophorus persicolor
+latin_name: Hygrophorus persicolor
 source: https://www.nagrzyby.pl/atlas/1242
 ---
 

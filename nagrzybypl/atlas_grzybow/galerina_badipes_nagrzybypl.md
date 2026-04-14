@@ -1,5 +1,5 @@
 ---
-name: Galerina badipes
+latin_name: Galerina badipes
 source: https://www.nagrzyby.pl/atlas/4466
 ---
 

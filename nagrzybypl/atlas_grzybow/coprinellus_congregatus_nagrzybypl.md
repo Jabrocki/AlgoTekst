@@ -1,5 +1,5 @@
 ---
-name: Coprinellus congregatus
+latin_name: Coprinellus congregatus
 source: https://www.nagrzyby.pl/atlas/1025
 ---
 

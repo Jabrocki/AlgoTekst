@@ -1,5 +1,5 @@
 ---
-name: Geastrum rufescens
+latin_name: Geastrum rufescens
 source: https://www.nagrzyby.pl/atlas/466
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Clitocybe fuligineipes
+latin_name: Clitocybe fuligineipes
 source: https://www.nagrzyby.pl/atlas/1593
 ---
 

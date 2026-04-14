@@ -1,5 +1,5 @@
 ---
-name: Hymenogaster tener
+latin_name: Hymenogaster tener
 source: https://www.nagrzyby.pl/atlas/4718
 ---
 

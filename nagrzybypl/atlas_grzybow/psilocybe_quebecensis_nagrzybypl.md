@@ -1,5 +1,5 @@
 ---
-name: Psilocybe quebecensis
+latin_name: Psilocybe quebecensis
 source: https://www.nagrzyby.pl/atlas/1921
 ---
 

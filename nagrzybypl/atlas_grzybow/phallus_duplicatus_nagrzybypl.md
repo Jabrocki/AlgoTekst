@@ -1,5 +1,5 @@
 ---
-name: Phallus duplicatus
+latin_name: Phallus duplicatus
 source: https://www.nagrzyby.pl/atlas/1229
 ---
 

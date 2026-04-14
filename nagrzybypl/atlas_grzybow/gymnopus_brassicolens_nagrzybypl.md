@@ -1,5 +1,5 @@
 ---
-name: Gymnopus brassicolens
+latin_name: Gymnopus brassicolens
 source: https://www.nagrzyby.pl/atlas/1431
 ---
 

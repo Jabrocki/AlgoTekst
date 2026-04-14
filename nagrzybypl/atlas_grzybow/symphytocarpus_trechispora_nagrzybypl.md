@@ -1,5 +1,5 @@
 ---
-name: Symphytocarpus trechispora
+latin_name: Symphytocarpus trechispora
 source: https://www.nagrzyby.pl/atlas/5738
 ---
 

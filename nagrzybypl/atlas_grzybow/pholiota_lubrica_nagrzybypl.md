@@ -1,5 +1,5 @@
 ---
-name: Pholiota lubrica
+latin_name: Pholiota lubrica
 source: https://www.nagrzyby.pl/atlas/1403
 ---
 

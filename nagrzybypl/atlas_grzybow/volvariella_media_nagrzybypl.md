@@ -1,5 +1,5 @@
 ---
-name: Volvariella media
+latin_name: Volvariella media
 source: https://www.nagrzyby.pl/atlas/1613
 ---
 

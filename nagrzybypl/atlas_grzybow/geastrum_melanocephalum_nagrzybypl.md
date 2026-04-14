@@ -1,5 +1,5 @@
 ---
-name: Geastrum melanocephalum
+latin_name: Geastrum melanocephalum
 source: https://www.nagrzyby.pl/atlas/841
 ---
 

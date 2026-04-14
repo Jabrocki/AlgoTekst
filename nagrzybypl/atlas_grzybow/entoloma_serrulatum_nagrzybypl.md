@@ -1,5 +1,5 @@
 ---
-name: Entoloma serrulatum
+latin_name: Entoloma serrulatum
 source: https://www.nagrzyby.pl/atlas/4292
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Gloeophyllum odoratum
+latin_name: Gloeophyllum odoratum
 source: https://www.nagrzyby.pl/atlas/392
 ---
 

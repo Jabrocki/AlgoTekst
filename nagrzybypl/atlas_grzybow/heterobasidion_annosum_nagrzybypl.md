@@ -1,5 +1,5 @@
 ---
-name: Heterobasidion annosum
+latin_name: Heterobasidion annosum
 source: https://www.nagrzyby.pl/atlas/592
 ---
 

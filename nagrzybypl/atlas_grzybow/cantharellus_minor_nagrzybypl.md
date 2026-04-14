@@ -1,5 +1,5 @@
 ---
-name: Cantharellus minor
+latin_name: Cantharellus minor
 source: https://www.nagrzyby.pl/atlas/5076
 ---
 

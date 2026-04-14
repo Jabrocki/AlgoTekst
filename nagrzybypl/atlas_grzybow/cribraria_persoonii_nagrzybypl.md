@@ -1,5 +1,5 @@
 ---
-name: Cribraria persoonii
+latin_name: Cribraria persoonii
 source: https://www.nagrzyby.pl/atlas/5101
 ---
 

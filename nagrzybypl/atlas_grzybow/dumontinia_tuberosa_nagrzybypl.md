@@ -1,5 +1,5 @@
 ---
-name: Dumontinia tuberosa
+latin_name: Dumontinia tuberosa
 source: https://www.nagrzyby.pl/atlas/310
 ---
 

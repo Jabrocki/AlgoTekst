@@ -1,5 +1,5 @@
 ---
-name: Hygrocybe irrigata
+latin_name: Hygrocybe irrigata
 source: https://www.nagrzyby.pl/atlas/1260
 ---
 

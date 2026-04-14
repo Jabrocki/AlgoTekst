@@ -1,5 +1,5 @@
 ---
-name: Ophiocordyceps gracilis
+latin_name: Ophiocordyceps gracilis
 source: https://www.nagrzyby.pl/atlas/470
 ---
 

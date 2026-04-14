@@ -1,5 +1,5 @@
 ---
-name: Psilocybe crobula
+latin_name: Psilocybe crobula
 source: https://www.nagrzyby.pl/atlas/1346
 ---
 

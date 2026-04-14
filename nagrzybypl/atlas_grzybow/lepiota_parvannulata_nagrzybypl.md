@@ -1,5 +1,5 @@
 ---
-name: Lepiota parvannulata
+latin_name: Lepiota parvannulata
 source: https://www.nagrzyby.pl/atlas/4397
 ---
 

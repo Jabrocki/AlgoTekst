@@ -1,5 +1,5 @@
 ---
-name: Fomes fomentarius
+latin_name: Fomes fomentarius
 source: https://www.nagrzyby.pl/atlas/122
 ---
 

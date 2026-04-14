@@ -1,5 +1,5 @@
 ---
-name: Scoliciosporum umbrinum
+latin_name: Scoliciosporum umbrinum
 source: https://www.nagrzyby.pl/atlas/5442
 ---
 

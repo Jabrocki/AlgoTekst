@@ -1,5 +1,5 @@
 ---
-name: Russula betularum
+latin_name: Russula betularum
 source: https://www.nagrzyby.pl/atlas/812
 ---
 

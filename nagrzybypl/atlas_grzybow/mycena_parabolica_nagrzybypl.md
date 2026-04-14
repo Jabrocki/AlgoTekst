@@ -1,5 +1,5 @@
 ---
-name: Mycena parabolica
+latin_name: Mycena parabolica
 source: https://www.nagrzyby.pl/atlas/2447
 ---
 

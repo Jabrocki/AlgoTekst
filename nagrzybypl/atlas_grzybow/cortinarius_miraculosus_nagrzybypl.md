@@ -1,5 +1,5 @@
 ---
-name: Cortinarius miraculosus
+latin_name: Cortinarius miraculosus
 source: https://www.nagrzyby.pl/atlas/2205
 ---
 

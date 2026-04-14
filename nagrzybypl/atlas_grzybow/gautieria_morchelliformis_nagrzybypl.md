@@ -1,5 +1,5 @@
 ---
-name: Gautieria morchelliformis
+latin_name: Gautieria morchelliformis
 source: https://www.nagrzyby.pl/atlas/4426
 ---
 

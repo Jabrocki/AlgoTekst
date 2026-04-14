@@ -1,5 +1,5 @@
 ---
-name: Amanita verna
+latin_name: Amanita verna
 source: https://www.nagrzyby.pl/atlas/1044
 ---
 

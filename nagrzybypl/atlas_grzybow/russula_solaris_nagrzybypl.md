@@ -1,5 +1,5 @@
 ---
-name: Russula solaris
+latin_name: Russula solaris
 source: https://www.nagrzyby.pl/atlas/671
 ---
 

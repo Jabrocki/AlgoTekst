@@ -1,5 +1,5 @@
 ---
-name: Hymenochaete carpatica
+latin_name: Hymenochaete carpatica
 source: https://www.nagrzyby.pl/atlas/4829
 ---
 

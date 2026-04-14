@@ -1,5 +1,5 @@
 ---
-name: Bilimbia sabuletorum
+latin_name: Bilimbia sabuletorum
 source: https://www.nagrzyby.pl/atlas/5294
 ---
 

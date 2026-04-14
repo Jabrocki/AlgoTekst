@@ -1,5 +1,5 @@
 ---
-name: Macrotyphula juncea
+latin_name: Macrotyphula juncea
 source: https://www.nagrzyby.pl/atlas/50
 ---
 

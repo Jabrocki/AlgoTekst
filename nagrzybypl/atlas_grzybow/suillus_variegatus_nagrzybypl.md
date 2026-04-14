@@ -1,5 +1,5 @@
 ---
-name: Suillus variegatus
+latin_name: Suillus variegatus
 source: https://www.nagrzyby.pl/atlas/227
 ---
 

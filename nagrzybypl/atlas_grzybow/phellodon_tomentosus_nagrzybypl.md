@@ -1,5 +1,5 @@
 ---
-name: Phellodon tomentosus
+latin_name: Phellodon tomentosus
 source: https://www.nagrzyby.pl/atlas/2473
 ---
 

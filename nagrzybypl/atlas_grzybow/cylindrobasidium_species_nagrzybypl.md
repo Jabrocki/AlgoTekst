@@ -1,5 +1,5 @@
 ---
-name: Cylindrobasidium species
+latin_name: Cylindrobasidium species
 source: https://www.nagrzyby.pl/atlas/5143
 ---
 

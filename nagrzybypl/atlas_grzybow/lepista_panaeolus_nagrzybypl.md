@@ -1,5 +1,5 @@
 ---
-name: Lepista panaeolus
+latin_name: Lepista panaeolus
 source: https://www.nagrzyby.pl/atlas/2325
 ---
 

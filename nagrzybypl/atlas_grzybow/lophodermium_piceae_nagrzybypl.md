@@ -1,5 +1,5 @@
 ---
-name: Lophodermium piceae
+latin_name: Lophodermium piceae
 source: https://www.nagrzyby.pl/atlas/84
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Cladonia digitata
+latin_name: Cladonia digitata
 source: https://www.nagrzyby.pl/atlas/5177
 ---
 

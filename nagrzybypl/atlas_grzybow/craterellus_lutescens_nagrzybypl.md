@@ -1,5 +1,5 @@
 ---
-name: Craterellus lutescens
+latin_name: Craterellus lutescens
 source: https://www.nagrzyby.pl/atlas/746
 ---
 

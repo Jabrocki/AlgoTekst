@@ -1,5 +1,5 @@
 ---
-name: Chroogomphus rutilus
+latin_name: Chroogomphus rutilus
 source: https://www.nagrzyby.pl/atlas/182
 ---
 

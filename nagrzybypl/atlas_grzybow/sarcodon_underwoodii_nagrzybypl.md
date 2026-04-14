@@ -1,5 +1,5 @@
 ---
-name: Sarcodon underwoodii
+latin_name: Sarcodon underwoodii
 source: https://www.nagrzyby.pl/atlas/5420
 ---
 

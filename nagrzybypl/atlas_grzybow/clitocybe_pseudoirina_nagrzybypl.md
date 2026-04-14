@@ -1,5 +1,5 @@
 ---
-name: Clitocybe pseudoirina
+latin_name: Clitocybe pseudoirina
 source: https://www.nagrzyby.pl/atlas/1995
 ---
 

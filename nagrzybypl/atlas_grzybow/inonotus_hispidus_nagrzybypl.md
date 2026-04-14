@@ -1,5 +1,5 @@
 ---
-name: Inonotus hispidus
+latin_name: Inonotus hispidus
 source: https://www.nagrzyby.pl/atlas/1122
 ---
 

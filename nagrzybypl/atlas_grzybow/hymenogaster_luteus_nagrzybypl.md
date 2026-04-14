@@ -1,5 +1,5 @@
 ---
-name: Hymenogaster luteus
+latin_name: Hymenogaster luteus
 source: https://www.nagrzyby.pl/atlas/4569
 ---
 

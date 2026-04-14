@@ -1,5 +1,5 @@
 ---
-name: Amanita frostiana
+latin_name: Amanita frostiana
 source: https://www.nagrzyby.pl/atlas/5761
 ---
 

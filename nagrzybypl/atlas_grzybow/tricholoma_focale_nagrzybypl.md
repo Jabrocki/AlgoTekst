@@ -1,5 +1,5 @@
 ---
-name: Tricholoma focale
+latin_name: Tricholoma focale
 source: https://www.nagrzyby.pl/atlas/982
 ---
 

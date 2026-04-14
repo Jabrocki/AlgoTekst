@@ -1,5 +1,5 @@
 ---
-name: Volvariella volvacea
+latin_name: Volvariella volvacea
 source: https://www.nagrzyby.pl/atlas/1618
 ---
 

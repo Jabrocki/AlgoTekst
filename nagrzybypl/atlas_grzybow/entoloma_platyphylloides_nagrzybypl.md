@@ -1,5 +1,5 @@
 ---
-name: Entoloma platyphylloides
+latin_name: Entoloma platyphylloides
 source: https://www.nagrzyby.pl/atlas/4287
 ---
 

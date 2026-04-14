@@ -1,5 +1,5 @@
 ---
-name: Suillus plorans
+latin_name: Suillus plorans
 source: https://www.nagrzyby.pl/atlas/765
 ---
 

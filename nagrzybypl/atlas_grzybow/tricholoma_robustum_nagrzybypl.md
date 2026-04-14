@@ -1,5 +1,5 @@
 ---
-name: Tricholoma robustum
+latin_name: Tricholoma robustum
 source: https://www.nagrzyby.pl/atlas/4251
 ---
 

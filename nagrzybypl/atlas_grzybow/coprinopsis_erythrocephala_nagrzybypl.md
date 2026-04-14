@@ -1,5 +1,5 @@
 ---
-name: Coprinopsis erythrocephala
+latin_name: Coprinopsis erythrocephala
 source: https://www.nagrzyby.pl/atlas/2070
 ---
 

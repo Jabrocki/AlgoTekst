@@ -1,5 +1,5 @@
 ---
-name: Elaphomyces leucosporus
+latin_name: Elaphomyces leucosporus
 source: https://www.nagrzyby.pl/atlas/1646
 ---
 

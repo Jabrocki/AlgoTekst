@@ -1,5 +1,5 @@
 ---
-name: Hygrophorus discoxanthus
+latin_name: Hygrophorus discoxanthus
 source: https://www.nagrzyby.pl/atlas/1234
 ---
 

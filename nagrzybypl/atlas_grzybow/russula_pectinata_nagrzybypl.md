@@ -1,5 +1,5 @@
 ---
-name: Russula pectinata
+latin_name: Russula pectinata
 source: https://www.nagrzyby.pl/atlas/719
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Rhodocybe gemina
+latin_name: Rhodocybe gemina
 source: https://www.nagrzyby.pl/atlas/1789
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Puccinia opizii
+latin_name: Puccinia opizii
 source: https://www.nagrzyby.pl/atlas/5429
 ---
 

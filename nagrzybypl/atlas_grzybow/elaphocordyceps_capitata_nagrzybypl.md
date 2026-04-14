@@ -1,5 +1,5 @@
 ---
-name: Elaphocordyceps capitata
+latin_name: Elaphocordyceps capitata
 source: https://www.nagrzyby.pl/atlas/569
 ---
 

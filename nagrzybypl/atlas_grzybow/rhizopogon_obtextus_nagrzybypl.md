@@ -1,5 +1,5 @@
 ---
-name: Rhizopogon obtextus
+latin_name: Rhizopogon obtextus
 source: https://www.nagrzyby.pl/atlas/1142
 ---
 

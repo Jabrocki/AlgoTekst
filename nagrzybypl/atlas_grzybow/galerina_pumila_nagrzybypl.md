@@ -1,5 +1,5 @@
 ---
-name: Galerina pumila
+latin_name: Galerina pumila
 source: https://www.nagrzyby.pl/atlas/5437
 ---
 

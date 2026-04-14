@@ -1,5 +1,5 @@
 ---
-name: Atheniella flavoalba
+latin_name: Atheniella flavoalba
 source: https://www.nagrzyby.pl/atlas/1071
 ---
 

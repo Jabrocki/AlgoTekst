@@ -1,5 +1,5 @@
 ---
-name: Protoblastenia rupestris
+latin_name: Protoblastenia rupestris
 source: https://www.nagrzyby.pl/atlas/5349
 ---
 

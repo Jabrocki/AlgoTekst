@@ -1,5 +1,5 @@
 ---
-name: Volvariella reidii
+latin_name: Volvariella reidii
 source: https://www.nagrzyby.pl/atlas/1742
 ---
 

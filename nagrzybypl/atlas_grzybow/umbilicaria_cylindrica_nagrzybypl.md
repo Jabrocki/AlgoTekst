@@ -1,5 +1,5 @@
 ---
-name: Umbilicaria cylindrica
+latin_name: Umbilicaria cylindrica
 source: https://www.nagrzyby.pl/atlas/5348
 ---
 

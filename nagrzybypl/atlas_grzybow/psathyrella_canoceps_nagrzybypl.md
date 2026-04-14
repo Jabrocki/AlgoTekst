@@ -1,5 +1,5 @@
 ---
-name: Psathyrella canoceps
+latin_name: Psathyrella canoceps
 source: https://www.nagrzyby.pl/atlas/1735
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Lactarius camphoratus
+latin_name: Lactarius camphoratus
 source: https://www.nagrzyby.pl/atlas/772
 ---
 

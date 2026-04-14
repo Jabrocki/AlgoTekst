@@ -1,5 +1,5 @@
 ---
-name: Antrodia macra
+latin_name: Antrodia macra
 source: https://www.nagrzyby.pl/atlas/2081
 ---
 

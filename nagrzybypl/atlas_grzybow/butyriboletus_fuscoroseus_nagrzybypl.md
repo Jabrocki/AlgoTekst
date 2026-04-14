@@ -1,5 +1,5 @@
 ---
-name: Butyriboletus fuscoroseus
+latin_name: Butyriboletus fuscoroseus
 source: https://www.nagrzyby.pl/atlas/756
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Scutellinia cejpii
+latin_name: Scutellinia cejpii
 source: https://www.nagrzyby.pl/atlas/5524
 ---
 

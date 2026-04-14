@@ -1,5 +1,5 @@
 ---
-name: Peltigera rufescens
+latin_name: Peltigera rufescens
 source: https://www.nagrzyby.pl/atlas/5357
 ---
 

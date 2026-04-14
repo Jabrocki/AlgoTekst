@@ -1,5 +1,5 @@
 ---
-name: Paxillus involutus
+latin_name: Paxillus involutus
 source: https://www.nagrzyby.pl/atlas/5449
 ---
 

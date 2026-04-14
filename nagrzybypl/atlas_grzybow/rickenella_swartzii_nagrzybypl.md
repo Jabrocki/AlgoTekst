@@ -1,5 +1,5 @@
 ---
-name: Rickenella swartzii
+latin_name: Rickenella swartzii
 source: https://www.nagrzyby.pl/atlas/1537
 ---
 

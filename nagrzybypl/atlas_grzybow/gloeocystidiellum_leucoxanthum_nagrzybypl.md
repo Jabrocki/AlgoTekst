@@ -1,5 +1,5 @@
 ---
-name: Gloeocystidiellum leucoxanthum
+latin_name: Gloeocystidiellum leucoxanthum
 source: https://www.nagrzyby.pl/atlas/4459
 ---
 

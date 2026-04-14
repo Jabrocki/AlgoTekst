@@ -1,5 +1,5 @@
 ---
-name: Mycena pseudocorticola
+latin_name: Mycena pseudocorticola
 source: https://www.nagrzyby.pl/atlas/2449
 ---
 

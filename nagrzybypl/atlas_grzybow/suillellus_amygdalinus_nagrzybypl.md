@@ -1,5 +1,5 @@
 ---
-name: Suillellus amygdalinus
+latin_name: Suillellus amygdalinus
 source: https://www.nagrzyby.pl/atlas/5075
 ---
 

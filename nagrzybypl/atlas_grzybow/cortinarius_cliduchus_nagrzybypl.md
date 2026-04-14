@@ -1,5 +1,5 @@
 ---
-name: Cortinarius cliduchus
+latin_name: Cortinarius cliduchus
 source: https://www.nagrzyby.pl/atlas/2146
 ---
 

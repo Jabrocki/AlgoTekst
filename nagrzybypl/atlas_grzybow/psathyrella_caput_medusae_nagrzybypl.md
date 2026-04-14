@@ -1,5 +1,5 @@
 ---
-name: Psathyrella caput-medusae
+latin_name: Psathyrella caput-medusae
 source: https://www.nagrzyby.pl/atlas/4328
 ---
 

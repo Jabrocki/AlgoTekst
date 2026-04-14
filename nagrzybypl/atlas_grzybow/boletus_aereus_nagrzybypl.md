@@ -1,5 +1,5 @@
 ---
-name: Boletus aereus
+latin_name: Boletus aereus
 source: https://www.nagrzyby.pl/atlas/737
 ---
 

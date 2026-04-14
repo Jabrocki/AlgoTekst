@@ -1,5 +1,5 @@
 ---
-name: Leocarpus fragilis
+latin_name: Leocarpus fragilis
 source: https://www.nagrzyby.pl/atlas/558
 ---
 

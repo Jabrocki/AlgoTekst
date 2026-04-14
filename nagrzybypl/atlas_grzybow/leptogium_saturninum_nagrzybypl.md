@@ -1,5 +1,5 @@
 ---
-name: Leptogium saturninum
+latin_name: Leptogium saturninum
 source: https://www.nagrzyby.pl/atlas/5350
 ---
 

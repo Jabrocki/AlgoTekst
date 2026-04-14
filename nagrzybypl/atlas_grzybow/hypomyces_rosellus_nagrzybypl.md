@@ -1,5 +1,5 @@
 ---
-name: Hypomyces rosellus
+latin_name: Hypomyces rosellus
 source: https://www.nagrzyby.pl/atlas/4705
 ---
 

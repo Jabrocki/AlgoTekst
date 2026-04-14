@@ -1,5 +1,5 @@
 ---
-name: Physcia tenella
+latin_name: Physcia tenella
 source: https://www.nagrzyby.pl/atlas/5323
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Antrodiella parasitica
+latin_name: Antrodiella parasitica
 source: https://www.nagrzyby.pl/atlas/2096
 ---
 

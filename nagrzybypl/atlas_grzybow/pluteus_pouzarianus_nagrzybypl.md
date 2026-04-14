@@ -1,5 +1,5 @@
 ---
-name: Pluteus pouzarianus
+latin_name: Pluteus pouzarianus
 source: https://www.nagrzyby.pl/atlas/1265
 ---
 

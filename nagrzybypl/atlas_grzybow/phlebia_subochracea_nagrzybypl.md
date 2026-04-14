@@ -1,5 +1,5 @@
 ---
-name: Phlebia subochracea
+latin_name: Phlebia subochracea
 source: https://www.nagrzyby.pl/atlas/4355
 ---
 

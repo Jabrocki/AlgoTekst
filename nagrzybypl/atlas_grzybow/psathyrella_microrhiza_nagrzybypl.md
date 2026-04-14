@@ -1,5 +1,5 @@
 ---
-name: Psathyrella microrhiza
+latin_name: Psathyrella microrhiza
 source: https://www.nagrzyby.pl/atlas/4332
 ---
 

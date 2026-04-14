@@ -1,5 +1,5 @@
 ---
-name: Chaenotheca xyloxena
+latin_name: Chaenotheca xyloxena
 source: https://www.nagrzyby.pl/atlas/5306
 ---
 

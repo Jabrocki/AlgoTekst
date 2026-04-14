@@ -1,5 +1,5 @@
 ---
-name: Tapinella atrotomentosa
+latin_name: Tapinella atrotomentosa
 source: https://www.nagrzyby.pl/atlas/431
 ---
 

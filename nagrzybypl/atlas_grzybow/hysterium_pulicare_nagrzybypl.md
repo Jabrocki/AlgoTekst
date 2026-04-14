@@ -1,5 +1,5 @@
 ---
-name: Hysterium pulicare
+latin_name: Hysterium pulicare
 source: https://www.nagrzyby.pl/atlas/5503
 ---
 

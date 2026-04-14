@@ -1,5 +1,5 @@
 ---
-name: Cortinarius traganus
+latin_name: Cortinarius traganus
 source: https://www.nagrzyby.pl/atlas/482
 ---
 

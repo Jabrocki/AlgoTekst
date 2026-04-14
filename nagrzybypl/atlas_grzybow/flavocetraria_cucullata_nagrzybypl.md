@@ -1,5 +1,5 @@
 ---
-name: Flavocetraria cucullata
+latin_name: Flavocetraria cucullata
 source: https://www.nagrzyby.pl/atlas/5340
 ---
 

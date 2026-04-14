@@ -1,5 +1,5 @@
 ---
-name: Hysterangium pompholyx
+latin_name: Hysterangium pompholyx
 source: https://www.nagrzyby.pl/atlas/5864
 ---
 

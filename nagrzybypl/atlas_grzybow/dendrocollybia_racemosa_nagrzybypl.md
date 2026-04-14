@@ -1,5 +1,5 @@
 ---
-name: Dendrocollybia racemosa
+latin_name: Dendrocollybia racemosa
 source: https://www.nagrzyby.pl/atlas/4495
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Helvella ephippium
+latin_name: Helvella ephippium
 source: https://www.nagrzyby.pl/atlas/1463
 ---
 

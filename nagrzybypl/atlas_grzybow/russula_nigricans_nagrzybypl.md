@@ -1,5 +1,5 @@
 ---
-name: Russula nigricans
+latin_name: Russula nigricans
 source: https://www.nagrzyby.pl/atlas/105
 ---
 

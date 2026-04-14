@@ -1,5 +1,5 @@
 ---
-name: Mycoleptodonoides pusilla
+latin_name: Mycoleptodonoides pusilla
 source: https://www.nagrzyby.pl/atlas/3035
 ---
 

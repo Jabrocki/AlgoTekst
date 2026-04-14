@@ -1,5 +1,5 @@
 ---
-name: Entoloma bloxamii
+latin_name: Entoloma bloxamii
 source: https://www.nagrzyby.pl/atlas/4276
 ---
 

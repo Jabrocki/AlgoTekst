@@ -1,5 +1,5 @@
 ---
-name: Lactarius salmonicolor
+latin_name: Lactarius salmonicolor
 source: https://www.nagrzyby.pl/atlas/778
 ---
 

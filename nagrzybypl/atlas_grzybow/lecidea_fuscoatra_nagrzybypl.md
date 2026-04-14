@@ -1,5 +1,5 @@
 ---
-name: Lecidea fuscoatra
+latin_name: Lecidea fuscoatra
 source: https://www.nagrzyby.pl/atlas/5295
 ---
 

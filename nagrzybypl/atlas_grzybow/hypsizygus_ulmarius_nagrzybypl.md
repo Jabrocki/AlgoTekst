@@ -1,5 +1,5 @@
 ---
-name: Hypsizygus ulmarius
+latin_name: Hypsizygus ulmarius
 source: https://www.nagrzyby.pl/atlas/4427
 ---
 

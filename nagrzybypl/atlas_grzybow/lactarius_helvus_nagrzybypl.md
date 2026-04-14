@@ -1,5 +1,5 @@
 ---
-name: Lactarius helvus
+latin_name: Lactarius helvus
 source: https://www.nagrzyby.pl/atlas/713
 ---
 

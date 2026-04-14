@@ -1,5 +1,5 @@
 ---
-name: Bisporella resinicola
+latin_name: Bisporella resinicola
 source: https://www.nagrzyby.pl/atlas/5553
 ---
 

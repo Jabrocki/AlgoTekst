@@ -1,5 +1,5 @@
 ---
-name: Mycenastrum corium
+latin_name: Mycenastrum corium
 source: https://www.nagrzyby.pl/atlas/301
 ---
 

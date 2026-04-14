@@ -1,5 +1,5 @@
 ---
-name: Ditiola peziziformis
+latin_name: Ditiola peziziformis
 source: https://www.nagrzyby.pl/atlas/425
 ---
 

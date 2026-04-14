@@ -1,5 +1,5 @@
 ---
-name: Russula sardonia
+latin_name: Russula sardonia
 source: https://www.nagrzyby.pl/atlas/823
 ---
 

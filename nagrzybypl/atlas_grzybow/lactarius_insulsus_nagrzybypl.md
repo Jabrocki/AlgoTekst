@@ -1,5 +1,5 @@
 ---
-name: Lactarius insulsus
+latin_name: Lactarius insulsus
 source: https://www.nagrzyby.pl/atlas/498
 ---
 

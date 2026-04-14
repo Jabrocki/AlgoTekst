@@ -1,5 +1,5 @@
 ---
-name: Morchella steppicola
+latin_name: Morchella steppicola
 source: https://www.nagrzyby.pl/atlas/4577
 ---
 

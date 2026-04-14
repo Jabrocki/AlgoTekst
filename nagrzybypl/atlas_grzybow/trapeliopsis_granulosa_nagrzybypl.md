@@ -1,5 +1,5 @@
 ---
-name: Trapeliopsis granulosa
+latin_name: Trapeliopsis granulosa
 source: https://www.nagrzyby.pl/atlas/5315
 ---
 

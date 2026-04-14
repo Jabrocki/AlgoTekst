@@ -1,5 +1,5 @@
 ---
-name: Entoloma conferendum
+latin_name: Entoloma conferendum
 source: https://www.nagrzyby.pl/atlas/954
 ---
 

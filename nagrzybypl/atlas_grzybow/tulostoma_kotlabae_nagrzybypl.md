@@ -1,5 +1,5 @@
 ---
-name: Tulostoma kotlabae
+latin_name: Tulostoma kotlabae
 source: https://www.nagrzyby.pl/atlas/1637
 ---
 

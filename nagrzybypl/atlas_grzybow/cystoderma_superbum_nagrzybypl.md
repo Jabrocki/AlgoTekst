@@ -1,5 +1,5 @@
 ---
-name: Cystoderma superbum
+latin_name: Cystoderma superbum
 source: https://www.nagrzyby.pl/atlas/2298
 ---
 

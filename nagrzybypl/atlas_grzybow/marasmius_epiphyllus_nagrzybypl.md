@@ -1,5 +1,5 @@
 ---
-name: Marasmius epiphyllus
+latin_name: Marasmius epiphyllus
 source: https://www.nagrzyby.pl/atlas/5120
 ---
 

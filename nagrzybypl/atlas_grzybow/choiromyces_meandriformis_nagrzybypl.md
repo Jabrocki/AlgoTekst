@@ -1,5 +1,5 @@
 ---
-name: Choiromyces meandriformis
+latin_name: Choiromyces meandriformis
 source: https://www.nagrzyby.pl/atlas/287
 ---
 

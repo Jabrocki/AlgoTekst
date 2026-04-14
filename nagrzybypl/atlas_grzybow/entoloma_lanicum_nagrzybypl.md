@@ -1,5 +1,5 @@
 ---
-name: Entoloma lanicum
+latin_name: Entoloma lanicum
 source: https://www.nagrzyby.pl/atlas/4769
 ---
 

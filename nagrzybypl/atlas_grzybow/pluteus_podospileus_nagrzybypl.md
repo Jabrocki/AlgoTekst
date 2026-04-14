@@ -1,5 +1,5 @@
 ---
-name: Pluteus podospileus
+latin_name: Pluteus podospileus
 source: https://www.nagrzyby.pl/atlas/1188
 ---
 

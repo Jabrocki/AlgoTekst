@@ -1,5 +1,5 @@
 ---
-name: Russula intermedia
+latin_name: Russula intermedia
 source: https://www.nagrzyby.pl/atlas/816
 ---
 

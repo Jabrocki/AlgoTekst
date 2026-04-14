@@ -1,5 +1,5 @@
 ---
-name: Mycena metata
+latin_name: Mycena metata
 source: https://www.nagrzyby.pl/atlas/964
 ---
 

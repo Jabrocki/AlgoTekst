@@ -1,5 +1,5 @@
 ---
-name: Hymenogaster citrinus
+latin_name: Hymenogaster citrinus
 source: https://www.nagrzyby.pl/atlas/5842
 ---
 

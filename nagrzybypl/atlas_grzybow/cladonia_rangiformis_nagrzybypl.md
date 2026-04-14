@@ -1,5 +1,5 @@
 ---
-name: Cladonia rangiformis
+latin_name: Cladonia rangiformis
 source: https://www.nagrzyby.pl/atlas/5163
 ---
 

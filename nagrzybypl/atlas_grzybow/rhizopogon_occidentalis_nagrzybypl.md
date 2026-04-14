@@ -1,5 +1,5 @@
 ---
-name: Rhizopogon occidentalis
+latin_name: Rhizopogon occidentalis
 source: https://www.nagrzyby.pl/atlas/5873
 ---
 

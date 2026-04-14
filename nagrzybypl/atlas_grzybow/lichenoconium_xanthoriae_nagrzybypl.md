@@ -1,5 +1,5 @@
 ---
-name: Lichenoconium xanthoriae
+latin_name: Lichenoconium xanthoriae
 source: https://www.nagrzyby.pl/atlas/5485
 ---
 

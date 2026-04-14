@@ -1,5 +1,5 @@
 ---
-name: Peniophora cinerea
+latin_name: Peniophora cinerea
 source: https://www.nagrzyby.pl/atlas/5098
 ---
 

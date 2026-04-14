@@ -1,5 +1,5 @@
 ---
-name: Bulbillomyces farinosus
+latin_name: Bulbillomyces farinosus
 source: https://www.nagrzyby.pl/atlas/1903
 ---
 

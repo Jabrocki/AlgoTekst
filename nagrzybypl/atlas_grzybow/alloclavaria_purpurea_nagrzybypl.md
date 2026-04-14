@@ -1,5 +1,5 @@
 ---
-name: Alloclavaria purpurea
+latin_name: Alloclavaria purpurea
 source: https://www.nagrzyby.pl/atlas/1376
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Calicium viride
+latin_name: Calicium viride
 source: https://www.nagrzyby.pl/atlas/5464
 ---
 

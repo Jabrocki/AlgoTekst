@@ -1,5 +1,5 @@
 ---
-name: Piptoporus betulinus
+latin_name: Piptoporus betulinus
 source: https://www.nagrzyby.pl/atlas/353
 ---
 

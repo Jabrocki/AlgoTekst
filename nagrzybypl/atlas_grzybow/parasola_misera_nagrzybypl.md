@@ -1,5 +1,5 @@
 ---
-name: Parasola misera
+latin_name: Parasola misera
 source: https://www.nagrzyby.pl/atlas/1023
 ---
 

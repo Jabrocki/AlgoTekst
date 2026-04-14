@@ -1,5 +1,5 @@
 ---
-name: Inocybe phaeodisca
+latin_name: Inocybe phaeodisca
 source: https://www.nagrzyby.pl/atlas/2380
 ---
 

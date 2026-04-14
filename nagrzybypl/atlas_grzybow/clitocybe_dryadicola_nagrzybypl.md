@@ -1,5 +1,5 @@
 ---
-name: Clitocybe dryadicola
+latin_name: Clitocybe dryadicola
 source: https://www.nagrzyby.pl/atlas/1988
 ---
 

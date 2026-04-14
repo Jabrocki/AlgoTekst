@@ -1,5 +1,5 @@
 ---
-name: Cladonia stellaris
+latin_name: Cladonia stellaris
 source: https://www.nagrzyby.pl/atlas/5154
 ---
 

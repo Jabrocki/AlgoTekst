@@ -1,5 +1,5 @@
 ---
-name: Cortinarius glaucopus
+latin_name: Cortinarius glaucopus
 source: https://www.nagrzyby.pl/atlas/2178
 ---
 

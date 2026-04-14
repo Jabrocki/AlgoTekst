@@ -1,5 +1,5 @@
 ---
-name: Asterophora lycoperdoides
+latin_name: Asterophora lycoperdoides
 source: https://www.nagrzyby.pl/atlas/1870
 ---
 

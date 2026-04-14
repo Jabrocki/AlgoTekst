@@ -1,5 +1,5 @@
 ---
-name: Entoloma turci
+latin_name: Entoloma turci
 source: https://www.nagrzyby.pl/atlas/4798
 ---
 

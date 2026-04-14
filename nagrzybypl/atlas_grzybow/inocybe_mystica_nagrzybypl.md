@@ -1,5 +1,5 @@
 ---
-name: Inocybe mystica
+latin_name: Inocybe mystica
 source: https://www.nagrzyby.pl/atlas/2376
 ---
 

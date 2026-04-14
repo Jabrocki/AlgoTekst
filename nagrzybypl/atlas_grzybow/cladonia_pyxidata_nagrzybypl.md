@@ -1,5 +1,5 @@
 ---
-name: Cladonia pyxidata
+latin_name: Cladonia pyxidata
 source: https://www.nagrzyby.pl/atlas/5164
 ---
 

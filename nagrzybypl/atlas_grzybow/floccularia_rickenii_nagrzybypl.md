@@ -1,5 +1,5 @@
 ---
-name: Floccularia rickenii
+latin_name: Floccularia rickenii
 source: https://www.nagrzyby.pl/atlas/4976
 ---
 

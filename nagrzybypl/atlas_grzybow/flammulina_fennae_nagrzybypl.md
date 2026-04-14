@@ -1,5 +1,5 @@
 ---
-name: Flammulina fennae
+latin_name: Flammulina fennae
 source: https://www.nagrzyby.pl/atlas/1630
 ---
 

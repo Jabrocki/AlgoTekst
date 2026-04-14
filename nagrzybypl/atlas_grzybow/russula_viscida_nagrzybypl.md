@@ -1,5 +1,5 @@
 ---
-name: Russula viscida
+latin_name: Russula viscida
 source: https://www.nagrzyby.pl/atlas/848
 ---
 

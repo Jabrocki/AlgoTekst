@@ -1,5 +1,5 @@
 ---
-name: Peltigera leucophlebia
+latin_name: Peltigera leucophlebia
 source: https://www.nagrzyby.pl/atlas/5360
 ---
 

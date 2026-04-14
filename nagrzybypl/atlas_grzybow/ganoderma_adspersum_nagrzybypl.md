@@ -1,5 +1,5 @@
 ---
-name: Ganoderma adspersum
+latin_name: Ganoderma adspersum
 source: https://www.nagrzyby.pl/atlas/1126
 ---
 

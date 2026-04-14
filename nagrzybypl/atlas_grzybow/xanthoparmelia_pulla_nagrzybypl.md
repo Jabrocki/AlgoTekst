@@ -1,5 +1,5 @@
 ---
-name: Xanthoparmelia pulla
+latin_name: Xanthoparmelia pulla
 source: https://www.nagrzyby.pl/atlas/5186
 ---
 

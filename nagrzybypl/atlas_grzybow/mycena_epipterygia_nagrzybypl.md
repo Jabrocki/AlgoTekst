@@ -1,5 +1,5 @@
 ---
-name: Mycena epipterygia
+latin_name: Mycena epipterygia
 source: https://www.nagrzyby.pl/atlas/646
 ---
 

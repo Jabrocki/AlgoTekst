@@ -1,5 +1,5 @@
 ---
-name: Daldinia fissa
+latin_name: Daldinia fissa
 source: https://www.nagrzyby.pl/atlas/5645
 ---
 

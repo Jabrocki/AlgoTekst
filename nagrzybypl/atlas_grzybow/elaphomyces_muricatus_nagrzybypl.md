@@ -1,5 +1,5 @@
 ---
-name: Elaphomyces muricatus
+latin_name: Elaphomyces muricatus
 source: https://www.nagrzyby.pl/atlas/1145
 ---
 

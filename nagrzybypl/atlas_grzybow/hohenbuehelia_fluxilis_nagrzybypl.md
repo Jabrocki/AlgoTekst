@@ -1,5 +1,5 @@
 ---
-name: Hohenbuehelia fluxilis
+latin_name: Hohenbuehelia fluxilis
 source: https://www.nagrzyby.pl/atlas/4441
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Irpex lacteus
+latin_name: Irpex lacteus
 source: https://www.nagrzyby.pl/atlas/4043
 ---
 

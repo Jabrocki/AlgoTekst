@@ -1,5 +1,5 @@
 ---
-name: Monilinia oxycocci
+latin_name: Monilinia oxycocci
 source: https://www.nagrzyby.pl/atlas/5777
 ---
 

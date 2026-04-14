@@ -1,5 +1,5 @@
 ---
-name: Lentinus tigrinus
+latin_name: Lentinus tigrinus
 source: https://www.nagrzyby.pl/atlas/543
 ---
 

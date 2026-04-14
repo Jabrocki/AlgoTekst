@@ -1,5 +1,5 @@
 ---
-name: Tricholoma stiparophyllum
+latin_name: Tricholoma stiparophyllum
 source: https://www.nagrzyby.pl/atlas/1005
 ---
 

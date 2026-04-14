@@ -1,5 +1,5 @@
 ---
-name: Lactarius citriolens
+latin_name: Lactarius citriolens
 source: https://www.nagrzyby.pl/atlas/1791
 ---
 

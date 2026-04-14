@@ -1,5 +1,5 @@
 ---
-name: Miriquidica nigroleprosa
+latin_name: Miriquidica nigroleprosa
 source: https://www.nagrzyby.pl/atlas/5206
 ---
 

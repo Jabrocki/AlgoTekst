@@ -1,5 +1,5 @@
 ---
-name: Lactarius violascens
+latin_name: Lactarius violascens
 source: https://www.nagrzyby.pl/atlas/1799
 ---
 

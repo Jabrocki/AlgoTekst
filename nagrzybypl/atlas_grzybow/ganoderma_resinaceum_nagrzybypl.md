@@ -1,5 +1,5 @@
 ---
-name: Ganoderma resinaceum
+latin_name: Ganoderma resinaceum
 source: https://www.nagrzyby.pl/atlas/1732
 ---
 

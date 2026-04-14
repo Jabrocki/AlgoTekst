@@ -1,5 +1,5 @@
 ---
-name: Amanita gemmata
+latin_name: Amanita gemmata
 source: https://www.nagrzyby.pl/atlas/285
 ---
 

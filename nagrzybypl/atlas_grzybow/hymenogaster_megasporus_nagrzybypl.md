@@ -1,5 +1,5 @@
 ---
-name: Hymenogaster megasporus
+latin_name: Hymenogaster megasporus
 source: https://www.nagrzyby.pl/atlas/5848
 ---
 

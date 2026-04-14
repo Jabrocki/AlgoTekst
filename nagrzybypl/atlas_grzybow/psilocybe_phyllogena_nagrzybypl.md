@@ -1,5 +1,5 @@
 ---
-name: Psilocybe phyllogena
+latin_name: Psilocybe phyllogena
 source: https://www.nagrzyby.pl/atlas/1918
 ---
 

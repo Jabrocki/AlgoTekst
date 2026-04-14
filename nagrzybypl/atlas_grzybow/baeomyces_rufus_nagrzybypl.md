@@ -1,5 +1,5 @@
 ---
-name: Baeomyces rufus
+latin_name: Baeomyces rufus
 source: https://www.nagrzyby.pl/atlas/2510
 ---
 

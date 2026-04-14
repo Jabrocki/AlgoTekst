@@ -1,5 +1,5 @@
 ---
-name: Ramaria subbotrytis
+latin_name: Ramaria subbotrytis
 source: https://www.nagrzyby.pl/atlas/704
 ---
 

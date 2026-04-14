@@ -1,5 +1,5 @@
 ---
-name: Hemimycena lactea
+latin_name: Hemimycena lactea
 source: https://www.nagrzyby.pl/atlas/955
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Kretzschmaria deusta
+latin_name: Kretzschmaria deusta
 source: https://www.nagrzyby.pl/atlas/280
 ---
 

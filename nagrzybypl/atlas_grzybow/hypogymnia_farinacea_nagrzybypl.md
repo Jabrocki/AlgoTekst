@@ -1,5 +1,5 @@
 ---
-name: Hypogymnia farinacea
+latin_name: Hypogymnia farinacea
 source: https://www.nagrzyby.pl/atlas/5410
 ---
 

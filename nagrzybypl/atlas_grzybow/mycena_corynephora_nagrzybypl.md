@@ -1,5 +1,5 @@
 ---
-name: Mycena corynephora
+latin_name: Mycena corynephora
 source: https://www.nagrzyby.pl/atlas/1091
 ---
 

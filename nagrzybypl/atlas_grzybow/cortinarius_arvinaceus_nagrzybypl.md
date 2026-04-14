@@ -1,5 +1,5 @@
 ---
-name: Cortinarius arvinaceus
+latin_name: Cortinarius arvinaceus
 source: https://www.nagrzyby.pl/atlas/2124
 ---
 

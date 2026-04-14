@@ -1,5 +1,5 @@
 ---
-name: Puccinia komarovii
+latin_name: Puccinia komarovii
 source: https://www.nagrzyby.pl/atlas/5580
 ---
 

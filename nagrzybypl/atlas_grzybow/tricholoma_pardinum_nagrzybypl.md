@@ -1,5 +1,5 @@
 ---
-name: Tricholoma pardinum
+latin_name: Tricholoma pardinum
 source: https://www.nagrzyby.pl/atlas/996
 ---
 

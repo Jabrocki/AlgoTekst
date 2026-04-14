@@ -1,5 +1,5 @@
 ---
-name: Inocybe splendens
+latin_name: Inocybe splendens
 source: https://www.nagrzyby.pl/atlas/2393
 ---
 

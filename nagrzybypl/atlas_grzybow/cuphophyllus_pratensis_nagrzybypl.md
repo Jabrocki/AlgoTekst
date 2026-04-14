@@ -1,5 +1,5 @@
 ---
-name: Cuphophyllus pratensis
+latin_name: Cuphophyllus pratensis
 source: https://www.nagrzyby.pl/atlas/4545
 ---
 

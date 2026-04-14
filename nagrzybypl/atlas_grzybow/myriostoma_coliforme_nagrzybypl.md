@@ -1,5 +1,5 @@
 ---
-name: Myriostoma coliforme
+latin_name: Myriostoma coliforme
 source: https://www.nagrzyby.pl/atlas/293
 ---
 

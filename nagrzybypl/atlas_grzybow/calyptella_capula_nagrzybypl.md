@@ -1,5 +1,5 @@
 ---
-name: Calyptella capula
+latin_name: Calyptella capula
 source: https://www.nagrzyby.pl/atlas/1941
 ---
 

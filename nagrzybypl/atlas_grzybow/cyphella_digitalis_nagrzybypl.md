@@ -1,5 +1,5 @@
 ---
-name: Cyphella digitalis
+latin_name: Cyphella digitalis
 source: https://www.nagrzyby.pl/atlas/2295
 ---
 

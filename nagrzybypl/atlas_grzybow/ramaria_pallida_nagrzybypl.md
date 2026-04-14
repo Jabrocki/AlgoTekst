@@ -1,5 +1,5 @@
 ---
-name: Ramaria pallida
+latin_name: Ramaria pallida
 source: https://www.nagrzyby.pl/atlas/1053
 ---
 

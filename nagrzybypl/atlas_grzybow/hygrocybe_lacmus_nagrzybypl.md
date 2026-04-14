@@ -1,5 +1,5 @@
 ---
-name: Hygrocybe lacmus
+latin_name: Hygrocybe lacmus
 source: https://www.nagrzyby.pl/atlas/4221
 ---
 

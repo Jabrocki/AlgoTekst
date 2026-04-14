@@ -1,5 +1,5 @@
 ---
-name: Amanita submembranacea
+latin_name: Amanita submembranacea
 source: https://www.nagrzyby.pl/atlas/1853
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Propolis farinosa
+latin_name: Propolis farinosa
 source: https://www.nagrzyby.pl/atlas/5639
 ---
 

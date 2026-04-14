@@ -1,5 +1,5 @@
 ---
-name: Cortinarius helveolus
+latin_name: Cortinarius helveolus
 source: https://www.nagrzyby.pl/atlas/2182
 ---
 

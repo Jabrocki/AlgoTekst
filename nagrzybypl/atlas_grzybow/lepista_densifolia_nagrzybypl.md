@@ -1,5 +1,5 @@
 ---
-name: Lepista densifolia
+latin_name: Lepista densifolia
 source: https://www.nagrzyby.pl/atlas/1015
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Tricholoma sudum
+latin_name: Tricholoma sudum
 source: https://www.nagrzyby.pl/atlas/992
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Entoloma percandidum
+latin_name: Entoloma percandidum
 source: https://www.nagrzyby.pl/atlas/4778
 ---
 

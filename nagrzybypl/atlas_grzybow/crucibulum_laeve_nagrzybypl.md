@@ -1,5 +1,5 @@
 ---
-name: Crucibulum laeve
+latin_name: Crucibulum laeve
 source: https://www.nagrzyby.pl/atlas/434
 ---
 

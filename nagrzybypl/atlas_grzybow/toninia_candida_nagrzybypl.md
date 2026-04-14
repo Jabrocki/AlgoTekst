@@ -1,5 +1,5 @@
 ---
-name: Toninia candida
+latin_name: Toninia candida
 source: https://www.nagrzyby.pl/atlas/5479
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Tubifera ferruginosa
+latin_name: Tubifera ferruginosa
 source: https://www.nagrzyby.pl/atlas/489
 ---
 

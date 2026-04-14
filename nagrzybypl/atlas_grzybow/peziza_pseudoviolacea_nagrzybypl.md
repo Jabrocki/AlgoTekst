@@ -1,5 +1,5 @@
 ---
-name: Peziza pseudoviolacea
+latin_name: Peziza pseudoviolacea
 source: https://www.nagrzyby.pl/atlas/1294
 ---
 

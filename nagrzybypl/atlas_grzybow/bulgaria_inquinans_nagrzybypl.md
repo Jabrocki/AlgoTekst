@@ -1,5 +1,5 @@
 ---
-name: Bulgaria inquinans
+latin_name: Bulgaria inquinans
 source: https://www.nagrzyby.pl/atlas/457
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Psathyrella ammophila
+latin_name: Psathyrella ammophila
 source: https://www.nagrzyby.pl/atlas/5936
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Diatrype disciformis
+latin_name: Diatrype disciformis
 source: https://www.nagrzyby.pl/atlas/4013
 ---
 

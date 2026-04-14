@@ -1,5 +1,5 @@
 ---
-name: Encoelia fascicularis
+latin_name: Encoelia fascicularis
 source: https://www.nagrzyby.pl/atlas/4707
 ---
 

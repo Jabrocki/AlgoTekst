@@ -1,5 +1,5 @@
 ---
-name: Cortinarius subtortus
+latin_name: Cortinarius subtortus
 source: https://www.nagrzyby.pl/atlas/2256
 ---
 

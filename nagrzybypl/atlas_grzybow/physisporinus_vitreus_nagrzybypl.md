@@ -1,5 +1,5 @@
 ---
-name: Physisporinus vitreus
+latin_name: Physisporinus vitreus
 source: https://www.nagrzyby.pl/atlas/4000
 ---
 

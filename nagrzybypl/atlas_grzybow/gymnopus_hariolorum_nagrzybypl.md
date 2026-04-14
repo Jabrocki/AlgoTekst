@@ -1,5 +1,5 @@
 ---
-name: Gymnopus hariolorum
+latin_name: Gymnopus hariolorum
 source: https://www.nagrzyby.pl/atlas/1426
 ---
 

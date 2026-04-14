@@ -1,5 +1,5 @@
 ---
-name: Fibroporia vaillantii
+latin_name: Fibroporia vaillantii
 source: https://www.nagrzyby.pl/atlas/2319
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Hymenogaster mutabilis
+latin_name: Hymenogaster mutabilis
 source: https://www.nagrzyby.pl/atlas/5849
 ---
 

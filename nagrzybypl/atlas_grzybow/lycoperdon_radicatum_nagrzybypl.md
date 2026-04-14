@@ -1,5 +1,5 @@
 ---
-name: Lycoperdon radicatum
+latin_name: Lycoperdon radicatum
 source: https://www.nagrzyby.pl/atlas/1900
 ---
 

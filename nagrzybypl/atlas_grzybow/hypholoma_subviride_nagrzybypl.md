@@ -1,5 +1,5 @@
 ---
-name: Hypholoma subviride
+latin_name: Hypholoma subviride
 source: https://www.nagrzyby.pl/atlas/1504
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Cladonia portentosa
+latin_name: Cladonia portentosa
 source: https://www.nagrzyby.pl/atlas/5161
 ---
 

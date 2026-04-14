@@ -1,5 +1,5 @@
 ---
-name: Octaviania mutabilis
+latin_name: Octaviania mutabilis
 source: https://www.nagrzyby.pl/atlas/5870
 ---
 

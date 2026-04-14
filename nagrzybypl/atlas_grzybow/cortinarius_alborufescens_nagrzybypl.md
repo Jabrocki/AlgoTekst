@@ -1,5 +1,5 @@
 ---
-name: Cortinarius alborufescens
+latin_name: Cortinarius alborufescens
 source: https://www.nagrzyby.pl/atlas/5595
 ---
 

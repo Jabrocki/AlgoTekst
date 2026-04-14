@@ -1,5 +1,5 @@
 ---
-name: Rheubarbariboletus armeniacus
+latin_name: Rheubarbariboletus armeniacus
 source: https://www.nagrzyby.pl/atlas/766
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Conocybe semiglobata varietas campanulata
+latin_name: Conocybe semiglobata varietas campanulata
 source: https://www.nagrzyby.pl/atlas/5111
 ---
 

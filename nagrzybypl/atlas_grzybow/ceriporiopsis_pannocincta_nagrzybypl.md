@@ -1,5 +1,5 @@
 ---
-name: Ceriporiopsis pannocincta
+latin_name: Ceriporiopsis pannocincta
 source: https://www.nagrzyby.pl/atlas/1963
 ---
 

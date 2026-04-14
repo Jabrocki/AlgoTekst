@@ -1,5 +1,5 @@
 ---
-name: Entoloma parkensis
+latin_name: Entoloma parkensis
 source: https://www.nagrzyby.pl/atlas/4776
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Macrolepiota prominens
+latin_name: Macrolepiota prominens
 source: https://www.nagrzyby.pl/atlas/1211
 ---
 

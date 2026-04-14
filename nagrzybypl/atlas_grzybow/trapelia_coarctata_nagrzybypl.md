@@ -1,5 +1,5 @@
 ---
-name: Trapelia coarctata
+latin_name: Trapelia coarctata
 source: https://www.nagrzyby.pl/atlas/5201
 ---
 

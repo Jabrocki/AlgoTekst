@@ -1,5 +1,5 @@
 ---
-name: Rubroboletus lupinus
+latin_name: Rubroboletus lupinus
 source: https://www.nagrzyby.pl/atlas/790
 ---
 

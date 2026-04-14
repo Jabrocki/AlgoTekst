@@ -1,5 +1,5 @@
 ---
-name: Cortinarius acutus
+latin_name: Cortinarius acutus
 source: https://www.nagrzyby.pl/atlas/2109
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Ceriporiopsis gilvescens
+latin_name: Ceriporiopsis gilvescens
 source: https://www.nagrzyby.pl/atlas/1960
 ---
 

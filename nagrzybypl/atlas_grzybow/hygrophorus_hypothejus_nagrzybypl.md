@@ -1,5 +1,5 @@
 ---
-name: Hygrophorus hypothejus
+latin_name: Hygrophorus hypothejus
 source: https://www.nagrzyby.pl/atlas/382
 ---
 

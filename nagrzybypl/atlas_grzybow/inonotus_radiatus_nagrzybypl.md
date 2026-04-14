@@ -1,5 +1,5 @@
 ---
-name: Inonotus radiatus
+latin_name: Inonotus radiatus
 source: https://www.nagrzyby.pl/atlas/1119
 ---
 

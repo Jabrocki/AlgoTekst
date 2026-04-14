@@ -1,5 +1,5 @@
 ---
-name: Umbilicaria torrefacta
+latin_name: Umbilicaria torrefacta
 source: https://www.nagrzyby.pl/atlas/5603
 ---
 

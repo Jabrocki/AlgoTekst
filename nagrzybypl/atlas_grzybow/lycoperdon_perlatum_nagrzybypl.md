@@ -1,5 +1,5 @@
 ---
-name: Lycoperdon perlatum
+latin_name: Lycoperdon perlatum
 source: https://www.nagrzyby.pl/atlas/361
 ---
 

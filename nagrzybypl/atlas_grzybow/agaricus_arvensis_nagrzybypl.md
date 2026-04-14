@@ -1,5 +1,5 @@
 ---
-name: Agaricus arvensis
+latin_name: Agaricus arvensis
 source: https://www.nagrzyby.pl/atlas/340
 ---
 

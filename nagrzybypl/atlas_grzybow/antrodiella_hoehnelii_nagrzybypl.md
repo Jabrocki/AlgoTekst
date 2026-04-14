@@ -1,5 +1,5 @@
 ---
-name: Antrodiella hoehnelii
+latin_name: Antrodiella hoehnelii
 source: https://www.nagrzyby.pl/atlas/1113
 ---
 

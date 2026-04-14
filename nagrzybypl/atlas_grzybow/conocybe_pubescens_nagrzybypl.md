@@ -1,5 +1,5 @@
 ---
-name: Conocybe pubescens
+latin_name: Conocybe pubescens
 source: https://www.nagrzyby.pl/atlas/2043
 ---
 

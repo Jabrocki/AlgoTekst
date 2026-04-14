@@ -1,5 +1,5 @@
 ---
-name: Hymenogaster decorus
+latin_name: Hymenogaster decorus
 source: https://www.nagrzyby.pl/atlas/5843
 ---
 

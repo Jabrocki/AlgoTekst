@@ -1,5 +1,5 @@
 ---
-name: Rusavskia sorediata
+latin_name: Rusavskia sorediata
 source: https://www.nagrzyby.pl/atlas/5224
 ---
 

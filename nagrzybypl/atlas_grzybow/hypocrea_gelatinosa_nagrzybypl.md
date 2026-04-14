@@ -1,5 +1,5 @@
 ---
-name: Hypocrea gelatinosa
+latin_name: Hypocrea gelatinosa
 source: https://www.nagrzyby.pl/atlas/4703
 ---
 

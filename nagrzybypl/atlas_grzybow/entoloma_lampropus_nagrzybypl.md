@@ -1,5 +1,5 @@
 ---
-name: Entoloma lampropus
+latin_name: Entoloma lampropus
 source: https://www.nagrzyby.pl/atlas/4284
 ---
 

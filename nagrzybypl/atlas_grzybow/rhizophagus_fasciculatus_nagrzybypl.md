@@ -1,5 +1,5 @@
 ---
-name: Rhizophagus fasciculatus
+latin_name: Rhizophagus fasciculatus
 source: https://www.nagrzyby.pl/atlas/5835
 ---
 

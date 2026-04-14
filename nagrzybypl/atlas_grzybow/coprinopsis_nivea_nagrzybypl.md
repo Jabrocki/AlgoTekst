@@ -1,5 +1,5 @@
 ---
-name: Coprinopsis nivea
+latin_name: Coprinopsis nivea
 source: https://www.nagrzyby.pl/atlas/526
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Mycena olida
+latin_name: Mycena olida
 source: https://www.nagrzyby.pl/atlas/1079
 ---
 

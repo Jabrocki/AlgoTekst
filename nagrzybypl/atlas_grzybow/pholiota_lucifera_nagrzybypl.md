@@ -1,5 +1,5 @@
 ---
-name: Pholiota lucifera
+latin_name: Pholiota lucifera
 source: https://www.nagrzyby.pl/atlas/1406
 ---
 

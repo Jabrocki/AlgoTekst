@@ -1,5 +1,5 @@
 ---
-name: Lactarius controversus
+latin_name: Lactarius controversus
 source: https://www.nagrzyby.pl/atlas/773
 ---
 

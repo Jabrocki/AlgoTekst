@@ -1,5 +1,5 @@
 ---
-name: Ossicaulis lignatilis
+latin_name: Ossicaulis lignatilis
 source: https://www.nagrzyby.pl/atlas/1601
 ---
 

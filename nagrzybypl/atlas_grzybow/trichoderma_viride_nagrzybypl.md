@@ -1,5 +1,5 @@
 ---
-name: Trichoderma viride
+latin_name: Trichoderma viride
 source: https://www.nagrzyby.pl/atlas/4828
 ---
 

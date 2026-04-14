@@ -1,5 +1,5 @@
 ---
-name: Lactarius quietus
+latin_name: Lactarius quietus
 source: https://www.nagrzyby.pl/atlas/800
 ---
 

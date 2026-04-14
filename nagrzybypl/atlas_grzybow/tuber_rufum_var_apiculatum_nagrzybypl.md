@@ -1,5 +1,5 @@
 ---
-name: Tuber rufum var apiculatum
+latin_name: Tuber rufum var apiculatum
 source: https://www.nagrzyby.pl/atlas/4838
 ---
 

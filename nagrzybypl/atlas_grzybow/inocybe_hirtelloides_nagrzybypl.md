@@ -1,5 +1,5 @@
 ---
-name: Inocybe hirtelloides
+latin_name: Inocybe hirtelloides
 source: https://www.nagrzyby.pl/atlas/2358
 ---
 

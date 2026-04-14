@@ -1,5 +1,5 @@
 ---
-name: Postia placenta
+latin_name: Postia placenta
 source: https://www.nagrzyby.pl/atlas/5128
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Inocybe geophylla
+latin_name: Inocybe geophylla
 source: https://www.nagrzyby.pl/atlas/899
 ---
 

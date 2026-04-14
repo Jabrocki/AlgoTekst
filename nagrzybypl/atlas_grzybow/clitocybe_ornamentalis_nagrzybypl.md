@@ -1,5 +1,5 @@
 ---
-name: Clitocybe ornamentalis
+latin_name: Clitocybe ornamentalis
 source: https://www.nagrzyby.pl/atlas/1994
 ---
 

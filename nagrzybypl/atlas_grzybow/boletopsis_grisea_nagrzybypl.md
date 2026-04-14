@@ -1,5 +1,5 @@
 ---
-name: Boletopsis grisea
+latin_name: Boletopsis grisea
 source: https://www.nagrzyby.pl/atlas/613
 ---
 

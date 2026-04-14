@@ -1,5 +1,5 @@
 ---
-name: Hypomyces aurantius
+latin_name: Hypomyces aurantius
 source: https://www.nagrzyby.pl/atlas/5597
 ---
 

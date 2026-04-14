@@ -1,5 +1,5 @@
 ---
-name: Cystoderma amianthinum
+latin_name: Cystoderma amianthinum
 source: https://www.nagrzyby.pl/atlas/635
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Marasmius rotula
+latin_name: Marasmius rotula
 source: https://www.nagrzyby.pl/atlas/605
 ---
 

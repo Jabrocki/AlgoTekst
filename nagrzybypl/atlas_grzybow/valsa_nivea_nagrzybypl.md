@@ -1,5 +1,5 @@
 ---
-name: Valsa nivea
+latin_name: Valsa nivea
 source: https://www.nagrzyby.pl/atlas/5085
 ---
 

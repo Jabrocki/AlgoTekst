@@ -1,5 +1,5 @@
 ---
-name: Polyporus squamosus
+latin_name: Polyporus squamosus
 source: https://www.nagrzyby.pl/atlas/174
 ---
 

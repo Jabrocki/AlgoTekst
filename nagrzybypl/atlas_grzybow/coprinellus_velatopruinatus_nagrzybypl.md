@@ -1,5 +1,5 @@
 ---
-name: Coprinellus velatopruinatus
+latin_name: Coprinellus velatopruinatus
 source: https://www.nagrzyby.pl/atlas/5430
 ---
 

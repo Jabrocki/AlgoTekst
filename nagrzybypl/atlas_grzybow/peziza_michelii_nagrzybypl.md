@@ -1,5 +1,5 @@
 ---
-name: Peziza michelii
+latin_name: Peziza michelii
 source: https://www.nagrzyby.pl/atlas/1267
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Panaeolus  guttulatus
+latin_name: Panaeolus  guttulatus
 source: https://www.nagrzyby.pl/atlas/4216
 ---
 

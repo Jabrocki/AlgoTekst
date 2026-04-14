@@ -1,5 +1,5 @@
 ---
-name: Diatrypella quercina
+latin_name: Diatrypella quercina
 source: https://www.nagrzyby.pl/atlas/5901
 ---
 

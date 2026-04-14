@@ -1,5 +1,5 @@
 ---
-name: Pleurotus ostreatus
+latin_name: Pleurotus ostreatus
 source: https://www.nagrzyby.pl/atlas/6
 ---
 

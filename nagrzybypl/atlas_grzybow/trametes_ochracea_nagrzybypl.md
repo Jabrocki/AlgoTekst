@@ -1,5 +1,5 @@
 ---
-name: Trametes ochracea
+latin_name: Trametes ochracea
 source: https://www.nagrzyby.pl/atlas/1108
 ---
 

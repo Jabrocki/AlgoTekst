@@ -1,5 +1,5 @@
 ---
-name: Hypoxylon fragiforme
+latin_name: Hypoxylon fragiforme
 source: https://www.nagrzyby.pl/atlas/22
 ---
 

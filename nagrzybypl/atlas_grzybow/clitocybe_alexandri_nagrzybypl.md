@@ -1,5 +1,5 @@
 ---
-name: Clitocybe alexandri
+latin_name: Clitocybe alexandri
 source: https://www.nagrzyby.pl/atlas/1586
 ---
 

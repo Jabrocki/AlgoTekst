@@ -1,5 +1,5 @@
 ---
-name: Geastrum pectinatum
+latin_name: Geastrum pectinatum
 source: https://www.nagrzyby.pl/atlas/441
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Hymenogaster verrucosus
+latin_name: Hymenogaster verrucosus
 source: https://www.nagrzyby.pl/atlas/5857
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Calvitimela armeniaca
+latin_name: Calvitimela armeniaca
 source: https://www.nagrzyby.pl/atlas/5546
 ---
 

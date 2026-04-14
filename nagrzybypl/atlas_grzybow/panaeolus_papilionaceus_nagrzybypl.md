@@ -1,5 +1,5 @@
 ---
-name: Panaeolus papilionaceus
+latin_name: Panaeolus papilionaceus
 source: https://www.nagrzyby.pl/atlas/1520
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Clitocybe amarescens
+latin_name: Clitocybe amarescens
 source: https://www.nagrzyby.pl/atlas/1982
 ---
 

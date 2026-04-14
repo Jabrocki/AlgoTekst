@@ -1,5 +1,5 @@
 ---
-name: Lycogala conicum
+latin_name: Lycogala conicum
 source: https://www.nagrzyby.pl/atlas/5739
 ---
 

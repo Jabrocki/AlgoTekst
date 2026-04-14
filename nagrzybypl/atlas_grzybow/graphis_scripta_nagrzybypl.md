@@ -1,5 +1,5 @@
 ---
-name: Graphis scripta
+latin_name: Graphis scripta
 source: https://www.nagrzyby.pl/atlas/5261
 ---
 

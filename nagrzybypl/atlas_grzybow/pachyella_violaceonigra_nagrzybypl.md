@@ -1,5 +1,5 @@
 ---
-name: Pachyella violaceonigra
+latin_name: Pachyella violaceonigra
 source: https://www.nagrzyby.pl/atlas/5912
 ---
 

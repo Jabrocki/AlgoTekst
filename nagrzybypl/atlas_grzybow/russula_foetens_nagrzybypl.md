@@ -1,5 +1,5 @@
 ---
-name: Russula foetens
+latin_name: Russula foetens
 source: https://www.nagrzyby.pl/atlas/120
 ---
 

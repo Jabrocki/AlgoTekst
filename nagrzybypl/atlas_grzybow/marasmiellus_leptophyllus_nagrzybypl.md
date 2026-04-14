@@ -1,5 +1,5 @@
 ---
-name: Marasmiellus leptophyllus
+latin_name: Marasmiellus leptophyllus
 source: https://www.nagrzyby.pl/atlas/2436
 ---
 

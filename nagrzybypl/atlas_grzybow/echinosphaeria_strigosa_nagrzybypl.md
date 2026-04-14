@@ -1,5 +1,5 @@
 ---
-name: Echinosphaeria strigosa
+latin_name: Echinosphaeria strigosa
 source: https://www.nagrzyby.pl/atlas/5733
 ---
 

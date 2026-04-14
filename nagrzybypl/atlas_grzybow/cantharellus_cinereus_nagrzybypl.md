@@ -1,5 +1,5 @@
 ---
-name: Cantharellus cinereus
+latin_name: Cantharellus cinereus
 source: https://www.nagrzyby.pl/atlas/477
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Psathyrella clivensis
+latin_name: Psathyrella clivensis
 source: https://www.nagrzyby.pl/atlas/4732
 ---
 

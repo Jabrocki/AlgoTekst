@@ -1,5 +1,5 @@
 ---
-name: Rhizopogon parksii
+latin_name: Rhizopogon parksii
 source: https://www.nagrzyby.pl/atlas/5874
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Boletus ferrugineus
+latin_name: Boletus ferrugineus
 source: https://www.nagrzyby.pl/atlas/223
 ---
 

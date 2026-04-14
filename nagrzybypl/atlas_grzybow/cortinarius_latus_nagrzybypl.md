@@ -1,5 +1,5 @@
 ---
-name: Cortinarius latus
+latin_name: Cortinarius latus
 source: https://www.nagrzyby.pl/atlas/2195
 ---
 

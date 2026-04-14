@@ -1,5 +1,5 @@
 ---
-name: Athallia holocarpa
+latin_name: Athallia holocarpa
 source: https://www.nagrzyby.pl/atlas/5243
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Tricholoma terreum
+latin_name: Tricholoma terreum
 source: https://www.nagrzyby.pl/atlas/478
 ---
 

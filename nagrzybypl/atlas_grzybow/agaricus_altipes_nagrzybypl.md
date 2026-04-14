@@ -1,5 +1,5 @@
 ---
-name: Agaricus altipes
+latin_name: Agaricus altipes
 source: https://www.nagrzyby.pl/atlas/853
 ---
 

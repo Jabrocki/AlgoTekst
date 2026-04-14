@@ -1,5 +1,5 @@
 ---
-name: Melanohalea exasperatula
+latin_name: Melanohalea exasperatula
 source: https://www.nagrzyby.pl/atlas/5414
 ---
 

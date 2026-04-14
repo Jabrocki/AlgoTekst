@@ -1,5 +1,5 @@
 ---
-name: Conocybe pallidospora
+latin_name: Conocybe pallidospora
 source: https://www.nagrzyby.pl/atlas/2038
 ---
 

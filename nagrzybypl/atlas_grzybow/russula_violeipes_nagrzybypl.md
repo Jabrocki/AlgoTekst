@@ -1,5 +1,5 @@
 ---
-name: Russula violeipes
+latin_name: Russula violeipes
 source: https://www.nagrzyby.pl/atlas/591
 ---
 

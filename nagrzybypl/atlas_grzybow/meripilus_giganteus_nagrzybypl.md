@@ -1,5 +1,5 @@
 ---
-name: Meripilus giganteus
+latin_name: Meripilus giganteus
 source: https://www.nagrzyby.pl/atlas/94
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Psathyrella bipellis
+latin_name: Psathyrella bipellis
 source: https://www.nagrzyby.pl/atlas/4731
 ---
 

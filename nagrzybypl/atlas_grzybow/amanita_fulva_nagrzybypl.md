@@ -1,5 +1,5 @@
 ---
-name: Amanita fulva
+latin_name: Amanita fulva
 source: https://www.nagrzyby.pl/atlas/289
 ---
 

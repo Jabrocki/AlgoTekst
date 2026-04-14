@@ -1,5 +1,5 @@
 ---
-name: Achroomyces effusus
+latin_name: Achroomyces effusus
 source: https://www.nagrzyby.pl/atlas/4337
 ---
 

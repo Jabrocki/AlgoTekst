@@ -1,5 +1,5 @@
 ---
-name: Russula livescens
+latin_name: Russula livescens
 source: https://www.nagrzyby.pl/atlas/718
 ---
 

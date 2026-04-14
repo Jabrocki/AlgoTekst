@@ -1,5 +1,5 @@
 ---
-name: Lycoperdon caudatum
+latin_name: Lycoperdon caudatum
 source: https://www.nagrzyby.pl/atlas/1162
 ---
 

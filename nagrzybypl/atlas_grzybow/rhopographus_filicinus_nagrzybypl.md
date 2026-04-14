@@ -1,5 +1,5 @@
 ---
-name: Rhopographus filicinus
+latin_name: Rhopographus filicinus
 source: https://www.nagrzyby.pl/atlas/5646
 ---
 

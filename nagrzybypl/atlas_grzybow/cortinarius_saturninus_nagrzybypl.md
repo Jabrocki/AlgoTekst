@@ -1,5 +1,5 @@
 ---
-name: Cortinarius saturninus
+latin_name: Cortinarius saturninus
 source: https://www.nagrzyby.pl/atlas/2239
 ---
 

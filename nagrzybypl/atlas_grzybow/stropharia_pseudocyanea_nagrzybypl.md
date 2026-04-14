@@ -1,5 +1,5 @@
 ---
-name: Stropharia pseudocyanea
+latin_name: Stropharia pseudocyanea
 source: https://www.nagrzyby.pl/atlas/1491
 ---
 

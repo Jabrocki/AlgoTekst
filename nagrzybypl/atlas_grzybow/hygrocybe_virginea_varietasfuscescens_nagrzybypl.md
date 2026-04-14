@@ -1,5 +1,5 @@
 ---
-name: Hygrocybe virginea varietasfuscescens
+latin_name: Hygrocybe virginea varietasfuscescens
 source: https://www.nagrzyby.pl/atlas/5040
 ---
 

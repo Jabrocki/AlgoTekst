@@ -1,5 +1,5 @@
 ---
-name: Entoloma vernum
+latin_name: Entoloma vernum
 source: https://www.nagrzyby.pl/atlas/378
 ---
 

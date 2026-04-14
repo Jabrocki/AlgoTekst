@@ -1,5 +1,5 @@
 ---
-name: Trichoglossum walteri
+latin_name: Trichoglossum walteri
 source: https://www.nagrzyby.pl/atlas/5795
 ---
 

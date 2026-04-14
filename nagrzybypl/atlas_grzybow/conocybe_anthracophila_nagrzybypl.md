@@ -1,5 +1,5 @@
 ---
-name: Conocybe anthracophila
+latin_name: Conocybe anthracophila
 source: https://www.nagrzyby.pl/atlas/2018
 ---
 

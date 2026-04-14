@@ -1,5 +1,5 @@
 ---
-name: Rickenella fibula
+latin_name: Rickenella fibula
 source: https://www.nagrzyby.pl/atlas/505
 ---
 

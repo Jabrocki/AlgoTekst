@@ -1,5 +1,5 @@
 ---
-name: Placidium laciniatulum
+latin_name: Placidium laciniatulum
 source: https://www.nagrzyby.pl/atlas/5447
 ---
 

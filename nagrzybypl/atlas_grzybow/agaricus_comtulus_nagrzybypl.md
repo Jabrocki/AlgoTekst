@@ -1,5 +1,5 @@
 ---
-name: Agaricus comtulus
+latin_name: Agaricus comtulus
 source: https://www.nagrzyby.pl/atlas/876
 ---
 

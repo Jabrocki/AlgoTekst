@@ -1,5 +1,5 @@
 ---
-name: Stephanospora chilensis
+latin_name: Stephanospora chilensis
 source: https://www.nagrzyby.pl/atlas/5882
 ---
 

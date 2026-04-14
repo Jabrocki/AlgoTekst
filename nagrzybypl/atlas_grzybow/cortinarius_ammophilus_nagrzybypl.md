@@ -1,5 +1,5 @@
 ---
-name: Cortinarius ammophilus
+latin_name: Cortinarius ammophilus
 source: https://www.nagrzyby.pl/atlas/2114
 ---
 

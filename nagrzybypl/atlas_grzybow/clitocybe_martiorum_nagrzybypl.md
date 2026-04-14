@@ -1,5 +1,5 @@
 ---
-name: Clitocybe martiorum
+latin_name: Clitocybe martiorum
 source: https://www.nagrzyby.pl/atlas/1579
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Inonotus cuticularis
+latin_name: Inonotus cuticularis
 source: https://www.nagrzyby.pl/atlas/1121
 ---
 

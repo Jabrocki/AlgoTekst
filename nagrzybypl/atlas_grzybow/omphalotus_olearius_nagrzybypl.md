@@ -1,5 +1,5 @@
 ---
-name: Omphalotus olearius
+latin_name: Omphalotus olearius
 source: https://www.nagrzyby.pl/atlas/562
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Mitrula paludosa
+latin_name: Mitrula paludosa
 source: https://www.nagrzyby.pl/atlas/304
 ---
 

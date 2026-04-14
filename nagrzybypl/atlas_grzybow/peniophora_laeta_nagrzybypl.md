@@ -1,5 +1,5 @@
 ---
-name: Peniophora laeta
+latin_name: Peniophora laeta
 source: https://www.nagrzyby.pl/atlas/5099
 ---
 

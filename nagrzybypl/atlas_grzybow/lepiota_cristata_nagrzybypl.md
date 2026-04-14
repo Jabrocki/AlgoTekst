@@ -1,5 +1,5 @@
 ---
-name: Lepiota cristata
+latin_name: Lepiota cristata
 source: https://www.nagrzyby.pl/atlas/37
 ---
 

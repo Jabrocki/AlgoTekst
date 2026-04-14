@@ -1,5 +1,5 @@
 ---
-name: Sowerbyella radiculata
+latin_name: Sowerbyella radiculata
 source: https://www.nagrzyby.pl/atlas/5552
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Hygrocybe marchii
+latin_name: Hygrocybe marchii
 source: https://www.nagrzyby.pl/atlas/1255
 ---
 

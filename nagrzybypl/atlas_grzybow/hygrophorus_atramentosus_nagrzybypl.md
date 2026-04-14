@@ -1,5 +1,5 @@
 ---
-name: Hygrophorus atramentosus
+latin_name: Hygrophorus atramentosus
 source: https://www.nagrzyby.pl/atlas/4531
 ---
 

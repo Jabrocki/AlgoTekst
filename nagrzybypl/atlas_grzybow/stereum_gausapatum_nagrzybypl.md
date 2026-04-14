@@ -1,5 +1,5 @@
 ---
-name: Stereum gausapatum
+latin_name: Stereum gausapatum
 source: https://www.nagrzyby.pl/atlas/1133
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Coprinus comatus
+latin_name: Coprinus comatus
 source: https://www.nagrzyby.pl/atlas/31
 ---
 

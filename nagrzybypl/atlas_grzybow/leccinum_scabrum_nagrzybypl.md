@@ -1,5 +1,5 @@
 ---
-name: Leccinum scabrum
+latin_name: Leccinum scabrum
 source: https://www.nagrzyby.pl/atlas/65
 ---
 

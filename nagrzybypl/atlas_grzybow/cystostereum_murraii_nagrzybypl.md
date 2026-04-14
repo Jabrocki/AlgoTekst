@@ -1,5 +1,5 @@
 ---
-name: Cystostereum murraii
+latin_name: Cystostereum murraii
 source: https://www.nagrzyby.pl/atlas/2594
 ---
 

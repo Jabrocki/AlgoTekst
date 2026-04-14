@@ -1,5 +1,5 @@
 ---
-name: Polyporus leptocephalus
+latin_name: Polyporus leptocephalus
 source: https://www.nagrzyby.pl/atlas/5551
 ---
 

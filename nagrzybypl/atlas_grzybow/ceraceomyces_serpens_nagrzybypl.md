@@ -1,5 +1,5 @@
 ---
-name: Ceraceomyces serpens
+latin_name: Ceraceomyces serpens
 source: https://www.nagrzyby.pl/atlas/1948
 ---
 

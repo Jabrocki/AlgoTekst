@@ -1,5 +1,5 @@
 ---
-name: Tricholoma apium
+latin_name: Tricholoma apium
 source: https://www.nagrzyby.pl/atlas/1004
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Megacollybia platyphylla
+latin_name: Megacollybia platyphylla
 source: https://www.nagrzyby.pl/atlas/331
 ---
 

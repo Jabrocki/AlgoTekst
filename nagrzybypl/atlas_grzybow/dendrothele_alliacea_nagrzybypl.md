@@ -1,5 +1,5 @@
 ---
-name: Dendrothele alliacea
+latin_name: Dendrothele alliacea
 source: https://www.nagrzyby.pl/atlas/4493
 ---
 

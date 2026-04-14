@@ -1,5 +1,5 @@
 ---
-name: Scutellinia scutellata
+latin_name: Scutellinia scutellata
 source: https://www.nagrzyby.pl/atlas/609
 ---
 

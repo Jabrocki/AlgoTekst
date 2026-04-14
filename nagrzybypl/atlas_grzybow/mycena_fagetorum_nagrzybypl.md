@@ -1,5 +1,5 @@
 ---
-name: Mycena fagetorum
+latin_name: Mycena fagetorum
 source: https://www.nagrzyby.pl/atlas/485
 ---
 

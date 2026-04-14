@@ -1,5 +1,5 @@
 ---
-name: Climacodon septentrionalis
+latin_name: Climacodon septentrionalis
 source: https://www.nagrzyby.pl/atlas/628
 ---
 

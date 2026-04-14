@@ -1,5 +1,5 @@
 ---
-name: Naucoria bohemica
+latin_name: Naucoria bohemica
 source: https://www.nagrzyby.pl/atlas/5063
 ---
 

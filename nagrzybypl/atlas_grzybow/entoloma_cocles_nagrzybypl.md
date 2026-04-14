@@ -1,5 +1,5 @@
 ---
-name: Entoloma cocles
+latin_name: Entoloma cocles
 source: https://www.nagrzyby.pl/atlas/4758
 ---
 

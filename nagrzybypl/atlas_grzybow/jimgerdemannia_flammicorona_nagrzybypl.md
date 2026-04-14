@@ -1,5 +1,5 @@
 ---
-name: Jimgerdemannia flammicorona
+latin_name: Jimgerdemannia flammicorona
 source: https://www.nagrzyby.pl/atlas/5836
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Cortinarius bulbosus
+latin_name: Cortinarius bulbosus
 source: https://www.nagrzyby.pl/atlas/2137
 ---
 

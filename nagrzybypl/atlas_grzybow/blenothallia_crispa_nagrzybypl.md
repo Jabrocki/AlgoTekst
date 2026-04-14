@@ -1,5 +1,5 @@
 ---
-name: Blenothallia crispa
+latin_name: Blenothallia crispa
 source: https://www.nagrzyby.pl/atlas/5234
 ---
 

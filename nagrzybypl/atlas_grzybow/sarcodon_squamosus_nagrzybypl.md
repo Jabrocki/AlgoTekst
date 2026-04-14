@@ -1,5 +1,5 @@
 ---
-name: Sarcodon squamosus
+latin_name: Sarcodon squamosus
 source: https://www.nagrzyby.pl/atlas/4809
 ---
 

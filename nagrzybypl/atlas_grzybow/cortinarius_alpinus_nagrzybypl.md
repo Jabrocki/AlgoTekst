@@ -1,5 +1,5 @@
 ---
-name: Cortinarius alpinus
+latin_name: Cortinarius alpinus
 source: https://www.nagrzyby.pl/atlas/5426
 ---
 

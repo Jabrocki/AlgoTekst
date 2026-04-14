@@ -1,5 +1,5 @@
 ---
-name: Usnea longissima
+latin_name: Usnea longissima
 source: https://www.nagrzyby.pl/atlas/5150
 ---
 

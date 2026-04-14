@@ -1,5 +1,5 @@
 ---
-name: Exidia nigricans
+latin_name: Exidia nigricans
 source: https://www.nagrzyby.pl/atlas/136
 ---
 

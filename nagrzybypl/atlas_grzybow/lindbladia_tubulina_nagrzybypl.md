@@ -1,5 +1,5 @@
 ---
-name: Lindbladia tubulina
+latin_name: Lindbladia tubulina
 source: https://www.nagrzyby.pl/atlas/5001
 ---
 

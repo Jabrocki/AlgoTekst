@@ -1,5 +1,5 @@
 ---
-name: Clavicorona taxophila
+latin_name: Clavicorona taxophila
 source: https://www.nagrzyby.pl/atlas/4892
 ---
 

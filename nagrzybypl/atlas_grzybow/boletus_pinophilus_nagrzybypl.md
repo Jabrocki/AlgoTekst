@@ -1,5 +1,5 @@
 ---
-name: Boletus pinophilus
+latin_name: Boletus pinophilus
 source: https://www.nagrzyby.pl/atlas/10
 ---
 

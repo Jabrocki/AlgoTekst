@@ -1,5 +1,5 @@
 ---
-name: Cantharellus amethysteus
+latin_name: Cantharellus amethysteus
 source: https://www.nagrzyby.pl/atlas/740
 ---
 

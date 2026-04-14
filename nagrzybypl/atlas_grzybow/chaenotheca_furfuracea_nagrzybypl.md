@@ -1,5 +1,5 @@
 ---
-name: Chaenotheca furfuracea
+latin_name: Chaenotheca furfuracea
 source: https://www.nagrzyby.pl/atlas/5307
 ---
 

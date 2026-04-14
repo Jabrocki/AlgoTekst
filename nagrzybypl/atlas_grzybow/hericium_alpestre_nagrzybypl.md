@@ -1,5 +1,5 @@
 ---
-name: Hericium alpestre
+latin_name: Hericium alpestre
 source: https://www.nagrzyby.pl/atlas/401
 ---
 

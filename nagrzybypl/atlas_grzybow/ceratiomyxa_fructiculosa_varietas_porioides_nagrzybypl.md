@@ -1,5 +1,5 @@
 ---
-name: Ceratiomyxa fructiculosa varietas porioides
+latin_name: Ceratiomyxa fructiculosa varietas porioides
 source: https://www.nagrzyby.pl/atlas/1768
 ---
 

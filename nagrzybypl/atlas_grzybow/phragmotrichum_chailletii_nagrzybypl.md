@@ -1,5 +1,5 @@
 ---
-name: Phragmotrichum chailletii
+latin_name: Phragmotrichum chailletii
 source: https://www.nagrzyby.pl/atlas/5931
 ---
 

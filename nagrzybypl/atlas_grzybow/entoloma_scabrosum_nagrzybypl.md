@@ -1,5 +1,5 @@
 ---
-name: Entoloma scabrosum
+latin_name: Entoloma scabrosum
 source: https://www.nagrzyby.pl/atlas/4790
 ---
 

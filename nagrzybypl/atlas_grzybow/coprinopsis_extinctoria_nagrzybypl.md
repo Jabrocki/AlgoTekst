@@ -1,5 +1,5 @@
 ---
-name: Coprinopsis extinctoria
+latin_name: Coprinopsis extinctoria
 source: https://www.nagrzyby.pl/atlas/2071
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Helvella costifera
+latin_name: Helvella costifera
 source: https://www.nagrzyby.pl/atlas/1458
 ---
 

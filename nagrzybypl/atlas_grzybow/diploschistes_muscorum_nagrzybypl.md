@@ -1,5 +1,5 @@
 ---
-name: * Diploschistes muscorum
+latin_name: * Diploschistes muscorum
 source: https://www.nagrzyby.pl/atlas/5321
 ---
 

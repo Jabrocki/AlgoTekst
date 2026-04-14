@@ -1,5 +1,5 @@
 ---
-name: Agaricus langei
+latin_name: Agaricus langei
 source: https://www.nagrzyby.pl/atlas/857
 ---
 

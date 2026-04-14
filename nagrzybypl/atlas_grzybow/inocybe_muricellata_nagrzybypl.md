@@ -1,5 +1,5 @@
 ---
-name: Inocybe muricellata
+latin_name: Inocybe muricellata
 source: https://www.nagrzyby.pl/atlas/2370
 ---
 

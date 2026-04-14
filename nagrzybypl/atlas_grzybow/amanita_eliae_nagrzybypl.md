@@ -1,5 +1,5 @@
 ---
-name: Amanita eliae
+latin_name: Amanita eliae
 source: https://www.nagrzyby.pl/atlas/1043
 ---
 

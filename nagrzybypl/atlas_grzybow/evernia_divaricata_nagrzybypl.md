@@ -1,5 +1,5 @@
 ---
-name: Evernia divaricata
+latin_name: Evernia divaricata
 source: https://www.nagrzyby.pl/atlas/5271
 ---
 

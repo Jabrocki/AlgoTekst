@@ -1,5 +1,5 @@
 ---
-name: Psathyrella fibrillosa
+latin_name: Psathyrella fibrillosa
 source: https://www.nagrzyby.pl/atlas/1736
 ---
 

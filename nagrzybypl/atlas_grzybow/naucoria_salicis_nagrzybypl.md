@@ -1,5 +1,5 @@
 ---
-name: Naucoria salicis
+latin_name: Naucoria salicis
 source: https://www.nagrzyby.pl/atlas/5434
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Simocybe sumptuosa
+latin_name: Simocybe sumptuosa
 source: https://www.nagrzyby.pl/atlas/5460
 ---
 

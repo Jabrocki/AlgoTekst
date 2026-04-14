@@ -1,5 +1,5 @@
 ---
-name: Cortinarius conicoides
+latin_name: Cortinarius conicoides
 source: https://www.nagrzyby.pl/atlas/5712
 ---
 

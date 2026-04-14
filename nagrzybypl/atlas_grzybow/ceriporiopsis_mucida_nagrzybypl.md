@@ -1,5 +1,5 @@
 ---
-name: Ceriporiopsis mucida
+latin_name: Ceriporiopsis mucida
 source: https://www.nagrzyby.pl/atlas/1961
 ---
 

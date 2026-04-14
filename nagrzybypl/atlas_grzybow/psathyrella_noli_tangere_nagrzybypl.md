@@ -1,5 +1,5 @@
 ---
-name: Psathyrella noli-tangere
+latin_name: Psathyrella noli-tangere
 source: https://www.nagrzyby.pl/atlas/4333
 ---
 

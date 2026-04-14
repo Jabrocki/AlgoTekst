@@ -1,5 +1,5 @@
 ---
-name: Evernia mesomorpha
+latin_name: Evernia mesomorpha
 source: https://www.nagrzyby.pl/atlas/5270
 ---
 

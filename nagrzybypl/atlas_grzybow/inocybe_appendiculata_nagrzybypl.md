@@ -1,5 +1,5 @@
 ---
-name: Inocybe appendiculata
+latin_name: Inocybe appendiculata
 source: https://www.nagrzyby.pl/atlas/2329
 ---
 

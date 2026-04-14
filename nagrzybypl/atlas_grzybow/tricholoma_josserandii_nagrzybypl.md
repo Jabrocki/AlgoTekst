@@ -1,5 +1,5 @@
 ---
-name: Tricholoma josserandii
+latin_name: Tricholoma josserandii
 source: https://www.nagrzyby.pl/atlas/4249
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Agrocybe cylindracea
+latin_name: Agrocybe cylindracea
 source: https://www.nagrzyby.pl/atlas/792
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Lactarius quieticolor
+latin_name: Lactarius quieticolor
 source: https://www.nagrzyby.pl/atlas/5985
 ---
 

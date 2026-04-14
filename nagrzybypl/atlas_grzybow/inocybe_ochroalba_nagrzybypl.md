@@ -1,5 +1,5 @@
 ---
-name: Inocybe ochroalba
+latin_name: Inocybe ochroalba
 source: https://www.nagrzyby.pl/atlas/5011
 ---
 

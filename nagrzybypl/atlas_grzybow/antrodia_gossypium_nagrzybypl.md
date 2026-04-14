@@ -1,5 +1,5 @@
 ---
-name: Antrodia gossypium
+latin_name: Antrodia gossypium
 source: https://www.nagrzyby.pl/atlas/2079
 ---
 

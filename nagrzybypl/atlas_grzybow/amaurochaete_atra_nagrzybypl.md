@@ -1,5 +1,5 @@
 ---
-name: Amaurochaete atra
+latin_name: Amaurochaete atra
 source: https://www.nagrzyby.pl/atlas/5002
 ---
 

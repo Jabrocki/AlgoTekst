@@ -1,5 +1,5 @@
 ---
-name: Phellinus igniarius
+latin_name: Phellinus igniarius
 source: https://www.nagrzyby.pl/atlas/20
 ---
 

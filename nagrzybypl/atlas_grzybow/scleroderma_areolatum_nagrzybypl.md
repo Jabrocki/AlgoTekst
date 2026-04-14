@@ -1,5 +1,5 @@
 ---
-name: Scleroderma areolatum
+latin_name: Scleroderma areolatum
 source: https://www.nagrzyby.pl/atlas/570
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Anaptychia ciliaris
+latin_name: Anaptychia ciliaris
 source: https://www.nagrzyby.pl/atlas/5329
 ---
 

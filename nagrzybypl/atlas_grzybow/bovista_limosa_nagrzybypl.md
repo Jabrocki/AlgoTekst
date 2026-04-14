@@ -1,5 +1,5 @@
 ---
-name: Bovista limosa
+latin_name: Bovista limosa
 source: https://www.nagrzyby.pl/atlas/1178
 ---
 

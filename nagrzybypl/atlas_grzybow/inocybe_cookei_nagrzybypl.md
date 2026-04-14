@@ -1,5 +1,5 @@
 ---
-name: Inocybe cookei
+latin_name: Inocybe cookei
 source: https://www.nagrzyby.pl/atlas/2340
 ---
 

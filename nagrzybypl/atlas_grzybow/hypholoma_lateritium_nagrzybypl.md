@@ -1,5 +1,5 @@
 ---
-name: Hypholoma lateritium
+latin_name: Hypholoma lateritium
 source: https://www.nagrzyby.pl/atlas/237
 ---
 

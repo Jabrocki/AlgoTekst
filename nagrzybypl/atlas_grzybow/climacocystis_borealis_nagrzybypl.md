@@ -1,5 +1,5 @@
 ---
-name: Climacocystis borealis
+latin_name: Climacocystis borealis
 source: https://www.nagrzyby.pl/atlas/1981
 ---
 

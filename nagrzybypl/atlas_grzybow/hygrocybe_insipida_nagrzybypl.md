@@ -1,5 +1,5 @@
 ---
-name: Hygrocybe insipida
+latin_name: Hygrocybe insipida
 source: https://www.nagrzyby.pl/atlas/1420
 ---
 

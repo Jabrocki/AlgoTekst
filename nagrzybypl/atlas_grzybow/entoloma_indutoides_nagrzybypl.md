@@ -1,5 +1,5 @@
 ---
-name: Entoloma indutoides
+latin_name: Entoloma indutoides
 source: https://www.nagrzyby.pl/atlas/4765
 ---
 

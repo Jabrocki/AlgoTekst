@@ -1,5 +1,5 @@
 ---
-name: Pleurotus eryngi
+latin_name: Pleurotus eryngi
 source: https://www.nagrzyby.pl/atlas/593
 ---
 

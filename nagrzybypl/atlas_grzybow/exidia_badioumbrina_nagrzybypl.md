@@ -1,5 +1,5 @@
 ---
-name: Exidia badioumbrina
+latin_name: Exidia badioumbrina
 source: https://www.nagrzyby.pl/atlas/4477
 ---
 

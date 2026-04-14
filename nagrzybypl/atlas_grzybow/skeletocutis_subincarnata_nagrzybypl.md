@@ -1,5 +1,5 @@
 ---
-name: Skeletocutis subincarnata
+latin_name: Skeletocutis subincarnata
 source: https://www.nagrzyby.pl/atlas/4024
 ---
 

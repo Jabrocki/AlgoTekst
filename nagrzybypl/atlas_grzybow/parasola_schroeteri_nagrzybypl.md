@@ -1,5 +1,5 @@
 ---
-name: Parasola schroeteri
+latin_name: Parasola schroeteri
 source: https://www.nagrzyby.pl/atlas/2103
 ---
 

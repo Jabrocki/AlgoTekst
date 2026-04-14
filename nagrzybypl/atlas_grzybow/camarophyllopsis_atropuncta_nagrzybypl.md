@@ -1,5 +1,5 @@
 ---
-name: Camarophyllopsis atropuncta
+latin_name: Camarophyllopsis atropuncta
 source: https://www.nagrzyby.pl/atlas/4564
 ---
 

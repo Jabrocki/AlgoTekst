@@ -1,5 +1,5 @@
 ---
-name: Conocybe dunensis
+latin_name: Conocybe dunensis
 source: https://www.nagrzyby.pl/atlas/3879
 ---
 

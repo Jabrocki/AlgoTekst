@@ -1,5 +1,5 @@
 ---
-name: Fuscoporia torulosa
+latin_name: Fuscoporia torulosa
 source: https://www.nagrzyby.pl/atlas/1131
 ---
 

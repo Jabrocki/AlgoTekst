@@ -1,5 +1,5 @@
 ---
-name: Phaeophyscia ciliata
+latin_name: Phaeophyscia ciliata
 source: https://www.nagrzyby.pl/atlas/5674
 ---
 

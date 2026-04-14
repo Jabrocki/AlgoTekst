@@ -1,5 +1,5 @@
 ---
-name: Catinella olivacea
+latin_name: Catinella olivacea
 source: https://www.nagrzyby.pl/atlas/4863
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Mycena stylobates
+latin_name: Mycena stylobates
 source: https://www.nagrzyby.pl/atlas/1155
 ---
 

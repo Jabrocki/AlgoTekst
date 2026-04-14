@@ -1,5 +1,5 @@
 ---
-name: Encoelia furfuracea
+latin_name: Encoelia furfuracea
 source: https://www.nagrzyby.pl/atlas/465
 ---
 

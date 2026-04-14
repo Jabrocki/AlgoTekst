@@ -1,5 +1,5 @@
 ---
-name: Lactarius theiogalus
+latin_name: Lactarius theiogalus
 source: https://www.nagrzyby.pl/atlas/942
 ---
 

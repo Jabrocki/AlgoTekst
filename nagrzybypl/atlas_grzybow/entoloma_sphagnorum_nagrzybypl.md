@@ -1,5 +1,5 @@
 ---
-name: Entoloma sphagnorum
+latin_name: Entoloma sphagnorum
 source: https://www.nagrzyby.pl/atlas/5422
 ---
 

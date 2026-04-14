@@ -1,5 +1,5 @@
 ---
-name: Leucopaxillus compactus
+latin_name: Leucopaxillus compactus
 source: https://www.nagrzyby.pl/atlas/5423
 ---
 

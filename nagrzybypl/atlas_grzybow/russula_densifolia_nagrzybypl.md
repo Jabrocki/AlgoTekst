@@ -1,5 +1,5 @@
 ---
-name: Russula densifolia
+latin_name: Russula densifolia
 source: https://www.nagrzyby.pl/atlas/685
 ---
 

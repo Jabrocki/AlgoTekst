@@ -1,5 +1,5 @@
 ---
-name: Amylocystis lapponicus
+latin_name: Amylocystis lapponicus
 source: https://www.nagrzyby.pl/atlas/618
 ---
 

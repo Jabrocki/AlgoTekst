@@ -1,5 +1,5 @@
 ---
-name: Imshaugia aleurites
+latin_name: Imshaugia aleurites
 source: https://www.nagrzyby.pl/atlas/5369
 ---
 

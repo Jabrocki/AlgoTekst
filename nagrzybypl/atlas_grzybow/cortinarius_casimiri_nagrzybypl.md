@@ -1,5 +1,5 @@
 ---
-name: Cortinarius casimiri
+latin_name: Cortinarius casimiri
 source: https://www.nagrzyby.pl/atlas/2140
 ---
 

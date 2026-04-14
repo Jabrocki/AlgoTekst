@@ -1,5 +1,5 @@
 ---
-name: Conocybe leucopus
+latin_name: Conocybe leucopus
 source: https://www.nagrzyby.pl/atlas/2033
 ---
 

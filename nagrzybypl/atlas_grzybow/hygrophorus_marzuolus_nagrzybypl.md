@@ -1,5 +1,5 @@
 ---
-name: Hygrophorus marzuolus
+latin_name: Hygrophorus marzuolus
 source: https://www.nagrzyby.pl/atlas/705
 ---
 

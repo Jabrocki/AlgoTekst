@@ -1,5 +1,5 @@
 ---
-name: Phallus Markus
+latin_name: Phallus Markus
 source: https://www.nagrzyby.pl/atlas/5915
 ---
 

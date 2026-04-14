@@ -1,5 +1,5 @@
 ---
-name: Rhizopogon vulgaris
+latin_name: Rhizopogon vulgaris
 source: https://www.nagrzyby.pl/atlas/5877
 ---
 

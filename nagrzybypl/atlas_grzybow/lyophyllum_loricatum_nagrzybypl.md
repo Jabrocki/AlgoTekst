@@ -1,5 +1,5 @@
 ---
-name: Lyophyllum loricatum
+latin_name: Lyophyllum loricatum
 source: https://www.nagrzyby.pl/atlas/736
 ---
 

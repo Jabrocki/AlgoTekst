@@ -1,5 +1,5 @@
 ---
-name: Tricholoma bufonium
+latin_name: Tricholoma bufonium
 source: https://www.nagrzyby.pl/atlas/4246
 ---
 

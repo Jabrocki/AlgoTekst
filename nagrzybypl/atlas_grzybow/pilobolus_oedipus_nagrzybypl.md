@@ -1,5 +1,5 @@
 ---
-name: Pilobolus oedipus
+latin_name: Pilobolus oedipus
 source: https://www.nagrzyby.pl/atlas/5114
 ---
 

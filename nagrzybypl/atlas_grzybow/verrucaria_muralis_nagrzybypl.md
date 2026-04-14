@@ -1,5 +1,5 @@
 ---
-name: Verrucaria muralis
+latin_name: Verrucaria muralis
 source: https://www.nagrzyby.pl/atlas/5636
 ---
 

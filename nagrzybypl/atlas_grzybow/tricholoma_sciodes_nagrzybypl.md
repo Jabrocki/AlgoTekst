@@ -1,5 +1,5 @@
 ---
-name: Tricholoma sciodes
+latin_name: Tricholoma sciodes
 source: https://www.nagrzyby.pl/atlas/651
 ---
 

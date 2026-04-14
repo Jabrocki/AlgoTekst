@@ -1,5 +1,5 @@
 ---
-name: Leratiomyces squamosus
+latin_name: Leratiomyces squamosus
 source: https://www.nagrzyby.pl/atlas/5589
 ---
 

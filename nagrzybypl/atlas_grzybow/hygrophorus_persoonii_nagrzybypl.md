@@ -1,5 +1,5 @@
 ---
-name: Hygrophorus persoonii
+latin_name: Hygrophorus persoonii
 source: https://www.nagrzyby.pl/atlas/1484
 ---
 

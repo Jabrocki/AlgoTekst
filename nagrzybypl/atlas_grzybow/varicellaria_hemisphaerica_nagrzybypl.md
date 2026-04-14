@@ -1,5 +1,5 @@
 ---
-name: Varicellaria hemisphaerica
+latin_name: Varicellaria hemisphaerica
 source: https://www.nagrzyby.pl/atlas/5541
 ---
 

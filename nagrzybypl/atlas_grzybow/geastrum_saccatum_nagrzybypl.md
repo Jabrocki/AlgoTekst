@@ -1,5 +1,5 @@
 ---
-name: Geastrum saccatum
+latin_name: Geastrum saccatum
 source: https://www.nagrzyby.pl/atlas/831
 ---
 

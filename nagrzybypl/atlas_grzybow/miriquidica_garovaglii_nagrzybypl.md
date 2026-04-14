@@ -1,5 +1,5 @@
 ---
-name: Miriquidica garovaglii
+latin_name: Miriquidica garovaglii
 source: https://www.nagrzyby.pl/atlas/5207
 ---
 

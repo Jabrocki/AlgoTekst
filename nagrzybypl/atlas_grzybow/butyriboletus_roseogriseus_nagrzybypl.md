@@ -1,5 +1,5 @@
 ---
-name: Butyriboletus roseogriseus
+latin_name: Butyriboletus roseogriseus
 source: https://www.nagrzyby.pl/atlas/5727
 ---
 

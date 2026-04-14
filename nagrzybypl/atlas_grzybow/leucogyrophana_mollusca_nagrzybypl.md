@@ -1,5 +1,5 @@
 ---
-name: Leucogyrophana mollusca
+latin_name: Leucogyrophana mollusca
 source: https://www.nagrzyby.pl/atlas/5772
 ---
 

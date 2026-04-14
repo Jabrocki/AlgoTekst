@@ -1,5 +1,5 @@
 ---
-name: Phaeohelotium vernum
+latin_name: Phaeohelotium vernum
 source: https://www.nagrzyby.pl/atlas/5760
 ---
 

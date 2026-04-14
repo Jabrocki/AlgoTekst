@@ -1,5 +1,5 @@
 ---
-name: Parasola hemerobia
+latin_name: Parasola hemerobia
 source: https://www.nagrzyby.pl/atlas/1039
 ---
 

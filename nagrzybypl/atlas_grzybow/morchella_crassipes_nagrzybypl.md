@@ -1,5 +1,5 @@
 ---
-name: Morchella crassipes
+latin_name: Morchella crassipes
 source: https://www.nagrzyby.pl/atlas/1049
 ---
 

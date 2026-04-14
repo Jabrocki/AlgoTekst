@@ -1,5 +1,5 @@
 ---
-name: Inocybe nitidiuscula
+latin_name: Inocybe nitidiuscula
 source: https://www.nagrzyby.pl/atlas/2382
 ---
 

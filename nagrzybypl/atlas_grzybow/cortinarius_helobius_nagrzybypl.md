@@ -1,5 +1,5 @@
 ---
-name: Cortinarius helobius
+latin_name: Cortinarius helobius
 source: https://www.nagrzyby.pl/atlas/5587
 ---
 

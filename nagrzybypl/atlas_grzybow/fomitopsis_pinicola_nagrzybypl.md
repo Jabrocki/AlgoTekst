@@ -1,5 +1,5 @@
 ---
-name: Fomitopsis pinicola
+latin_name: Fomitopsis pinicola
 source: https://www.nagrzyby.pl/atlas/319
 ---
 

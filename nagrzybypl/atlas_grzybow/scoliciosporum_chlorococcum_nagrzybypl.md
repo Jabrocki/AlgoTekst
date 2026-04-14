@@ -1,5 +1,5 @@
 ---
-name: Scoliciosporum chlorococcum
+latin_name: Scoliciosporum chlorococcum
 source: https://www.nagrzyby.pl/atlas/5314
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Gomphidius glutinosus
+latin_name: Gomphidius glutinosus
 source: https://www.nagrzyby.pl/atlas/171
 ---
 

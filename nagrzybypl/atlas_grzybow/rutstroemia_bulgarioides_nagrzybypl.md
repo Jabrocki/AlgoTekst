@@ -1,5 +1,5 @@
 ---
-name: Rutstroemia bulgarioides
+latin_name: Rutstroemia bulgarioides
 source: https://www.nagrzyby.pl/atlas/445
 ---
 

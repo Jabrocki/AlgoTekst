@@ -1,5 +1,5 @@
 ---
-name: Ampulloclitocybe clavipes
+latin_name: Ampulloclitocybe clavipes
 source: https://www.nagrzyby.pl/atlas/422
 ---
 

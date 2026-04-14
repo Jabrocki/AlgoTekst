@@ -1,5 +1,5 @@
 ---
-name: Lepiota lilacea
+latin_name: Lepiota lilacea
 source: https://www.nagrzyby.pl/atlas/4398
 ---
 

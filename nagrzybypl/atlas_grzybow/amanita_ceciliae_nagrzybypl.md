@@ -1,5 +1,5 @@
 ---
-name: Amanita ceciliae
+latin_name: Amanita ceciliae
 source: https://www.nagrzyby.pl/atlas/452
 ---
 

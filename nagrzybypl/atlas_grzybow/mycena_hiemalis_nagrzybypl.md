@@ -1,5 +1,5 @@
 ---
-name: Mycena hiemalis
+latin_name: Mycena hiemalis
 source: https://www.nagrzyby.pl/atlas/2435
 ---
 

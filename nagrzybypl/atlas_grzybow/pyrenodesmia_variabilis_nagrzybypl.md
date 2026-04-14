@@ -1,5 +1,5 @@
 ---
-name: Pyrenodesmia variabilis
+latin_name: Pyrenodesmia variabilis
 source: https://www.nagrzyby.pl/atlas/5443
 ---
 

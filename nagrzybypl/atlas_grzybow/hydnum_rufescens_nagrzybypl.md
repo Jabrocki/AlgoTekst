@@ -1,5 +1,5 @@
 ---
-name: Hydnum rufescens
+latin_name: Hydnum rufescens
 source: https://www.nagrzyby.pl/atlas/657
 ---
 

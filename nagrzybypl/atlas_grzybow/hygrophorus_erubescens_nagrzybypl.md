@@ -1,5 +1,5 @@
 ---
-name: Hygrophorus erubescens
+latin_name: Hygrophorus erubescens
 source: https://www.nagrzyby.pl/atlas/1241
 ---
 

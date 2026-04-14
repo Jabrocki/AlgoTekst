@@ -1,5 +1,5 @@
 ---
-name: Mycena niveipes
+latin_name: Mycena niveipes
 source: https://www.nagrzyby.pl/atlas/1078
 ---
 

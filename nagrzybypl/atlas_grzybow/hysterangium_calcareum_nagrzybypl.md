@@ -1,5 +1,5 @@
 ---
-name: Hysterangium calcareum
+latin_name: Hysterangium calcareum
 source: https://www.nagrzyby.pl/atlas/5859
 ---
 

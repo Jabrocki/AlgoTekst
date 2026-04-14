@@ -1,5 +1,5 @@
 ---
-name: Inocybe masoviensis
+latin_name: Inocybe masoviensis
 source: https://www.nagrzyby.pl/atlas/2369
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Pseudohydnum gelatinosum
+latin_name: Pseudohydnum gelatinosum
 source: https://www.nagrzyby.pl/atlas/53
 ---
 

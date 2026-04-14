@@ -1,5 +1,5 @@
 ---
-name: Hygrocybe russocoriacea
+latin_name: Hygrocybe russocoriacea
 source: https://www.nagrzyby.pl/atlas/4562
 ---
 

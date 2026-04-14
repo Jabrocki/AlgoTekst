@@ -1,5 +1,5 @@
 ---
-name: Geoglossum cookeanum
+latin_name: Geoglossum cookeanum
 source: https://www.nagrzyby.pl/atlas/5472
 ---
 

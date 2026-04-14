@@ -1,5 +1,5 @@
 ---
-name: Hydnotrya bailii
+latin_name: Hydnotrya bailii
 source: https://www.nagrzyby.pl/atlas/5827
 ---
 

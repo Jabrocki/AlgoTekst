@@ -1,5 +1,5 @@
 ---
-name: Lepiota felina
+latin_name: Lepiota felina
 source: https://www.nagrzyby.pl/atlas/949
 ---
 

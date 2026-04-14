@@ -1,5 +1,5 @@
 ---
-name: Inocybe relicina
+latin_name: Inocybe relicina
 source: https://www.nagrzyby.pl/atlas/2387
 ---
 

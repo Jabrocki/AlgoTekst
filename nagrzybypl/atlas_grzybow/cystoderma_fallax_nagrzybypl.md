@@ -1,5 +1,5 @@
 ---
-name: Cystoderma fallax
+latin_name: Cystoderma fallax
 source: https://www.nagrzyby.pl/atlas/1684
 ---
 

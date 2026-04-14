@@ -1,5 +1,5 @@
 ---
-name: Lactarius fluens
+latin_name: Lactarius fluens
 source: https://www.nagrzyby.pl/atlas/164
 ---
 

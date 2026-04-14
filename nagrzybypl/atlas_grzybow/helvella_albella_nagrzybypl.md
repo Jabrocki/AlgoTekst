@@ -1,5 +1,5 @@
 ---
-name: Helvella albella
+latin_name: Helvella albella
 source: https://www.nagrzyby.pl/atlas/1486
 ---
 

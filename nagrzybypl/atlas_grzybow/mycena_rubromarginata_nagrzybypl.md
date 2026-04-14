@@ -1,5 +1,5 @@
 ---
-name: Mycena rubromarginata
+latin_name: Mycena rubromarginata
 source: https://www.nagrzyby.pl/atlas/1456
 ---
 

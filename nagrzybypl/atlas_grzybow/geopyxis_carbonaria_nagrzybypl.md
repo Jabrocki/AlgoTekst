@@ -1,5 +1,5 @@
 ---
-name: Geopyxis carbonaria
+latin_name: Geopyxis carbonaria
 source: https://www.nagrzyby.pl/atlas/96
 ---
 

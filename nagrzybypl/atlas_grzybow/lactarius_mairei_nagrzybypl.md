@@ -1,5 +1,5 @@
 ---
-name: Lactarius mairei
+latin_name: Lactarius mairei
 source: https://www.nagrzyby.pl/atlas/1790
 ---
 

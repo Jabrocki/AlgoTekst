@@ -1,5 +1,5 @@
 ---
-name: Exidia cartilaginea
+latin_name: Exidia cartilaginea
 source: https://www.nagrzyby.pl/atlas/4476
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Cyphellostereum laeve
+latin_name: Cyphellostereum laeve
 source: https://www.nagrzyby.pl/atlas/2299
 ---
 

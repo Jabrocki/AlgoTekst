@@ -1,5 +1,5 @@
 ---
-name: Lactarius porninsis
+latin_name: Lactarius porninsis
 source: https://www.nagrzyby.pl/atlas/522
 ---
 

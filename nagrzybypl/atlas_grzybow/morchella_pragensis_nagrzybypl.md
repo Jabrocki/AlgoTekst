@@ -1,5 +1,5 @@
 ---
-name: Morchella pragensis
+latin_name: Morchella pragensis
 source: https://www.nagrzyby.pl/atlas/1048
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Cladonia botrytes
+latin_name: Cladonia botrytes
 source: https://www.nagrzyby.pl/atlas/5157
 ---
 

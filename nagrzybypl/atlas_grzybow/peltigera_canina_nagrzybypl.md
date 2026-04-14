@@ -1,5 +1,5 @@
 ---
-name: Peltigera canina
+latin_name: Peltigera canina
 source: https://www.nagrzyby.pl/atlas/5355
 ---
 

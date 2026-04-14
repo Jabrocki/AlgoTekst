@@ -1,5 +1,5 @@
 ---
-name: Artomyces pyxidatus
+latin_name: Artomyces pyxidatus
 source: https://www.nagrzyby.pl/atlas/222
 ---
 

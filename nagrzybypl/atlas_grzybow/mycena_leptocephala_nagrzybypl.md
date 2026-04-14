@@ -1,5 +1,5 @@
 ---
-name: Mycena leptocephala
+latin_name: Mycena leptocephala
 source: https://www.nagrzyby.pl/atlas/1075
 ---
 

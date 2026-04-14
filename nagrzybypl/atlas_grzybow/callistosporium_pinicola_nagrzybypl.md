@@ -1,5 +1,5 @@
 ---
-name: Callistosporium pinicola
+latin_name: Callistosporium pinicola
 source: https://www.nagrzyby.pl/atlas/5435
 ---
 

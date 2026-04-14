@@ -1,5 +1,5 @@
 ---
-name: Lactarius obscuratus
+latin_name: Lactarius obscuratus
 source: https://www.nagrzyby.pl/atlas/1817
 ---
 

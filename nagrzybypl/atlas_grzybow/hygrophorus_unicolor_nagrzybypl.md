@@ -1,5 +1,5 @@
 ---
-name: Hygrophorus unicolor
+latin_name: Hygrophorus unicolor
 source: https://www.nagrzyby.pl/atlas/1238
 ---
 

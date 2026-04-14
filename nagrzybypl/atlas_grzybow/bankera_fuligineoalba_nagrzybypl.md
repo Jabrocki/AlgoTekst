@@ -1,5 +1,5 @@
 ---
-name: Bankera fuligineoalba
+latin_name: Bankera fuligineoalba
 source: https://www.nagrzyby.pl/atlas/1881
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Clitocybe candicans
+latin_name: Clitocybe candicans
 source: https://www.nagrzyby.pl/atlas/4344
 ---
 

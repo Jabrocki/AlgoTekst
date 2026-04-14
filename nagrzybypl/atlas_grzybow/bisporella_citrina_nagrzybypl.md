@@ -1,5 +1,5 @@
 ---
-name: Bisporella citrina
+latin_name: Bisporella citrina
 source: https://www.nagrzyby.pl/atlas/639
 ---
 

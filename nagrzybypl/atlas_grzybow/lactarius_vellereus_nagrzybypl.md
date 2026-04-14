@@ -1,5 +1,5 @@
 ---
-name: Lactarius vellereus
+latin_name: Lactarius vellereus
 source: https://www.nagrzyby.pl/atlas/240
 ---
 

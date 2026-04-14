@@ -1,5 +1,5 @@
 ---
-name: Pseudocraterellus undulatus
+latin_name: Pseudocraterellus undulatus
 source: https://www.nagrzyby.pl/atlas/563
 ---
 

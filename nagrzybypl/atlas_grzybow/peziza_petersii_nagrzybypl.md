@@ -1,5 +1,5 @@
 ---
-name: Peziza petersii
+latin_name: Peziza petersii
 source: https://www.nagrzyby.pl/atlas/1273
 ---
 

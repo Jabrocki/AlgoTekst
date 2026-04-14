@@ -1,5 +1,5 @@
 ---
-name: Camarophyllopsis foetens
+latin_name: Camarophyllopsis foetens
 source: https://www.nagrzyby.pl/atlas/1481
 ---
 

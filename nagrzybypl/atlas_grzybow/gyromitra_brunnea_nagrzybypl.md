@@ -1,5 +1,5 @@
 ---
-name: Gyromitra brunnea
+latin_name: Gyromitra brunnea
 source: https://www.nagrzyby.pl/atlas/469
 ---
 

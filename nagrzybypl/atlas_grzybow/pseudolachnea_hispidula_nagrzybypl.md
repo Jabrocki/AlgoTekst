@@ -1,5 +1,5 @@
 ---
-name: Pseudolachnea hispidula
+latin_name: Pseudolachnea hispidula
 source: https://www.nagrzyby.pl/atlas/5598
 ---
 

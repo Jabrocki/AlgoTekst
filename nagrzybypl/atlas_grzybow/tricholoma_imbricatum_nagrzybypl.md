@@ -1,5 +1,5 @@
 ---
-name: Tricholoma imbricatum
+latin_name: Tricholoma imbricatum
 source: https://www.nagrzyby.pl/atlas/647
 ---
 

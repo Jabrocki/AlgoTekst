@@ -1,5 +1,5 @@
 ---
-name: Cortinarius chrysolitus
+latin_name: Cortinarius chrysolitus
 source: https://www.nagrzyby.pl/atlas/922
 ---
 

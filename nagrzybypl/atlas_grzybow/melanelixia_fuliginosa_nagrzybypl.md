@@ -1,5 +1,5 @@
 ---
-name: Melanelixia fuliginosa
+latin_name: Melanelixia fuliginosa
 source: https://www.nagrzyby.pl/atlas/5380
 ---
 

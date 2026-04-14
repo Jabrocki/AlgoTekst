@@ -1,5 +1,5 @@
 ---
-name: Agaricus xanthodermus
+latin_name: Agaricus xanthodermus
 source: https://www.nagrzyby.pl/atlas/873
 ---
 

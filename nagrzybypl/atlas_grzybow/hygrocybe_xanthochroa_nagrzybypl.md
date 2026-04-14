@@ -1,5 +1,5 @@
 ---
-name: Hygrocybe xanthochroa
+latin_name: Hygrocybe xanthochroa
 source: https://www.nagrzyby.pl/atlas/4559
 ---
 

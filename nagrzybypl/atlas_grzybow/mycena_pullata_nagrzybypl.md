@@ -1,5 +1,5 @@
 ---
-name: Mycena pullata
+latin_name: Mycena pullata
 source: https://www.nagrzyby.pl/atlas/2451
 ---
 

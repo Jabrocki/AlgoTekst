@@ -1,5 +1,5 @@
 ---
-name: Hymenogaster hessei
+latin_name: Hymenogaster hessei
 source: https://www.nagrzyby.pl/atlas/5846
 ---
 

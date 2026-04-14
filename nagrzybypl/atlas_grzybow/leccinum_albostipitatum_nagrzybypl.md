@@ -1,5 +1,5 @@
 ---
-name: Leccinum albostipitatum
+latin_name: Leccinum albostipitatum
 source: https://www.nagrzyby.pl/atlas/5041
 ---
 

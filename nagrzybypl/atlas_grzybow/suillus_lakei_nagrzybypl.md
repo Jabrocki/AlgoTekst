@@ -1,5 +1,5 @@
 ---
-name: Suillus lakei
+latin_name: Suillus lakei
 source: https://www.nagrzyby.pl/atlas/1528
 ---
 

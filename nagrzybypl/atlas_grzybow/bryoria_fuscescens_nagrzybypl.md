@@ -1,5 +1,5 @@
 ---
-name: Bryoria fuscescens
+latin_name: Bryoria fuscescens
 source: https://www.nagrzyby.pl/atlas/5300
 ---
 

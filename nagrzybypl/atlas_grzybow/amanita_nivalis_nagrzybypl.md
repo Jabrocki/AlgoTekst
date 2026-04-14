@@ -1,5 +1,5 @@
 ---
-name: Amanita nivalis
+latin_name: Amanita nivalis
 source: https://www.nagrzyby.pl/atlas/2305
 ---
 

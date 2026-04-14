@@ -1,5 +1,5 @@
 ---
-name: Lactarius torminosus
+latin_name: Lactarius torminosus
 source: https://www.nagrzyby.pl/atlas/247
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Aleurodiscus cerussatus
+latin_name: Aleurodiscus cerussatus
 source: https://www.nagrzyby.pl/atlas/1852
 ---
 

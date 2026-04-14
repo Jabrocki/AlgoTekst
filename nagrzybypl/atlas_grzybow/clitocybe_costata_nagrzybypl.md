@@ -1,5 +1,5 @@
 ---
-name: Clitocybe costata
+latin_name: Clitocybe costata
 source: https://www.nagrzyby.pl/atlas/1986
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Entoloma rhombisporum
+latin_name: Entoloma rhombisporum
 source: https://www.nagrzyby.pl/atlas/4291
 ---
 

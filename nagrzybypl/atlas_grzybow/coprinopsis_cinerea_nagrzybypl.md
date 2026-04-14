@@ -1,5 +1,5 @@
 ---
-name: Coprinopsis cinerea
+latin_name: Coprinopsis cinerea
 source: https://www.nagrzyby.pl/atlas/545
 ---
 

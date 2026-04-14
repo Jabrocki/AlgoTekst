@@ -1,5 +1,5 @@
 ---
-name: Phanerochaete deflectens
+latin_name: Phanerochaete deflectens
 source: https://www.nagrzyby.pl/atlas/4349
 ---
 

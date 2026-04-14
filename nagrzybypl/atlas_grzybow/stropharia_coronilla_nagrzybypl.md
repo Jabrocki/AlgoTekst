@@ -1,5 +1,5 @@
 ---
-name: Stropharia coronilla
+latin_name: Stropharia coronilla
 source: https://www.nagrzyby.pl/atlas/1500
 ---
 

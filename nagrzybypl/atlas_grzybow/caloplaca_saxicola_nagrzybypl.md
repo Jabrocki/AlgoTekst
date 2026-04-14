@@ -1,5 +1,5 @@
 ---
-name: Caloplaca saxicola
+latin_name: Caloplaca saxicola
 source: https://www.nagrzyby.pl/atlas/5242
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Cystobasidium fimetarium
+latin_name: Cystobasidium fimetarium
 source: https://www.nagrzyby.pl/atlas/1840
 ---
 

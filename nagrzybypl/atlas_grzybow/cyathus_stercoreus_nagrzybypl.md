@@ -1,5 +1,5 @@
 ---
-name: Cyathus stercoreus
+latin_name: Cyathus stercoreus
 source: https://www.nagrzyby.pl/atlas/1642
 ---
 

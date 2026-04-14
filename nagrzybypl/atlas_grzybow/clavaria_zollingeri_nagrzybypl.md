@@ -1,5 +1,5 @@
 ---
-name: Clavaria zollingeri
+latin_name: Clavaria zollingeri
 source: https://www.nagrzyby.pl/atlas/1975
 ---
 

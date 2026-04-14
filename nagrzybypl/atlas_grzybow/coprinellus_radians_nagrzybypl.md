@@ -1,5 +1,5 @@
 ---
-name: Coprinellus radians
+latin_name: Coprinellus radians
 source: https://www.nagrzyby.pl/atlas/1031
 ---
 

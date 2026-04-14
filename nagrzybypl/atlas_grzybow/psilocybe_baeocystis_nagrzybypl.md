@@ -1,5 +1,5 @@
 ---
-name: Psilocybe baeocystis
+latin_name: Psilocybe baeocystis
 source: https://www.nagrzyby.pl/atlas/1328
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Cortinarius saniosus
+latin_name: Cortinarius saniosus
 source: https://www.nagrzyby.pl/atlas/2238
 ---
 

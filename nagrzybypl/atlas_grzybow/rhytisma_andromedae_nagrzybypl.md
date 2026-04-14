@@ -1,5 +1,5 @@
 ---
-name: Rhytisma andromedae
+latin_name: Rhytisma andromedae
 source: https://www.nagrzyby.pl/atlas/5433
 ---
 

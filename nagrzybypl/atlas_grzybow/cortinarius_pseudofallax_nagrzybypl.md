@@ -1,5 +1,5 @@
 ---
-name: Cortinarius pseudofallax
+latin_name: Cortinarius pseudofallax
 source: https://www.nagrzyby.pl/atlas/5620
 ---
 

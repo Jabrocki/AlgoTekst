@@ -1,5 +1,5 @@
 ---
-name: Entoloma venosum
+latin_name: Entoloma venosum
 source: https://www.nagrzyby.pl/atlas/4800
 ---
 

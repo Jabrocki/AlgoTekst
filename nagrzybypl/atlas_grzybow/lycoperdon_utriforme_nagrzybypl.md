@@ -1,5 +1,5 @@
 ---
-name: Lycoperdon utriforme
+latin_name: Lycoperdon utriforme
 source: https://www.nagrzyby.pl/atlas/36
 ---
 

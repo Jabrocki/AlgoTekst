@@ -1,5 +1,5 @@
 ---
-name: Coprinopsis  pachyderma
+latin_name: Coprinopsis  pachyderma
 source: https://www.nagrzyby.pl/atlas/5700
 ---
 

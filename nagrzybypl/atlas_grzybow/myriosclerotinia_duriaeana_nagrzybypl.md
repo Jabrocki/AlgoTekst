@@ -1,5 +1,5 @@
 ---
-name: Myriosclerotinia duriaeana
+latin_name: Myriosclerotinia duriaeana
 source: https://www.nagrzyby.pl/atlas/5045
 ---
 

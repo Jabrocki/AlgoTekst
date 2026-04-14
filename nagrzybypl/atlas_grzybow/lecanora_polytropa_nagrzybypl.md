@@ -1,5 +1,5 @@
 ---
-name: Lecanora polytropa
+latin_name: Lecanora polytropa
 source: https://www.nagrzyby.pl/atlas/5289
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Cortinarius callisteus
+latin_name: Cortinarius callisteus
 source: https://www.nagrzyby.pl/atlas/1136
 ---
 

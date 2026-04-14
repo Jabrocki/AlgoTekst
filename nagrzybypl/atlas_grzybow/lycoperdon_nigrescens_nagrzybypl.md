@@ -1,5 +1,5 @@
 ---
-name: Lycoperdon nigrescens
+latin_name: Lycoperdon nigrescens
 source: https://www.nagrzyby.pl/atlas/1163
 ---
 

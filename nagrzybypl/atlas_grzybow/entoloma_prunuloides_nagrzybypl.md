@@ -1,5 +1,5 @@
 ---
-name: Entoloma prunuloides
+latin_name: Entoloma prunuloides
 source: https://www.nagrzyby.pl/atlas/4288
 ---
 

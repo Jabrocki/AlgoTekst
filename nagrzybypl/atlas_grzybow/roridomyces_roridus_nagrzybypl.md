@@ -1,5 +1,5 @@
 ---
-name: Roridomyces roridus
+latin_name: Roridomyces roridus
 source: https://www.nagrzyby.pl/atlas/971
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Cortinarius pseudocandelaris
+latin_name: Cortinarius pseudocandelaris
 source: https://www.nagrzyby.pl/atlas/2226
 ---
 

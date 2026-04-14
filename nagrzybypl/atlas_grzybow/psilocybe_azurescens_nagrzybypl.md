@@ -1,5 +1,5 @@
 ---
-name: Psilocybe azurescens
+latin_name: Psilocybe azurescens
 source: https://www.nagrzyby.pl/atlas/1341
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Coprinopsis cordispora
+latin_name: Coprinopsis cordispora
 source: https://www.nagrzyby.pl/atlas/2063
 ---
 

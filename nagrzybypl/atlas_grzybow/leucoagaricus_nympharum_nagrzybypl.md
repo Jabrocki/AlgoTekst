@@ -1,5 +1,5 @@
 ---
-name: Leucoagaricus nympharum
+latin_name: Leucoagaricus nympharum
 source: https://www.nagrzyby.pl/atlas/1210
 ---
 

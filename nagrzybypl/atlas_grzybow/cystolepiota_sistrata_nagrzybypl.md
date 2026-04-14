@@ -1,5 +1,5 @@
 ---
-name: Cystolepiota sistrata
+latin_name: Cystolepiota sistrata
 source: https://www.nagrzyby.pl/atlas/950
 ---
 

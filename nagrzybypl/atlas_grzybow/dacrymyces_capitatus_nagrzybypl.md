@@ -1,5 +1,5 @@
 ---
-name: Dacrymyces capitatus
+latin_name: Dacrymyces capitatus
 source: https://www.nagrzyby.pl/atlas/4506
 ---
 

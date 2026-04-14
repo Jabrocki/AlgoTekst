@@ -1,5 +1,5 @@
 ---
-name: Disciseda candida
+latin_name: Disciseda candida
 source: https://www.nagrzyby.pl/atlas/1173
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Tubaria conspersa
+latin_name: Tubaria conspersa
 source: https://www.nagrzyby.pl/atlas/1687
 ---
 

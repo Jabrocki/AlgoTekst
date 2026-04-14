@@ -1,5 +1,5 @@
 ---
-name: Pholiota subochracea
+latin_name: Pholiota subochracea
 source: https://www.nagrzyby.pl/atlas/1415
 ---
 

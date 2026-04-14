@@ -1,5 +1,5 @@
 ---
-name: Hydnellum ferrugineum
+latin_name: Hydnellum ferrugineum
 source: https://www.nagrzyby.pl/atlas/185
 ---
 

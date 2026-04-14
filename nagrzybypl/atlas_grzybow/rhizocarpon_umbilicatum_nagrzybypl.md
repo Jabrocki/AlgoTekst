@@ -1,5 +1,5 @@
 ---
-name: Rhizocarpon umbilicatum
+latin_name: Rhizocarpon umbilicatum
 source: https://www.nagrzyby.pl/atlas/5633
 ---
 

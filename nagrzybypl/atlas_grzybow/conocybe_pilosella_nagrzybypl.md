@@ -1,5 +1,5 @@
 ---
-name: Conocybe pilosella
+latin_name: Conocybe pilosella
 source: https://www.nagrzyby.pl/atlas/2039
 ---
 

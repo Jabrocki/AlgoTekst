@@ -1,5 +1,5 @@
 ---
-name: Agaricus impudicus
+latin_name: Agaricus impudicus
 source: https://www.nagrzyby.pl/atlas/859
 ---
 

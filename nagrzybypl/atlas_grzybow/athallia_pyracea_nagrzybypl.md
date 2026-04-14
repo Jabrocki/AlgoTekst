@@ -1,5 +1,5 @@
 ---
-name: Athallia pyracea
+latin_name: Athallia pyracea
 source: https://www.nagrzyby.pl/atlas/5630
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Coprinopsis poliomalla
+latin_name: Coprinopsis poliomalla
 source: https://www.nagrzyby.pl/atlas/2101
 ---
 

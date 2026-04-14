@@ -1,5 +1,5 @@
 ---
-name: Clitocybe bresadolana
+latin_name: Clitocybe bresadolana
 source: https://www.nagrzyby.pl/atlas/1983
 ---
 

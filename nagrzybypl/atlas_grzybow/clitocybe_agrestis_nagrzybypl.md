@@ -1,5 +1,5 @@
 ---
-name: Clitocybe agrestis
+latin_name: Clitocybe agrestis
 source: https://www.nagrzyby.pl/atlas/1584
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Physconia distorta
+latin_name: Physconia distorta
 source: https://www.nagrzyby.pl/atlas/5396
 ---
 

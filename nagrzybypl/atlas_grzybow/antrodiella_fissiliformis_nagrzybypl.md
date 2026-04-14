@@ -1,5 +1,5 @@
 ---
-name: Antrodiella fissiliformis
+latin_name: Antrodiella fissiliformis
 source: https://www.nagrzyby.pl/atlas/2093
 ---
 

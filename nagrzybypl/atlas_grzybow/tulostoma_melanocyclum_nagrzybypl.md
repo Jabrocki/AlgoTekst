@@ -1,5 +1,5 @@
 ---
-name: Tulostoma melanocyclum
+latin_name: Tulostoma melanocyclum
 source: https://www.nagrzyby.pl/atlas/1636
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Bovista nigrescens
+latin_name: Bovista nigrescens
 source: https://www.nagrzyby.pl/atlas/437
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Ascocoryne sarcoides
+latin_name: Ascocoryne sarcoides
 source: https://www.nagrzyby.pl/atlas/4989
 ---
 

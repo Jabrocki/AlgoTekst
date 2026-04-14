@@ -1,5 +1,5 @@
 ---
-name: Cortinarius turgidus
+latin_name: Cortinarius turgidus
 source: https://www.nagrzyby.pl/atlas/2264
 ---
 

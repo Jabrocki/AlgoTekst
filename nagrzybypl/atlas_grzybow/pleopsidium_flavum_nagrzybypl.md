@@ -1,5 +1,5 @@
 ---
-name: Pleopsidium flavum
+latin_name: Pleopsidium flavum
 source: https://www.nagrzyby.pl/atlas/5200
 ---
 

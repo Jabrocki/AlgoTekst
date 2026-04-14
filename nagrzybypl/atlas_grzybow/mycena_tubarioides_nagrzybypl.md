@@ -1,5 +1,5 @@
 ---
-name: Mycena tubarioides
+latin_name: Mycena tubarioides
 source: https://www.nagrzyby.pl/atlas/2445
 ---
 

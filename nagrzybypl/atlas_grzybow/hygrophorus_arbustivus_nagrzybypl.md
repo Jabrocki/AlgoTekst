@@ -1,5 +1,5 @@
 ---
-name: Hygrophorus arbustivus
+latin_name: Hygrophorus arbustivus
 source: https://www.nagrzyby.pl/atlas/4523
 ---
 

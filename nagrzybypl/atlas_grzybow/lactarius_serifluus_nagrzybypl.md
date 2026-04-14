@@ -1,5 +1,5 @@
 ---
-name: Lactarius serifluus
+latin_name: Lactarius serifluus
 source: https://www.nagrzyby.pl/atlas/663
 ---
 

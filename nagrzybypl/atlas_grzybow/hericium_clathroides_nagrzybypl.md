@@ -1,5 +1,5 @@
 ---
-name: Hericium clathroides
+latin_name: Hericium clathroides
 source: https://www.nagrzyby.pl/atlas/399
 ---
 

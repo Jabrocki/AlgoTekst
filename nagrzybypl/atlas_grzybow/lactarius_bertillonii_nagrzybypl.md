@@ -1,5 +1,5 @@
 ---
-name: Lactarius bertillonii
+latin_name: Lactarius bertillonii
 source: https://www.nagrzyby.pl/atlas/472
 ---
 

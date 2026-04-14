@@ -1,5 +1,5 @@
 ---
-name: Peziza depressa
+latin_name: Peziza depressa
 source: https://www.nagrzyby.pl/atlas/1287
 ---
 

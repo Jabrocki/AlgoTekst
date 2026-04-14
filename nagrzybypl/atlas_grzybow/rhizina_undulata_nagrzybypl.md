@@ -1,5 +1,5 @@
 ---
-name: Rhizina undulata
+latin_name: Rhizina undulata
 source: https://www.nagrzyby.pl/atlas/447
 ---
 

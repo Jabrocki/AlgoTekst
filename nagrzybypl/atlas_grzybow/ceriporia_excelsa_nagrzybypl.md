@@ -1,5 +1,5 @@
 ---
-name: Ceriporia excelsa
+latin_name: Ceriporia excelsa
 source: https://www.nagrzyby.pl/atlas/1953
 ---
 

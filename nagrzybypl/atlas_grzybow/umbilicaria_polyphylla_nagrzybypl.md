@@ -1,5 +1,5 @@
 ---
-name: Umbilicaria polyphylla
+latin_name: Umbilicaria polyphylla
 source: https://www.nagrzyby.pl/atlas/5347
 ---
 

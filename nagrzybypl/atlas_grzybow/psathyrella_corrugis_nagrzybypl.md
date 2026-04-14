@@ -1,5 +1,5 @@
 ---
-name: Psathyrella corrugis
+latin_name: Psathyrella corrugis
 source: https://www.nagrzyby.pl/atlas/4329
 ---
 

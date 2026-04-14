@@ -1,5 +1,5 @@
 ---
-name: Aleurodiscus aurantius
+latin_name: Aleurodiscus aurantius
 source: https://www.nagrzyby.pl/atlas/1851
 ---
 

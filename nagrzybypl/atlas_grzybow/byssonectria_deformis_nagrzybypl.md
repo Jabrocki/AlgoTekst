@@ -1,5 +1,5 @@
 ---
-name: Byssonectria deformis
+latin_name: Byssonectria deformis
 source: https://www.nagrzyby.pl/atlas/5752
 ---
 

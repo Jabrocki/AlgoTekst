@@ -1,5 +1,5 @@
 ---
-name: Hygrophorus speciosus
+latin_name: Hygrophorus speciosus
 source: https://www.nagrzyby.pl/atlas/1233
 ---
 

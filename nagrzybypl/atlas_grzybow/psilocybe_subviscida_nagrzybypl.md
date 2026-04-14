@@ -1,5 +1,5 @@
 ---
-name: Psilocybe subviscida
+latin_name: Psilocybe subviscida
 source: https://www.nagrzyby.pl/atlas/4315
 ---
 

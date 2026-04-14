@@ -1,5 +1,5 @@
 ---
-name: Aleurodiscus amorphus
+latin_name: Aleurodiscus amorphus
 source: https://www.nagrzyby.pl/atlas/1850
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Pseudoplectania nigrella
+latin_name: Pseudoplectania nigrella
 source: https://www.nagrzyby.pl/atlas/374
 ---
 

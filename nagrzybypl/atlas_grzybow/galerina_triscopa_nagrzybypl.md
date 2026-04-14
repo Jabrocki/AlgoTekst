@@ -1,5 +1,5 @@
 ---
-name: Galerina triscopa
+latin_name: Galerina triscopa
 source: https://www.nagrzyby.pl/atlas/4463
 ---
 

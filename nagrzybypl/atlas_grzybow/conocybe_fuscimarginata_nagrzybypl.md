@@ -1,5 +1,5 @@
 ---
-name: Conocybe fuscimarginata
+latin_name: Conocybe fuscimarginata
 source: https://www.nagrzyby.pl/atlas/2028
 ---
 

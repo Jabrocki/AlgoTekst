@@ -1,5 +1,5 @@
 ---
-name: Lepiota cortinarius
+latin_name: Lepiota cortinarius
 source: https://www.nagrzyby.pl/atlas/1218
 ---
 

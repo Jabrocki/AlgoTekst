@@ -1,5 +1,5 @@
 ---
-name: Clavulinopsis helvola
+latin_name: Clavulinopsis helvola
 source: https://www.nagrzyby.pl/atlas/1377
 ---
 

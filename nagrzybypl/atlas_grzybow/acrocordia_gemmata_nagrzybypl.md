@@ -1,5 +1,5 @@
 ---
-name: Acrocordia gemmata
+latin_name: Acrocordia gemmata
 source: https://www.nagrzyby.pl/atlas/5616
 ---
 

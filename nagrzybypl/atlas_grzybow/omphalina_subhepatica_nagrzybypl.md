@@ -1,5 +1,5 @@
 ---
-name: Omphalina subhepatica
+latin_name: Omphalina subhepatica
 source: https://www.nagrzyby.pl/atlas/4972
 ---
 

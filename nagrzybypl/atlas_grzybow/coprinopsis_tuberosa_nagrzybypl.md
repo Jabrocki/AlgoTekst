@@ -1,5 +1,5 @@
 ---
-name: Coprinopsis tuberosa
+latin_name: Coprinopsis tuberosa
 source: https://www.nagrzyby.pl/atlas/1028
 ---
 

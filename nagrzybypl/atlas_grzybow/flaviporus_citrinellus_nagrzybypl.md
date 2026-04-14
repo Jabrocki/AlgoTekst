@@ -1,5 +1,5 @@
 ---
-name: Flaviporus citrinellus
+latin_name: Flaviporus citrinellus
 source: https://www.nagrzyby.pl/atlas/2091
 ---
 

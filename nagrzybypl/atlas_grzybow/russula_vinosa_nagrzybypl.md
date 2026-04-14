@@ -1,5 +1,5 @@
 ---
-name: Russula vinosa
+latin_name: Russula vinosa
 source: https://www.nagrzyby.pl/atlas/785
 ---
 

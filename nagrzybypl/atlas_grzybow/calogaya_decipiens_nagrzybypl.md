@@ -1,5 +1,5 @@
 ---
-name: Calogaya decipiens
+latin_name: Calogaya decipiens
 source: https://www.nagrzyby.pl/atlas/5249
 ---
 

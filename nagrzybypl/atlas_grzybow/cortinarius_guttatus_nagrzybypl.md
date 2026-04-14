@@ -1,5 +1,5 @@
 ---
-name: Cortinarius guttatus
+latin_name: Cortinarius guttatus
 source: https://www.nagrzyby.pl/atlas/2180
 ---
 

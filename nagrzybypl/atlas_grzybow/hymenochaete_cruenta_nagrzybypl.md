@@ -1,5 +1,5 @@
 ---
-name: Hymenochaete cruenta
+latin_name: Hymenochaete cruenta
 source: https://www.nagrzyby.pl/atlas/716
 ---
 

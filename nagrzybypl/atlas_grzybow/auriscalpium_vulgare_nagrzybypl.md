@@ -1,5 +1,5 @@
 ---
-name: Auriscalpium vulgare
+latin_name: Auriscalpium vulgare
 source: https://www.nagrzyby.pl/atlas/408
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Antrodia sitchensis
+latin_name: Antrodia sitchensis
 source: https://www.nagrzyby.pl/atlas/2087
 ---
 

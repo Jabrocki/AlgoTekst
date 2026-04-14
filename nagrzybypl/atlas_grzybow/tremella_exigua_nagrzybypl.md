@@ -1,5 +1,5 @@
 ---
-name: Tremella exigua
+latin_name: Tremella exigua
 source: https://www.nagrzyby.pl/atlas/4180
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Lepiota echinella
+latin_name: Lepiota echinella
 source: https://www.nagrzyby.pl/atlas/4403
 ---
 

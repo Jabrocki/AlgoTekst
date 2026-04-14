@@ -1,5 +1,5 @@
 ---
-name: Russula grisea
+latin_name: Russula grisea
 source: https://www.nagrzyby.pl/atlas/1538
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Helvella macropus
+latin_name: Helvella macropus
 source: https://www.nagrzyby.pl/atlas/345
 ---
 

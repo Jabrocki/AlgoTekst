@@ -1,5 +1,5 @@
 ---
-name: Amylocorticium subincarnatum
+latin_name: Amylocorticium subincarnatum
 source: https://www.nagrzyby.pl/atlas/1857
 ---
 

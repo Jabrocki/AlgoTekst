@@ -1,5 +1,5 @@
 ---
-name: Cortinarius porphyropus
+latin_name: Cortinarius porphyropus
 source: https://www.nagrzyby.pl/atlas/2224
 ---
 

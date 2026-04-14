@@ -1,5 +1,5 @@
 ---
-name: Volvariella bakeri
+latin_name: Volvariella bakeri
 source: https://www.nagrzyby.pl/atlas/1739
 ---
 

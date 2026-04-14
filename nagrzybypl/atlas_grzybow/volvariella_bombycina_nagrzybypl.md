@@ -1,5 +1,5 @@
 ---
-name: Volvariella bombycina
+latin_name: Volvariella bombycina
 source: https://www.nagrzyby.pl/atlas/170
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Psilocybe merdicola
+latin_name: Psilocybe merdicola
 source: https://www.nagrzyby.pl/atlas/1354
 ---
 

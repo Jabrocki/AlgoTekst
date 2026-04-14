@@ -1,5 +1,5 @@
 ---
-name: Macrocystidia cucumis
+latin_name: Macrocystidia cucumis
 source: https://www.nagrzyby.pl/atlas/743
 ---
 

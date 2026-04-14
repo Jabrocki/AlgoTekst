@@ -1,5 +1,5 @@
 ---
-name: Gyromitra gigas
+latin_name: Gyromitra gigas
 source: https://www.nagrzyby.pl/atlas/323
 ---
 

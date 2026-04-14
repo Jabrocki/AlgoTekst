@@ -1,5 +1,5 @@
 ---
-name: Mycena flavescens
+latin_name: Mycena flavescens
 source: https://www.nagrzyby.pl/atlas/960
 ---
 

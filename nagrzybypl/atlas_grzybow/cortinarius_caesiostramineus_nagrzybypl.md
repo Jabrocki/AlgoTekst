@@ -1,5 +1,5 @@
 ---
-name: Cortinarius caesiostramineus
+latin_name: Cortinarius caesiostramineus
 source: https://www.nagrzyby.pl/atlas/2138
 ---
 

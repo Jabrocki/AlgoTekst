@@ -1,5 +1,5 @@
 ---
-name: Cortinarius pseudoduracinus
+latin_name: Cortinarius pseudoduracinus
 source: https://www.nagrzyby.pl/atlas/2227
 ---
 

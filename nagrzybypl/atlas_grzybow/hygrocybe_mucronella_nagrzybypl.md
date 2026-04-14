@@ -1,5 +1,5 @@
 ---
-name: Hygrocybe mucronella
+latin_name: Hygrocybe mucronella
 source: https://www.nagrzyby.pl/atlas/4222
 ---
 

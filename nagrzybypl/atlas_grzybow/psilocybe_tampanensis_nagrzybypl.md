@@ -1,5 +1,5 @@
 ---
-name: Psilocybe tampanensis
+latin_name: Psilocybe tampanensis
 source: https://www.nagrzyby.pl/atlas/1371
 ---
 

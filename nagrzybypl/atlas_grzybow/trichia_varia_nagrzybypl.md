@@ -1,5 +1,5 @@
 ---
-name: Trichia varia
+latin_name: Trichia varia
 source: https://www.nagrzyby.pl/atlas/1680
 ---
 

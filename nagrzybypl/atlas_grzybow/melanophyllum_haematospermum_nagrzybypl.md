@@ -1,5 +1,5 @@
 ---
-name: Melanophyllum haematospermum
+latin_name: Melanophyllum haematospermum
 source: https://www.nagrzyby.pl/atlas/2455
 ---
 

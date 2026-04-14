@@ -1,5 +1,5 @@
 ---
-name: Agaricus macrocarpus
+latin_name: Agaricus macrocarpus
 source: https://www.nagrzyby.pl/atlas/630
 ---
 

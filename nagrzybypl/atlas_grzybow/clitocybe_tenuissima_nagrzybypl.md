@@ -1,5 +1,5 @@
 ---
-name: Clitocybe tenuissima
+latin_name: Clitocybe tenuissima
 source: https://www.nagrzyby.pl/atlas/1572
 ---
 

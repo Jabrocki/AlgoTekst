@@ -1,5 +1,5 @@
 ---
-name: Hygrophorus lucorum
+latin_name: Hygrophorus lucorum
 source: https://www.nagrzyby.pl/atlas/552
 ---
 

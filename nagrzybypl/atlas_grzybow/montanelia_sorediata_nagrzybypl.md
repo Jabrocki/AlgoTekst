@@ -1,5 +1,5 @@
 ---
-name: Montanelia sorediata
+latin_name: Montanelia sorediata
 source: https://www.nagrzyby.pl/atlas/5370
 ---
 

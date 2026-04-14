@@ -1,5 +1,5 @@
 ---
-name: Albatrellus cristatus
+latin_name: Albatrellus cristatus
 source: https://www.nagrzyby.pl/atlas/18
 ---
 

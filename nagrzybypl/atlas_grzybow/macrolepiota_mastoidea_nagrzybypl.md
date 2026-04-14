@@ -1,5 +1,5 @@
 ---
-name: Macrolepiota mastoidea
+latin_name: Macrolepiota mastoidea
 source: https://www.nagrzyby.pl/atlas/379
 ---
 

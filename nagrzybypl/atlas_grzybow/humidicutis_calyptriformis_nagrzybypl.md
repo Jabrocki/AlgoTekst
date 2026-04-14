@@ -1,5 +1,5 @@
 ---
-name: Humidicutis calyptriformis
+latin_name: Humidicutis calyptriformis
 source: https://www.nagrzyby.pl/atlas/462
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Hygrophorus agathosmus
+latin_name: Hygrophorus agathosmus
 source: https://www.nagrzyby.pl/atlas/670
 ---
 

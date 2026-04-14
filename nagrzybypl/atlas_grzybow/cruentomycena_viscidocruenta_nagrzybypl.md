@@ -1,5 +1,5 @@
 ---
-name: Cruentomycena viscidocruenta
+latin_name: Cruentomycena viscidocruenta
 source: https://www.nagrzyby.pl/atlas/5571
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Entoloma versatile
+latin_name: Entoloma versatile
 source: https://www.nagrzyby.pl/atlas/4745
 ---
 

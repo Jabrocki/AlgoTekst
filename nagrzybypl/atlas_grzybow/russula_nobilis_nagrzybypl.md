@@ -1,5 +1,5 @@
 ---
-name: Russula nobilis
+latin_name: Russula nobilis
 source: https://www.nagrzyby.pl/atlas/1551
 ---
 

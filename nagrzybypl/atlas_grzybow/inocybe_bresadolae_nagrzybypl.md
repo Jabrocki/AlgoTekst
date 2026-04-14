@@ -1,5 +1,5 @@
 ---
-name: Inocybe bresadolae
+latin_name: Inocybe bresadolae
 source: https://www.nagrzyby.pl/atlas/2334
 ---
 

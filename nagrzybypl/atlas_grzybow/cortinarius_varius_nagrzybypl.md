@@ -1,5 +1,5 @@
 ---
-name: Cortinarius varius
+latin_name: Cortinarius varius
 source: https://www.nagrzyby.pl/atlas/2270
 ---
 

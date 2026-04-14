@@ -1,5 +1,5 @@
 ---
-name: Peziza phyllogena
+latin_name: Peziza phyllogena
 source: https://www.nagrzyby.pl/atlas/1276
 ---
 

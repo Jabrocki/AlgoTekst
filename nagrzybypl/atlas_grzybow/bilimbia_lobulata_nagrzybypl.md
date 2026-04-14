@@ -1,5 +1,5 @@
 ---
-name: Bilimbia lobulata
+latin_name: Bilimbia lobulata
 source: https://www.nagrzyby.pl/atlas/866
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Hysterangium stoloniferum
+latin_name: Hysterangium stoloniferum
 source: https://www.nagrzyby.pl/atlas/4833
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Badhamia panicea
+latin_name: Badhamia panicea
 source: https://www.nagrzyby.pl/atlas/1719
 ---
 

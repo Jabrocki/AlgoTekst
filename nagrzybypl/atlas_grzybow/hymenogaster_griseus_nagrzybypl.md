@@ -1,5 +1,5 @@
 ---
-name: Hymenogaster griseus
+latin_name: Hymenogaster griseus
 source: https://www.nagrzyby.pl/atlas/5845
 ---
 

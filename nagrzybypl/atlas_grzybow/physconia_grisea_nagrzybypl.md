@@ -1,5 +1,5 @@
 ---
-name: Physconia grisea
+latin_name: Physconia grisea
 source: https://www.nagrzyby.pl/atlas/5397
 ---
 

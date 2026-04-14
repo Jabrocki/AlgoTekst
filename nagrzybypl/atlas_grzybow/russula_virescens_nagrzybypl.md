@@ -1,5 +1,5 @@
 ---
-name: Russula virescens
+latin_name: Russula virescens
 source: https://www.nagrzyby.pl/atlas/504
 ---
 

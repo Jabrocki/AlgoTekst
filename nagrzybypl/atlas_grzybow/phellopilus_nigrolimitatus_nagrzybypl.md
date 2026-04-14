@@ -1,5 +1,5 @@
 ---
-name: Phellopilus nigrolimitatus
+latin_name: Phellopilus nigrolimitatus
 source: https://www.nagrzyby.pl/atlas/3223
 ---
 

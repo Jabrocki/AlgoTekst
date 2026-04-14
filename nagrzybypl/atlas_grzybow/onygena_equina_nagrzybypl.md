@@ -1,5 +1,5 @@
 ---
-name: Onygena equina
+latin_name: Onygena equina
 source: https://www.nagrzyby.pl/atlas/4174
 ---
 

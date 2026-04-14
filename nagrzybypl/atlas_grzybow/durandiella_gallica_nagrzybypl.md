@@ -1,5 +1,5 @@
 ---
-name: Durandiella gallica
+latin_name: Durandiella gallica
 source: https://www.nagrzyby.pl/atlas/5599
 ---
 

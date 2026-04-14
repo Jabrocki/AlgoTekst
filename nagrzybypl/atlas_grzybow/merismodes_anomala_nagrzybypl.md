@@ -1,5 +1,5 @@
 ---
-name: Merismodes anomala
+latin_name: Merismodes anomala
 source: https://www.nagrzyby.pl/atlas/4525
 ---
 

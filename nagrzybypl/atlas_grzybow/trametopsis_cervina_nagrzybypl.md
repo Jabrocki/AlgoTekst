@@ -1,5 +1,5 @@
 ---
-name: Trametopsis cervina
+latin_name: Trametopsis cervina
 source: https://www.nagrzyby.pl/atlas/1109
 ---
 

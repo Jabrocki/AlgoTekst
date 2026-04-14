@@ -1,5 +1,5 @@
 ---
-name: Leccinum piceinum
+latin_name: Leccinum piceinum
 source: https://www.nagrzyby.pl/atlas/15
 ---
 

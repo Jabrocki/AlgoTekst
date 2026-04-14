@@ -1,5 +1,5 @@
 ---
-name: Tremella moriformis
+latin_name: Tremella moriformis
 source: https://www.nagrzyby.pl/atlas/4182
 ---
 

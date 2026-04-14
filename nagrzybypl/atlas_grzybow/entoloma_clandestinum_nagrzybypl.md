@@ -1,5 +1,5 @@
 ---
-name: Entoloma clandestinum
+latin_name: Entoloma clandestinum
 source: https://www.nagrzyby.pl/atlas/4278
 ---
 

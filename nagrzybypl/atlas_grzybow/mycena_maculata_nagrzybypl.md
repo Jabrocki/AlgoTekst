@@ -1,5 +1,5 @@
 ---
-name: Mycena maculata
+latin_name: Mycena maculata
 source: https://www.nagrzyby.pl/atlas/1076
 ---
 

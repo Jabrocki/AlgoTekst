@@ -1,5 +1,5 @@
 ---
-name: Morchella esculenta
+latin_name: Morchella esculenta
 source: https://www.nagrzyby.pl/atlas/155
 ---
 

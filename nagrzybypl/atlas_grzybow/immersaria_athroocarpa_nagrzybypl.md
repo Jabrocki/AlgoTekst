@@ -1,5 +1,5 @@
 ---
-name: * Immersaria athroocarpa
+latin_name: * Immersaria athroocarpa
 source: https://www.nagrzyby.pl/atlas/5441
 ---
 

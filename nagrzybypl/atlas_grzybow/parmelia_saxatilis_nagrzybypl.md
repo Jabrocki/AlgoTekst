@@ -1,5 +1,5 @@
 ---
-name: Parmelia saxatilis
+latin_name: Parmelia saxatilis
 source: https://www.nagrzyby.pl/atlas/5304
 ---
 

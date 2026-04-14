@@ -1,5 +1,5 @@
 ---
-name: Leccinum cyaneobasileucum
+latin_name: Leccinum cyaneobasileucum
 source: https://www.nagrzyby.pl/atlas/5037
 ---
 

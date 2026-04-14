@@ -1,5 +1,5 @@
 ---
-name: Umbilicaria deusta
+latin_name: Umbilicaria deusta
 source: https://www.nagrzyby.pl/atlas/5345
 ---
 

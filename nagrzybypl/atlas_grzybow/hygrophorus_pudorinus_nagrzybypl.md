@@ -1,5 +1,5 @@
 ---
-name: Hygrophorus pudorinus
+latin_name: Hygrophorus pudorinus
 source: https://www.nagrzyby.pl/atlas/583
 ---
 

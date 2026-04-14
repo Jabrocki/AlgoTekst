@@ -1,5 +1,5 @@
 ---
-name: Antrodia ramentacea
+latin_name: Antrodia ramentacea
 source: https://www.nagrzyby.pl/atlas/2085
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Diplotomma alboatrum
+latin_name: Diplotomma alboatrum
 source: https://www.nagrzyby.pl/atlas/5184
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Peltigera didactyla
+latin_name: Peltigera didactyla
 source: https://www.nagrzyby.pl/atlas/5352
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Cortinarius stemmatus
+latin_name: Cortinarius stemmatus
 source: https://www.nagrzyby.pl/atlas/2248
 ---
 

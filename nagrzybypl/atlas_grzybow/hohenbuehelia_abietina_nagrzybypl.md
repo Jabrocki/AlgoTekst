@@ -1,5 +1,5 @@
 ---
-name: Hohenbuehelia abietina
+latin_name: Hohenbuehelia abietina
 source: https://www.nagrzyby.pl/atlas/798
 ---
 

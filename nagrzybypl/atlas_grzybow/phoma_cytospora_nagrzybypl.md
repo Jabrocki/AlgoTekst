@@ -1,5 +1,5 @@
 ---
-name: * Phoma cytospora
+latin_name: * Phoma cytospora
 source: https://www.nagrzyby.pl/atlas/5488
 ---
 

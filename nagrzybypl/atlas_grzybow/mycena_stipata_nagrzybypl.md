@@ -1,5 +1,5 @@
 ---
-name: Mycena stipata
+latin_name: Mycena stipata
 source: https://www.nagrzyby.pl/atlas/486
 ---
 

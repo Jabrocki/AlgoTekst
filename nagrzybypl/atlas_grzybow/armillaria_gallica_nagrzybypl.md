@@ -1,5 +1,5 @@
 ---
-name: Armillaria gallica
+latin_name: Armillaria gallica
 source: https://www.nagrzyby.pl/atlas/1864
 ---
 

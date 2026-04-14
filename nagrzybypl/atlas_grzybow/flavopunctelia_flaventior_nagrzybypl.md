@@ -1,5 +1,5 @@
 ---
-name: Flavopunctelia flaventior
+latin_name: Flavopunctelia flaventior
 source: https://www.nagrzyby.pl/atlas/5208
 ---
 

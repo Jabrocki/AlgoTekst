@@ -1,5 +1,5 @@
 ---
-name: Inocybe malenconii
+latin_name: Inocybe malenconii
 source: https://www.nagrzyby.pl/atlas/2366
 ---
 

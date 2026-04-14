@@ -1,5 +1,5 @@
 ---
-name: Cortinarius semisanguineus
+latin_name: Cortinarius semisanguineus
 source: https://www.nagrzyby.pl/atlas/810
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Melanogaster broomeanus
+latin_name: Melanogaster broomeanus
 source: https://www.nagrzyby.pl/atlas/4708
 ---
 

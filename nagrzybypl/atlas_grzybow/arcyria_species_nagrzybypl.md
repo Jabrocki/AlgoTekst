@@ -1,5 +1,5 @@
 ---
-name: Arcyria species
+latin_name: Arcyria species
 source: https://www.nagrzyby.pl/atlas/5049
 ---
 

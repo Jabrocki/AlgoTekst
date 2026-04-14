@@ -1,5 +1,5 @@
 ---
-name: Hygrophorus subviscifer
+latin_name: Hygrophorus subviscifer
 source: https://www.nagrzyby.pl/atlas/4550
 ---
 

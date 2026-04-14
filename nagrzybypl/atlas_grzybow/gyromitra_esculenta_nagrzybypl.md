@@ -1,5 +1,5 @@
 ---
-name: Gyromitra esculenta
+latin_name: Gyromitra esculenta
 source: https://www.nagrzyby.pl/atlas/324
 ---
 

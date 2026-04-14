@@ -1,5 +1,5 @@
 ---
-name: Enchylium limosum
+latin_name: Enchylium limosum
 source: https://www.nagrzyby.pl/atlas/5233
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Ophiocordyceps sphecocephala
+latin_name: Ophiocordyceps sphecocephala
 source: https://www.nagrzyby.pl/atlas/1389
 ---
 

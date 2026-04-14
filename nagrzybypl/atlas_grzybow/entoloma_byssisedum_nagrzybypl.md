@@ -1,5 +1,5 @@
 ---
-name: Entoloma byssisedum
+latin_name: Entoloma byssisedum
 source: https://www.nagrzyby.pl/atlas/4277
 ---
 

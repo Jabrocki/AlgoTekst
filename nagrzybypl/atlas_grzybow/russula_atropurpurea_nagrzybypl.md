@@ -1,5 +1,5 @@
 ---
-name: Russula atropurpurea
+latin_name: Russula atropurpurea
 source: https://www.nagrzyby.pl/atlas/521
 ---
 

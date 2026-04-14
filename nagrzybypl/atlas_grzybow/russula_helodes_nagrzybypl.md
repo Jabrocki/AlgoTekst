@@ -1,5 +1,5 @@
 ---
-name: Russula helodes
+latin_name: Russula helodes
 source: https://www.nagrzyby.pl/atlas/825
 ---
 

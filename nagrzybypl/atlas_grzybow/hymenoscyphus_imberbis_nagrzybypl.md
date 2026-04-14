@@ -1,5 +1,5 @@
 ---
-name: Hymenoscyphus imberbis
+latin_name: Hymenoscyphus imberbis
 source: https://www.nagrzyby.pl/atlas/1967
 ---
 

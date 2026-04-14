@@ -1,5 +1,5 @@
 ---
-name: Arcyria obvelata
+latin_name: Arcyria obvelata
 source: https://www.nagrzyby.pl/atlas/3284
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Entoloma parasiticum
+latin_name: Entoloma parasiticum
 source: https://www.nagrzyby.pl/atlas/5084
 ---
 

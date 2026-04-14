@@ -1,5 +1,5 @@
 ---
-name: Mycena cinerella
+latin_name: Mycena cinerella
 source: https://www.nagrzyby.pl/atlas/968
 ---
 

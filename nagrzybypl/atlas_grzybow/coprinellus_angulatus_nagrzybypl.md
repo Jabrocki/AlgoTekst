@@ -1,5 +1,5 @@
 ---
-name: Coprinellus angulatus
+latin_name: Coprinellus angulatus
 source: https://www.nagrzyby.pl/atlas/1026
 ---
 

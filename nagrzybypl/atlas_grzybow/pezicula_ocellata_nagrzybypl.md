@@ -1,5 +1,5 @@
 ---
-name: Pezicula ocellata
+latin_name: Pezicula ocellata
 source: https://www.nagrzyby.pl/atlas/5732
 ---
 

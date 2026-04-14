@@ -1,5 +1,5 @@
 ---
-name: Micarea peliocarpa
+latin_name: Micarea peliocarpa
 source: https://www.nagrzyby.pl/atlas/5572
 ---
 

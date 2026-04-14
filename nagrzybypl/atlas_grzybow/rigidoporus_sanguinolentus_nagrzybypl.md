@@ -1,5 +1,5 @@
 ---
-name: Rigidoporus sanguinolentus
+latin_name: Rigidoporus sanguinolentus
 source: https://www.nagrzyby.pl/atlas/1838
 ---
 

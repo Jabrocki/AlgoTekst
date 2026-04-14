@@ -1,5 +1,5 @@
 ---
-name: Lactarius hepaticus
+latin_name: Lactarius hepaticus
 source: https://www.nagrzyby.pl/atlas/1794
 ---
 

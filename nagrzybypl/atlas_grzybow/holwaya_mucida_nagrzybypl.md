@@ -1,5 +1,5 @@
 ---
-name: Holwaya mucida
+latin_name: Holwaya mucida
 source: https://www.nagrzyby.pl/atlas/547
 ---
 

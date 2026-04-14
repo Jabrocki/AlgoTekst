@@ -1,5 +1,5 @@
 ---
-name: Russula medullata
+latin_name: Russula medullata
 source: https://www.nagrzyby.pl/atlas/5649
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Clathrus ruber
+latin_name: Clathrus ruber
 source: https://www.nagrzyby.pl/atlas/1230
 ---
 

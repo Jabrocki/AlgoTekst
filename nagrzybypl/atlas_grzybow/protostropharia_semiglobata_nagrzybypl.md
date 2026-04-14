@@ -1,5 +1,5 @@
 ---
-name: Protostropharia semiglobata
+latin_name: Protostropharia semiglobata
 source: https://www.nagrzyby.pl/atlas/1498
 ---
 

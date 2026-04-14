@@ -1,5 +1,5 @@
 ---
-name: Peziza sepiatra
+latin_name: Peziza sepiatra
 source: https://www.nagrzyby.pl/atlas/1304
 ---
 

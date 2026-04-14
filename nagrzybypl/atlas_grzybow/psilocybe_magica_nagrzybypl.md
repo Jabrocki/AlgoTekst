@@ -1,5 +1,5 @@
 ---
-name: Psilocybe magica
+latin_name: Psilocybe magica
 source: https://www.nagrzyby.pl/atlas/1352
 ---
 

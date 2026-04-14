@@ -1,5 +1,5 @@
 ---
-name: Dendrocorticium polygonioides
+latin_name: Dendrocorticium polygonioides
 source: https://www.nagrzyby.pl/atlas/4410
 ---
 

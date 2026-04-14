@@ -1,5 +1,5 @@
 ---
-name: Russula olivacea
+latin_name: Russula olivacea
 source: https://www.nagrzyby.pl/atlas/114
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Hemipholiota heteroclita
+latin_name: Hemipholiota heteroclita
 source: https://www.nagrzyby.pl/atlas/1400
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Ciboria batschiana
+latin_name: Ciboria batschiana
 source: https://www.nagrzyby.pl/atlas/1976
 ---
 

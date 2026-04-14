@@ -1,5 +1,5 @@
 ---
-name: Psathyrella atrolaminata
+latin_name: Psathyrella atrolaminata
 source: https://www.nagrzyby.pl/atlas/4326
 ---
 

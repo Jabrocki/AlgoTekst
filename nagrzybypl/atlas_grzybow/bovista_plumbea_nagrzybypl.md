@@ -1,5 +1,5 @@
 ---
-name: Bovista plumbea
+latin_name: Bovista plumbea
 source: https://www.nagrzyby.pl/atlas/140
 ---
 

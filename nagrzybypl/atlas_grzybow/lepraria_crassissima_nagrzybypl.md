@@ -1,5 +1,5 @@
 ---
-name: Lepraria crassissima
+latin_name: Lepraria crassissima
 source: https://www.nagrzyby.pl/atlas/5253
 ---
 

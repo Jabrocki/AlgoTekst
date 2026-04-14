@@ -1,5 +1,5 @@
 ---
-name: Didymium melanospermum
+latin_name: Didymium melanospermum
 source: https://www.nagrzyby.pl/atlas/5010
 ---
 

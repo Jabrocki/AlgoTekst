@@ -1,5 +1,5 @@
 ---
-name: Hebeloma crustuliniforme
+latin_name: Hebeloma crustuliniforme
 source: https://www.nagrzyby.pl/atlas/603
 ---
 

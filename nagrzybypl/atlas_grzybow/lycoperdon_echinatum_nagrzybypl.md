@@ -1,5 +1,5 @@
 ---
-name: Lycoperdon echinatum
+latin_name: Lycoperdon echinatum
 source: https://www.nagrzyby.pl/atlas/364
 ---
 

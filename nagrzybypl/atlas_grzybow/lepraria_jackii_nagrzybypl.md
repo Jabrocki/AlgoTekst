@@ -1,5 +1,5 @@
 ---
-name: Lepraria jackii
+latin_name: Lepraria jackii
 source: https://www.nagrzyby.pl/atlas/5254
 ---
 

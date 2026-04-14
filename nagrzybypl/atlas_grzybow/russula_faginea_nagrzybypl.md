@@ -1,5 +1,5 @@
 ---
-name: Russula faginea
+latin_name: Russula faginea
 source: https://www.nagrzyby.pl/atlas/600
 ---
 

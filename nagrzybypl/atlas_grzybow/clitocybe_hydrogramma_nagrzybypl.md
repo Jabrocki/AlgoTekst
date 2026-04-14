@@ -1,5 +1,5 @@
 ---
-name: Clitocybe hydrogramma
+latin_name: Clitocybe hydrogramma
 source: https://www.nagrzyby.pl/atlas/1991
 ---
 

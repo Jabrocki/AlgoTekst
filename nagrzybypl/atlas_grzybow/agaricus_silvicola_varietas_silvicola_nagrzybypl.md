@@ -1,5 +1,5 @@
 ---
-name: Agaricus silvicola varietas silvicola
+latin_name: Agaricus silvicola varietas silvicola
 source: https://www.nagrzyby.pl/atlas/5141
 ---
 

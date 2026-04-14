@@ -1,5 +1,5 @@
 ---
-name: Bjerkandera fumosa
+latin_name: Bjerkandera fumosa
 source: https://www.nagrzyby.pl/atlas/1117
 ---
 

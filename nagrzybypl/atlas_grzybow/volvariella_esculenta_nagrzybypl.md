@@ -1,5 +1,5 @@
 ---
-name: Volvariella esculenta
+latin_name: Volvariella esculenta
 source: https://www.nagrzyby.pl/atlas/1741
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Tricholoma columbetta
+latin_name: Tricholoma columbetta
 source: https://www.nagrzyby.pl/atlas/1007
 ---
 

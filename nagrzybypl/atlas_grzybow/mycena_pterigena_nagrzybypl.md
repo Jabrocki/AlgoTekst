@@ -1,5 +1,5 @@
 ---
-name: Mycena pterigena
+latin_name: Mycena pterigena
 source: https://www.nagrzyby.pl/atlas/2450
 ---
 

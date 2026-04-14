@@ -1,5 +1,5 @@
 ---
-name: Candelariella aurella
+latin_name: Candelariella aurella
 source: https://www.nagrzyby.pl/atlas/5260
 ---
 

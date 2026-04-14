@@ -1,5 +1,5 @@
 ---
-name: Cribraria argillacea
+latin_name: Cribraria argillacea
 source: https://www.nagrzyby.pl/atlas/5058
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Inocybe godeyi
+latin_name: Inocybe godeyi
 source: https://www.nagrzyby.pl/atlas/2352
 ---
 

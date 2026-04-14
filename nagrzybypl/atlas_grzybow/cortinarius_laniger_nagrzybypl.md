@@ -1,5 +1,5 @@
 ---
-name: Cortinarius laniger
+latin_name: Cortinarius laniger
 source: https://www.nagrzyby.pl/atlas/2194
 ---
 

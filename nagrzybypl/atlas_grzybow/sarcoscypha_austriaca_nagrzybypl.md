@@ -1,5 +1,5 @@
 ---
-name: Sarcoscypha austriaca
+latin_name: Sarcoscypha austriaca
 source: https://www.nagrzyby.pl/atlas/123
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Clitocybe fragrans
+latin_name: Clitocybe fragrans
 source: https://www.nagrzyby.pl/atlas/1588
 ---
 

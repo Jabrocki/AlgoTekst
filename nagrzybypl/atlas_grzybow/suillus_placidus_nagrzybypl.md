@@ -1,5 +1,5 @@
 ---
-name: Suillus placidus
+latin_name: Suillus placidus
 source: https://www.nagrzyby.pl/atlas/767
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Hygrophorus chrysodon
+latin_name: Hygrophorus chrysodon
 source: https://www.nagrzyby.pl/atlas/568
 ---
 

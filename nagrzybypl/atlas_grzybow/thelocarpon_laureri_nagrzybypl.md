@@ -1,5 +1,5 @@
 ---
-name: Thelocarpon laureri
+latin_name: Thelocarpon laureri
 source: https://www.nagrzyby.pl/atlas/5264
 ---
 

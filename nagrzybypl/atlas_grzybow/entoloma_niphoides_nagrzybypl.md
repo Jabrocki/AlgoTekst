@@ -1,5 +1,5 @@
 ---
-name: Entoloma niphoides
+latin_name: Entoloma niphoides
 source: https://www.nagrzyby.pl/atlas/4775
 ---
 

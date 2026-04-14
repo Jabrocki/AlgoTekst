@@ -1,5 +1,5 @@
 ---
-name: Psilocybe velifera
+latin_name: Psilocybe velifera
 source: https://www.nagrzyby.pl/atlas/1930
 ---
 

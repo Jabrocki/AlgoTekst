@@ -1,5 +1,5 @@
 ---
-name: Psilocybe subcoprophila
+latin_name: Psilocybe subcoprophila
 source: https://www.nagrzyby.pl/atlas/1925
 ---
 

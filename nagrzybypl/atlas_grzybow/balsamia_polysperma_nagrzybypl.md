@@ -1,5 +1,5 @@
 ---
-name: Balsamia polysperma
+latin_name: Balsamia polysperma
 source: https://www.nagrzyby.pl/atlas/5821
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Lepista sordida
+latin_name: Lepista sordida
 source: https://www.nagrzyby.pl/atlas/1066
 ---
 

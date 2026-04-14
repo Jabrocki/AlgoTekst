@@ -1,5 +1,5 @@
 ---
-name: Resupinatus trichotis
+latin_name: Resupinatus trichotis
 source: https://www.nagrzyby.pl/atlas/809
 ---
 

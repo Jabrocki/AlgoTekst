@@ -1,5 +1,5 @@
 ---
-name: Russula aurora
+latin_name: Russula aurora
 source: https://www.nagrzyby.pl/atlas/872
 ---
 

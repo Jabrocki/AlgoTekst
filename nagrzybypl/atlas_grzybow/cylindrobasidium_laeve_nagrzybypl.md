@@ -1,5 +1,5 @@
 ---
-name: Cylindrobasidium laeve
+latin_name: Cylindrobasidium laeve
 source: https://www.nagrzyby.pl/atlas/2294
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Macrolepiota konradii
+latin_name: Macrolepiota konradii
 source: https://www.nagrzyby.pl/atlas/1206
 ---
 

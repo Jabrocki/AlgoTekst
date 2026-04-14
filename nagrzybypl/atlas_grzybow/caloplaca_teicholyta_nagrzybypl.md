@@ -1,5 +1,5 @@
 ---
-name: Caloplaca teicholyta
+latin_name: Caloplaca teicholyta
 source: https://www.nagrzyby.pl/atlas/5247
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Byssonectria terrestris
+latin_name: Byssonectria terrestris
 source: https://www.nagrzyby.pl/atlas/5661
 ---
 

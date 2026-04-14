@@ -1,5 +1,5 @@
 ---
-name: Aleurocystidiellum subcruentatum
+latin_name: Aleurocystidiellum subcruentatum
 source: https://www.nagrzyby.pl/atlas/2304
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Chaenotheca cinerea
+latin_name: Chaenotheca cinerea
 source: https://www.nagrzyby.pl/atlas/5470
 ---
 

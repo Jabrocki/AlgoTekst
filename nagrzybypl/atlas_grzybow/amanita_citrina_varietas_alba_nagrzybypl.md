@@ -1,5 +1,5 @@
 ---
-name: Amanita citrina varietas alba
+latin_name: Amanita citrina varietas alba
 source: https://www.nagrzyby.pl/atlas/4850
 ---
 

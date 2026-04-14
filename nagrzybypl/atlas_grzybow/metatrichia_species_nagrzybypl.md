@@ -1,5 +1,5 @@
 ---
-name: Metatrichia species
+latin_name: Metatrichia species
 source: https://www.nagrzyby.pl/atlas/5052
 ---
 

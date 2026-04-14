@@ -1,5 +1,5 @@
 ---
-name: Inocybe margaritispora
+latin_name: Inocybe margaritispora
 source: https://www.nagrzyby.pl/atlas/908
 ---
 

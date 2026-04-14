@@ -1,5 +1,5 @@
 ---
-name: Lactarius mitissimus
+latin_name: Lactarius mitissimus
 source: https://www.nagrzyby.pl/atlas/799
 ---
 

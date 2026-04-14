@@ -1,5 +1,5 @@
 ---
-name: Tyromyces kmetii
+latin_name: Tyromyces kmetii
 source: https://www.nagrzyby.pl/atlas/5701
 ---
 

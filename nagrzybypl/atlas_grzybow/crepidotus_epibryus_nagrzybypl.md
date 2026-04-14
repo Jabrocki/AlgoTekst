@@ -1,5 +1,5 @@
 ---
-name: Crepidotus epibryus
+latin_name: Crepidotus epibryus
 source: https://www.nagrzyby.pl/atlas/2284
 ---
 

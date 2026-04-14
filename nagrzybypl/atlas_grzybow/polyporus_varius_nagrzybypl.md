@@ -1,5 +1,5 @@
 ---
-name: Polyporus varius
+latin_name: Polyporus varius
 source: https://www.nagrzyby.pl/atlas/294
 ---
 

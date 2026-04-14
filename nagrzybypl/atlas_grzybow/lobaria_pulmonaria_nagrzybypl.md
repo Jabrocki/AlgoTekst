@@ -1,5 +1,5 @@
 ---
-name: Lobaria pulmonaria
+latin_name: Lobaria pulmonaria
 source: https://www.nagrzyby.pl/atlas/5238
 ---
 

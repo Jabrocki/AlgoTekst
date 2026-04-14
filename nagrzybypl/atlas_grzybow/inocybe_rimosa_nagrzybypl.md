@@ -1,5 +1,5 @@
 ---
-name: Inocybe rimosa
+latin_name: Inocybe rimosa
 source: https://www.nagrzyby.pl/atlas/939
 ---
 

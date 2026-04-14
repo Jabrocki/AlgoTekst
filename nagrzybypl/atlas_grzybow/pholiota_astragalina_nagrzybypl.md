@@ -1,5 +1,5 @@
 ---
-name: Pholiota astragalina
+latin_name: Pholiota astragalina
 source: https://www.nagrzyby.pl/atlas/1396
 ---
 

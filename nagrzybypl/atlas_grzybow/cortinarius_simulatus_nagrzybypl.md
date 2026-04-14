@@ -1,5 +1,5 @@
 ---
-name: Cortinarius simulatus
+latin_name: Cortinarius simulatus
 source: https://www.nagrzyby.pl/atlas/2244
 ---
 

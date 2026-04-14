@@ -1,5 +1,5 @@
 ---
-name: Lactarius musteus
+latin_name: Lactarius musteus
 source: https://www.nagrzyby.pl/atlas/1812
 ---
 

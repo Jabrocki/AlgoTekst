@@ -1,5 +1,5 @@
 ---
-name: Skeletocutis amorpha
+latin_name: Skeletocutis amorpha
 source: https://www.nagrzyby.pl/atlas/1118
 ---
 

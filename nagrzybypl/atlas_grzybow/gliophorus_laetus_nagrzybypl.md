@@ -1,5 +1,5 @@
 ---
-name: Gliophorus laetus
+latin_name: Gliophorus laetus
 source: https://www.nagrzyby.pl/atlas/1250
 ---
 

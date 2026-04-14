@@ -1,5 +1,5 @@
 ---
-name: Kuehneromyces lignicola
+latin_name: Kuehneromyces lignicola
 source: https://www.nagrzyby.pl/atlas/1402
 ---
 

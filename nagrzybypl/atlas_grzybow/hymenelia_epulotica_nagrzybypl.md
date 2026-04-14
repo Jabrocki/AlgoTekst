@@ -1,5 +1,5 @@
 ---
-name: Hymenelia epulotica
+latin_name: Hymenelia epulotica
 source: https://www.nagrzyby.pl/atlas/882
 ---
 

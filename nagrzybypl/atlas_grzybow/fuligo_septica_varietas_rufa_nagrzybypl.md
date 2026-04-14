@@ -1,5 +1,5 @@
 ---
-name: Fuligo septica varietas rufa
+latin_name: Fuligo septica varietas rufa
 source: https://www.nagrzyby.pl/atlas/5100
 ---
 

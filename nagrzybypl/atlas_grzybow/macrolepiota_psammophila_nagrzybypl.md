@@ -1,5 +1,5 @@
 ---
-name: Macrolepiota psammophila
+latin_name: Macrolepiota psammophila
 source: https://www.nagrzyby.pl/atlas/3889
 ---
 

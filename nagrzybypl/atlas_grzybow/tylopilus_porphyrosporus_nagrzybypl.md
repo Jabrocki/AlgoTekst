@@ -1,5 +1,5 @@
 ---
-name: Tylopilus porphyrosporus
+latin_name: Tylopilus porphyrosporus
 source: https://www.nagrzyby.pl/atlas/153
 ---
 

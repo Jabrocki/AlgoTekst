@@ -1,5 +1,5 @@
 ---
-name: Pseudomerulius aureus
+latin_name: Pseudomerulius aureus
 source: https://www.nagrzyby.pl/atlas/1760
 ---
 

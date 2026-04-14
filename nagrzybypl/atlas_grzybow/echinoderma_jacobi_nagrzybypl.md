@@ -1,5 +1,5 @@
 ---
-name: Echinoderma jacobi
+latin_name: Echinoderma jacobi
 source: https://www.nagrzyby.pl/atlas/4399
 ---
 

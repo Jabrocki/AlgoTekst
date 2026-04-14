@@ -1,5 +1,5 @@
 ---
-name: Cortinarius pluvius
+latin_name: Cortinarius pluvius
 source: https://www.nagrzyby.pl/atlas/2223
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Lentinellus micheneri
+latin_name: Lentinellus micheneri
 source: https://www.nagrzyby.pl/atlas/4406
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Inocybe calamistrata
+latin_name: Inocybe calamistrata
 source: https://www.nagrzyby.pl/atlas/906
 ---
 

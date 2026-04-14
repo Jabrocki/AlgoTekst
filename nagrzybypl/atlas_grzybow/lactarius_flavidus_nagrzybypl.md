@@ -1,5 +1,5 @@
 ---
-name: Lactarius flavidus
+latin_name: Lactarius flavidus
 source: https://www.nagrzyby.pl/atlas/1797
 ---
 

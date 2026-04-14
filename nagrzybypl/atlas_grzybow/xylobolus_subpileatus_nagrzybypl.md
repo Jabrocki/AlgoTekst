@@ -1,5 +1,5 @@
 ---
-name: Xylobolus subpileatus
+latin_name: Xylobolus subpileatus
 source: https://www.nagrzyby.pl/atlas/2822
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Chlorophyllum venenatum
+latin_name: Chlorophyllum venenatum
 source: https://www.nagrzyby.pl/atlas/4540
 ---
 

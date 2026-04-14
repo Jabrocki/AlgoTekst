@@ -1,5 +1,5 @@
 ---
-name: Mycena sepia
+latin_name: Mycena sepia
 source: https://www.nagrzyby.pl/atlas/967
 ---
 

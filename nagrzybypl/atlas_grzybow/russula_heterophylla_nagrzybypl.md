@@ -1,5 +1,5 @@
 ---
-name: Russula heterophylla
+latin_name: Russula heterophylla
 source: https://www.nagrzyby.pl/atlas/861
 ---
 

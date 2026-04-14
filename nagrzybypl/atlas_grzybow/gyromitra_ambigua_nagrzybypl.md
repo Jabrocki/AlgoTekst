@@ -1,5 +1,5 @@
 ---
-name: Gyromitra ambigua
+latin_name: Gyromitra ambigua
 source: https://www.nagrzyby.pl/atlas/4853
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Mycopan scabripes
+latin_name: Mycopan scabripes
 source: https://www.nagrzyby.pl/atlas/2421
 ---
 

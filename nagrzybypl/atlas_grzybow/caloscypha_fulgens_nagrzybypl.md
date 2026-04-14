@@ -1,5 +1,5 @@
 ---
-name: Caloscypha fulgens
+latin_name: Caloscypha fulgens
 source: https://www.nagrzyby.pl/atlas/597
 ---
 

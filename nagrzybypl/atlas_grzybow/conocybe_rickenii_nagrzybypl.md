@@ -1,5 +1,5 @@
 ---
-name: Conocybe rickenii
+latin_name: Conocybe rickenii
 source: https://www.nagrzyby.pl/atlas/2046
 ---
 

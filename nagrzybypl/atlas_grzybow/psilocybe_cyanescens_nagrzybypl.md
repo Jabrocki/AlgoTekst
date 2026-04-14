@@ -1,5 +1,5 @@
 ---
-name: Psilocybe cyanescens
+latin_name: Psilocybe cyanescens
 source: https://www.nagrzyby.pl/atlas/1330
 ---
 

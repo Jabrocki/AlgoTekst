@@ -1,5 +1,5 @@
 ---
-name: Lentinus suavissimus
+latin_name: Lentinus suavissimus
 source: https://www.nagrzyby.pl/atlas/805
 ---
 

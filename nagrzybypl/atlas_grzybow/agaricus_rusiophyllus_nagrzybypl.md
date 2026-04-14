@@ -1,5 +1,5 @@
 ---
-name: Agaricus rusiophyllus
+latin_name: Agaricus rusiophyllus
 source: https://www.nagrzyby.pl/atlas/877
 ---
 

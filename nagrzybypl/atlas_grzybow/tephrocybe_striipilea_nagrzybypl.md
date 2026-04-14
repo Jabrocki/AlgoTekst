@@ -1,5 +1,5 @@
 ---
-name: Tephrocybe striipilea
+latin_name: Tephrocybe striipilea
 source: https://www.nagrzyby.pl/atlas/4209
 ---
 

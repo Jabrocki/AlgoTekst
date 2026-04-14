@@ -1,5 +1,5 @@
 ---
-name: Coprinopsis acuminata
+latin_name: Coprinopsis acuminata
 source: https://www.nagrzyby.pl/atlas/1034
 ---
 

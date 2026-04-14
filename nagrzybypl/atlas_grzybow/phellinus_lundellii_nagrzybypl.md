@@ -1,5 +1,5 @@
 ---
-name: Phellinus lundellii
+latin_name: Phellinus lundellii
 source: https://www.nagrzyby.pl/atlas/3874
 ---
 

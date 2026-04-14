@@ -1,5 +1,5 @@
 ---
-name: Spinellus fusiger
+latin_name: Spinellus fusiger
 source: https://www.nagrzyby.pl/atlas/407
 ---
 

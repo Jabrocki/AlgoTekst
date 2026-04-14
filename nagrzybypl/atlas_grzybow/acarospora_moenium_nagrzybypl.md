@@ -1,5 +1,5 @@
 ---
-name: Acarospora moenium
+latin_name: Acarospora moenium
 source: https://www.nagrzyby.pl/atlas/5482
 ---
 

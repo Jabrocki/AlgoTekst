@@ -1,5 +1,5 @@
 ---
-name: Rhizopogon roseolus
+latin_name: Rhizopogon roseolus
 source: https://www.nagrzyby.pl/atlas/1143
 ---
 

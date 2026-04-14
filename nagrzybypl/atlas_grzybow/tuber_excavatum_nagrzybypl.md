@@ -1,5 +1,5 @@
 ---
-name: Tuber excavatum
+latin_name: Tuber excavatum
 source: https://www.nagrzyby.pl/atlas/492
 ---
 

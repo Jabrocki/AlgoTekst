@@ -1,5 +1,5 @@
 ---
-name: Russula azurea
+latin_name: Russula azurea
 source: https://www.nagrzyby.pl/atlas/2318
 ---
 

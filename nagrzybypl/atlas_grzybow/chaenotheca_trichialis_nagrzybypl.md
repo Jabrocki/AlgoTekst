@@ -1,5 +1,5 @@
 ---
-name: Chaenotheca trichialis
+latin_name: Chaenotheca trichialis
 source: https://www.nagrzyby.pl/atlas/5471
 ---
 

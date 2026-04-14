@@ -1,5 +1,5 @@
 ---
-name: Hysterangium clathroides
+latin_name: Hysterangium clathroides
 source: https://www.nagrzyby.pl/atlas/5860
 ---
 

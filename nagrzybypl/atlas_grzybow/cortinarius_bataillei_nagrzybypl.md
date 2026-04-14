@@ -1,5 +1,5 @@
 ---
-name: Cortinarius bataillei
+latin_name: Cortinarius bataillei
 source: https://www.nagrzyby.pl/atlas/914
 ---
 

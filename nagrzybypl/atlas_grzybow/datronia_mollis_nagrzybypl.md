@@ -1,5 +1,5 @@
 ---
-name: Datronia mollis
+latin_name: Datronia mollis
 source: https://www.nagrzyby.pl/atlas/656
 ---
 

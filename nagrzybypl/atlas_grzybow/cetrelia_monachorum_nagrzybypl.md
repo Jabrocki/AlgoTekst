@@ -1,5 +1,5 @@
 ---
-name: Cetrelia monachorum
+latin_name: Cetrelia monachorum
 source: https://www.nagrzyby.pl/atlas/5544
 ---
 

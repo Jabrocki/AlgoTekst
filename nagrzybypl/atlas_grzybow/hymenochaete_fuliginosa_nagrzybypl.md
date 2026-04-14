@@ -1,5 +1,5 @@
 ---
-name: Hymenochaete fuliginosa
+latin_name: Hymenochaete fuliginosa
 source: https://www.nagrzyby.pl/atlas/4417
 ---
 

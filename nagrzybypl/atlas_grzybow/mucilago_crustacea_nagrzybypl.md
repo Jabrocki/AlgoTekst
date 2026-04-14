@@ -1,5 +1,5 @@
 ---
-name: Mucilago crustacea
+latin_name: Mucilago crustacea
 source: https://www.nagrzyby.pl/atlas/4869
 ---
 

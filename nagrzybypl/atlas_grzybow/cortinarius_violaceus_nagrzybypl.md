@@ -1,5 +1,5 @@
 ---
-name: Cortinarius violaceus
+latin_name: Cortinarius violaceus
 source: https://www.nagrzyby.pl/atlas/446
 ---
 

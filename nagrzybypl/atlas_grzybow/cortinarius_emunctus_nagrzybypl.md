@@ -1,5 +1,5 @@
 ---
-name: Cortinarius emunctus
+latin_name: Cortinarius emunctus
 source: https://www.nagrzyby.pl/atlas/2165
 ---
 

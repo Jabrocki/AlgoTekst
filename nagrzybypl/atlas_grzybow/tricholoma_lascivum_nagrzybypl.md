@@ -1,5 +1,5 @@
 ---
-name: Tricholoma lascivum
+latin_name: Tricholoma lascivum
 source: https://www.nagrzyby.pl/atlas/1003
 ---
 

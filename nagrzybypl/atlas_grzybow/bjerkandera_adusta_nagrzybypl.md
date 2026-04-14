@@ -1,5 +1,5 @@
 ---
-name: Bjerkandera adusta
+latin_name: Bjerkandera adusta
 source: https://www.nagrzyby.pl/atlas/595
 ---
 

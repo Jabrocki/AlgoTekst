@@ -1,5 +1,5 @@
 ---
-name: Stemonitopsis typhina
+latin_name: Stemonitopsis typhina
 source: https://www.nagrzyby.pl/atlas/5005
 ---
 

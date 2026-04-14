@@ -1,5 +1,5 @@
 ---
-name: Cortinarius praestans
+latin_name: Cortinarius praestans
 source: https://www.nagrzyby.pl/atlas/811
 ---
 

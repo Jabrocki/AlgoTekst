@@ -1,5 +1,5 @@
 ---
-name: Sarcodon leucopus
+latin_name: Sarcodon leucopus
 source: https://www.nagrzyby.pl/atlas/5536
 ---
 

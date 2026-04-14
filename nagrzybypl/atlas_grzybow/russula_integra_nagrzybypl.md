@@ -1,5 +1,5 @@
 ---
-name: Russula integra
+latin_name: Russula integra
 source: https://www.nagrzyby.pl/atlas/849
 ---
 

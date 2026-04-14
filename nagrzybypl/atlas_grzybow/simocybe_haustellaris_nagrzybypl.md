@@ -1,5 +1,5 @@
 ---
-name: Simocybe haustellaris
+latin_name: Simocybe haustellaris
 source: https://www.nagrzyby.pl/atlas/5133
 ---
 

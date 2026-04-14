@@ -1,5 +1,5 @@
 ---
-name: Dichomitus campestris
+latin_name: Dichomitus campestris
 source: https://www.nagrzyby.pl/atlas/4486
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Entoloma rhodocylix
+latin_name: Entoloma rhodocylix
 source: https://www.nagrzyby.pl/atlas/4290
 ---
 

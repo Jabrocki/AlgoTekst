@@ -1,5 +1,5 @@
 ---
-name: Hymenogaster vulgaris
+latin_name: Hymenogaster vulgaris
 source: https://www.nagrzyby.pl/atlas/5858
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Imperator torosus
+latin_name: Imperator torosus
 source: https://www.nagrzyby.pl/atlas/788
 ---
 

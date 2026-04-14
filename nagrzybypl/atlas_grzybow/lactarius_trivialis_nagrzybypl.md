@@ -1,5 +1,5 @@
 ---
-name: Lactarius trivialis
+latin_name: Lactarius trivialis
 source: https://www.nagrzyby.pl/atlas/1806
 ---
 

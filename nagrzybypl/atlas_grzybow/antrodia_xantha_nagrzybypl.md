@@ -1,5 +1,5 @@
 ---
-name: Antrodia xantha
+latin_name: Antrodia xantha
 source: https://www.nagrzyby.pl/atlas/2078
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Xerocomellus porosporus
+latin_name: Xerocomellus porosporus
 source: https://www.nagrzyby.pl/atlas/460
 ---
 

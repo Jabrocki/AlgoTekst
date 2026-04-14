@@ -1,5 +1,5 @@
 ---
-name: Parmelina quercina
+latin_name: Parmelina quercina
 source: https://www.nagrzyby.pl/atlas/5657
 ---
 

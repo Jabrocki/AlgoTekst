@@ -1,5 +1,5 @@
 ---
-name: Russula lateritia
+latin_name: Russula lateritia
 source: https://www.nagrzyby.pl/atlas/61
 ---
 

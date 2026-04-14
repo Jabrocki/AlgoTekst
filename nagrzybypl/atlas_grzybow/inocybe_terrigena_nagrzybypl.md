@@ -1,5 +1,5 @@
 ---
-name: Inocybe terrigena
+latin_name: Inocybe terrigena
 source: https://www.nagrzyby.pl/atlas/2389
 ---
 

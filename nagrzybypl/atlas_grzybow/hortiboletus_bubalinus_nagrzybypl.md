@@ -1,5 +1,5 @@
 ---
-name: Hortiboletus bubalinus
+latin_name: Hortiboletus bubalinus
 source: https://www.nagrzyby.pl/atlas/5893
 ---
 

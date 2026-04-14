@@ -1,5 +1,5 @@
 ---
-name: Tephrocybe palustris
+latin_name: Tephrocybe palustris
 source: https://www.nagrzyby.pl/atlas/4695
 ---
 

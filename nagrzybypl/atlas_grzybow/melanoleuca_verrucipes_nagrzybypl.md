@@ -1,5 +1,5 @@
 ---
-name: Melanoleuca verrucipes
+latin_name: Melanoleuca verrucipes
 source: https://www.nagrzyby.pl/atlas/1728
 ---
 

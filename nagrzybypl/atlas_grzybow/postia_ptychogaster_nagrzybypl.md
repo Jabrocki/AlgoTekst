@@ -1,5 +1,5 @@
 ---
-name: Postia ptychogaster
+latin_name: Postia ptychogaster
 source: https://www.nagrzyby.pl/atlas/636
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Thanatephorus fusisporus
+latin_name: Thanatephorus fusisporus
 source: https://www.nagrzyby.pl/atlas/4257
 ---
 

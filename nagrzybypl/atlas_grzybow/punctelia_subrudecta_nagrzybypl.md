@@ -1,5 +1,5 @@
 ---
-name: Punctelia subrudecta
+latin_name: Punctelia subrudecta
 source: https://www.nagrzyby.pl/atlas/5147
 ---
 

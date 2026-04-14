@@ -1,5 +1,5 @@
 ---
-name: Amanita virosa
+latin_name: Amanita virosa
 source: https://www.nagrzyby.pl/atlas/275
 ---
 

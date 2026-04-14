@@ -1,5 +1,5 @@
 ---
-name: Cortinarius elatior
+latin_name: Cortinarius elatior
 source: https://www.nagrzyby.pl/atlas/5643
 ---
 

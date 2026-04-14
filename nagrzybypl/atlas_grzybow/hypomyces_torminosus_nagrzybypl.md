@@ -1,5 +1,5 @@
 ---
-name: Hypomyces torminosus
+latin_name: Hypomyces torminosus
 source: https://www.nagrzyby.pl/atlas/5605
 ---
 

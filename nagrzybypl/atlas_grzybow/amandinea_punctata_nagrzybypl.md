@@ -1,5 +1,5 @@
 ---
-name: Amandinea punctata
+latin_name: Amandinea punctata
 source: https://www.nagrzyby.pl/atlas/5182
 ---
 

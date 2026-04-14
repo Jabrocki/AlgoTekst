@@ -1,5 +1,5 @@
 ---
-name: Cortinarius pholideus
+latin_name: Cortinarius pholideus
 source: https://www.nagrzyby.pl/atlas/2222
 ---
 

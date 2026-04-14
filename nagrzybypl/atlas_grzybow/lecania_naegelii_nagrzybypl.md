@@ -1,5 +1,5 @@
 ---
-name: Lecania naegelii
+latin_name: Lecania naegelii
 source: https://www.nagrzyby.pl/atlas/5291
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Pisolithus arhizus
+latin_name: Pisolithus arhizus
 source: https://www.nagrzyby.pl/atlas/530
 ---
 

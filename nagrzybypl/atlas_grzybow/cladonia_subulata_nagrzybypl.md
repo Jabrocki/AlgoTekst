@@ -1,5 +1,5 @@
 ---
-name: Cladonia subulata
+latin_name: Cladonia subulata
 source: https://www.nagrzyby.pl/atlas/5179
 ---
 

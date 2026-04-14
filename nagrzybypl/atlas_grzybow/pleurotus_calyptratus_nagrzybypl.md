@@ -1,5 +1,5 @@
 ---
-name: Pleurotus calyptratus
+latin_name: Pleurotus calyptratus
 source: https://www.nagrzyby.pl/atlas/261
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Xanthocarpia crenulatella
+latin_name: Xanthocarpia crenulatella
 source: https://www.nagrzyby.pl/atlas/5561
 ---
 

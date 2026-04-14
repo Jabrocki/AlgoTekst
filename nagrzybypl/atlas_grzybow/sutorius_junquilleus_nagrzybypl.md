@@ -1,5 +1,5 @@
 ---
-name: Sutorius junquilleus
+latin_name: Sutorius junquilleus
 source: https://www.nagrzyby.pl/atlas/703
 ---
 

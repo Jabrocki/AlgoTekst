@@ -1,5 +1,5 @@
 ---
-name: Postia rennyi
+latin_name: Postia rennyi
 source: https://www.nagrzyby.pl/atlas/5498
 ---
 

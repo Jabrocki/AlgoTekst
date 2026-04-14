@@ -1,5 +1,5 @@
 ---
-name: Inocybe hystrix
+latin_name: Inocybe hystrix
 source: https://www.nagrzyby.pl/atlas/907
 ---
 

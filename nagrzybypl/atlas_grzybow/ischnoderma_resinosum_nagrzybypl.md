@@ -1,5 +1,5 @@
 ---
-name: Ischnoderma resinosum
+latin_name: Ischnoderma resinosum
 source: https://www.nagrzyby.pl/atlas/397
 ---
 

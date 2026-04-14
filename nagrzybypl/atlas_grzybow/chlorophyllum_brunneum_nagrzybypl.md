@@ -1,5 +1,5 @@
 ---
-name: Chlorophyllum brunneum
+latin_name: Chlorophyllum brunneum
 source: https://www.nagrzyby.pl/atlas/1209
 ---
 

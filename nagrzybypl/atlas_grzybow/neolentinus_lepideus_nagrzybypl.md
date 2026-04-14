@@ -1,5 +1,5 @@
 ---
-name: Neolentinus lepideus
+latin_name: Neolentinus lepideus
 source: https://www.nagrzyby.pl/atlas/369
 ---
 

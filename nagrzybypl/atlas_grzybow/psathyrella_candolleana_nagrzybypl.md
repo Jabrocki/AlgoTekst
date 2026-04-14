@@ -1,5 +1,5 @@
 ---
-name: Psathyrella candolleana
+latin_name: Psathyrella candolleana
 source: https://www.nagrzyby.pl/atlas/448
 ---
 

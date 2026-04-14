@@ -1,5 +1,5 @@
 ---
-name: Lactarius repraesentaneus
+latin_name: Lactarius repraesentaneus
 source: https://www.nagrzyby.pl/atlas/851
 ---
 

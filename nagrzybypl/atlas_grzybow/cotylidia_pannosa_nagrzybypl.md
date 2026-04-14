@@ -1,5 +1,5 @@
 ---
-name: Cotylidia pannosa
+latin_name: Cotylidia pannosa
 source: https://www.nagrzyby.pl/atlas/3032
 ---
 

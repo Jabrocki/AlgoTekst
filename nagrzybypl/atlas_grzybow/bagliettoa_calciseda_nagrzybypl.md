@@ -1,5 +1,5 @@
 ---
-name: Bagliettoa calciseda
+latin_name: Bagliettoa calciseda
 source: https://www.nagrzyby.pl/atlas/5452
 ---
 

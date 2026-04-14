@@ -1,5 +1,5 @@
 ---
-name: Cortinarius balteatus
+latin_name: Cortinarius balteatus
 source: https://www.nagrzyby.pl/atlas/2131
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Byssocorticium atrovirens
+latin_name: Byssocorticium atrovirens
 source: https://www.nagrzyby.pl/atlas/1904
 ---
 

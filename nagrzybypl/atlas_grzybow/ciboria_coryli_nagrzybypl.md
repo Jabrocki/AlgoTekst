@@ -1,5 +1,5 @@
 ---
-name: Ciboria coryli
+latin_name: Ciboria coryli
 source: https://www.nagrzyby.pl/atlas/1474
 ---
 

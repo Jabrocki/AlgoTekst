@@ -1,5 +1,5 @@
 ---
-name: Fomitiporia punctata
+latin_name: Fomitiporia punctata
 source: https://www.nagrzyby.pl/atlas/507
 ---
 

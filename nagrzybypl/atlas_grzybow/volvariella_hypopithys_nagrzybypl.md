@@ -1,5 +1,5 @@
 ---
-name: Volvariella hypopithys
+latin_name: Volvariella hypopithys
 source: https://www.nagrzyby.pl/atlas/1612
 ---
 

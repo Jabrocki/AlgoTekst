@@ -1,5 +1,5 @@
 ---
-name: Parmeliopsis hyperopta
+latin_name: Parmeliopsis hyperopta
 source: https://www.nagrzyby.pl/atlas/5377
 ---
 

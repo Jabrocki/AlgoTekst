@@ -1,5 +1,5 @@
 ---
-name: Ceriporia viridans
+latin_name: Ceriporia viridans
 source: https://www.nagrzyby.pl/atlas/1957
 ---
 

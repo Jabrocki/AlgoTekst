@@ -1,5 +1,5 @@
 ---
-name: Ophioparma ventosa
+latin_name: Ophioparma ventosa
 source: https://www.nagrzyby.pl/atlas/5319
 ---
 

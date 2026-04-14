@@ -1,5 +1,5 @@
 ---
-name: Ganoderma applanatum
+latin_name: Ganoderma applanatum
 source: https://www.nagrzyby.pl/atlas/420
 ---
 

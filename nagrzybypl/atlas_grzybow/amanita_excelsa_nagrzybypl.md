@@ -1,5 +1,5 @@
 ---
-name: Amanita excelsa
+latin_name: Amanita excelsa
 source: https://www.nagrzyby.pl/atlas/192
 ---
 

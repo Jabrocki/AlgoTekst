@@ -1,5 +1,5 @@
 ---
-name: Usnea subfloridana
+latin_name: Usnea subfloridana
 source: https://www.nagrzyby.pl/atlas/5148
 ---
 

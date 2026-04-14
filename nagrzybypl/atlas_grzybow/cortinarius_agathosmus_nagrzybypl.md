@@ -1,5 +1,5 @@
 ---
-name: Cortinarius agathosmus
+latin_name: Cortinarius agathosmus
 source: https://www.nagrzyby.pl/atlas/2110
 ---
 

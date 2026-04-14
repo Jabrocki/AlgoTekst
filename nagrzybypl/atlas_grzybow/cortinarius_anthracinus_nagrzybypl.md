@@ -1,5 +1,5 @@
 ---
-name: Cortinarius anthracinus
+latin_name: Cortinarius anthracinus
 source: https://www.nagrzyby.pl/atlas/2117
 ---
 

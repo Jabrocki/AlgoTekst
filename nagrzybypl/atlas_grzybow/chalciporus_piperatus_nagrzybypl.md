@@ -1,5 +1,5 @@
 ---
-name: Chalciporus piperatus
+latin_name: Chalciporus piperatus
 source: https://www.nagrzyby.pl/atlas/226
 ---
 

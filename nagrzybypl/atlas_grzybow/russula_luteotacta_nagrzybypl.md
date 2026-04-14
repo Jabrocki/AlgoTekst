@@ -1,5 +1,5 @@
 ---
-name: Russula luteotacta
+latin_name: Russula luteotacta
 source: https://www.nagrzyby.pl/atlas/781
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Melanogaster variegatus
+latin_name: Melanogaster variegatus
 source: https://www.nagrzyby.pl/atlas/1525
 ---
 

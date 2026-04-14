@@ -1,5 +1,5 @@
 ---
-name: Lactarius indigo
+latin_name: Lactarius indigo
 source: https://www.nagrzyby.pl/atlas/5706
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Xanthoparmelia loxodes
+latin_name: Xanthoparmelia loxodes
 source: https://www.nagrzyby.pl/atlas/5187
 ---
 

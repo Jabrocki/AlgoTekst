@@ -1,5 +1,5 @@
 ---
-name: Agrocybe praecox
+latin_name: Agrocybe praecox
 source: https://www.nagrzyby.pl/atlas/352
 ---
 

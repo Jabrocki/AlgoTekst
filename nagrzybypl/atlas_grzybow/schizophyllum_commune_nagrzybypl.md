@@ -1,5 +1,5 @@
 ---
-name: Schizophyllum commune
+latin_name: Schizophyllum commune
 source: https://www.nagrzyby.pl/atlas/390
 ---
 

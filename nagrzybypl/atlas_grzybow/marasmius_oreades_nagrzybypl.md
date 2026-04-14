@@ -1,5 +1,5 @@
 ---
-name: Marasmius oreades
+latin_name: Marasmius oreades
 source: https://www.nagrzyby.pl/atlas/313
 ---
 

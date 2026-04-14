@@ -1,5 +1,5 @@
 ---
-name: Marchandiomyces quercinus
+latin_name: Marchandiomyces quercinus
 source: https://www.nagrzyby.pl/atlas/5750
 ---
 

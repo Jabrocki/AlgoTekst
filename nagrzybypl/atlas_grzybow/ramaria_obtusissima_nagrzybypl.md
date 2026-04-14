@@ -1,5 +1,5 @@
 ---
-name: Ramaria obtusissima
+latin_name: Ramaria obtusissima
 source: https://www.nagrzyby.pl/atlas/1060
 ---
 

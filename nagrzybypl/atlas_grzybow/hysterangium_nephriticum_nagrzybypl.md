@@ -1,5 +1,5 @@
 ---
-name: Hysterangium nephriticum
+latin_name: Hysterangium nephriticum
 source: https://www.nagrzyby.pl/atlas/5863
 ---
 

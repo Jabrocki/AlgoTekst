@@ -1,5 +1,5 @@
 ---
-name: Coprinellus disseminatus
+latin_name: Coprinellus disseminatus
 source: https://www.nagrzyby.pl/atlas/34
 ---
 

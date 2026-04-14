@@ -1,5 +1,5 @@
 ---
-name: Cortinarius cotoneus
+latin_name: Cortinarius cotoneus
 source: https://www.nagrzyby.pl/atlas/2149
 ---
 

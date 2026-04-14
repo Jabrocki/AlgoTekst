@@ -1,5 +1,5 @@
 ---
-name: Psilocybe subviscida varietas velata
+latin_name: Psilocybe subviscida varietas velata
 source: https://www.nagrzyby.pl/atlas/1370
 ---
 

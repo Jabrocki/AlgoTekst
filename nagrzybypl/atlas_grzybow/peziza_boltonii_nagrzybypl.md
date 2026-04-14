@@ -1,5 +1,5 @@
 ---
-name: Peziza boltonii
+latin_name: Peziza boltonii
 source: https://www.nagrzyby.pl/atlas/1275
 ---
 

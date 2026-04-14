@@ -1,5 +1,5 @@
 ---
-name: Parmeliopsis ambigua
+latin_name: Parmeliopsis ambigua
 source: https://www.nagrzyby.pl/atlas/5378
 ---
 

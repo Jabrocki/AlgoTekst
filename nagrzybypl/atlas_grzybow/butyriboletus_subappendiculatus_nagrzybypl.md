@@ -1,5 +1,5 @@
 ---
-name: Butyriboletus subappendiculatus
+latin_name: Butyriboletus subappendiculatus
 source: https://www.nagrzyby.pl/atlas/25
 ---
 

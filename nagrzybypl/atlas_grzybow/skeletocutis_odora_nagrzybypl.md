@@ -1,5 +1,5 @@
 ---
-name: Skeletocutis odora
+latin_name: Skeletocutis odora
 source: https://www.nagrzyby.pl/atlas/4025
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Irpicodon pendulus
+latin_name: Irpicodon pendulus
 source: https://www.nagrzyby.pl/atlas/4411
 ---
 

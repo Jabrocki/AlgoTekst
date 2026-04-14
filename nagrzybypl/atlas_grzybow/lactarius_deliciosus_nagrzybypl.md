@@ -1,5 +1,5 @@
 ---
-name: Lactarius deliciosus
+latin_name: Lactarius deliciosus
 source: https://www.nagrzyby.pl/atlas/245
 ---
 

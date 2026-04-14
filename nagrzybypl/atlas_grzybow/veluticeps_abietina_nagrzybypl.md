@@ -1,5 +1,5 @@
 ---
-name: Veluticeps abietina
+latin_name: Veluticeps abietina
 source: https://www.nagrzyby.pl/atlas/2591
 ---
 

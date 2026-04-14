@@ -1,5 +1,5 @@
 ---
-name: Cyathus olla
+latin_name: Cyathus olla
 source: https://www.nagrzyby.pl/atlas/1549
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Conocybe utriformis
+latin_name: Conocybe utriformis
 source: https://www.nagrzyby.pl/atlas/586
 ---
 

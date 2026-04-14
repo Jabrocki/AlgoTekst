@@ -1,5 +1,5 @@
 ---
-name: Acarospora badiofusca
+latin_name: Acarospora badiofusca
 source: https://www.nagrzyby.pl/atlas/5755
 ---
 

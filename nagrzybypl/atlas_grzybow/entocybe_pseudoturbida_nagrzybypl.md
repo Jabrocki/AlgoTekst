@@ -1,5 +1,5 @@
 ---
-name: Entocybe pseudoturbida
+latin_name: Entocybe pseudoturbida
 source: https://www.nagrzyby.pl/atlas/4289
 ---
 

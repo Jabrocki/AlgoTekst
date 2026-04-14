@@ -1,5 +1,5 @@
 ---
-name: Disciotis venosa
+latin_name: Disciotis venosa
 source: https://www.nagrzyby.pl/atlas/584
 ---
 

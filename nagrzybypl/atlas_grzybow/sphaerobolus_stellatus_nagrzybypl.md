@@ -1,5 +1,5 @@
 ---
-name: Sphaerobolus stellatus
+latin_name: Sphaerobolus stellatus
 source: https://www.nagrzyby.pl/atlas/827
 ---
 

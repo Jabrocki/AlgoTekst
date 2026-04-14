@@ -1,5 +1,5 @@
 ---
-name: Xanthomendoza fallax
+latin_name: Xanthomendoza fallax
 source: https://www.nagrzyby.pl/atlas/5226
 ---
 

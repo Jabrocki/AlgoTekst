@@ -1,5 +1,5 @@
 ---
-name: Phallus multicolor
+latin_name: Phallus multicolor
 source: https://www.nagrzyby.pl/atlas/4722
 ---
 

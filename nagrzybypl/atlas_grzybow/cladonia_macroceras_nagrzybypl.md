@@ -1,5 +1,5 @@
 ---
-name: Cladonia macroceras
+latin_name: Cladonia macroceras
 source: https://www.nagrzyby.pl/atlas/5628
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Parmastomyces mollissimus
+latin_name: Parmastomyces mollissimus
 source: https://www.nagrzyby.pl/atlas/4091
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Hypsizygus tessulatus
+latin_name: Hypsizygus tessulatus
 source: https://www.nagrzyby.pl/atlas/5526
 ---
 

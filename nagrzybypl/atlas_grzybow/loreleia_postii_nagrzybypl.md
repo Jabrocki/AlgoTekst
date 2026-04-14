@@ -1,5 +1,5 @@
 ---
-name: Loreleia postii
+latin_name: Loreleia postii
 source: https://www.nagrzyby.pl/atlas/975
 ---
 

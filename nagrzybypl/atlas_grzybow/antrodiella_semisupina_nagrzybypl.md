@@ -1,5 +1,5 @@
 ---
-name: Antrodiella semisupina
+latin_name: Antrodiella semisupina
 source: https://www.nagrzyby.pl/atlas/1114
 ---
 

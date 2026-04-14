@@ -1,5 +1,5 @@
 ---
-name: Morchella esculenta varietas rotunda
+latin_name: Morchella esculenta varietas rotunda
 source: https://www.nagrzyby.pl/atlas/1050
 ---
 

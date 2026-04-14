@@ -1,5 +1,5 @@
 ---
-name: Hygrocybe quieta
+latin_name: Hygrocybe quieta
 source: https://www.nagrzyby.pl/atlas/4224
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Botryobasidium intertextum
+latin_name: Botryobasidium intertextum
 source: https://www.nagrzyby.pl/atlas/1891
 ---
 

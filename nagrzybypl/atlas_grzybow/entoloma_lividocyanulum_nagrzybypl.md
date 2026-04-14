@@ -1,5 +1,5 @@
 ---
-name: Entoloma lividocyanulum
+latin_name: Entoloma lividocyanulum
 source: https://www.nagrzyby.pl/atlas/4771
 ---
 

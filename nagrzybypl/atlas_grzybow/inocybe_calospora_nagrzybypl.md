@@ -1,5 +1,5 @@
 ---
-name: Inocybe calospora
+latin_name: Inocybe calospora
 source: https://www.nagrzyby.pl/atlas/2336
 ---
 

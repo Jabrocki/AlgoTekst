@@ -1,5 +1,5 @@
 ---
-name: Chaenotheca ferruginea
+latin_name: Chaenotheca ferruginea
 source: https://www.nagrzyby.pl/atlas/5308
 ---
 

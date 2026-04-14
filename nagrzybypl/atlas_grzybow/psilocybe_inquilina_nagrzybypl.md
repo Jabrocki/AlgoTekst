@@ -1,5 +1,5 @@
 ---
-name: Psilocybe inquilina
+latin_name: Psilocybe inquilina
 source: https://www.nagrzyby.pl/atlas/1350
 ---
 

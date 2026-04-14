@@ -1,5 +1,5 @@
 ---
-name: Ramalina obtusata
+latin_name: Ramalina obtusata
 source: https://www.nagrzyby.pl/atlas/5744
 ---
 

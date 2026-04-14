@@ -1,5 +1,5 @@
 ---
-name: Sarcogyne regularis
+latin_name: Sarcogyne regularis
 source: https://www.nagrzyby.pl/atlas/5395
 ---
 

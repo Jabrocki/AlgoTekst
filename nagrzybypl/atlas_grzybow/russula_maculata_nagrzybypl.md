@@ -1,5 +1,5 @@
 ---
-name: Russula maculata
+latin_name: Russula maculata
 source: https://www.nagrzyby.pl/atlas/818
 ---
 

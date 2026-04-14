@@ -1,5 +1,5 @@
 ---
-name: Lepista personata
+latin_name: Lepista personata
 source: https://www.nagrzyby.pl/atlas/54
 ---
 

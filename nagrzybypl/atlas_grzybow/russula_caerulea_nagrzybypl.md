@@ -1,5 +1,5 @@
 ---
-name: Russula caerulea
+latin_name: Russula caerulea
 source: https://www.nagrzyby.pl/atlas/813
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Coprinellus bisporiger
+latin_name: Coprinellus bisporiger
 source: https://www.nagrzyby.pl/atlas/5586
 ---
 

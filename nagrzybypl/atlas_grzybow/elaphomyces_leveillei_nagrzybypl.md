@@ -1,5 +1,5 @@
 ---
-name: Elaphomyces leveillei
+latin_name: Elaphomyces leveillei
 source: https://www.nagrzyby.pl/atlas/4968
 ---
 

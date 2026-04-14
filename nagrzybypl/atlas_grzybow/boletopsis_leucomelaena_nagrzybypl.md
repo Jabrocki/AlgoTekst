@@ -1,5 +1,5 @@
 ---
-name: Boletopsis leucomelaena
+latin_name: Boletopsis leucomelaena
 source: https://www.nagrzyby.pl/atlas/2310
 ---
 

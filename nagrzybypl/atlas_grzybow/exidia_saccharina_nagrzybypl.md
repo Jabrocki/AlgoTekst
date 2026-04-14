@@ -1,5 +1,5 @@
 ---
-name: Exidia saccharina
+latin_name: Exidia saccharina
 source: https://www.nagrzyby.pl/atlas/139
 ---
 

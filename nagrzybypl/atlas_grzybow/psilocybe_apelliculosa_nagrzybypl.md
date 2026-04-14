@@ -1,5 +1,5 @@
 ---
-name: Psilocybe apelliculosa
+latin_name: Psilocybe apelliculosa
 source: https://www.nagrzyby.pl/atlas/1337
 ---
 

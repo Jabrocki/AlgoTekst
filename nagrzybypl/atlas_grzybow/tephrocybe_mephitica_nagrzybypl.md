@@ -1,5 +1,5 @@
 ---
-name: Tephrocybe mephitica
+latin_name: Tephrocybe mephitica
 source: https://www.nagrzyby.pl/atlas/4202
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Cyathus striatus
+latin_name: Cyathus striatus
 source: https://www.nagrzyby.pl/atlas/363
 ---
 

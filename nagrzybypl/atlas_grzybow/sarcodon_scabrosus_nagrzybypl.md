@@ -1,5 +1,5 @@
 ---
-name: Sarcodon scabrosus
+latin_name: Sarcodon scabrosus
 source: https://www.nagrzyby.pl/atlas/4700
 ---
 

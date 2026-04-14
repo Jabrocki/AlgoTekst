@@ -1,5 +1,5 @@
 ---
-name: Cribraria rufa
+latin_name: Cribraria rufa
 source: https://www.nagrzyby.pl/atlas/4998
 ---
 

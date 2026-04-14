@@ -1,5 +1,5 @@
 ---
-name: Psathyrella murcida
+latin_name: Psathyrella murcida
 source: https://www.nagrzyby.pl/atlas/1754
 ---
 

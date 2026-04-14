@@ -1,5 +1,5 @@
 ---
-name: Clavulina cinerea
+latin_name: Clavulina cinerea
 source: https://www.nagrzyby.pl/atlas/652
 ---
 

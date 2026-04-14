@@ -1,5 +1,5 @@
 ---
-name: Pachyphlodes carneus
+latin_name: Pachyphlodes carneus
 source: https://www.nagrzyby.pl/atlas/4880
 ---
 

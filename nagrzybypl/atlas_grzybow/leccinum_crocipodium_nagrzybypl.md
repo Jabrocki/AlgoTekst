@@ -1,5 +1,5 @@
 ---
-name: Leccinum crocipodium
+latin_name: Leccinum crocipodium
 source: https://www.nagrzyby.pl/atlas/142
 ---
 

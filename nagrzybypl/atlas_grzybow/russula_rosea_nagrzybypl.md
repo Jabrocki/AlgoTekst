@@ -1,5 +1,5 @@
 ---
-name: Russula rosea
+latin_name: Russula rosea
 source: https://www.nagrzyby.pl/atlas/784
 ---
 

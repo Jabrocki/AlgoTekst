@@ -1,5 +1,5 @@
 ---
-name: Peziza cerea
+latin_name: Peziza cerea
 source: https://www.nagrzyby.pl/atlas/1298
 ---
 

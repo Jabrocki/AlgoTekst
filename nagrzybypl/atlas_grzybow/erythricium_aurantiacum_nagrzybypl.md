@@ -1,5 +1,5 @@
 ---
-name: * Erythricium aurantiacum
+latin_name: * Erythricium aurantiacum
 source: https://www.nagrzyby.pl/atlas/5610
 ---
 

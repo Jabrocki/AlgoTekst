@@ -1,5 +1,5 @@
 ---
-name: Pleurotus cytrynowy
+latin_name: Pleurotus cytrynowy
 source: https://www.nagrzyby.pl/atlas/5983
 ---
 

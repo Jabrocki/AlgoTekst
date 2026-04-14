@@ -1,5 +1,5 @@
 ---
-name: Entoloma chalybaeum
+latin_name: Entoloma chalybaeum
 source: https://www.nagrzyby.pl/atlas/4279
 ---
 

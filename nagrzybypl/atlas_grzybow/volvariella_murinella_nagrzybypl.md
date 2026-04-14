@@ -1,5 +1,5 @@
 ---
-name: Volvariella murinella
+latin_name: Volvariella murinella
 source: https://www.nagrzyby.pl/atlas/1614
 ---
 

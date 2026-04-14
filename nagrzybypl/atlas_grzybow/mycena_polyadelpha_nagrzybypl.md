@@ -1,5 +1,5 @@
 ---
-name: Mycena polyadelpha
+latin_name: Mycena polyadelpha
 source: https://www.nagrzyby.pl/atlas/1154
 ---
 

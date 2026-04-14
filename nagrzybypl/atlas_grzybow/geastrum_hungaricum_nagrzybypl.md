@@ -1,5 +1,5 @@
 ---
-name: Geastrum hungaricum
+latin_name: Geastrum hungaricum
 source: https://www.nagrzyby.pl/atlas/832
 ---
 

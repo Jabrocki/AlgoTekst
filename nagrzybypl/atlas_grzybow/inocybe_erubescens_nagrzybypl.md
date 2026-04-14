@@ -1,5 +1,5 @@
 ---
-name: Inocybe erubescens
+latin_name: Inocybe erubescens
 source: https://www.nagrzyby.pl/atlas/2344
 ---
 

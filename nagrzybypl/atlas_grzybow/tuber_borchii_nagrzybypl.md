@@ -1,5 +1,5 @@
 ---
-name: Tuber borchii
+latin_name: Tuber borchii
 source: https://www.nagrzyby.pl/atlas/5809
 ---
 

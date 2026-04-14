@@ -1,5 +1,5 @@
 ---
-name: Lamprospora crouanii
+latin_name: Lamprospora crouanii
 source: https://www.nagrzyby.pl/atlas/5528
 ---
 

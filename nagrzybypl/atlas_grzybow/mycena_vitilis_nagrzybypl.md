@@ -1,5 +1,5 @@
 ---
-name: Mycena vitilis
+latin_name: Mycena vitilis
 source: https://www.nagrzyby.pl/atlas/1156
 ---
 

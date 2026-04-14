@@ -1,5 +1,5 @@
 ---
-name: Cystoderma jasonis
+latin_name: Cystoderma jasonis
 source: https://www.nagrzyby.pl/atlas/2296
 ---
 

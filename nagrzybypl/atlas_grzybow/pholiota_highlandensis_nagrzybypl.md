@@ -1,5 +1,5 @@
 ---
-name: Pholiota highlandensis
+latin_name: Pholiota highlandensis
 source: https://www.nagrzyby.pl/atlas/305
 ---
 

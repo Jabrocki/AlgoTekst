@@ -1,5 +1,5 @@
 ---
-name: Amylostereum laevigatum
+latin_name: Amylostereum laevigatum
 source: https://www.nagrzyby.pl/atlas/1695
 ---
 

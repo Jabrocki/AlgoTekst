@@ -1,5 +1,5 @@
 ---
-name: Cortinarius bayeri
+latin_name: Cortinarius bayeri
 source: https://www.nagrzyby.pl/atlas/5578
 ---
 

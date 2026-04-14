@@ -1,5 +1,5 @@
 ---
-name: Neoboletus xanthopus
+latin_name: Neoboletus xanthopus
 source: https://www.nagrzyby.pl/atlas/5898
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Antrodia albida
+latin_name: Antrodia albida
 source: https://www.nagrzyby.pl/atlas/5906
 ---
 

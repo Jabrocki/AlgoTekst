@@ -1,5 +1,5 @@
 ---
-name: Myriolecis albescens
+latin_name: Myriolecis albescens
 source: https://www.nagrzyby.pl/atlas/5274
 ---
 

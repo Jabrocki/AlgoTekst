@@ -1,5 +1,5 @@
 ---
-name: Inocybe pusio
+latin_name: Inocybe pusio
 source: https://www.nagrzyby.pl/atlas/2367
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Guepiniopsis suecica
+latin_name: Guepiniopsis suecica
 source: https://www.nagrzyby.pl/atlas/4966
 ---
 

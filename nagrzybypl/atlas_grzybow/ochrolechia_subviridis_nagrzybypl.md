@@ -1,5 +1,5 @@
 ---
-name: Ochrolechia subviridis
+latin_name: Ochrolechia subviridis
 source: https://www.nagrzyby.pl/atlas/5330
 ---
 

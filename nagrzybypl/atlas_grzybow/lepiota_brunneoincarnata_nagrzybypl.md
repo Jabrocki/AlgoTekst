@@ -1,5 +1,5 @@
 ---
-name: Lepiota brunneoincarnata
+latin_name: Lepiota brunneoincarnata
 source: https://www.nagrzyby.pl/atlas/1217
 ---
 

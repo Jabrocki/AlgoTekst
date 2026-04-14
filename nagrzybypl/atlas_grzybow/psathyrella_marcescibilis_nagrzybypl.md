@@ -1,5 +1,5 @@
 ---
-name: Psathyrella marcescibilis
+latin_name: Psathyrella marcescibilis
 source: https://www.nagrzyby.pl/atlas/1738
 ---
 

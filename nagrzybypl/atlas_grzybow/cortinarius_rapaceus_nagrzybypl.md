@@ -1,5 +1,5 @@
 ---
-name: Cortinarius rapaceus
+latin_name: Cortinarius rapaceus
 source: https://www.nagrzyby.pl/atlas/2230
 ---
 

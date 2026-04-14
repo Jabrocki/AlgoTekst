@@ -1,5 +1,5 @@
 ---
-name: Thelotrema lepadinum
+latin_name: Thelotrema lepadinum
 source: https://www.nagrzyby.pl/atlas/5373
 ---
 

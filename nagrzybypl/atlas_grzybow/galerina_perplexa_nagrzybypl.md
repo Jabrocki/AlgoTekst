@@ -1,5 +1,5 @@
 ---
-name: Galerina perplexa
+latin_name: Galerina perplexa
 source: https://www.nagrzyby.pl/atlas/5590
 ---
 

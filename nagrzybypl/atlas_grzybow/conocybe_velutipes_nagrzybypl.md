@@ -1,5 +1,5 @@
 ---
-name: Conocybe velutipes
+latin_name: Conocybe velutipes
 source: https://www.nagrzyby.pl/atlas/2055
 ---
 

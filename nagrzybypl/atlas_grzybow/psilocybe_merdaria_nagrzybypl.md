@@ -1,5 +1,5 @@
 ---
-name: Psilocybe merdaria
+latin_name: Psilocybe merdaria
 source: https://www.nagrzyby.pl/atlas/1751
 ---
 

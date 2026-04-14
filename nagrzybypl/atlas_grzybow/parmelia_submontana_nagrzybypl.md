@@ -1,5 +1,5 @@
 ---
-name: Parmelia submontana
+latin_name: Parmelia submontana
 source: https://www.nagrzyby.pl/atlas/5303
 ---
 

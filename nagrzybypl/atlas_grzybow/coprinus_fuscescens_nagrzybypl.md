@@ -1,5 +1,5 @@
 ---
-name: Coprinus fuscescens
+latin_name: Coprinus fuscescens
 source: https://www.nagrzyby.pl/atlas/2075
 ---
 

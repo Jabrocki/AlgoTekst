@@ -1,5 +1,5 @@
 ---
-name: Sparassis crispa
+latin_name: Sparassis crispa
 source: https://www.nagrzyby.pl/atlas/406
 ---
 

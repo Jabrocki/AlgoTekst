@@ -1,5 +1,5 @@
 ---
-name: Bovista aestivalis
+latin_name: Bovista aestivalis
 source: https://www.nagrzyby.pl/atlas/1180
 ---
 

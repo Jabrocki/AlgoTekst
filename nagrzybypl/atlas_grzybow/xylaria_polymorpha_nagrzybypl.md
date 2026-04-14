@@ -1,5 +1,5 @@
 ---
-name: Xylaria polymorpha
+latin_name: Xylaria polymorpha
 source: https://www.nagrzyby.pl/atlas/358
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Tricholoma sulphureum
+latin_name: Tricholoma sulphureum
 source: https://www.nagrzyby.pl/atlas/177
 ---
 

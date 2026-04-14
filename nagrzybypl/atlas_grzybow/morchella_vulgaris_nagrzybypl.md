@@ -1,5 +1,5 @@
 ---
-name: Morchella vulgaris
+latin_name: Morchella vulgaris
 source: https://www.nagrzyby.pl/atlas/1471
 ---
 

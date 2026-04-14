@@ -1,5 +1,5 @@
 ---
-name: Verpa conica
+latin_name: Verpa conica
 source: https://www.nagrzyby.pl/atlas/413
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Chroogomphus helveticus subspecies tatrensis
+latin_name: Chroogomphus helveticus subspecies tatrensis
 source: https://www.nagrzyby.pl/atlas/1530
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Merismodes species
+latin_name: Merismodes species
 source: https://www.nagrzyby.pl/atlas/5930
 ---
 

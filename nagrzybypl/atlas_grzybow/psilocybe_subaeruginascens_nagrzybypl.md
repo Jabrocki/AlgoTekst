@@ -1,5 +1,5 @@
 ---
-name: Psilocybe subaeruginascens
+latin_name: Psilocybe subaeruginascens
 source: https://www.nagrzyby.pl/atlas/1924
 ---
 

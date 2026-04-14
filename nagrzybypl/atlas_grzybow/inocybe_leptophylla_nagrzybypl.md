@@ -1,5 +1,5 @@
 ---
-name: Inocybe leptophylla
+latin_name: Inocybe leptophylla
 source: https://www.nagrzyby.pl/atlas/2363
 ---
 

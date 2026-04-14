@@ -1,5 +1,5 @@
 ---
-name: Symphytocarpus flaccidus
+latin_name: Symphytocarpus flaccidus
 source: https://www.nagrzyby.pl/atlas/5623
 ---
 

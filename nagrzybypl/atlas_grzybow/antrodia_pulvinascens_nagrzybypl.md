@@ -1,5 +1,5 @@
 ---
-name: Antrodia pulvinascens
+latin_name: Antrodia pulvinascens
 source: https://www.nagrzyby.pl/atlas/2084
 ---
 

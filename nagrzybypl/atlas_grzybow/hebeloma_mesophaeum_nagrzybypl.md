@@ -1,5 +1,5 @@
 ---
-name: Hebeloma mesophaeum
+latin_name: Hebeloma mesophaeum
 source: https://www.nagrzyby.pl/atlas/5105
 ---
 

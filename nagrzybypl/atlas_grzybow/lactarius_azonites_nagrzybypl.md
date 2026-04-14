@@ -1,5 +1,5 @@
 ---
-name: Lactarius azonites
+latin_name: Lactarius azonites
 source: https://www.nagrzyby.pl/atlas/473
 ---
 

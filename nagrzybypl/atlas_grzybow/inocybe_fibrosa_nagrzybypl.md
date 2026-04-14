@@ -1,5 +1,5 @@
 ---
-name: Inocybe fibrosa
+latin_name: Inocybe fibrosa
 source: https://www.nagrzyby.pl/atlas/2347
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Leccinum carpini
+latin_name: Leccinum carpini
 source: https://www.nagrzyby.pl/atlas/4950
 ---
 

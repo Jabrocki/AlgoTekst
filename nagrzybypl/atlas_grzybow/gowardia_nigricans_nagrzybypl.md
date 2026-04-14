@@ -1,5 +1,5 @@
 ---
-name: Gowardia nigricans
+latin_name: Gowardia nigricans
 source: https://www.nagrzyby.pl/atlas/5213
 ---
 

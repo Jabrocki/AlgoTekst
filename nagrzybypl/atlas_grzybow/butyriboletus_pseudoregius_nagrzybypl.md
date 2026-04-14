@@ -1,5 +1,5 @@
 ---
-name: Butyriboletus pseudoregius
+latin_name: Butyriboletus pseudoregius
 source: https://www.nagrzyby.pl/atlas/4696
 ---
 

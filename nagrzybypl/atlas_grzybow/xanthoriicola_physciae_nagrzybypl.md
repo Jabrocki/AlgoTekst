@@ -1,5 +1,5 @@
 ---
-name: Xanthoriicola physciae
+latin_name: Xanthoriicola physciae
 source: https://www.nagrzyby.pl/atlas/5612
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Entoloma euchroum
+latin_name: Entoloma euchroum
 source: https://www.nagrzyby.pl/atlas/4280
 ---
 

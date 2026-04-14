@@ -1,5 +1,5 @@
 ---
-name: Peltigera malacea
+latin_name: Peltigera malacea
 source: https://www.nagrzyby.pl/atlas/5353
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Scutellinia crucipila
+latin_name: Scutellinia crucipila
 source: https://www.nagrzyby.pl/atlas/5751
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Mycetinis querceus
+latin_name: Mycetinis querceus
 source: https://www.nagrzyby.pl/atlas/4929
 ---
 

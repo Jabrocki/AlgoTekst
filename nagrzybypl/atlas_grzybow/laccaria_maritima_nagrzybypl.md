@@ -1,5 +1,5 @@
 ---
-name: Laccaria maritima
+latin_name: Laccaria maritima
 source: https://www.nagrzyby.pl/atlas/4414
 ---
 

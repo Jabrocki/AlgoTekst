@@ -1,5 +1,5 @@
 ---
-name: Lactarius decipiens
+latin_name: Lactarius decipiens
 source: https://www.nagrzyby.pl/atlas/1793
 ---
 

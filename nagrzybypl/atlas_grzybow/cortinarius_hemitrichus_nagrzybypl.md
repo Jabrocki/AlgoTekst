@@ -1,5 +1,5 @@
 ---
-name: Cortinarius hemitrichus
+latin_name: Cortinarius hemitrichus
 source: https://www.nagrzyby.pl/atlas/936
 ---
 

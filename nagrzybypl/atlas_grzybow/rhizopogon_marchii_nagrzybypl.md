@@ -1,5 +1,5 @@
 ---
-name: Rhizopogon marchii
+latin_name: Rhizopogon marchii
 source: https://www.nagrzyby.pl/atlas/4835
 ---
 

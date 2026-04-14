@@ -1,5 +1,5 @@
 ---
-name: Pterula multifida
+latin_name: Pterula multifida
 source: https://www.nagrzyby.pl/atlas/321
 ---
 

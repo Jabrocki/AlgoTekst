@@ -1,5 +1,5 @@
 ---
-name: Cladonia ochrochlora
+latin_name: Cladonia ochrochlora
 source: https://www.nagrzyby.pl/atlas/5178
 ---
 

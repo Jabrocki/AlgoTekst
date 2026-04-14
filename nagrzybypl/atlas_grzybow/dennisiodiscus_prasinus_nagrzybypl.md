@@ -1,5 +1,5 @@
 ---
-name: Dennisiodiscus prasinus
+latin_name: Dennisiodiscus prasinus
 source: https://www.nagrzyby.pl/atlas/5716
 ---
 

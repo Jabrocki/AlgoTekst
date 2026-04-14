@@ -1,5 +1,5 @@
 ---
-name: Cortinarius argentatus
+latin_name: Cortinarius argentatus
 source: https://www.nagrzyby.pl/atlas/2120
 ---
 

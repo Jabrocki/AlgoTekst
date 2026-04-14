@@ -1,5 +1,5 @@
 ---
-name: Exidia repanda
+latin_name: Exidia repanda
 source: https://www.nagrzyby.pl/atlas/4474
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Calvatia candida
+latin_name: Calvatia candida
 source: https://www.nagrzyby.pl/atlas/1937
 ---
 

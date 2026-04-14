@@ -1,5 +1,5 @@
 ---
-name: Loweomyces fractipes
+latin_name: Loweomyces fractipes
 source: https://www.nagrzyby.pl/atlas/1843
 ---
 

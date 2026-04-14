@@ -1,5 +1,5 @@
 ---
-name: Clavariadelphus truncatus
+latin_name: Clavariadelphus truncatus
 source: https://www.nagrzyby.pl/atlas/11
 ---
 

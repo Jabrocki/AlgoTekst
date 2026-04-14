@@ -1,5 +1,5 @@
 ---
-name: Botryobasidium pruinatum
+latin_name: Botryobasidium pruinatum
 source: https://www.nagrzyby.pl/atlas/1895
 ---
 

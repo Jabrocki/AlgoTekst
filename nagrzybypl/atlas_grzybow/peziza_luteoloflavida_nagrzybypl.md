@@ -1,5 +1,5 @@
 ---
-name: Peziza luteoloflavida
+latin_name: Peziza luteoloflavida
 source: https://www.nagrzyby.pl/atlas/1280
 ---
 

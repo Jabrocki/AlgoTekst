@@ -1,5 +1,5 @@
 ---
-name: Tremolecia atrata
+latin_name: Tremolecia atrata
 source: https://www.nagrzyby.pl/atlas/5269
 ---
 

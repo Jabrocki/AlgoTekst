@@ -1,5 +1,5 @@
 ---
-name: Buchwaldoboletus hemichrysus
+latin_name: Buchwaldoboletus hemichrysus
 source: https://www.nagrzyby.pl/atlas/1673
 ---
 

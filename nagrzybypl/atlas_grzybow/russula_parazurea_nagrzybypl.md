@@ -1,5 +1,5 @@
 ---
-name: Russula parazurea
+latin_name: Russula parazurea
 source: https://www.nagrzyby.pl/atlas/780
 ---
 

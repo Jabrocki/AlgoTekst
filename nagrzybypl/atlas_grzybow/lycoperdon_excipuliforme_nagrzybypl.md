@@ -1,5 +1,5 @@
 ---
-name: Lycoperdon excipuliforme
+latin_name: Lycoperdon excipuliforme
 source: https://www.nagrzyby.pl/atlas/51
 ---
 

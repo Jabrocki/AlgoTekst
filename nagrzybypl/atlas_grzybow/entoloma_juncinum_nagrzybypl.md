@@ -1,5 +1,5 @@
 ---
-name: Entoloma juncinum
+latin_name: Entoloma juncinum
 source: https://www.nagrzyby.pl/atlas/4283
 ---
 

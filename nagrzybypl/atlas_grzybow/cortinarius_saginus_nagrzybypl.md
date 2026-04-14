@@ -1,5 +1,5 @@
 ---
-name: Cortinarius saginus
+latin_name: Cortinarius saginus
 source: https://www.nagrzyby.pl/atlas/2236
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Omphalina pyxidata
+latin_name: Omphalina pyxidata
 source: https://www.nagrzyby.pl/atlas/976
 ---
 

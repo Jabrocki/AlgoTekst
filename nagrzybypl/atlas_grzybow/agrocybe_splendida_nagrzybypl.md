@@ -1,5 +1,5 @@
 ---
-name: Agrocybe splendida
+latin_name: Agrocybe splendida
 source: https://www.nagrzyby.pl/atlas/894
 ---
 

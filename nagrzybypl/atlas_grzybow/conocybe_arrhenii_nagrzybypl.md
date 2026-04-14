@@ -1,5 +1,5 @@
 ---
-name: Conocybe arrhenii
+latin_name: Conocybe arrhenii
 source: https://www.nagrzyby.pl/atlas/2021
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Lactarius fuliginosus
+latin_name: Lactarius fuliginosus
 source: https://www.nagrzyby.pl/atlas/1800
 ---
 

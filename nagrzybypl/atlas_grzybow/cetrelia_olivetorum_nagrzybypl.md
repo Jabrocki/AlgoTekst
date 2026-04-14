@@ -1,5 +1,5 @@
 ---
-name: Cetrelia olivetorum
+latin_name: Cetrelia olivetorum
 source: https://www.nagrzyby.pl/atlas/5262
 ---
 

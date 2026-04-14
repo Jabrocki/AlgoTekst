@@ -1,5 +1,5 @@
 ---
-name: Usnea florida
+latin_name: Usnea florida
 source: https://www.nagrzyby.pl/atlas/5151
 ---
 

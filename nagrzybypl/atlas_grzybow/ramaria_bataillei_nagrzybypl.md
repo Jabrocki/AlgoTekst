@@ -1,5 +1,5 @@
 ---
-name: Ramaria bataillei
+latin_name: Ramaria bataillei
 source: https://www.nagrzyby.pl/atlas/5775
 ---
 

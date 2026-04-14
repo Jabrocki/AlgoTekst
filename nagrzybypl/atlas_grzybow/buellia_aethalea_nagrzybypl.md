@@ -1,5 +1,5 @@
 ---
-name: Buellia aethalea
+latin_name: Buellia aethalea
 source: https://www.nagrzyby.pl/atlas/5183
 ---
 

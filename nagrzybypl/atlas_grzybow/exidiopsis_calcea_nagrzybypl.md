@@ -1,5 +1,5 @@
 ---
-name: Exidiopsis calcea
+latin_name: Exidiopsis calcea
 source: https://www.nagrzyby.pl/atlas/5521
 ---
 

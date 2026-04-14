@@ -1,5 +1,5 @@
 ---
-name: Collybia cirrhata
+latin_name: Collybia cirrhata
 source: https://www.nagrzyby.pl/atlas/1450
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Helvella elastica
+latin_name: Helvella elastica
 source: https://www.nagrzyby.pl/atlas/394
 ---
 

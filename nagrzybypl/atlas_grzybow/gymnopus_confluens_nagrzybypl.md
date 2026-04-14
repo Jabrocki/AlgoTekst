@@ -1,5 +1,5 @@
 ---
-name: Gymnopus confluens
+latin_name: Gymnopus confluens
 source: https://www.nagrzyby.pl/atlas/332
 ---
 

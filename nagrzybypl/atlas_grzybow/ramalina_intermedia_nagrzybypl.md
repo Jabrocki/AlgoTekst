@@ -1,5 +1,5 @@
 ---
-name: Ramalina intermedia
+latin_name: Ramalina intermedia
 source: https://www.nagrzyby.pl/atlas/5336
 ---
 

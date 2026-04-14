@@ -1,5 +1,5 @@
 ---
-name: Grifola frondosa
+latin_name: Grifola frondosa
 source: https://www.nagrzyby.pl/atlas/145
 ---
 

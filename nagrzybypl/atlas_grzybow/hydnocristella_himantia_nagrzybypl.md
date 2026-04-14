@@ -1,5 +1,5 @@
 ---
-name: Hydnocristella himantia
+latin_name: Hydnocristella himantia
 source: https://www.nagrzyby.pl/atlas/4413
 ---
 

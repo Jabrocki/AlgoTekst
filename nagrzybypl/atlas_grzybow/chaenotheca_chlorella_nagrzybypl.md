@@ -1,5 +1,5 @@
 ---
-name: Chaenotheca chlorella
+latin_name: Chaenotheca chlorella
 source: https://www.nagrzyby.pl/atlas/5469
 ---
 

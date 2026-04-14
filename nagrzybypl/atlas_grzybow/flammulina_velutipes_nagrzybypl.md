@@ -1,5 +1,5 @@
 ---
-name: Flammulina velutipes
+latin_name: Flammulina velutipes
 source: https://www.nagrzyby.pl/atlas/269
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Pleurotus dryinus
+latin_name: Pleurotus dryinus
 source: https://www.nagrzyby.pl/atlas/264
 ---
 

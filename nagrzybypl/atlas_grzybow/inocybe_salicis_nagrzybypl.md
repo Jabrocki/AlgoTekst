@@ -1,5 +1,5 @@
 ---
-name: Inocybe salicis
+latin_name: Inocybe salicis
 source: https://www.nagrzyby.pl/atlas/2388
 ---
 

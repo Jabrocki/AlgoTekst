@@ -1,5 +1,5 @@
 ---
-name: Cortinarius xanthocephalus
+latin_name: Cortinarius xanthocephalus
 source: https://www.nagrzyby.pl/atlas/2274
 ---
 

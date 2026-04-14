@@ -1,5 +1,5 @@
 ---
-name: Hypholoma epixanthum
+latin_name: Hypholoma epixanthum
 source: https://www.nagrzyby.pl/atlas/1505
 ---
 

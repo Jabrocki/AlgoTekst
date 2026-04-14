@@ -1,5 +1,5 @@
 ---
-name: Cortinarius moenne-loccozii
+latin_name: Cortinarius moenne-loccozii
 source: https://www.nagrzyby.pl/atlas/1730
 ---
 

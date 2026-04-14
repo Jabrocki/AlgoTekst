@@ -1,5 +1,5 @@
 ---
-name: Sarcodontia delectans
+latin_name: Sarcodontia delectans
 source: https://www.nagrzyby.pl/atlas/4272
 ---
 

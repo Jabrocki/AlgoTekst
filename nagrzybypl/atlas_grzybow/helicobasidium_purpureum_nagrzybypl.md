@@ -1,5 +1,5 @@
 ---
-name: Helicobasidium purpureum
+latin_name: Helicobasidium purpureum
 source: https://www.nagrzyby.pl/atlas/4928
 ---
 

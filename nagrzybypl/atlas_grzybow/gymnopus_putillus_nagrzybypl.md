@@ -1,5 +1,5 @@
 ---
-name: Gymnopus putillus
+latin_name: Gymnopus putillus
 source: https://www.nagrzyby.pl/atlas/1437
 ---
 

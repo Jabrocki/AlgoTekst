@@ -1,5 +1,5 @@
 ---
-name: Evernia prunastri
+latin_name: Evernia prunastri
 source: https://www.nagrzyby.pl/atlas/5272
 ---
 

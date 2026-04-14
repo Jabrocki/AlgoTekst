@@ -1,5 +1,5 @@
 ---
-name: Armillaria species
+latin_name: Armillaria species
 source: https://www.nagrzyby.pl/atlas/167
 ---
 

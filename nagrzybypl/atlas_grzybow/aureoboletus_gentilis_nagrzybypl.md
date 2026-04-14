@@ -1,5 +1,5 @@
 ---
-name: Aureoboletus gentilis
+latin_name: Aureoboletus gentilis
 source: https://www.nagrzyby.pl/atlas/1672
 ---
 

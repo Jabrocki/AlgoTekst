@@ -1,5 +1,5 @@
 ---
-name: Bolbitius titubans varietas olivaceus
+latin_name: Bolbitius titubans varietas olivaceus
 source: https://www.nagrzyby.pl/atlas/1384
 ---
 

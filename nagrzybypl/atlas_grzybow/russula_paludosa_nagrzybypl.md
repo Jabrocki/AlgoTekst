@@ -1,5 +1,5 @@
 ---
-name: Russula paludosa
+latin_name: Russula paludosa
 source: https://www.nagrzyby.pl/atlas/103
 ---
 

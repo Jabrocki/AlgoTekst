@@ -1,5 +1,5 @@
 ---
-name: Lecanora rupicola
+latin_name: Lecanora rupicola
 source: https://www.nagrzyby.pl/atlas/5285
 ---
 

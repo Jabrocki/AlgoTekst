@@ -1,5 +1,5 @@
 ---
-name: Cyanoboletus pulverulentus
+latin_name: Cyanoboletus pulverulentus
 source: https://www.nagrzyby.pl/atlas/455
 ---
 

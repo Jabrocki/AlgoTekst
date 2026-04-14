@@ -1,5 +1,5 @@
 ---
-name: Rhodocollybia butyracea varietas asema
+latin_name: Rhodocollybia butyracea varietas asema
 source: https://www.nagrzyby.pl/atlas/1425
 ---
 

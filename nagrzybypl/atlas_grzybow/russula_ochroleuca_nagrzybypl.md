@@ -1,5 +1,5 @@
 ---
-name: Russula ochroleuca
+latin_name: Russula ochroleuca
 source: https://www.nagrzyby.pl/atlas/104
 ---
 

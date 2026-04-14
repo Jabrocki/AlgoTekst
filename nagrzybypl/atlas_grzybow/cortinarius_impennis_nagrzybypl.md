@@ -1,5 +1,5 @@
 ---
-name: Cortinarius impennis
+latin_name: Cortinarius impennis
 source: https://www.nagrzyby.pl/atlas/2189
 ---
 

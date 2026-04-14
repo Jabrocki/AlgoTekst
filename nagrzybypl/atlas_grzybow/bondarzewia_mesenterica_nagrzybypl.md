@@ -1,5 +1,5 @@
 ---
-name: Bondarzewia mesenterica
+latin_name: Bondarzewia mesenterica
 source: https://www.nagrzyby.pl/atlas/513
 ---
 

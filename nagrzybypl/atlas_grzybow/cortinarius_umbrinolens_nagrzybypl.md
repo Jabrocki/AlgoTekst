@@ -1,5 +1,5 @@
 ---
-name: Cortinarius umbrinolens
+latin_name: Cortinarius umbrinolens
 source: https://www.nagrzyby.pl/atlas/2265
 ---
 

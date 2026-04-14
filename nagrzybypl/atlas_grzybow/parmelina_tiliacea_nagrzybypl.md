@@ -1,5 +1,5 @@
 ---
-name: Parmelina tiliacea
+latin_name: Parmelina tiliacea
 source: https://www.nagrzyby.pl/atlas/5317
 ---
 

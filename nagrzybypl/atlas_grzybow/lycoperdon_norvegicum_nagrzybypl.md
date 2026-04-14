@@ -1,5 +1,5 @@
 ---
-name: Lycoperdon norvegicum
+latin_name: Lycoperdon norvegicum
 source: https://www.nagrzyby.pl/atlas/1164
 ---
 

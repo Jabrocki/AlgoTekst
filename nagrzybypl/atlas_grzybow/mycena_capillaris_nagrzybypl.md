@@ -1,5 +1,5 @@
 ---
-name: Mycena capillaris
+latin_name: Mycena capillaris
 source: https://www.nagrzyby.pl/atlas/2433
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Mutinus caninus
+latin_name: Mutinus caninus
 source: https://www.nagrzyby.pl/atlas/292
 ---
 

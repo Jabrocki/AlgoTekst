@@ -1,5 +1,5 @@
 ---
-name: Chondrostereum purpureum
+latin_name: Chondrostereum purpureum
 source: https://www.nagrzyby.pl/atlas/587
 ---
 

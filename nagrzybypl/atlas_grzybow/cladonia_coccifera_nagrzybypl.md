@@ -1,5 +1,5 @@
 ---
-name: Cladonia coccifera
+latin_name: Cladonia coccifera
 source: https://www.nagrzyby.pl/atlas/5173
 ---
 

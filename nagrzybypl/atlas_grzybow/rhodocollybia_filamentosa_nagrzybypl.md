@@ -1,5 +1,5 @@
 ---
-name: Rhodocollybia filamentosa
+latin_name: Rhodocollybia filamentosa
 source: https://www.nagrzyby.pl/atlas/629
 ---
 

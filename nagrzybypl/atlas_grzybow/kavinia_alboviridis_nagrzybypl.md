@@ -1,5 +1,5 @@
 ---
-name: Kavinia alboviridis
+latin_name: Kavinia alboviridis
 source: https://www.nagrzyby.pl/atlas/4412
 ---
 

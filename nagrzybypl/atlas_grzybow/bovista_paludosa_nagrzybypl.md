@@ -1,5 +1,5 @@
 ---
-name: Bovista paludosa
+latin_name: Bovista paludosa
 source: https://www.nagrzyby.pl/atlas/620
 ---
 

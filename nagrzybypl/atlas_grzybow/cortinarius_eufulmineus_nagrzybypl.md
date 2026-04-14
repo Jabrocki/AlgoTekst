@@ -1,5 +1,5 @@
 ---
-name: Cortinarius eufulmineus
+latin_name: Cortinarius eufulmineus
 source: https://www.nagrzyby.pl/atlas/2168
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Peziza badia
+latin_name: Peziza badia
 source: https://www.nagrzyby.pl/atlas/433
 ---
 

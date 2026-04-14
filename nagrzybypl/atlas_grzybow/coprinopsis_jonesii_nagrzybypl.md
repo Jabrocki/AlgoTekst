@@ -1,5 +1,5 @@
 ---
-name: Coprinopsis jonesii
+latin_name: Coprinopsis jonesii
 source: https://www.nagrzyby.pl/atlas/4686
 ---
 

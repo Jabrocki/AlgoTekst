@@ -1,5 +1,5 @@
 ---
-name: Sarcosphaera coronaria
+latin_name: Sarcosphaera coronaria
 source: https://www.nagrzyby.pl/atlas/610
 ---
 

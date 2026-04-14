@@ -1,5 +1,5 @@
 ---
-name: Conocybe moseri
+latin_name: Conocybe moseri
 source: https://www.nagrzyby.pl/atlas/1544
 ---
 

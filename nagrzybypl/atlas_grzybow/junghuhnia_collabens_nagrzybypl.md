@@ -1,5 +1,5 @@
 ---
-name: Junghuhnia collabens
+latin_name: Junghuhnia collabens
 source: https://www.nagrzyby.pl/atlas/68
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Mycena supina
+latin_name: Mycena supina
 source: https://www.nagrzyby.pl/atlas/2453
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Icmadophila ericetorum
+latin_name: Icmadophila ericetorum
 source: https://www.nagrzyby.pl/atlas/5202
 ---
 

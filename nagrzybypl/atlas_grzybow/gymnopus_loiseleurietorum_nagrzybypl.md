@@ -1,5 +1,5 @@
 ---
-name: Gymnopus loiseleurietorum
+latin_name: Gymnopus loiseleurietorum
 source: https://www.nagrzyby.pl/atlas/1444
 ---
 

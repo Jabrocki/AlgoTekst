@@ -1,5 +1,5 @@
 ---
-name: Inocybe praetervisa
+latin_name: Inocybe praetervisa
 source: https://www.nagrzyby.pl/atlas/937
 ---
 

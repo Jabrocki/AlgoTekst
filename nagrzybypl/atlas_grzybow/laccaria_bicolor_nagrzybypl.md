@@ -1,5 +1,5 @@
 ---
-name: Laccaria bicolor
+latin_name: Laccaria bicolor
 source: https://www.nagrzyby.pl/atlas/1714
 ---
 

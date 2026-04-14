@@ -1,5 +1,5 @@
 ---
-name: Cortinarius vibratilis
+latin_name: Cortinarius vibratilis
 source: https://www.nagrzyby.pl/atlas/2271
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Trichia species
+latin_name: Trichia species
 source: https://www.nagrzyby.pl/atlas/5054
 ---
 

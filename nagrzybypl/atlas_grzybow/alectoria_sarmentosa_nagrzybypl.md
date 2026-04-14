@@ -1,5 +1,5 @@
 ---
-name: Alectoria sarmentosa
+latin_name: Alectoria sarmentosa
 source: https://www.nagrzyby.pl/atlas/5216
 ---
 

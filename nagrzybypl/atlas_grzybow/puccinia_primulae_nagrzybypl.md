@@ -1,5 +1,5 @@
 ---
-name: Puccinia primulae
+latin_name: Puccinia primulae
 source: https://www.nagrzyby.pl/atlas/5523
 ---
 

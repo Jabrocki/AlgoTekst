@@ -1,5 +1,5 @@
 ---
-name: Lactarius odoratus
+latin_name: Lactarius odoratus
 source: https://www.nagrzyby.pl/atlas/801
 ---
 

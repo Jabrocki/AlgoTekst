@@ -1,5 +1,5 @@
 ---
-name: Mycena pura
+latin_name: Mycena pura
 source: https://www.nagrzyby.pl/atlas/519
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Solorina saccata
+latin_name: Solorina saccata
 source: https://www.nagrzyby.pl/atlas/5203
 ---
 

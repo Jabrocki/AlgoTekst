@@ -1,5 +1,5 @@
 ---
-name: Caloboletus radicans
+latin_name: Caloboletus radicans
 source: https://www.nagrzyby.pl/atlas/27
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Rutstroemia conformata
+latin_name: Rutstroemia conformata
 source: https://www.nagrzyby.pl/atlas/5759
 ---
 

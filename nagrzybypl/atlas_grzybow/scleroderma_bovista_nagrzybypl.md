@@ -1,5 +1,5 @@
 ---
-name: Scleroderma bovista
+latin_name: Scleroderma bovista
 source: https://www.nagrzyby.pl/atlas/1648
 ---
 

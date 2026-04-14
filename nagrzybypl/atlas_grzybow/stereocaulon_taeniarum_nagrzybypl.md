@@ -1,5 +1,5 @@
 ---
-name: Stereocaulon taeniarum
+latin_name: Stereocaulon taeniarum
 source: https://www.nagrzyby.pl/atlas/5199
 ---
 

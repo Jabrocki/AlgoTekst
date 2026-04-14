@@ -1,5 +1,5 @@
 ---
-name: Hydnellum scrobiculatum
+latin_name: Hydnellum scrobiculatum
 source: https://www.nagrzyby.pl/atlas/516
 ---
 

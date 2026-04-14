@@ -1,5 +1,5 @@
 ---
-name: Hypholoma polytrichi
+latin_name: Hypholoma polytrichi
 source: https://www.nagrzyby.pl/atlas/1512
 ---
 

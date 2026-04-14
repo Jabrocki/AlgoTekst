@@ -1,5 +1,5 @@
 ---
-name: Cladonia cornuta
+latin_name: Cladonia cornuta
 source: https://www.nagrzyby.pl/atlas/5401
 ---
 

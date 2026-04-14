@@ -1,5 +1,5 @@
 ---
-name: Ruzenia spermoides
+latin_name: Ruzenia spermoides
 source: https://www.nagrzyby.pl/atlas/5519
 ---
 

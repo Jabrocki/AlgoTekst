@@ -1,5 +1,5 @@
 ---
-name: Parasola leiocephala
+latin_name: Parasola leiocephala
 source: https://www.nagrzyby.pl/atlas/2098
 ---
 

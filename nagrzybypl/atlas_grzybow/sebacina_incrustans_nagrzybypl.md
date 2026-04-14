@@ -1,5 +1,5 @@
 ---
-name: Sebacina incrustans
+latin_name: Sebacina incrustans
 source: https://www.nagrzyby.pl/atlas/2322
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Flavoparmelia caperata
+latin_name: Flavoparmelia caperata
 source: https://www.nagrzyby.pl/atlas/5212
 ---
 

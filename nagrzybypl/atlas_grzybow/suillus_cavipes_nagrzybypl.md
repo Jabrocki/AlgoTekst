@@ -1,5 +1,5 @@
 ---
-name: Suillus cavipes
+latin_name: Suillus cavipes
 source: https://www.nagrzyby.pl/atlas/7
 ---
 

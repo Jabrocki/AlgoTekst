@@ -1,5 +1,5 @@
 ---
-name: Panaeolus cinctulus
+latin_name: Panaeolus cinctulus
 source: https://www.nagrzyby.pl/atlas/5935
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Peziza micropus
+latin_name: Peziza micropus
 source: https://www.nagrzyby.pl/atlas/1522
 ---
 

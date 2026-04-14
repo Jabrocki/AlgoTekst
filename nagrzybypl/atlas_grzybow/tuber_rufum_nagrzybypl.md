@@ -1,5 +1,5 @@
 ---
-name: Tuber rufum
+latin_name: Tuber rufum
 source: https://www.nagrzyby.pl/atlas/1148
 ---
 

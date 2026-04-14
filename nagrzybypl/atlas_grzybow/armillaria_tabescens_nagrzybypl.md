@@ -1,5 +1,5 @@
 ---
-name: Armillaria tabescens
+latin_name: Armillaria tabescens
 source: https://www.nagrzyby.pl/atlas/520
 ---
 

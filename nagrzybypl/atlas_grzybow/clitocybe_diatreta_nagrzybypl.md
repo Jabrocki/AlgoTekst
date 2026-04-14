@@ -1,5 +1,5 @@
 ---
-name: Clitocybe diatreta
+latin_name: Clitocybe diatreta
 source: https://www.nagrzyby.pl/atlas/1581
 ---
 

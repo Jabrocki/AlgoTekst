@@ -1,5 +1,5 @@
 ---
-name: Pluteus nanus
+latin_name: Pluteus nanus
 source: https://www.nagrzyby.pl/atlas/1196
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Clitocybe ditopa
+latin_name: Clitocybe ditopa
 source: https://www.nagrzyby.pl/atlas/1592
 ---
 

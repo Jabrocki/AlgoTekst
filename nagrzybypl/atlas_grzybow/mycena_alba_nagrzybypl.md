@@ -1,5 +1,5 @@
 ---
-name: Mycena alba
+latin_name: Mycena alba
 source: https://www.nagrzyby.pl/atlas/2407
 ---
 

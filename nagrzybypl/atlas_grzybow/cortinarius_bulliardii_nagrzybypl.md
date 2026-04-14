@@ -1,5 +1,5 @@
 ---
-name: Cortinarius bulliardii
+latin_name: Cortinarius bulliardii
 source: https://www.nagrzyby.pl/atlas/669
 ---
 

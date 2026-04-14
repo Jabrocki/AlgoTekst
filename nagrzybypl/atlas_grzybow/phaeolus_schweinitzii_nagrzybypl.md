@@ -1,5 +1,5 @@
 ---
-name: Phaeolus schweinitzii
+latin_name: Phaeolus schweinitzii
 source: https://www.nagrzyby.pl/atlas/154
 ---
 

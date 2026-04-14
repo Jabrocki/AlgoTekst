@@ -1,5 +1,5 @@
 ---
-name: Antrodiella onychoides
+latin_name: Antrodiella onychoides
 source: https://www.nagrzyby.pl/atlas/2095
 ---
 

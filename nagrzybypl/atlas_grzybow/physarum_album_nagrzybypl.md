@@ -1,5 +1,5 @@
 ---
-name: Physarum album
+latin_name: Physarum album
 source: https://www.nagrzyby.pl/atlas/1721
 ---
 

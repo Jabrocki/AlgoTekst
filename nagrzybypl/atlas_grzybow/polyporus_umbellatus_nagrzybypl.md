@@ -1,5 +1,5 @@
 ---
-name: Polyporus umbellatus
+latin_name: Polyporus umbellatus
 source: https://www.nagrzyby.pl/atlas/298
 ---
 

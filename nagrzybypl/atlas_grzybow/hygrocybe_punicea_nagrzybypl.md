@@ -1,5 +1,5 @@
 ---
-name: Hygrocybe punicea
+latin_name: Hygrocybe punicea
 source: https://www.nagrzyby.pl/atlas/1256
 ---
 

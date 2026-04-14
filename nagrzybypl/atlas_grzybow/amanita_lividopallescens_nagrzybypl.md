@@ -1,5 +1,5 @@
 ---
-name: Amanita lividopallescens
+latin_name: Amanita lividopallescens
 source: https://www.nagrzyby.pl/atlas/1187
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Entoloma asprellum
+latin_name: Entoloma asprellum
 source: https://www.nagrzyby.pl/atlas/4275
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Lecanora intumescens
+latin_name: Lecanora intumescens
 source: https://www.nagrzyby.pl/atlas/5669
 ---
 

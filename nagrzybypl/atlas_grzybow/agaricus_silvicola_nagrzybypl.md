@@ -1,5 +1,5 @@
 ---
-name: Agaricus silvicola
+latin_name: Agaricus silvicola
 source: https://www.nagrzyby.pl/atlas/336
 ---
 

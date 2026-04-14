@@ -1,5 +1,5 @@
 ---
-name: Gymnopus luxurians
+latin_name: Gymnopus luxurians
 source: https://www.nagrzyby.pl/atlas/1433
 ---
 

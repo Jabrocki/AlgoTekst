@@ -1,5 +1,5 @@
 ---
-name: Guepiniopsis buccina
+latin_name: Guepiniopsis buccina
 source: https://www.nagrzyby.pl/atlas/4454
 ---
 

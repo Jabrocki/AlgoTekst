@@ -1,5 +1,5 @@
 ---
-name: Cortinarius flexipes
+latin_name: Cortinarius flexipes
 source: https://www.nagrzyby.pl/atlas/2171
 ---
 

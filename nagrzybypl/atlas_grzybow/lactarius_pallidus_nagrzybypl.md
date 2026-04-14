@@ -1,5 +1,5 @@
 ---
-name: Lactarius pallidus
+latin_name: Lactarius pallidus
 source: https://www.nagrzyby.pl/atlas/474
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Didymium species
+latin_name: Didymium species
 source: https://www.nagrzyby.pl/atlas/5050
 ---
 

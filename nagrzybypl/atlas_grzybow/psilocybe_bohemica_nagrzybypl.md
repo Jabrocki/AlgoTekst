@@ -1,5 +1,5 @@
 ---
-name: Psilocybe bohemica
+latin_name: Psilocybe bohemica
 source: https://www.nagrzyby.pl/atlas/1333
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Chaenotheca brunneola
+latin_name: Chaenotheca brunneola
 source: https://www.nagrzyby.pl/atlas/5465
 ---
 

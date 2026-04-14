@@ -1,5 +1,5 @@
 ---
-name: Coltricia cinnamomea
+latin_name: Coltricia cinnamomea
 source: https://www.nagrzyby.pl/atlas/1158
 ---
 

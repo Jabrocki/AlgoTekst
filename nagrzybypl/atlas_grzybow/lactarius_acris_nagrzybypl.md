@@ -1,5 +1,5 @@
 ---
-name: Lactarius acris
+latin_name: Lactarius acris
 source: https://www.nagrzyby.pl/atlas/1801
 ---
 

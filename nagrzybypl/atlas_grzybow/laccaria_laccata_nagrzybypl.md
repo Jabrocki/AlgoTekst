@@ -1,5 +1,5 @@
 ---
-name: Laccaria laccata
+latin_name: Laccaria laccata
 source: https://www.nagrzyby.pl/atlas/82
 ---
 

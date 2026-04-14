@@ -1,5 +1,5 @@
 ---
-name: Hemileccinum depilatum - płowiec pofałdowany *
+latin_name: Hemileccinum depilatum - płowiec pofałdowany *
 source: https://www.nagrzyby.pl/atlas/1545
 ---
 

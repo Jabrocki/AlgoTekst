@@ -1,5 +1,5 @@
 ---
-name: Auricularia auricula-judae
+latin_name: Auricularia auricula-judae
 source: https://www.nagrzyby.pl/atlas/274
 ---
 

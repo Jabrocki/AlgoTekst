@@ -1,5 +1,5 @@
 ---
-name: Pluteus atromarginatus
+latin_name: Pluteus atromarginatus
 source: https://www.nagrzyby.pl/atlas/306
 ---
 

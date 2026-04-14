@@ -1,5 +1,5 @@
 ---
-name: Acarospora fuscata
+latin_name: Acarospora fuscata
 source: https://www.nagrzyby.pl/atlas/5229
 ---
 

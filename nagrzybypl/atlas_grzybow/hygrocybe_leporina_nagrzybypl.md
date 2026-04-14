@@ -1,5 +1,5 @@
 ---
-name: Hygrocybe leporina
+latin_name: Hygrocybe leporina
 source: https://www.nagrzyby.pl/atlas/4546
 ---
 

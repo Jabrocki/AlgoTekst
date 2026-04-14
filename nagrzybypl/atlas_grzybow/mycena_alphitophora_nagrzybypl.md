@@ -1,5 +1,5 @@
 ---
-name: Mycena alphitophora
+latin_name: Mycena alphitophora
 source: https://www.nagrzyby.pl/atlas/2456
 ---
 

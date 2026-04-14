@@ -1,5 +1,5 @@
 ---
-name: Oligoporus fragilis
+latin_name: Oligoporus fragilis
 source: https://www.nagrzyby.pl/atlas/5794
 ---
 

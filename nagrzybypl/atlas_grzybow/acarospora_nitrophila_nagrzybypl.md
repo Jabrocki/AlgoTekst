@@ -1,5 +1,5 @@
 ---
-name: Acarospora nitrophila
+latin_name: Acarospora nitrophila
 source: https://www.nagrzyby.pl/atlas/5230
 ---
 

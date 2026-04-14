@@ -1,5 +1,5 @@
 ---
-name: Stereum ochraceoflavum
+latin_name: Stereum ochraceoflavum
 source: https://www.nagrzyby.pl/atlas/2678
 ---
 

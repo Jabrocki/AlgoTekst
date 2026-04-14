@@ -1,5 +1,5 @@
 ---
-name: Fuscoporia ferrea
+latin_name: Fuscoporia ferrea
 source: https://www.nagrzyby.pl/atlas/3138
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Coltricia perennis
+latin_name: Coltricia perennis
 source: https://www.nagrzyby.pl/atlas/403
 ---
 

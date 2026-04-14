@@ -1,5 +1,5 @@
 ---
-name: Inocybe vulpinella
+latin_name: Inocybe vulpinella
 source: https://www.nagrzyby.pl/atlas/4730
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Amanita ovoidea
+latin_name: Amanita ovoidea
 source: https://www.nagrzyby.pl/atlas/5538
 ---
 

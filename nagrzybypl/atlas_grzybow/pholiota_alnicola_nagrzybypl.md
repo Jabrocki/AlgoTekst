@@ -1,5 +1,5 @@
 ---
-name: Pholiota alnicola
+latin_name: Pholiota alnicola
 source: https://www.nagrzyby.pl/atlas/1395
 ---
 

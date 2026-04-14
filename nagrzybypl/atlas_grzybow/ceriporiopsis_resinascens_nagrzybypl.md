@@ -1,5 +1,5 @@
 ---
-name: Ceriporiopsis resinascens
+latin_name: Ceriporiopsis resinascens
 source: https://www.nagrzyby.pl/atlas/1964
 ---
 

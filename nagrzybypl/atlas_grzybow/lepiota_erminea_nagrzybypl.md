@@ -1,5 +1,5 @@
 ---
-name: Lepiota erminea
+latin_name: Lepiota erminea
 source: https://www.nagrzyby.pl/atlas/4402
 ---
 

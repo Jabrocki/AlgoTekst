@@ -1,5 +1,5 @@
 ---
-name: Oudemansiella melanotricha
+latin_name: Oudemansiella melanotricha
 source: https://www.nagrzyby.pl/atlas/697
 ---
 

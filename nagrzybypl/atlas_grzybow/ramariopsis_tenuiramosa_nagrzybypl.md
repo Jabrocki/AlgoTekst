@@ -1,5 +1,5 @@
 ---
-name: Ramariopsis tenuiramosa
+latin_name: Ramariopsis tenuiramosa
 source: https://www.nagrzyby.pl/atlas/5136
 ---
 

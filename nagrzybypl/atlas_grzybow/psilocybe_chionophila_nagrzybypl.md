@@ -1,5 +1,5 @@
 ---
-name: Psilocybe chionophila
+latin_name: Psilocybe chionophila
 source: https://www.nagrzyby.pl/atlas/1344
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Panellus stipticus
+latin_name: Panellus stipticus
 source: https://www.nagrzyby.pl/atlas/529
 ---
 

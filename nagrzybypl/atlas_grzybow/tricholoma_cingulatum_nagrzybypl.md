@@ -1,5 +1,5 @@
 ---
-name: Tricholoma cingulatum
+latin_name: Tricholoma cingulatum
 source: https://www.nagrzyby.pl/atlas/998
 ---
 

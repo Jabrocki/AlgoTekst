@@ -1,5 +1,5 @@
 ---
-name: Lycoperdon umbrinum
+latin_name: Lycoperdon umbrinum
 source: https://www.nagrzyby.pl/atlas/360
 ---
 

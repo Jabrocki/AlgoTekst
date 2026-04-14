@@ -1,5 +1,5 @@
 ---
-name: Postia lowei
+latin_name: Postia lowei
 source: https://www.nagrzyby.pl/atlas/41
 ---
 

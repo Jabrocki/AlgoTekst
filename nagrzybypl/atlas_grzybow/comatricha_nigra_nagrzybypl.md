@@ -1,5 +1,5 @@
 ---
-name: Comatricha nigra
+latin_name: Comatricha nigra
 source: https://www.nagrzyby.pl/atlas/5006
 ---
 

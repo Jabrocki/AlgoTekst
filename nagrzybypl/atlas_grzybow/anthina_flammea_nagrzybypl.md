@@ -1,5 +1,5 @@
 ---
-name: Anthina flammea
+latin_name: Anthina flammea
 source: https://www.nagrzyby.pl/atlas/4522
 ---
 

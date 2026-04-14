@@ -1,5 +1,5 @@
 ---
-name: Russula nauseosa
+latin_name: Russula nauseosa
 source: https://www.nagrzyby.pl/atlas/535
 ---
 

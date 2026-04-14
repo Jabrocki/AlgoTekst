@@ -1,5 +1,5 @@
 ---
-name: Inocybe cincinnata
+latin_name: Inocybe cincinnata
 source: https://www.nagrzyby.pl/atlas/2379
 ---
 

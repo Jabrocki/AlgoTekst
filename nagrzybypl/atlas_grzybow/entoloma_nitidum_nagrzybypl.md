@@ -1,5 +1,5 @@
 ---
-name: Entoloma nitidum
+latin_name: Entoloma nitidum
 source: https://www.nagrzyby.pl/atlas/532
 ---
 

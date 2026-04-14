@@ -1,5 +1,5 @@
 ---
-name: Geoglossum umbratile
+latin_name: Geoglossum umbratile
 source: https://www.nagrzyby.pl/atlas/5799
 ---
 

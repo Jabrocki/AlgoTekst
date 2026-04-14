@@ -1,5 +1,5 @@
 ---
-name: Tremella indecorata
+latin_name: Tremella indecorata
 source: https://www.nagrzyby.pl/atlas/4181
 ---
 

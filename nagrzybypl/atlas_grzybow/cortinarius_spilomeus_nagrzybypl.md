@@ -1,5 +1,5 @@
 ---
-name: Cortinarius spilomeus
+latin_name: Cortinarius spilomeus
 source: https://www.nagrzyby.pl/atlas/2246
 ---
 

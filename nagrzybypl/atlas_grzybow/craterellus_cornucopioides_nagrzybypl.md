@@ -1,5 +1,5 @@
 ---
-name: Craterellus cornucopioides
+latin_name: Craterellus cornucopioides
 source: https://www.nagrzyby.pl/atlas/421
 ---
 

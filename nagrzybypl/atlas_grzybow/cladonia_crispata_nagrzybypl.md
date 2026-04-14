@@ -1,5 +1,5 @@
 ---
-name: Cladonia crispata
+latin_name: Cladonia crispata
 source: https://www.nagrzyby.pl/atlas/5408
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Melastiza cornubiensis
+latin_name: Melastiza cornubiensis
 source: https://www.nagrzyby.pl/atlas/1322
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Entoloma pleopodium
+latin_name: Entoloma pleopodium
 source: https://www.nagrzyby.pl/atlas/4018
 ---
 

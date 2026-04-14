@@ -1,5 +1,5 @@
 ---
-name: Flavoplaca citrina
+latin_name: Flavoplaca citrina
 source: https://www.nagrzyby.pl/atlas/5240
 ---
 

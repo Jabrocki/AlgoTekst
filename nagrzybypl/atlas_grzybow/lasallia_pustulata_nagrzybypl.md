@@ -1,5 +1,5 @@
 ---
-name: Lasallia pustulata
+latin_name: Lasallia pustulata
 source: https://www.nagrzyby.pl/atlas/5363
 ---
 

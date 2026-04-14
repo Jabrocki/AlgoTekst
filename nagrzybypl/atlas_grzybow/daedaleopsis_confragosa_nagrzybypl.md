@@ -1,5 +1,5 @@
 ---
-name: Daedaleopsis confragosa
+latin_name: Daedaleopsis confragosa
 source: https://www.nagrzyby.pl/atlas/72
 ---
 

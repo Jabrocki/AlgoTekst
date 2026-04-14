@@ -1,5 +1,5 @@
 ---
-name: Polyporus alveolaris
+latin_name: Polyporus alveolaris
 source: https://www.nagrzyby.pl/atlas/845
 ---
 

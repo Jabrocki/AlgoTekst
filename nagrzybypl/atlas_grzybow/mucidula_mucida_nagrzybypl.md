@@ -1,5 +1,5 @@
 ---
-name: Mucidula mucida
+latin_name: Mucidula mucida
 source: https://www.nagrzyby.pl/atlas/248
 ---
 

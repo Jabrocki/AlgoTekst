@@ -1,5 +1,5 @@
 ---
-name: Psilocybe moelleri
+latin_name: Psilocybe moelleri
 source: https://www.nagrzyby.pl/atlas/1753
 ---
 

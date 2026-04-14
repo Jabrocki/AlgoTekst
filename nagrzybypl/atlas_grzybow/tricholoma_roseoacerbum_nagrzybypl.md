@@ -1,5 +1,5 @@
 ---
-name: Tricholoma roseoacerbum
+latin_name: Tricholoma roseoacerbum
 source: https://www.nagrzyby.pl/atlas/5784
 ---
 

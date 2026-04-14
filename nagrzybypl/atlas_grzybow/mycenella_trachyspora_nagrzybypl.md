@@ -1,5 +1,5 @@
 ---
-name: Mycenella trachyspora
+latin_name: Mycenella trachyspora
 source: https://www.nagrzyby.pl/atlas/5142
 ---
 

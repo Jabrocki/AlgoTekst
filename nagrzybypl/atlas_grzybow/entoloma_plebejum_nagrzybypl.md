@@ -1,5 +1,5 @@
 ---
-name: Entoloma plebejum
+latin_name: Entoloma plebejum
 source: https://www.nagrzyby.pl/atlas/4779
 ---
 

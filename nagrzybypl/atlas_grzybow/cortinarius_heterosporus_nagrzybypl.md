@@ -1,5 +1,5 @@
 ---
-name: Cortinarius heterosporus
+latin_name: Cortinarius heterosporus
 source: https://www.nagrzyby.pl/atlas/4576
 ---
 

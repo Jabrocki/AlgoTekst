@@ -1,5 +1,5 @@
 ---
-name: Russula queletii
+latin_name: Russula queletii
 source: https://www.nagrzyby.pl/atlas/116
 ---
 

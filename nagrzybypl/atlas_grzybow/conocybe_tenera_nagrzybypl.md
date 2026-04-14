@@ -1,5 +1,5 @@
 ---
-name: Conocybe tenera
+latin_name: Conocybe tenera
 source: https://www.nagrzyby.pl/atlas/2054
 ---
 

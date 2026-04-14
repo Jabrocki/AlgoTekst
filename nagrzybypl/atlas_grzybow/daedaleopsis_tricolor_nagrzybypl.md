@@ -1,5 +1,5 @@
 ---
-name: Daedaleopsis tricolor
+latin_name: Daedaleopsis tricolor
 source: https://www.nagrzyby.pl/atlas/590
 ---
 

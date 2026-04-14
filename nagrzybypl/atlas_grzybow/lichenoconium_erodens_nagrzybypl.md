@@ -1,5 +1,5 @@
 ---
-name: Lichenoconium erodens
+latin_name: Lichenoconium erodens
 source: https://www.nagrzyby.pl/atlas/5607
 ---
 

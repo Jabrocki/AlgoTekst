@@ -1,5 +1,5 @@
 ---
-name: Lactarius pubescens
+latin_name: Lactarius pubescens
 source: https://www.nagrzyby.pl/atlas/777
 ---
 

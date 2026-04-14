@@ -1,5 +1,5 @@
 ---
-name: Cortinarius anomalus
+latin_name: Cortinarius anomalus
 source: https://www.nagrzyby.pl/atlas/2116
 ---
 

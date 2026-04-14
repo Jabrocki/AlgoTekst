@@ -1,5 +1,5 @@
 ---
-name: Calocera furcata
+latin_name: Calocera furcata
 source: https://www.nagrzyby.pl/atlas/1909
 ---
 

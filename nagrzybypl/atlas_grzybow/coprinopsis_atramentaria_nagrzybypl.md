@@ -1,5 +1,5 @@
 ---
-name: Coprinopsis atramentaria
+latin_name: Coprinopsis atramentaria
 source: https://www.nagrzyby.pl/atlas/39
 ---
 

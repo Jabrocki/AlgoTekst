@@ -1,5 +1,5 @@
 ---
-name: Inocybe langei
+latin_name: Inocybe langei
 source: https://www.nagrzyby.pl/atlas/2362
 ---
 

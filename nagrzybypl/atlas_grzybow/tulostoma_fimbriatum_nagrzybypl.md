@@ -1,5 +1,5 @@
 ---
-name: Tulostoma fimbriatum
+latin_name: Tulostoma fimbriatum
 source: https://www.nagrzyby.pl/atlas/698
 ---
 

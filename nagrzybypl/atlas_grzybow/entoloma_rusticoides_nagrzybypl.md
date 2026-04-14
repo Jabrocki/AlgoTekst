@@ -1,5 +1,5 @@
 ---
-name: Entoloma rusticoides
+latin_name: Entoloma rusticoides
 source: https://www.nagrzyby.pl/atlas/4788
 ---
 

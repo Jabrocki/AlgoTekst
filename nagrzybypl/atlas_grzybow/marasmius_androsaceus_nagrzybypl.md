@@ -1,5 +1,5 @@
 ---
-name: Marasmius androsaceus
+latin_name: Marasmius androsaceus
 source: https://www.nagrzyby.pl/atlas/314
 ---
 

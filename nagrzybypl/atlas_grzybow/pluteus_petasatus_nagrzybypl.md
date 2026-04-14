@@ -1,5 +1,5 @@
 ---
-name: Pluteus petasatus
+latin_name: Pluteus petasatus
 source: https://www.nagrzyby.pl/atlas/791
 ---
 

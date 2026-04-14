@@ -1,5 +1,5 @@
 ---
-name: Galerina graminea
+latin_name: Galerina graminea
 source: https://www.nagrzyby.pl/atlas/5139
 ---
 

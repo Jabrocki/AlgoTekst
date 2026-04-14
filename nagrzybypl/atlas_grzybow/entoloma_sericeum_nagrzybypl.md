@@ -1,5 +1,5 @@
 ---
-name: Entoloma sericeum
+latin_name: Entoloma sericeum
 source: https://www.nagrzyby.pl/atlas/4744
 ---
 

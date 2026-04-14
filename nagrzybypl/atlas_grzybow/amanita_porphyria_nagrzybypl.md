@@ -1,5 +1,5 @@
 ---
-name: Amanita porphyria
+latin_name: Amanita porphyria
 source: https://www.nagrzyby.pl/atlas/450
 ---
 

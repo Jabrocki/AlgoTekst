@@ -1,5 +1,5 @@
 ---
-name: Ophiocordyceps myrmecophila
+latin_name: Ophiocordyceps myrmecophila
 source: https://www.nagrzyby.pl/atlas/1388
 ---
 

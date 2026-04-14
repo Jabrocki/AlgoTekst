@@ -1,5 +1,5 @@
 ---
-name: Coprinellus flocculosus
+latin_name: Coprinellus flocculosus
 source: https://www.nagrzyby.pl/atlas/1032
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Clitocybe paropsis
+latin_name: Clitocybe paropsis
 source: https://www.nagrzyby.pl/atlas/1580
 ---
 

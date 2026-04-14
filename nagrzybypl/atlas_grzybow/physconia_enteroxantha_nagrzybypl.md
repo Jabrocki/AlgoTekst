@@ -1,5 +1,5 @@
 ---
-name: Physconia enteroxantha
+latin_name: Physconia enteroxantha
 source: https://www.nagrzyby.pl/atlas/5309
 ---
 

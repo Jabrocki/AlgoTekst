@@ -1,5 +1,5 @@
 ---
-name: Clitocybe brumalis
+latin_name: Clitocybe brumalis
 source: https://www.nagrzyby.pl/atlas/1583
 ---
 

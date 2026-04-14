@@ -1,5 +1,5 @@
 ---
-name: Cytidia salicina
+latin_name: Cytidia salicina
 source: https://www.nagrzyby.pl/atlas/4507
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Agaricus phaeolepidotus
+latin_name: Agaricus phaeolepidotus
 source: https://www.nagrzyby.pl/atlas/874
 ---
 

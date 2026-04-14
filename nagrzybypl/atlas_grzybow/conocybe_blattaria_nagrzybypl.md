@@ -1,5 +1,5 @@
 ---
-name: Conocybe blattaria
+latin_name: Conocybe blattaria
 source: https://www.nagrzyby.pl/atlas/2022
 ---
 

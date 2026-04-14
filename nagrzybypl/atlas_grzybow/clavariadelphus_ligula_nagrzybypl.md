@@ -1,5 +1,5 @@
 ---
-name: Clavariadelphus ligula
+latin_name: Clavariadelphus ligula
 source: https://www.nagrzyby.pl/atlas/88
 ---
 

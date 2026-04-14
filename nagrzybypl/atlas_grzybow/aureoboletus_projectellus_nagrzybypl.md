@@ -1,5 +1,5 @@
 ---
-name: Aureoboletus projectellus
+latin_name: Aureoboletus projectellus
 source: https://www.nagrzyby.pl/atlas/5112
 ---
 

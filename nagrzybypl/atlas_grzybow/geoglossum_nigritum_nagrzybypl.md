@@ -1,5 +1,5 @@
 ---
-name: Geoglossum nigritum
+latin_name: Geoglossum nigritum
 source: https://www.nagrzyby.pl/atlas/5796
 ---
 

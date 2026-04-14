@@ -1,5 +1,5 @@
 ---
-name: Agrocybe firma
+latin_name: Agrocybe firma
 source: https://www.nagrzyby.pl/atlas/892
 ---
 

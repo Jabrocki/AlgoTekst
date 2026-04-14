@@ -1,5 +1,5 @@
 ---
-name: Geastrum fimbriatum
+latin_name: Geastrum fimbriatum
 source: https://www.nagrzyby.pl/atlas/574
 ---
 

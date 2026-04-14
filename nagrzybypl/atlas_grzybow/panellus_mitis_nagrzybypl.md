@@ -1,5 +1,5 @@
 ---
-name: Panellus mitis
+latin_name: Panellus mitis
 source: https://www.nagrzyby.pl/atlas/808
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Pluteus semibulbosus
+latin_name: Pluteus semibulbosus
 source: https://www.nagrzyby.pl/atlas/1453
 ---
 

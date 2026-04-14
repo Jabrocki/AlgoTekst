@@ -1,5 +1,5 @@
 ---
-name: Cortinarius caperatus
+latin_name: Cortinarius caperatus
 source: https://www.nagrzyby.pl/atlas/365
 ---
 

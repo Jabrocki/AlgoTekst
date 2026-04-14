@@ -1,5 +1,5 @@
 ---
-name: Trichia decipiens
+latin_name: Trichia decipiens
 source: https://www.nagrzyby.pl/atlas/1686
 ---
 

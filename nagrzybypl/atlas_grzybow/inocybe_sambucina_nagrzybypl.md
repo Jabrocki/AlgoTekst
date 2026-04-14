@@ -1,5 +1,5 @@
 ---
-name: Inocybe sambucina
+latin_name: Inocybe sambucina
 source: https://www.nagrzyby.pl/atlas/2374
 ---
 

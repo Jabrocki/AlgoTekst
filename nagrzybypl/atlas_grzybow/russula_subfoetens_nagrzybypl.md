@@ -1,5 +1,5 @@
 ---
-name: Russula subfoetens
+latin_name: Russula subfoetens
 source: https://www.nagrzyby.pl/atlas/692
 ---
 

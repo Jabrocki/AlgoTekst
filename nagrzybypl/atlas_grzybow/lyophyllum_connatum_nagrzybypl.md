@@ -1,5 +1,5 @@
 ---
-name: Lyophyllum connatum
+latin_name: Lyophyllum connatum
 source: https://www.nagrzyby.pl/atlas/317
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Hemileccinum impolitum
+latin_name: Hemileccinum impolitum
 source: https://www.nagrzyby.pl/atlas/779
 ---
 

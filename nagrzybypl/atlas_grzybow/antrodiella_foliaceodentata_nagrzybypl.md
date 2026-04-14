@@ -1,5 +1,5 @@
 ---
-name: Antrodiella foliaceodentata
+latin_name: Antrodiella foliaceodentata
 source: https://www.nagrzyby.pl/atlas/2094
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Tremella mesenterica
+latin_name: Tremella mesenterica
 source: https://www.nagrzyby.pl/atlas/371
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Peziza subisabellina
+latin_name: Peziza subisabellina
 source: https://www.nagrzyby.pl/atlas/1306
 ---
 

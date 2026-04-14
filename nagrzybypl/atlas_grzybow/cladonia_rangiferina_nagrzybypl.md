@@ -1,5 +1,5 @@
 ---
-name: Cladonia rangiferina
+latin_name: Cladonia rangiferina
 source: https://www.nagrzyby.pl/atlas/5176
 ---
 

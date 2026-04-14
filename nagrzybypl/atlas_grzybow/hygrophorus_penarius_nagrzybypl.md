@@ -1,5 +1,5 @@
 ---
-name: Hygrophorus penarius
+latin_name: Hygrophorus penarius
 source: https://www.nagrzyby.pl/atlas/1237
 ---
 

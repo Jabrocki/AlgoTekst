@@ -1,5 +1,5 @@
 ---
-name: Coprinellus saccharinus
+latin_name: Coprinellus saccharinus
 source: https://www.nagrzyby.pl/atlas/1030
 ---
 

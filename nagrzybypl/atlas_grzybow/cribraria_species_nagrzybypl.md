@@ -1,5 +1,5 @@
 ---
-name: Cribraria species
+latin_name: Cribraria species
 source: https://www.nagrzyby.pl/atlas/5057
 ---
 

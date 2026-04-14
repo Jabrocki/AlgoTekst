@@ -1,5 +1,5 @@
 ---
-name: Cortinarius dibaphus
+latin_name: Cortinarius dibaphus
 source: https://www.nagrzyby.pl/atlas/2160
 ---
 

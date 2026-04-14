@@ -1,5 +1,5 @@
 ---
-name: Collaria arcyrionema
+latin_name: Collaria arcyrionema
 source: https://www.nagrzyby.pl/atlas/5454
 ---
 

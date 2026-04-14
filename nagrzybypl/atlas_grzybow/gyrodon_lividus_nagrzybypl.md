@@ -1,5 +1,5 @@
 ---
-name: Gyrodon lividus
+latin_name: Gyrodon lividus
 source: https://www.nagrzyby.pl/atlas/281
 ---
 

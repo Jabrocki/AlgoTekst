@@ -1,5 +1,5 @@
 ---
-name: Pseudoplectania melaena
+latin_name: Pseudoplectania melaena
 source: https://www.nagrzyby.pl/atlas/4573
 ---
 

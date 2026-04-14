@@ -1,5 +1,5 @@
 ---
-name: Inocybe perlata
+latin_name: Inocybe perlata
 source: https://www.nagrzyby.pl/atlas/2378
 ---
 

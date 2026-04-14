@@ -1,5 +1,5 @@
 ---
-name: Schizophyllum amplum
+latin_name: Schizophyllum amplum
 source: https://www.nagrzyby.pl/atlas/1478
 ---
 

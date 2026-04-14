@@ -1,5 +1,5 @@
 ---
-name: Cortinarius elegantior
+latin_name: Cortinarius elegantior
 source: https://www.nagrzyby.pl/atlas/926
 ---
 

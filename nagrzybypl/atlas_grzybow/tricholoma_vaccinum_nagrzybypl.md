@@ -1,5 +1,5 @@
 ---
-name: Tricholoma vaccinum
+latin_name: Tricholoma vaccinum
 source: https://www.nagrzyby.pl/atlas/175
 ---
 

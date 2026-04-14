@@ -1,5 +1,5 @@
 ---
-name: Russula xerampelina
+latin_name: Russula xerampelina
 source: https://www.nagrzyby.pl/atlas/5455
 ---
 

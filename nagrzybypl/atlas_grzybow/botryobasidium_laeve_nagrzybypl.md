@@ -1,5 +1,5 @@
 ---
-name: Botryobasidium laeve
+latin_name: Botryobasidium laeve
 source: https://www.nagrzyby.pl/atlas/1892
 ---
 

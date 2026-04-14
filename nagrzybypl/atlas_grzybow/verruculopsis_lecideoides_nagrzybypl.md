@@ -1,5 +1,5 @@
 ---
-name: Verruculopsis lecideoides
+latin_name: Verruculopsis lecideoides
 source: https://www.nagrzyby.pl/atlas/871
 ---
 

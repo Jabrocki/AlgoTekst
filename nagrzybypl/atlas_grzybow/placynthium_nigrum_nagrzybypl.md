@@ -1,5 +1,5 @@
 ---
-name: Placynthium nigrum
+latin_name: Placynthium nigrum
 source: https://www.nagrzyby.pl/atlas/5481
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Mycena rosella
+latin_name: Mycena rosella
 source: https://www.nagrzyby.pl/atlas/1082
 ---
 

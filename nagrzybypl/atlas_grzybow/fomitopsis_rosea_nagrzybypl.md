@@ -1,5 +1,5 @@
 ---
-name: Fomitopsis rosea
+latin_name: Fomitopsis rosea
 source: https://www.nagrzyby.pl/atlas/619
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Coprinus sterquilinus
+latin_name: Coprinus sterquilinus
 source: https://www.nagrzyby.pl/atlas/1033
 ---
 

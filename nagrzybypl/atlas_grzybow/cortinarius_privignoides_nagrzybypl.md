@@ -1,5 +1,5 @@
 ---
-name: Cortinarius privignoides
+latin_name: Cortinarius privignoides
 source: https://www.nagrzyby.pl/atlas/2225
 ---
 

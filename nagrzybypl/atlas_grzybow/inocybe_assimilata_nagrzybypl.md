@@ -1,5 +1,5 @@
 ---
-name: Inocybe assimilata
+latin_name: Inocybe assimilata
 source: https://www.nagrzyby.pl/atlas/901
 ---
 

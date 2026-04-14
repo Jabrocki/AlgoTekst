@@ -1,5 +1,5 @@
 ---
-name: Sarcoscypha coccinea
+latin_name: Sarcoscypha coccinea
 source: https://www.nagrzyby.pl/atlas/30
 ---
 

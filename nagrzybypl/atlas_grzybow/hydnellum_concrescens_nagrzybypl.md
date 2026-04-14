@@ -1,5 +1,5 @@
 ---
-name: Hydnellum concrescens
+latin_name: Hydnellum concrescens
 source: https://www.nagrzyby.pl/atlas/4178
 ---
 

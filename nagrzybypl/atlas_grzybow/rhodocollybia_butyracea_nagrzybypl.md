@@ -1,5 +1,5 @@
 ---
-name: Rhodocollybia butyracea
+latin_name: Rhodocollybia butyracea
 source: https://www.nagrzyby.pl/atlas/333
 ---
 

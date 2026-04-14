@@ -1,5 +1,5 @@
 ---
-name: Physarum bivalve
+latin_name: Physarum bivalve
 source: https://www.nagrzyby.pl/atlas/1720
 ---
 

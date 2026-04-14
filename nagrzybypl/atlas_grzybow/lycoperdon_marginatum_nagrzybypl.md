@@ -1,5 +1,5 @@
 ---
-name: Lycoperdon marginatum
+latin_name: Lycoperdon marginatum
 source: https://www.nagrzyby.pl/atlas/1165
 ---
 

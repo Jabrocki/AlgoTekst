@@ -1,5 +1,5 @@
 ---
-name: Rusavskia elegans
+latin_name: Rusavskia elegans
 source: https://www.nagrzyby.pl/atlas/5222
 ---
 

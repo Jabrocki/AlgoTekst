@@ -1,5 +1,5 @@
 ---
-name: Sarcomyxa serotina
+latin_name: Sarcomyxa serotina
 source: https://www.nagrzyby.pl/atlas/277
 ---
 

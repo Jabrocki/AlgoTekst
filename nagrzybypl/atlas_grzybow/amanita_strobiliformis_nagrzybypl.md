@@ -1,5 +1,5 @@
 ---
-name: Amanita strobiliformis
+latin_name: Amanita strobiliformis
 source: https://www.nagrzyby.pl/atlas/193
 ---
 

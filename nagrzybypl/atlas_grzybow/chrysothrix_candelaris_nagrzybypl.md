@@ -1,5 +1,5 @@
 ---
-name: Chrysothrix candelaris
+latin_name: Chrysothrix candelaris
 source: https://www.nagrzyby.pl/atlas/5217
 ---
 

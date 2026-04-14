@@ -1,5 +1,5 @@
 ---
-name: Hypocrea rufa
+latin_name: Hypocrea rufa
 source: https://www.nagrzyby.pl/atlas/1476
 ---
 

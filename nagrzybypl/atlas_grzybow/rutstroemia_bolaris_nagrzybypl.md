@@ -1,5 +1,5 @@
 ---
-name: Rutstroemia bolaris
+latin_name: Rutstroemia bolaris
 source: https://www.nagrzyby.pl/atlas/1523
 ---
 

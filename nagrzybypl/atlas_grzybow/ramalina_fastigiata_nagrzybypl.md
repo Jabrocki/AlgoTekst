@@ -1,5 +1,5 @@
 ---
-name: Ramalina fastigiata
+latin_name: Ramalina fastigiata
 source: https://www.nagrzyby.pl/atlas/5333
 ---
 

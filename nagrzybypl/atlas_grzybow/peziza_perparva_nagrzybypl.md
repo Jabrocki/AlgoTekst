@@ -1,5 +1,5 @@
 ---
-name: Peziza perparva
+latin_name: Peziza perparva
 source: https://www.nagrzyby.pl/atlas/1279
 ---
 

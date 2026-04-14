@@ -1,5 +1,5 @@
 ---
-name: Phylloporus pelletieri
+latin_name: Phylloporus pelletieri
 source: https://www.nagrzyby.pl/atlas/355
 ---
 

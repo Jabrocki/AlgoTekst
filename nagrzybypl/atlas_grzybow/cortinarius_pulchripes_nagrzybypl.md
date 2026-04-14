@@ -1,5 +1,5 @@
 ---
-name: Cortinarius pulchripes
+latin_name: Cortinarius pulchripes
 source: https://www.nagrzyby.pl/atlas/2228
 ---
 

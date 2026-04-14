@@ -1,5 +1,5 @@
 ---
-name: Inocybe squamosa
+latin_name: Inocybe squamosa
 source: https://www.nagrzyby.pl/atlas/909
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Entoloma pulvereum
+latin_name: Entoloma pulvereum
 source: https://www.nagrzyby.pl/atlas/4783
 ---
 

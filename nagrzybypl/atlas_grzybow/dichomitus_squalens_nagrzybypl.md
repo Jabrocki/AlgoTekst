@@ -1,5 +1,5 @@
 ---
-name: Dichomitus squalens
+latin_name: Dichomitus squalens
 source: https://www.nagrzyby.pl/atlas/4485
 ---
 

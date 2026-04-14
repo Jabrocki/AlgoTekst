@@ -1,5 +1,5 @@
 ---
-name: Botryobasidium obtusisporum
+latin_name: Botryobasidium obtusisporum
 source: https://www.nagrzyby.pl/atlas/1893
 ---
 

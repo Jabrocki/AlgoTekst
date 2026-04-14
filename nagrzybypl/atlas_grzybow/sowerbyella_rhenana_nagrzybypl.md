@@ -1,5 +1,5 @@
 ---
-name: Sowerbyella rhenana
+latin_name: Sowerbyella rhenana
 source: https://www.nagrzyby.pl/atlas/5937
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Trametes hirsuta
+latin_name: Trametes hirsuta
 source: https://www.nagrzyby.pl/atlas/714
 ---
 

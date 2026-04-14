@@ -1,5 +1,5 @@
 ---
-name: Pholiota conissans
+latin_name: Pholiota conissans
 source: https://www.nagrzyby.pl/atlas/1397
 ---
 

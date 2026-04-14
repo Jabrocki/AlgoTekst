@@ -1,5 +1,5 @@
 ---
-name: Fomitopsis officinalis
+latin_name: Fomitopsis officinalis
 source: https://www.nagrzyby.pl/atlas/428
 ---
 

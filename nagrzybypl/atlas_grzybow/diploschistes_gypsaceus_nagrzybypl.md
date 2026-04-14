@@ -1,5 +1,5 @@
 ---
-name: Diploschistes gypsaceus
+latin_name: Diploschistes gypsaceus
 source: https://www.nagrzyby.pl/atlas/5473
 ---
 

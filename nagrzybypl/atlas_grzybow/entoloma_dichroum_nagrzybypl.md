@@ -1,5 +1,5 @@
 ---
-name: Entoloma dichroum
+latin_name: Entoloma dichroum
 source: https://www.nagrzyby.pl/atlas/4763
 ---
 

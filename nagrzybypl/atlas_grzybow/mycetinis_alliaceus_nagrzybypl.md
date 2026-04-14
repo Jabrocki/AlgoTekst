@@ -1,5 +1,5 @@
 ---
-name: Mycetinis alliaceus
+latin_name: Mycetinis alliaceus
 source: https://www.nagrzyby.pl/atlas/276
 ---
 

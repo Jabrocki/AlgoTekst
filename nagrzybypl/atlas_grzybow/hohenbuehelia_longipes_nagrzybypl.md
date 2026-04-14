@@ -1,5 +1,5 @@
 ---
-name: Hohenbuehelia longipes
+latin_name: Hohenbuehelia longipes
 source: https://www.nagrzyby.pl/atlas/4440
 ---
 

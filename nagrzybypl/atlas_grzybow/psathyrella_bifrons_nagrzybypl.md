@@ -1,5 +1,5 @@
 ---
-name: Psathyrella bifrons
+latin_name: Psathyrella bifrons
 source: https://www.nagrzyby.pl/atlas/4327
 ---
 

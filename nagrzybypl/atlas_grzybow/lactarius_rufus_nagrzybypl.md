@@ -1,5 +1,5 @@
 ---
-name: Lactarius rufus
+latin_name: Lactarius rufus
 source: https://www.nagrzyby.pl/atlas/244
 ---
 

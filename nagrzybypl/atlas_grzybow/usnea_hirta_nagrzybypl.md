@@ -1,5 +1,5 @@
 ---
-name: Usnea hirta
+latin_name: Usnea hirta
 source: https://www.nagrzyby.pl/atlas/5149
 ---
 

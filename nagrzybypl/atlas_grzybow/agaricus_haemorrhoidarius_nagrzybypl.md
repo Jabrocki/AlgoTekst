@@ -1,5 +1,5 @@
 ---
-name: Agaricus haemorrhoidarius
+latin_name: Agaricus haemorrhoidarius
 source: https://www.nagrzyby.pl/atlas/860
 ---
 

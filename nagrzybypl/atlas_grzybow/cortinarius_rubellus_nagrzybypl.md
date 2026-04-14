@@ -1,5 +1,5 @@
 ---
-name: Cortinarius rubellus
+latin_name: Cortinarius rubellus
 source: https://www.nagrzyby.pl/atlas/282
 ---
 

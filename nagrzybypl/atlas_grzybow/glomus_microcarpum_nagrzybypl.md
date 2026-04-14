@@ -1,5 +1,5 @@
 ---
-name: Glomus microcarpum
+latin_name: Glomus microcarpum
 source: https://www.nagrzyby.pl/atlas/5834
 ---
 

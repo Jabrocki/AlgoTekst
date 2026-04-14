@@ -1,5 +1,5 @@
 ---
-name: Russula pseudodelica
+latin_name: Russula pseudodelica
 source: https://www.nagrzyby.pl/atlas/681
 ---
 

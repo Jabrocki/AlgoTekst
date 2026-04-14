@@ -1,5 +1,5 @@
 ---
-name: Schaereria fuscocinerea
+latin_name: Schaereria fuscocinerea
 source: https://www.nagrzyby.pl/atlas/5318
 ---
 

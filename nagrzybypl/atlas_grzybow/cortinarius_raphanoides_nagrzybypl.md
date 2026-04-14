@@ -1,5 +1,5 @@
 ---
-name: Cortinarius raphanoides
+latin_name: Cortinarius raphanoides
 source: https://www.nagrzyby.pl/atlas/4698
 ---
 

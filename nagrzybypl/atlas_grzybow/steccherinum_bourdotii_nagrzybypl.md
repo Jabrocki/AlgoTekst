@@ -1,5 +1,5 @@
 ---
-name: Steccherinum bourdotii
+latin_name: Steccherinum bourdotii
 source: https://www.nagrzyby.pl/atlas/4526
 ---
 

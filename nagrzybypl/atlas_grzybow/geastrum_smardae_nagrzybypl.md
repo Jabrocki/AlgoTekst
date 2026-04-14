@@ -1,5 +1,5 @@
 ---
-name: Geastrum smardae
+latin_name: Geastrum smardae
 source: https://www.nagrzyby.pl/atlas/1633
 ---
 

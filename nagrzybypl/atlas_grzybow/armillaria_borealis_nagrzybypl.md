@@ -1,5 +1,5 @@
 ---
-name: Armillaria borealis
+latin_name: Armillaria borealis
 source: https://www.nagrzyby.pl/atlas/1862
 ---
 

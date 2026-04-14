@@ -1,5 +1,5 @@
 ---
-name: Inocybe lacera
+latin_name: Inocybe lacera
 source: https://www.nagrzyby.pl/atlas/544
 ---
 

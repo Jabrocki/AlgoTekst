@@ -1,5 +1,5 @@
 ---
-name: Verrucaria nigrescens
+latin_name: Verrucaria nigrescens
 source: https://www.nagrzyby.pl/atlas/5181
 ---
 

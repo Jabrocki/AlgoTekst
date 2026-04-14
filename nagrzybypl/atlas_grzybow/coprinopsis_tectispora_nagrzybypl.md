@@ -1,5 +1,5 @@
 ---
-name: Coprinopsis tectispora
+latin_name: Coprinopsis tectispora
 source: https://www.nagrzyby.pl/atlas/5431
 ---
 

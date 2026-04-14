@@ -1,5 +1,5 @@
 ---
-name: Wynnella silvicola
+latin_name: Wynnella silvicola
 source: https://www.nagrzyby.pl/atlas/1518
 ---
 

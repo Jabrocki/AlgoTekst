@@ -1,5 +1,5 @@
 ---
-name: Physcia aipolia
+latin_name: Physcia aipolia
 source: https://www.nagrzyby.pl/atlas/5326
 ---
 

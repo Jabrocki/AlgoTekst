@@ -1,5 +1,5 @@
 ---
-name: Mycena fragillima
+latin_name: Mycena fragillima
 source: https://www.nagrzyby.pl/atlas/5604
 ---
 

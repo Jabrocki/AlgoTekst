@@ -1,5 +1,5 @@
 ---
-name: Phallus impudicus
+latin_name: Phallus impudicus
 source: https://www.nagrzyby.pl/atlas/402
 ---
 

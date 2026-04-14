@@ -1,5 +1,5 @@
 ---
-name: Hypholoma marginatum
+latin_name: Hypholoma marginatum
 source: https://www.nagrzyby.pl/atlas/645
 ---
 

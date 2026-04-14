@@ -1,5 +1,5 @@
 ---
-name: Hygrocybe reidii
+latin_name: Hygrocybe reidii
 source: https://www.nagrzyby.pl/atlas/1423
 ---
 

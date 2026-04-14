@@ -1,5 +1,5 @@
 ---
-name: Stereum rugosum
+latin_name: Stereum rugosum
 source: https://www.nagrzyby.pl/atlas/1779
 ---
 

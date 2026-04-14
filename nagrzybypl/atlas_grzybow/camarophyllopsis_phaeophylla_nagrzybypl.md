@@ -1,5 +1,5 @@
 ---
-name: Camarophyllopsis phaeophylla
+latin_name: Camarophyllopsis phaeophylla
 source: https://www.nagrzyby.pl/atlas/4566
 ---
 

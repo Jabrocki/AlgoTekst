@@ -1,5 +1,5 @@
 ---
-name: Agaricus porphyrizon
+latin_name: Agaricus porphyrizon
 source: https://www.nagrzyby.pl/atlas/576
 ---
 

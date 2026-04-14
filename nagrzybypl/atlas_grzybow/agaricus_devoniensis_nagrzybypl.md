@@ -1,5 +1,5 @@
 ---
-name: Agaricus devoniensis
+latin_name: Agaricus devoniensis
 source: https://www.nagrzyby.pl/atlas/2415
 ---
 

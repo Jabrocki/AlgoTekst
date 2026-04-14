@@ -1,5 +1,5 @@
 ---
-name: Trametes gibbosa
+latin_name: Trametes gibbosa
 source: https://www.nagrzyby.pl/atlas/385
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Macrolepiota affinis
+latin_name: Macrolepiota affinis
 source: https://www.nagrzyby.pl/atlas/1213
 ---
 

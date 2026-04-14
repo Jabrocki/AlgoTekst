@@ -1,5 +1,5 @@
 ---
-name: Conocybe macrospora
+latin_name: Conocybe macrospora
 source: https://www.nagrzyby.pl/atlas/2035
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Imleria badia
+latin_name: Imleria badia
 source: https://www.nagrzyby.pl/atlas/307
 ---
 

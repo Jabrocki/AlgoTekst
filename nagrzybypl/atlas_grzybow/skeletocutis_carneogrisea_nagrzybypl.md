@@ -1,5 +1,5 @@
 ---
-name: Skeletocutis carneogrisea
+latin_name: Skeletocutis carneogrisea
 source: https://www.nagrzyby.pl/atlas/5127
 ---
 

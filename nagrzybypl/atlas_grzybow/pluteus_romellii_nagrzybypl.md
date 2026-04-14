@@ -1,5 +1,5 @@
 ---
-name: Pluteus romellii
+latin_name: Pluteus romellii
 source: https://www.nagrzyby.pl/atlas/1198
 ---
 

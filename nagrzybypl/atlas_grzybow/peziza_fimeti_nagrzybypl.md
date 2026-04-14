@@ -1,5 +1,5 @@
 ---
-name: Peziza fimeti
+latin_name: Peziza fimeti
 source: https://www.nagrzyby.pl/atlas/1296
 ---
 

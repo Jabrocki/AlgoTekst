@@ -1,5 +1,5 @@
 ---
-name: Trichoglossum hirsutum
+latin_name: Trichoglossum hirsutum
 source: https://www.nagrzyby.pl/atlas/1553
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Hemitrichia species
+latin_name: Hemitrichia species
 source: https://www.nagrzyby.pl/atlas/5056
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: * Syzygospora physciacearum
+latin_name: * Syzygospora physciacearum
 source: https://www.nagrzyby.pl/atlas/5613
 ---
 

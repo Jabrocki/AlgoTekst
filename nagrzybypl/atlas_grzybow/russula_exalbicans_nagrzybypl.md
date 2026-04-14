@@ -1,5 +1,5 @@
 ---
-name: Russula exalbicans
+latin_name: Russula exalbicans
 source: https://www.nagrzyby.pl/atlas/5071
 ---
 

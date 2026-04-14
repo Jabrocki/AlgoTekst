@@ -1,5 +1,5 @@
 ---
-name: Acrospermum compressum
+latin_name: Acrospermum compressum
 source: https://www.nagrzyby.pl/atlas/4810
 ---
 

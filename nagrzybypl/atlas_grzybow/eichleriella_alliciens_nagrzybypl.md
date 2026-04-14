@@ -1,5 +1,5 @@
 ---
-name: Eichleriella alliciens
+latin_name: Eichleriella alliciens
 source: https://www.nagrzyby.pl/atlas/4482
 ---
 

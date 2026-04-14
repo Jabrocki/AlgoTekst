@@ -1,5 +1,5 @@
 ---
-name: Phlebia livida
+latin_name: Phlebia livida
 source: https://www.nagrzyby.pl/atlas/4351
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Vuilleminia alni
+latin_name: Vuilleminia alni
 source: https://www.nagrzyby.pl/atlas/4704
 ---
 

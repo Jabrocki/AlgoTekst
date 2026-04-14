@@ -1,5 +1,5 @@
 ---
-name: Cortinarius spadiceus
+latin_name: Cortinarius spadiceus
 source: https://www.nagrzyby.pl/atlas/2245
 ---
 

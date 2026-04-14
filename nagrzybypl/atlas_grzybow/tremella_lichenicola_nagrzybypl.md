@@ -1,5 +1,5 @@
 ---
-name: Tremella lichenicola
+latin_name: Tremella lichenicola
 source: https://www.nagrzyby.pl/atlas/4188
 ---
 

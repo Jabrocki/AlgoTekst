@@ -1,5 +1,5 @@
 ---
-name: Tremella foliacea
+latin_name: Tremella foliacea
 source: https://www.nagrzyby.pl/atlas/372
 ---
 

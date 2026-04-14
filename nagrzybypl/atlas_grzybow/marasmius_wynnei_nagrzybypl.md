@@ -1,5 +1,5 @@
 ---
-name: Marasmius wynnei
+latin_name: Marasmius wynnei
 source: https://www.nagrzyby.pl/atlas/732
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Tephrocybe rancida
+latin_name: Tephrocybe rancida
 source: https://www.nagrzyby.pl/atlas/4710
 ---
 

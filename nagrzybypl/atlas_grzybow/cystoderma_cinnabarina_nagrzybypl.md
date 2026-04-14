@@ -1,5 +1,5 @@
 ---
-name: Cystoderma cinnabarina
+latin_name: Cystoderma cinnabarina
 source: https://www.nagrzyby.pl/atlas/660
 ---
 

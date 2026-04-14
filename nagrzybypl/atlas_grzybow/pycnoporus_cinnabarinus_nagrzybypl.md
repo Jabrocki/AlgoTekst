@@ -1,5 +1,5 @@
 ---
-name: Pycnoporus cinnabarinus
+latin_name: Pycnoporus cinnabarinus
 source: https://www.nagrzyby.pl/atlas/99
 ---
 

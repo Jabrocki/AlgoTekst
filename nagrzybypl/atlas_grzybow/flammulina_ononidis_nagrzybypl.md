@@ -1,5 +1,5 @@
 ---
-name: Flammulina ononidis
+latin_name: Flammulina ononidis
 source: https://www.nagrzyby.pl/atlas/1632
 ---
 

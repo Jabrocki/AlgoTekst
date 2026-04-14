@@ -1,5 +1,5 @@
 ---
-name: Entoloma  myrmecophilum
+latin_name: Entoloma  myrmecophilum
 source: https://www.nagrzyby.pl/atlas/4005
 ---
 

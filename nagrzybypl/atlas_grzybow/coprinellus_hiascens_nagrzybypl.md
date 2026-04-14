@@ -1,5 +1,5 @@
 ---
-name: Coprinellus hiascens
+latin_name: Coprinellus hiascens
 source: https://www.nagrzyby.pl/atlas/2073
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Lactarius sphagneti
+latin_name: Lactarius sphagneti
 source: https://www.nagrzyby.pl/atlas/1795
 ---
 

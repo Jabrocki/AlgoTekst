@@ -1,5 +1,5 @@
 ---
-name: Mycena megaspora
+latin_name: Mycena megaspora
 source: https://www.nagrzyby.pl/atlas/1077
 ---
 

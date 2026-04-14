@@ -1,5 +1,5 @@
 ---
-name: Inonotus triqueter
+latin_name: Inonotus triqueter
 source: https://www.nagrzyby.pl/atlas/4423
 ---
 

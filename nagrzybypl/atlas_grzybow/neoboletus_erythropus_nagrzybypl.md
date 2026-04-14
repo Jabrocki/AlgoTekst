@@ -1,5 +1,5 @@
 ---
-name: Neoboletus erythropus
+latin_name: Neoboletus erythropus
 source: https://www.nagrzyby.pl/atlas/8
 ---
 

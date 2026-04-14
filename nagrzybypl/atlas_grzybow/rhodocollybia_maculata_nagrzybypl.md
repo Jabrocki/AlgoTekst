@@ -1,5 +1,5 @@
 ---
-name: Rhodocollybia maculata
+latin_name: Rhodocollybia maculata
 source: https://www.nagrzyby.pl/atlas/233
 ---
 

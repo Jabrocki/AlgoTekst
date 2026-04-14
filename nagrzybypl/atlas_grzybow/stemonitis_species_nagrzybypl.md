@@ -1,5 +1,5 @@
 ---
-name: Stemonitis species
+latin_name: Stemonitis species
 source: https://www.nagrzyby.pl/atlas/1769
 ---
 

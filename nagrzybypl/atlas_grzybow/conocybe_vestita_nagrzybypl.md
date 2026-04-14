@@ -1,5 +1,5 @@
 ---
-name: Conocybe vestita
+latin_name: Conocybe vestita
 source: https://www.nagrzyby.pl/atlas/2056
 ---
 

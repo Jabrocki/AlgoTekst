@@ -1,5 +1,5 @@
 ---
-name: Mycena aetites
+latin_name: Mycena aetites
 source: https://www.nagrzyby.pl/atlas/2406
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Agrocybe putaminum
+latin_name: Agrocybe putaminum
 source: https://www.nagrzyby.pl/atlas/891
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Lanzia luteovirescens
+latin_name: Lanzia luteovirescens
 source: https://www.nagrzyby.pl/atlas/1821
 ---
 

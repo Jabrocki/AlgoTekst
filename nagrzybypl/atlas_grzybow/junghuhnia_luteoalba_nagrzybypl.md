@@ -1,5 +1,5 @@
 ---
-name: Junghuhnia luteoalba
+latin_name: Junghuhnia luteoalba
 source: https://www.nagrzyby.pl/atlas/4042
 ---
 

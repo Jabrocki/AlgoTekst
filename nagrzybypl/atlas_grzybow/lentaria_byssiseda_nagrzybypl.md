@@ -1,5 +1,5 @@
 ---
-name: Lentaria byssiseda
+latin_name: Lentaria byssiseda
 source: https://www.nagrzyby.pl/atlas/4408
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: * Athelia arachnoidea
+latin_name: * Athelia arachnoidea
 source: https://www.nagrzyby.pl/atlas/1873
 ---
 

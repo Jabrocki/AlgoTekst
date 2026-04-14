@@ -1,5 +1,5 @@
 ---
-name: Entoloma hochstetteri
+latin_name: Entoloma hochstetteri
 source: https://www.nagrzyby.pl/atlas/5699
 ---
 

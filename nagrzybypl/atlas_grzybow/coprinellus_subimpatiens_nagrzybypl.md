@@ -1,5 +1,5 @@
 ---
-name: Coprinellus subimpatiens
+latin_name: Coprinellus subimpatiens
 source: https://www.nagrzyby.pl/atlas/2105
 ---
 

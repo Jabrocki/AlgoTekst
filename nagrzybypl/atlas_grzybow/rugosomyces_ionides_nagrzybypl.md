@@ -1,5 +1,5 @@
 ---
-name: Rugosomyces ionides
+latin_name: Rugosomyces ionides
 source: https://www.nagrzyby.pl/atlas/1934
 ---
 

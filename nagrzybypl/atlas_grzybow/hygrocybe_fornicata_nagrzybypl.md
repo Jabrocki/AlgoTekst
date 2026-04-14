@@ -1,5 +1,5 @@
 ---
-name: Hygrocybe fornicata
+latin_name: Hygrocybe fornicata
 source: https://www.nagrzyby.pl/atlas/1419
 ---
 

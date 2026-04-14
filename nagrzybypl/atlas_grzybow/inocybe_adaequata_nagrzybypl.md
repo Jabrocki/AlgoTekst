@@ -1,5 +1,5 @@
 ---
-name: Inocybe adaequata
+latin_name: Inocybe adaequata
 source: https://www.nagrzyby.pl/atlas/897
 ---
 

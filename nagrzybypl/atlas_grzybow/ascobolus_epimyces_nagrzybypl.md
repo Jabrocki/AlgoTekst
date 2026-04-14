@@ -1,5 +1,5 @@
 ---
-name: Ascobolus epimyces
+latin_name: Ascobolus epimyces
 source: https://www.nagrzyby.pl/atlas/5432
 ---
 

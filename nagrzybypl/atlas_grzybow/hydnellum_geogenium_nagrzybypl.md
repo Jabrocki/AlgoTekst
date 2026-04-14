@@ -1,5 +1,5 @@
 ---
-name: Hydnellum geogenium
+latin_name: Hydnellum geogenium
 source: https://www.nagrzyby.pl/atlas/4179
 ---
 

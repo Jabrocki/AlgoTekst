@@ -1,5 +1,5 @@
 ---
-name: Tuber brumale
+latin_name: Tuber brumale
 source: https://www.nagrzyby.pl/atlas/2312
 ---
 

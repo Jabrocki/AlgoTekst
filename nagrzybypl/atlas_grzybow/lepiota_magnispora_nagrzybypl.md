@@ -1,5 +1,5 @@
 ---
-name: Lepiota magnispora
+latin_name: Lepiota magnispora
 source: https://www.nagrzyby.pl/atlas/1224
 ---
 

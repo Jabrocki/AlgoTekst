@@ -1,5 +1,5 @@
 ---
-name: Romjularia lurida
+latin_name: Romjularia lurida
 source: https://www.nagrzyby.pl/atlas/5446
 ---
 

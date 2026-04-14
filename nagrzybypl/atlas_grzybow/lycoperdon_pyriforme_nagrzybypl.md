@@ -1,5 +1,5 @@
 ---
-name: Lycoperdon pyriforme
+latin_name: Lycoperdon pyriforme
 source: https://www.nagrzyby.pl/atlas/362
 ---
 

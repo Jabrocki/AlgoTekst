@@ -1,5 +1,5 @@
 ---
-name: Chlorophyllum agaricoides
+latin_name: Chlorophyllum agaricoides
 source: https://www.nagrzyby.pl/atlas/690
 ---
 

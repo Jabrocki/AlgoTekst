@@ -1,5 +1,5 @@
 ---
-name: Inocybe fuscidula
+latin_name: Inocybe fuscidula
 source: https://www.nagrzyby.pl/atlas/2349
 ---
 

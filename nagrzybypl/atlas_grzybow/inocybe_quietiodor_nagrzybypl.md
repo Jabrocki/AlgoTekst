@@ -1,5 +1,5 @@
 ---
-name: Inocybe quietiodor
+latin_name: Inocybe quietiodor
 source: https://www.nagrzyby.pl/atlas/2377
 ---
 

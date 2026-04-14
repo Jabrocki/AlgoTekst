@@ -1,5 +1,5 @@
 ---
-name: Ceraceomyces sublaevis
+latin_name: Ceraceomyces sublaevis
 source: https://www.nagrzyby.pl/atlas/1949
 ---
 

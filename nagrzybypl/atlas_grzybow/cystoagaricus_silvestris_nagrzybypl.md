@@ -1,5 +1,5 @@
 ---
-name: Cystoagaricus silvestris
+latin_name: Cystoagaricus silvestris
 source: https://www.nagrzyby.pl/atlas/5673
 ---
 

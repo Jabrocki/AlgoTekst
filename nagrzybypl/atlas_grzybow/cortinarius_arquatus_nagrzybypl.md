@@ -1,5 +1,5 @@
 ---
-name: Cortinarius arquatus
+latin_name: Cortinarius arquatus
 source: https://www.nagrzyby.pl/atlas/2123
 ---
 

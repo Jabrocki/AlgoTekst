@@ -1,5 +1,5 @@
 ---
-name: Scleroderma citrinum
+latin_name: Scleroderma citrinum
 source: https://www.nagrzyby.pl/atlas/367
 ---
 

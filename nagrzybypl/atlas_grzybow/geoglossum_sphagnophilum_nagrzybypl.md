@@ -1,5 +1,5 @@
 ---
-name: Geoglossum sphagnophilum
+latin_name: Geoglossum sphagnophilum
 source: https://www.nagrzyby.pl/atlas/5801
 ---
 

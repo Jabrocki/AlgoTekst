@@ -1,5 +1,5 @@
 ---
-name: Elaphocordyceps ophioglossoides
+latin_name: Elaphocordyceps ophioglossoides
 source: https://www.nagrzyby.pl/atlas/495
 ---
 

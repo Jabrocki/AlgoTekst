@@ -1,5 +1,5 @@
 ---
-name: Coprinopsis urticicola
+latin_name: Coprinopsis urticicola
 source: https://www.nagrzyby.pl/atlas/1020
 ---
 

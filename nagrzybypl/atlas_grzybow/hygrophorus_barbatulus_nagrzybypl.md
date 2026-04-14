@@ -1,5 +1,5 @@
 ---
-name: Hygrophorus barbatulus
+latin_name: Hygrophorus barbatulus
 source: https://www.nagrzyby.pl/atlas/4535
 ---
 

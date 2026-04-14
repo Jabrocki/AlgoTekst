@@ -1,5 +1,5 @@
 ---
-name: Hydnellum peckii
+latin_name: Hydnellum peckii
 source: https://www.nagrzyby.pl/atlas/496
 ---
 

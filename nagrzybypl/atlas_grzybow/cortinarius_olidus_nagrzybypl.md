@@ -1,5 +1,5 @@
 ---
-name: Cortinarius olidus
+latin_name: Cortinarius olidus
 source: https://www.nagrzyby.pl/atlas/3876
 ---
 

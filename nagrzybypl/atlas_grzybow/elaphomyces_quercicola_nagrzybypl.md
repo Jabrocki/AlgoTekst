@@ -1,5 +1,5 @@
 ---
-name: Elaphomyces quercicola
+latin_name: Elaphomyces quercicola
 source: https://www.nagrzyby.pl/atlas/5820
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Gymnopus aquosus
+latin_name: Gymnopus aquosus
 source: https://www.nagrzyby.pl/atlas/1448
 ---
 

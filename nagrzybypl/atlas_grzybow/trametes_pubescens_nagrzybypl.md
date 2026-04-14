@@ -1,5 +1,5 @@
 ---
-name: Trametes pubescens
+latin_name: Trametes pubescens
 source: https://www.nagrzyby.pl/atlas/5690
 ---
 

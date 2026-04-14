@@ -1,5 +1,5 @@
 ---
-name: Gymnopilus penetrans
+latin_name: Gymnopilus penetrans
 source: https://www.nagrzyby.pl/atlas/1677
 ---
 

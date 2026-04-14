@@ -1,5 +1,5 @@
 ---
-name: Pucciniastrum areolatum
+latin_name: Pucciniastrum areolatum
 source: https://www.nagrzyby.pl/atlas/5720
 ---
 

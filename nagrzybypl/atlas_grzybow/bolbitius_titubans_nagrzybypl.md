@@ -1,5 +1,5 @@
 ---
-name: Bolbitius titubans
+latin_name: Bolbitius titubans
 source: https://www.nagrzyby.pl/atlas/102
 ---
 

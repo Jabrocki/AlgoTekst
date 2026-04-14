@@ -1,5 +1,5 @@
 ---
-name: Neolentinus cyathiformis
+latin_name: Neolentinus cyathiformis
 source: https://www.nagrzyby.pl/atlas/602
 ---
 

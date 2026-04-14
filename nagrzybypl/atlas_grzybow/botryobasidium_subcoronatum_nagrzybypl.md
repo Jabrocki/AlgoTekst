@@ -1,5 +1,5 @@
 ---
-name: Botryobasidium subcoronatum
+latin_name: Botryobasidium subcoronatum
 source: https://www.nagrzyby.pl/atlas/1896
 ---
 

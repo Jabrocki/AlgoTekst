@@ -1,5 +1,5 @@
 ---
-name: Mycena tintinnabulum
+latin_name: Mycena tintinnabulum
 source: https://www.nagrzyby.pl/atlas/666
 ---
 

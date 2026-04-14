@@ -1,5 +1,5 @@
 ---
-name: Tricholomopsis decora
+latin_name: Tricholomopsis decora
 source: https://www.nagrzyby.pl/atlas/348
 ---
 

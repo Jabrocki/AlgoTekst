@@ -1,5 +1,5 @@
 ---
-name: Tuber puberulum
+latin_name: Tuber puberulum
 source: https://www.nagrzyby.pl/atlas/4727
 ---
 

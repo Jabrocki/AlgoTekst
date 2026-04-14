@@ -1,5 +1,5 @@
 ---
-name: Oligoporus alni
+latin_name: Oligoporus alni
 source: https://www.nagrzyby.pl/atlas/5125
 ---
 

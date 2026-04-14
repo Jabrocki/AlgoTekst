@@ -1,5 +1,5 @@
 ---
-name: Hygrocybe chlorophana
+latin_name: Hygrocybe chlorophana
 source: https://www.nagrzyby.pl/atlas/1249
 ---
 

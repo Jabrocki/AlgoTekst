@@ -1,5 +1,5 @@
 ---
-name: Ascocoryne cylichnium
+latin_name: Ascocoryne cylichnium
 source: https://www.nagrzyby.pl/atlas/5118
 ---
 

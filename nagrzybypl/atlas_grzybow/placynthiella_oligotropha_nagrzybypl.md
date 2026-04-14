@@ -1,5 +1,5 @@
 ---
-name: Placynthiella oligotropha
+latin_name: Placynthiella oligotropha
 source: https://www.nagrzyby.pl/atlas/5618
 ---
 

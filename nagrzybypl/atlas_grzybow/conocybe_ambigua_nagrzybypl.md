@@ -1,5 +1,5 @@
 ---
-name: Conocybe ambigua
+latin_name: Conocybe ambigua
 source: https://www.nagrzyby.pl/atlas/2017
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Inocybe acuta
+latin_name: Inocybe acuta
 source: https://www.nagrzyby.pl/atlas/2328
 ---
 

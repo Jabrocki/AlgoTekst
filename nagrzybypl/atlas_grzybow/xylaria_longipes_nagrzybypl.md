@@ -1,5 +1,5 @@
 ---
-name: Xylaria longipes
+latin_name: Xylaria longipes
 source: https://www.nagrzyby.pl/atlas/458
 ---
 

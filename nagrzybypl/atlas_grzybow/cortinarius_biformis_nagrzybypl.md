@@ -1,5 +1,5 @@
 ---
-name: Cortinarius biformis
+latin_name: Cortinarius biformis
 source: https://www.nagrzyby.pl/atlas/2134
 ---
 

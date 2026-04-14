@@ -1,5 +1,5 @@
 ---
-name: Hygrophorus cossus
+latin_name: Hygrophorus cossus
 source: https://www.nagrzyby.pl/atlas/4543
 ---
 

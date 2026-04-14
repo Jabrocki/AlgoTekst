@@ -1,5 +1,5 @@
 ---
-name: Tranzschelia anemones
+latin_name: Tranzschelia anemones
 source: https://www.nagrzyby.pl/atlas/601
 ---
 

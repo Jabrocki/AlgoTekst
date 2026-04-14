@@ -1,5 +1,5 @@
 ---
-name: Hypocrea pulvinata
+latin_name: Hypocrea pulvinata
 source: https://www.nagrzyby.pl/atlas/5529
 ---
 

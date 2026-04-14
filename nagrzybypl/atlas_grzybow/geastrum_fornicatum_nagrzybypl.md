@@ -1,5 +1,5 @@
 ---
-name: Geastrum fornicatum
+latin_name: Geastrum fornicatum
 source: https://www.nagrzyby.pl/atlas/840
 ---
 

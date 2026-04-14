@@ -1,5 +1,5 @@
 ---
-name: Amanita citrina
+latin_name: Amanita citrina
 source: https://www.nagrzyby.pl/atlas/267
 ---
 

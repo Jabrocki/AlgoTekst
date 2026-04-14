@@ -1,5 +1,5 @@
 ---
-name: Tricholoma albobrunneum
+latin_name: Tricholoma albobrunneum
 source: https://www.nagrzyby.pl/atlas/991
 ---
 

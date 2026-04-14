@@ -1,5 +1,5 @@
 ---
-name: Xeromphalina campanella
+latin_name: Xeromphalina campanella
 source: https://www.nagrzyby.pl/atlas/320
 ---
 

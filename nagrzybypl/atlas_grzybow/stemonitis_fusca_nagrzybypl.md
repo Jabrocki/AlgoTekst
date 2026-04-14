@@ -1,5 +1,5 @@
 ---
-name: Stemonitis fusca
+latin_name: Stemonitis fusca
 source: https://www.nagrzyby.pl/atlas/491
 ---
 

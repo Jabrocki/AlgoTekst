@@ -1,5 +1,5 @@
 ---
-name: Gymnopus foetidus
+latin_name: Gymnopus foetidus
 source: https://www.nagrzyby.pl/atlas/4383
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Agrocybe pusiola
+latin_name: Agrocybe pusiola
 source: https://www.nagrzyby.pl/atlas/1846
 ---
 

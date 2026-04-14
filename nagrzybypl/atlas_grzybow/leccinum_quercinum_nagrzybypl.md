@@ -1,5 +1,5 @@
 ---
-name: Leccinum quercinum
+latin_name: Leccinum quercinum
 source: https://www.nagrzyby.pl/atlas/525
 ---
 

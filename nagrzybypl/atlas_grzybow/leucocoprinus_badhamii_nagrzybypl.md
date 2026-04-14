@@ -1,5 +1,5 @@
 ---
-name: Leucocoprinus badhamii
+latin_name: Leucocoprinus badhamii
 source: https://www.nagrzyby.pl/atlas/5533
 ---
 

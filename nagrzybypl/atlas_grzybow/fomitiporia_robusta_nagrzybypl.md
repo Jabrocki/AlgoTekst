@@ -1,5 +1,5 @@
 ---
-name: Fomitiporia robusta
+latin_name: Fomitiporia robusta
 source: https://www.nagrzyby.pl/atlas/1128
 ---
 

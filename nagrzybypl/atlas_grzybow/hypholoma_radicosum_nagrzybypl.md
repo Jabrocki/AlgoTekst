@@ -1,5 +1,5 @@
 ---
-name: Hypholoma radicosum
+latin_name: Hypholoma radicosum
 source: https://www.nagrzyby.pl/atlas/1506
 ---
 

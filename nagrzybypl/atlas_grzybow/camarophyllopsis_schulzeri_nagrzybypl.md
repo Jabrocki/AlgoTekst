@@ -1,5 +1,5 @@
 ---
-name: Camarophyllopsis schulzeri
+latin_name: Camarophyllopsis schulzeri
 source: https://www.nagrzyby.pl/atlas/1943
 ---
 

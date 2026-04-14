@@ -1,5 +1,5 @@
 ---
-name: Poronia punctata
+latin_name: Poronia punctata
 source: https://www.nagrzyby.pl/atlas/4319
 ---
 

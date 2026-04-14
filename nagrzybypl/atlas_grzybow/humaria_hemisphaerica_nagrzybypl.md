@@ -1,5 +1,5 @@
 ---
-name: Humaria hemisphaerica
+latin_name: Humaria hemisphaerica
 source: https://www.nagrzyby.pl/atlas/278
 ---
 

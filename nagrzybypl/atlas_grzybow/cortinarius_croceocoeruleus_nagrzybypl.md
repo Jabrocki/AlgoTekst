@@ -1,5 +1,5 @@
 ---
-name: Cortinarius croceocoeruleus
+latin_name: Cortinarius croceocoeruleus
 source: https://www.nagrzyby.pl/atlas/2151
 ---
 

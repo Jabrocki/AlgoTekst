@@ -1,5 +1,5 @@
 ---
-name: Bovista tomentosa
+latin_name: Bovista tomentosa
 source: https://www.nagrzyby.pl/atlas/1177
 ---
 

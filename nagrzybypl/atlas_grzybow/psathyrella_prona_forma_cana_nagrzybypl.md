@@ -1,5 +1,5 @@
 ---
-name: Psathyrella prona forma cana
+latin_name: Psathyrella prona forma cana
 source: https://www.nagrzyby.pl/atlas/4737
 ---
 

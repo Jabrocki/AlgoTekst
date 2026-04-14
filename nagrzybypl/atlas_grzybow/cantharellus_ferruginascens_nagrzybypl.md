@@ -1,5 +1,5 @@
 ---
-name: Cantharellus ferruginascens
+latin_name: Cantharellus ferruginascens
 source: https://www.nagrzyby.pl/atlas/1047
 ---
 

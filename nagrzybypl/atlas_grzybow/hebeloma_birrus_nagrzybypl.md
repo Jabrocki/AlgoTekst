@@ -1,5 +1,5 @@
 ---
-name: Hebeloma birrus
+latin_name: Hebeloma birrus
 source: https://www.nagrzyby.pl/atlas/4450
 ---
 

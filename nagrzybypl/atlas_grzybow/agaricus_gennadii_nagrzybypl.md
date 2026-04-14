@@ -1,5 +1,5 @@
 ---
-name: Agaricus gennadii
+latin_name: Agaricus gennadii
 source: https://www.nagrzyby.pl/atlas/869
 ---
 

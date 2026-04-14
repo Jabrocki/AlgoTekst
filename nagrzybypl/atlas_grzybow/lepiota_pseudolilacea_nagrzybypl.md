@@ -1,5 +1,5 @@
 ---
-name: Lepiota pseudolilacea
+latin_name: Lepiota pseudolilacea
 source: https://www.nagrzyby.pl/atlas/1222
 ---
 

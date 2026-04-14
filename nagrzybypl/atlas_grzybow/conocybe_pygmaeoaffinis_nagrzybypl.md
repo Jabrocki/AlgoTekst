@@ -1,5 +1,5 @@
 ---
-name: Conocybe pygmaeoaffinis
+latin_name: Conocybe pygmaeoaffinis
 source: https://www.nagrzyby.pl/atlas/2044
 ---
 

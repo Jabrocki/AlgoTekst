@@ -1,5 +1,5 @@
 ---
-name: Marasmius wettsteinii
+latin_name: Marasmius wettsteinii
 source: https://www.nagrzyby.pl/atlas/5518
 ---
 

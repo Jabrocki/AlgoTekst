@@ -1,5 +1,5 @@
 ---
-name: Geastrum berkeleyi
+latin_name: Geastrum berkeleyi
 source: https://www.nagrzyby.pl/atlas/837
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Leucoagaricus leucothites
+latin_name: Leucoagaricus leucothites
 source: https://www.nagrzyby.pl/atlas/494
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Ceriporia purpurea
+latin_name: Ceriporia purpurea
 source: https://www.nagrzyby.pl/atlas/1955
 ---
 

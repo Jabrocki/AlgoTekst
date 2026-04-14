@@ -1,5 +1,5 @@
 ---
-name: Melanelixia subargentifera
+latin_name: Melanelixia subargentifera
 source: https://www.nagrzyby.pl/atlas/5614
 ---
 

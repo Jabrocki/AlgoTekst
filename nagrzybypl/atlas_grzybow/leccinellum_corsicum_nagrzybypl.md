@@ -1,5 +1,5 @@
 ---
-name: Leccinellum corsicum
+latin_name: Leccinellum corsicum
 source: https://www.nagrzyby.pl/atlas/5778
 ---
 

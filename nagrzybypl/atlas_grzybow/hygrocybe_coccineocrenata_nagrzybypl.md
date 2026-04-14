@@ -1,5 +1,5 @@
 ---
-name: Hygrocybe coccineocrenata
+latin_name: Hygrocybe coccineocrenata
 source: https://www.nagrzyby.pl/atlas/29
 ---
 

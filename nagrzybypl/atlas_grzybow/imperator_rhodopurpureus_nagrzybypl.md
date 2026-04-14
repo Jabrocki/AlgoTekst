@@ -1,5 +1,5 @@
 ---
-name: Imperator rhodopurpureus
+latin_name: Imperator rhodopurpureus
 source: https://www.nagrzyby.pl/atlas/454
 ---
 

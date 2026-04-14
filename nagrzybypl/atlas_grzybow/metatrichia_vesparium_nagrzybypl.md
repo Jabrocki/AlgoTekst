@@ -1,5 +1,5 @@
 ---
-name: Metatrichia vesparium
+latin_name: Metatrichia vesparium
 source: https://www.nagrzyby.pl/atlas/1679
 ---
 

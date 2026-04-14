@@ -1,5 +1,5 @@
 ---
-name: Mycena citrinomarginata
+latin_name: Mycena citrinomarginata
 source: https://www.nagrzyby.pl/atlas/1069
 ---
 

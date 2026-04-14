@@ -1,5 +1,5 @@
 ---
-name: Hypogymnia tubulosa
+latin_name: Hypogymnia tubulosa
 source: https://www.nagrzyby.pl/atlas/5375
 ---
 

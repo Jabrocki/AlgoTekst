@@ -1,5 +1,5 @@
 ---
-name: Sclerotinia ficariae
+latin_name: Sclerotinia ficariae
 source: https://www.nagrzyby.pl/atlas/5916
 ---
 

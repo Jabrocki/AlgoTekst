@@ -1,5 +1,5 @@
 ---
-name: Caloboletus calopus
+latin_name: Caloboletus calopus
 source: https://www.nagrzyby.pl/atlas/26
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Thamnolia vermicularis
+latin_name: Thamnolia vermicularis
 source: https://www.nagrzyby.pl/atlas/5320
 ---
 

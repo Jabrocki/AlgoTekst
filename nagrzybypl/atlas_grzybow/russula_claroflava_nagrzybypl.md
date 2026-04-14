@@ -1,5 +1,5 @@
 ---
-name: Russula claroflava
+latin_name: Russula claroflava
 source: https://www.nagrzyby.pl/atlas/782
 ---
 

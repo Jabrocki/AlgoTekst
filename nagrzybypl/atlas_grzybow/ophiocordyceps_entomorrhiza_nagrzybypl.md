@@ -1,5 +1,5 @@
 ---
-name: Ophiocordyceps entomorrhiza
+latin_name: Ophiocordyceps entomorrhiza
 source: https://www.nagrzyby.pl/atlas/1386
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Mitrophora semilibera
+latin_name: Mitrophora semilibera
 source: https://www.nagrzyby.pl/atlas/156
 ---
 

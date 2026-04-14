@@ -1,5 +1,5 @@
 ---
-name: Laxitextum bicolor
+latin_name: Laxitextum bicolor
 source: https://www.nagrzyby.pl/atlas/924
 ---
 

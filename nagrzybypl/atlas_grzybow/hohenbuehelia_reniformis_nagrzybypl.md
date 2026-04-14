@@ -1,5 +1,5 @@
 ---
-name: Hohenbuehelia reniformis
+latin_name: Hohenbuehelia reniformis
 source: https://www.nagrzyby.pl/atlas/4439
 ---
 

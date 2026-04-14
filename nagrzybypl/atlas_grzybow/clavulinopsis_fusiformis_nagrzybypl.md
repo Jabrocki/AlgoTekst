@@ -1,5 +1,5 @@
 ---
-name: Clavulinopsis fusiformis
+latin_name: Clavulinopsis fusiformis
 source: https://www.nagrzyby.pl/atlas/1378
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Tremella simplex
+latin_name: Tremella simplex
 source: https://www.nagrzyby.pl/atlas/4184
 ---
 

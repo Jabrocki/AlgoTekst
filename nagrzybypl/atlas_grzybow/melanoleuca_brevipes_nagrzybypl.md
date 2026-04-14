@@ -1,5 +1,5 @@
 ---
-name: Melanoleuca brevipes
+latin_name: Melanoleuca brevipes
 source: https://www.nagrzyby.pl/atlas/541
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Hohenbuehelia mastrucata
+latin_name: Hohenbuehelia mastrucata
 source: https://www.nagrzyby.pl/atlas/4837
 ---
 

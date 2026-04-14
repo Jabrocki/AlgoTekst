@@ -1,5 +1,5 @@
 ---
-name: Paxillus rubicundulus
+latin_name: Paxillus rubicundulus
 source: https://www.nagrzyby.pl/atlas/577
 ---
 

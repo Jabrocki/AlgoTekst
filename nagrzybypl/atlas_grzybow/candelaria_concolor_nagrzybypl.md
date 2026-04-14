@@ -1,5 +1,5 @@
 ---
-name: Candelaria concolor
+latin_name: Candelaria concolor
 source: https://www.nagrzyby.pl/atlas/5313
 ---
 

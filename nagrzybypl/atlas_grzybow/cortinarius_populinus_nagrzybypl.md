@@ -1,5 +1,5 @@
 ---
-name: Cortinarius populinus
+latin_name: Cortinarius populinus
 source: https://www.nagrzyby.pl/atlas/5641
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Clitopilus pinsitus
+latin_name: Clitopilus pinsitus
 source: https://www.nagrzyby.pl/atlas/2004
 ---
 

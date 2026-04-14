@@ -1,5 +1,5 @@
 ---
-name: Protoglossum niveum
+latin_name: Protoglossum niveum
 source: https://www.nagrzyby.pl/atlas/4832
 ---
 

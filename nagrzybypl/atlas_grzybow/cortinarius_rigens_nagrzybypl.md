@@ -1,5 +1,5 @@
 ---
-name: Cortinarius rigens
+latin_name: Cortinarius rigens
 source: https://www.nagrzyby.pl/atlas/2233
 ---
 

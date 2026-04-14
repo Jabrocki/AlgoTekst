@@ -1,5 +1,5 @@
 ---
-name: Otidea onotica
+latin_name: Otidea onotica
 source: https://www.nagrzyby.pl/atlas/405
 ---
 

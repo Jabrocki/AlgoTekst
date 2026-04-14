@@ -1,5 +1,5 @@
 ---
-name: Lepista luscina
+latin_name: Lepista luscina
 source: https://www.nagrzyby.pl/atlas/1014
 ---
 

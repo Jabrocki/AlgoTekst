@@ -1,5 +1,5 @@
 ---
-name: Trichoglossum variabile
+latin_name: Trichoglossum variabile
 source: https://www.nagrzyby.pl/atlas/1727
 ---
 

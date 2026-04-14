@@ -1,5 +1,5 @@
 ---
-name: Russula cyanoxantha
+latin_name: Russula cyanoxantha
 source: https://www.nagrzyby.pl/atlas/113
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Cortinarius orichalceus
+latin_name: Cortinarius orichalceus
 source: https://www.nagrzyby.pl/atlas/2216
 ---
 

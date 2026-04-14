@@ -1,5 +1,5 @@
 ---
-name: Porostereum spadiceum
+latin_name: Porostereum spadiceum
 source: https://www.nagrzyby.pl/atlas/2636
 ---
 

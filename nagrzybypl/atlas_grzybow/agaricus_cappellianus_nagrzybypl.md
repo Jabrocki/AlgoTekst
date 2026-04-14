@@ -1,5 +1,5 @@
 ---
-name: Agaricus cappellianus
+latin_name: Agaricus cappellianus
 source: https://www.nagrzyby.pl/atlas/865
 ---
 

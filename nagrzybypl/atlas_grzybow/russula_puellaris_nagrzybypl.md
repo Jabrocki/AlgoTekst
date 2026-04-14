@@ -1,5 +1,5 @@
 ---
-name: Russula puellaris
+latin_name: Russula puellaris
 source: https://www.nagrzyby.pl/atlas/783
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Cladonia borealis
+latin_name: Cladonia borealis
 source: https://www.nagrzyby.pl/atlas/5168
 ---
 

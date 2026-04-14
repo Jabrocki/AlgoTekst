@@ -1,5 +1,5 @@
 ---
-name: Lepiota tomentella
+latin_name: Lepiota tomentella
 source: https://www.nagrzyby.pl/atlas/4396
 ---
 

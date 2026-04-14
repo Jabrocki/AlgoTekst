@@ -1,5 +1,5 @@
 ---
-name: Sidera lenis
+latin_name: Sidera lenis
 source: https://www.nagrzyby.pl/atlas/4022
 ---
 

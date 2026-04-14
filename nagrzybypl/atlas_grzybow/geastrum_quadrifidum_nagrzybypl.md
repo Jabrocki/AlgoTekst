@@ -1,5 +1,5 @@
 ---
-name: Geastrum quadrifidum
+latin_name: Geastrum quadrifidum
 source: https://www.nagrzyby.pl/atlas/839
 ---
 

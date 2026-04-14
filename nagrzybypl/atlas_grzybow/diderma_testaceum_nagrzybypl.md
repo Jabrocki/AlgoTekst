@@ -1,5 +1,5 @@
 ---
-name: Diderma testaceum
+latin_name: Diderma testaceum
 source: https://www.nagrzyby.pl/atlas/4875
 ---
 

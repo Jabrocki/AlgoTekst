@@ -1,5 +1,5 @@
 ---
-name: Lactarius zonarius
+latin_name: Lactarius zonarius
 source: https://www.nagrzyby.pl/atlas/1815
 ---
 

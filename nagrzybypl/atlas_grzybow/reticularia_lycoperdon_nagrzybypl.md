@@ -1,5 +1,5 @@
 ---
-name: Reticularia lycoperdon
+latin_name: Reticularia lycoperdon
 source: https://www.nagrzyby.pl/atlas/1709
 ---
 

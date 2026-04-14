@@ -1,5 +1,5 @@
 ---
-name: Ionomidotis irregularis
+latin_name: Ionomidotis irregularis
 source: https://www.nagrzyby.pl/atlas/5786
 ---
 

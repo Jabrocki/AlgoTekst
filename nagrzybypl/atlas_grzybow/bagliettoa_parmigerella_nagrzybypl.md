@@ -1,5 +1,5 @@
 ---
-name: Bagliettoa parmigerella
+latin_name: Bagliettoa parmigerella
 source: https://www.nagrzyby.pl/atlas/5593
 ---
 

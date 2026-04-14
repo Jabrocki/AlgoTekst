@@ -1,5 +1,5 @@
 ---
-name: Pholiota nameko
+latin_name: Pholiota nameko
 source: https://www.nagrzyby.pl/atlas/1392
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Pluteus luctuosus
+latin_name: Pluteus luctuosus
 source: https://www.nagrzyby.pl/atlas/1195
 ---
 

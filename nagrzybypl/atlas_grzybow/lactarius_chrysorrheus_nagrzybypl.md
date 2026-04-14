@@ -1,5 +1,5 @@
 ---
-name: Lactarius chrysorrheus
+latin_name: Lactarius chrysorrheus
 source: https://www.nagrzyby.pl/atlas/658
 ---
 

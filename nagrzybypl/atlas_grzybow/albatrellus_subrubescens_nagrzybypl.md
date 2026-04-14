@@ -1,5 +1,5 @@
 ---
-name: Albatrellus subrubescens
+latin_name: Albatrellus subrubescens
 source: https://www.nagrzyby.pl/atlas/2303
 ---
 

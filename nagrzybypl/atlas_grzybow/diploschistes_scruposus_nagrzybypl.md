@@ -1,5 +1,5 @@
 ---
-name: Diploschistes scruposus
+latin_name: Diploschistes scruposus
 source: https://www.nagrzyby.pl/atlas/5322
 ---
 

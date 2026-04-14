@@ -1,5 +1,5 @@
 ---
-name: Entoloma sepium
+latin_name: Entoloma sepium
 source: https://www.nagrzyby.pl/atlas/4789
 ---
 

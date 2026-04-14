@@ -1,5 +1,5 @@
 ---
-name: Lyophyllum transforme
+latin_name: Lyophyllum transforme
 source: https://www.nagrzyby.pl/atlas/4210
 ---
 

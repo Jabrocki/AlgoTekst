@@ -1,5 +1,5 @@
 ---
-name: Syzygospora mycetophila
+latin_name: Syzygospora mycetophila
 source: https://www.nagrzyby.pl/atlas/5017
 ---
 

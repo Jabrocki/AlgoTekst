@@ -1,5 +1,5 @@
 ---
-name: Phlebia serialis
+latin_name: Phlebia serialis
 source: https://www.nagrzyby.pl/atlas/4354
 ---
 

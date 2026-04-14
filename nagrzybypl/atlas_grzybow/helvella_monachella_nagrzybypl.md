@@ -1,5 +1,5 @@
 ---
-name: Helvella monachella
+latin_name: Helvella monachella
 source: https://www.nagrzyby.pl/atlas/1461
 ---
 

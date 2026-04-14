@@ -1,5 +1,5 @@
 ---
-name: Hymenogaster uliginosus
+latin_name: Hymenogaster uliginosus
 source: https://www.nagrzyby.pl/atlas/5856
 ---
 

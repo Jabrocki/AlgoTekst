@@ -1,5 +1,5 @@
 ---
-name: Lycoperdon pratense
+latin_name: Lycoperdon pratense
 source: https://www.nagrzyby.pl/atlas/467
 ---
 

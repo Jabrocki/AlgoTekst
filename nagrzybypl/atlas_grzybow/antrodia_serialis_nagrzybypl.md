@@ -1,5 +1,5 @@
 ---
-name: Antrodia serialis
+latin_name: Antrodia serialis
 source: https://www.nagrzyby.pl/atlas/1112
 ---
 

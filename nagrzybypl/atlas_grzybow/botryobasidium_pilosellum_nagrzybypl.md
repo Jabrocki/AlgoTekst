@@ -1,5 +1,5 @@
 ---
-name: Botryobasidium pilosellum
+latin_name: Botryobasidium pilosellum
 source: https://www.nagrzyby.pl/atlas/1894
 ---
 

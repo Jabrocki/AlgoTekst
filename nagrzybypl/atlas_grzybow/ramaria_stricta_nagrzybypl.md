@@ -1,5 +1,5 @@
 ---
-name: Ramaria stricta
+latin_name: Ramaria stricta
 source: https://www.nagrzyby.pl/atlas/98
 ---
 

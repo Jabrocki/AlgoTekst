@@ -1,5 +1,5 @@
 ---
-name: Amanita vaginata varietas alba
+latin_name: Amanita vaginata varietas alba
 source: https://www.nagrzyby.pl/atlas/664
 ---
 

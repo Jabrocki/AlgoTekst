@@ -1,5 +1,5 @@
 ---
-name: Geoglossum viscosum
+latin_name: Geoglossum viscosum
 source: https://www.nagrzyby.pl/atlas/5798
 ---
 

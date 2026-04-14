@@ -1,5 +1,5 @@
 ---
-name: Lecanora symmicta
+latin_name: Lecanora symmicta
 source: https://www.nagrzyby.pl/atlas/5280
 ---
 

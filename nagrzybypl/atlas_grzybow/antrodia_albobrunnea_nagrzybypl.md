@@ -1,5 +1,5 @@
 ---
-name: Antrodia albobrunnea
+latin_name: Antrodia albobrunnea
 source: https://www.nagrzyby.pl/atlas/612
 ---
 

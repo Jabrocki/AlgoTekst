@@ -1,5 +1,5 @@
 ---
-name: Mycena filopes
+latin_name: Mycena filopes
 source: https://www.nagrzyby.pl/atlas/2434
 ---
 

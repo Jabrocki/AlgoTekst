@@ -1,5 +1,5 @@
 ---
-name: Tapinella panuoides
+latin_name: Tapinella panuoides
 source: https://www.nagrzyby.pl/atlas/4699
 ---
 

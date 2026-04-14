@@ -1,5 +1,5 @@
 ---
-name: Strobilomyces strobilaceus
+latin_name: Strobilomyces strobilaceus
 source: https://www.nagrzyby.pl/atlas/409
 ---
 

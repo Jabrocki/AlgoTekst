@@ -1,5 +1,5 @@
 ---
-name: Gyalecta jenensis
+latin_name: Gyalecta jenensis
 source: https://www.nagrzyby.pl/atlas/5228
 ---
 

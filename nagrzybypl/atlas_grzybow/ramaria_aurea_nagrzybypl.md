@@ -1,5 +1,5 @@
 ---
-name: Ramaria aurea
+latin_name: Ramaria aurea
 source: https://www.nagrzyby.pl/atlas/1056
 ---
 

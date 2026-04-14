@@ -1,5 +1,5 @@
 ---
-name: Atheliachaete sanguinea
+latin_name: Atheliachaete sanguinea
 source: https://www.nagrzyby.pl/atlas/5976
 ---
 

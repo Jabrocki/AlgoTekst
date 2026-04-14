@@ -1,5 +1,5 @@
 ---
-name: Phellodon confluens
+latin_name: Phellodon confluens
 source: https://www.nagrzyby.pl/atlas/12
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Psilocybe zapotecorum
+latin_name: Psilocybe zapotecorum
 source: https://www.nagrzyby.pl/atlas/1373
 ---
 

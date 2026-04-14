@@ -1,5 +1,5 @@
 ---
-name: Sarcoscypha dudleyi
+latin_name: Sarcoscypha dudleyi
 source: https://www.nagrzyby.pl/atlas/5783
 ---
 

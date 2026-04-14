@@ -1,5 +1,5 @@
 ---
-name: Cortinarius decipiens
+latin_name: Cortinarius decipiens
 source: https://www.nagrzyby.pl/atlas/2156
 ---
 

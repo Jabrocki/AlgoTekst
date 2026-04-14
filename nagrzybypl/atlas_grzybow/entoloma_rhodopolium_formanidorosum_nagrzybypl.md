@@ -1,5 +1,5 @@
 ---
-name: Entoloma rhodopolium formanidorosum
+latin_name: Entoloma rhodopolium formanidorosum
 source: https://www.nagrzyby.pl/atlas/4802
 ---
 

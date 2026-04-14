@@ -1,5 +1,5 @@
 ---
-name: Dacrymyces punctiformis
+latin_name: Dacrymyces punctiformis
 source: https://www.nagrzyby.pl/atlas/4500
 ---
 

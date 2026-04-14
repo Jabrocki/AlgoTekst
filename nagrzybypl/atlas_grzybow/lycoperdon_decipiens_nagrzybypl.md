@@ -1,5 +1,5 @@
 ---
-name: Lycoperdon decipiens
+latin_name: Lycoperdon decipiens
 source: https://www.nagrzyby.pl/atlas/4192
 ---
 

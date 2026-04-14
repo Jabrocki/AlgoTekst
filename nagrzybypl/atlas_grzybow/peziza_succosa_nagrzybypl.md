@@ -1,5 +1,5 @@
 ---
-name: Peziza succosa
+latin_name: Peziza succosa
 source: https://www.nagrzyby.pl/atlas/1268
 ---
 

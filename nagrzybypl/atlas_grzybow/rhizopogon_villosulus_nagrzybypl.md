@@ -1,5 +1,5 @@
 ---
-name: Rhizopogon villosulus
+latin_name: Rhizopogon villosulus
 source: https://www.nagrzyby.pl/atlas/5876
 ---
 

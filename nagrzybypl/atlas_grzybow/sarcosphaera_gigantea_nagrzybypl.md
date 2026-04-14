@@ -1,5 +1,5 @@
 ---
-name: Sarcosphaera gigantea
+latin_name: Sarcosphaera gigantea
 source: https://www.nagrzyby.pl/atlas/5525
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Russula albonigra
+latin_name: Russula albonigra
 source: https://www.nagrzyby.pl/atlas/228
 ---
 

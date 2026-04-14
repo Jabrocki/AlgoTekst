@@ -1,5 +1,5 @@
 ---
-name: Lecidella stigmatea
+latin_name: Lecidella stigmatea
 source: https://www.nagrzyby.pl/atlas/5146
 ---
 

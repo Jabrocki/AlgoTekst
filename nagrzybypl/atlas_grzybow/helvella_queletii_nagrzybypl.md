@@ -1,5 +1,5 @@
 ---
-name: Helvella queletii
+latin_name: Helvella queletii
 source: https://www.nagrzyby.pl/atlas/4445
 ---
 

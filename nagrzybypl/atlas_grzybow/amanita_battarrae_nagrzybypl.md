@@ -1,5 +1,5 @@
 ---
-name: Amanita battarrae
+latin_name: Amanita battarrae
 source: https://www.nagrzyby.pl/atlas/744
 ---
 

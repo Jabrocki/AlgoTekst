@@ -1,5 +1,5 @@
 ---
-name: Botryobasidium conspersum
+latin_name: Botryobasidium conspersum
 source: https://www.nagrzyby.pl/atlas/1890
 ---
 

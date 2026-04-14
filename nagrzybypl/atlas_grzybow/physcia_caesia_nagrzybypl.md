@@ -1,5 +1,5 @@
 ---
-name: Physcia caesia
+latin_name: Physcia caesia
 source: https://www.nagrzyby.pl/atlas/5325
 ---
 

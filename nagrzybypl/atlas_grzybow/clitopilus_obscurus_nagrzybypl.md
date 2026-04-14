@@ -1,5 +1,5 @@
 ---
-name: Clitopilus obscurus
+latin_name: Clitopilus obscurus
 source: https://www.nagrzyby.pl/atlas/4311
 ---
 

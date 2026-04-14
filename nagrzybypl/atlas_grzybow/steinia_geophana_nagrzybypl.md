@@ -1,5 +1,5 @@
 ---
-name: Steinia geophana
+latin_name: Steinia geophana
 source: https://www.nagrzyby.pl/atlas/5311
 ---
 

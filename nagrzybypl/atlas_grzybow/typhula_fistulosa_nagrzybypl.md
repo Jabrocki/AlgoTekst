@@ -1,5 +1,5 @@
 ---
-name: Typhula fistulosa
+latin_name: Typhula fistulosa
 source: https://www.nagrzyby.pl/atlas/40
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Pezizella alniella
+latin_name: Pezizella alniella
 source: https://www.nagrzyby.pl/atlas/5504
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Perenniporia fraxinea
+latin_name: Perenniporia fraxinea
 source: https://www.nagrzyby.pl/atlas/1124
 ---
 

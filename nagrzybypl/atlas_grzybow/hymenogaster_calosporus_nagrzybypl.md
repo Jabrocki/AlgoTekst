@@ -1,5 +1,5 @@
 ---
-name: Hymenogaster calosporus
+latin_name: Hymenogaster calosporus
 source: https://www.nagrzyby.pl/atlas/5841
 ---
 

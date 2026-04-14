@@ -1,5 +1,5 @@
 ---
-name: Guepiniopsis estonica
+latin_name: Guepiniopsis estonica
 source: https://www.nagrzyby.pl/atlas/4503
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Rigidoporus crocatus
+latin_name: Rigidoporus crocatus
 source: https://www.nagrzyby.pl/atlas/4001
 ---
 

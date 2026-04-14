@@ -1,5 +1,5 @@
 ---
-name: Lepiota pseudofelina
+latin_name: Lepiota pseudofelina
 source: https://www.nagrzyby.pl/atlas/1221
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Lepiota oreadiformis
+latin_name: Lepiota oreadiformis
 source: https://www.nagrzyby.pl/atlas/4541
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Ramalina pollinaria
+latin_name: Ramalina pollinaria
 source: https://www.nagrzyby.pl/atlas/5335
 ---
 

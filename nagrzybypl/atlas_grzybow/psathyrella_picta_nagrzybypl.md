@@ -1,5 +1,5 @@
 ---
-name: Psathyrella  picta
+latin_name: Psathyrella  picta
 source: https://www.nagrzyby.pl/atlas/4738
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Conferticium karstenii
+latin_name: Conferticium karstenii
 source: https://www.nagrzyby.pl/atlas/4460
 ---
 

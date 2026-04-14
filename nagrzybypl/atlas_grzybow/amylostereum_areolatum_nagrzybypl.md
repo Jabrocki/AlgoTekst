@@ -1,5 +1,5 @@
 ---
-name: Amylostereum areolatum
+latin_name: Amylostereum areolatum
 source: https://www.nagrzyby.pl/atlas/1694
 ---
 

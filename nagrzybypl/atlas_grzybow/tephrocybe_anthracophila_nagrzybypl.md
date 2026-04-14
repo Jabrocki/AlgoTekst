@@ -1,5 +1,5 @@
 ---
-name: Tephrocybe anthracophila
+latin_name: Tephrocybe anthracophila
 source: https://www.nagrzyby.pl/atlas/4194
 ---
 

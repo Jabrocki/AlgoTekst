@@ -1,5 +1,5 @@
 ---
-name: Brodoa intestiniformis
+latin_name: Brodoa intestiniformis
 source: https://www.nagrzyby.pl/atlas/5263
 ---
 

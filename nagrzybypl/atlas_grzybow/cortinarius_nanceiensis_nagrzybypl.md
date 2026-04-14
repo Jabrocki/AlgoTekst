@@ -1,5 +1,5 @@
 ---
-name: Cortinarius nanceiensis
+latin_name: Cortinarius nanceiensis
 source: https://www.nagrzyby.pl/atlas/927
 ---
 

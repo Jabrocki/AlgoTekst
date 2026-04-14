@@ -1,5 +1,5 @@
 ---
-name: Russula velenovskyi
+latin_name: Russula velenovskyi
 source: https://www.nagrzyby.pl/atlas/850
 ---
 

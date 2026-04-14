@@ -1,5 +1,5 @@
 ---
-name: Xanthocarpia lactea
+latin_name: Xanthocarpia lactea
 source: https://www.nagrzyby.pl/atlas/5563
 ---
 

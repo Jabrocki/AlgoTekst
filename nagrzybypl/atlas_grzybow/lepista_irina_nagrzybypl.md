@@ -1,5 +1,5 @@
 ---
-name: Lepista irina
+latin_name: Lepista irina
 source: https://www.nagrzyby.pl/atlas/1012
 ---
 

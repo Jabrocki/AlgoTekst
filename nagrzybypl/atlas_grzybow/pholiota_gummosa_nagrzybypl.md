@@ -1,5 +1,5 @@
 ---
-name: Pholiota gummosa
+latin_name: Pholiota gummosa
 source: https://www.nagrzyby.pl/atlas/1398
 ---
 

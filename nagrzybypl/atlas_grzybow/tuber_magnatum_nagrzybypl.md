@@ -1,5 +1,5 @@
 ---
-name: Tuber magnatum
+latin_name: Tuber magnatum
 source: https://www.nagrzyby.pl/atlas/1149
 ---
 

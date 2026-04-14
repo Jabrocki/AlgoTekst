@@ -1,5 +1,5 @@
 ---
-name: Marasmiellus ramealis
+latin_name: Marasmiellus ramealis
 source: https://www.nagrzyby.pl/atlas/564
 ---
 

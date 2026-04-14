@@ -1,5 +1,5 @@
 ---
-name: Cortinarius crassus
+latin_name: Cortinarius crassus
 source: https://www.nagrzyby.pl/atlas/2150
 ---
 

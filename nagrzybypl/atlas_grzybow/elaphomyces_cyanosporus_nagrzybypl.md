@@ -1,5 +1,5 @@
 ---
-name: Elaphomyces cyanosporus
+latin_name: Elaphomyces cyanosporus
 source: https://www.nagrzyby.pl/atlas/4717
 ---
 

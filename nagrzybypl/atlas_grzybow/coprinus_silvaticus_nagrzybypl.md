@@ -1,5 +1,5 @@
 ---
-name: Coprinus silvaticus
+latin_name: Coprinus silvaticus
 source: https://www.nagrzyby.pl/atlas/1019
 ---
 

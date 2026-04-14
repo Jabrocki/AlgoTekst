@@ -1,5 +1,5 @@
 ---
-name: Cortinarius dilutus
+latin_name: Cortinarius dilutus
 source: https://www.nagrzyby.pl/atlas/2161
 ---
 

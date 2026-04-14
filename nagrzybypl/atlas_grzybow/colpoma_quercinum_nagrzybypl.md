@@ -1,5 +1,5 @@
 ---
-name: Colpoma quercinum
+latin_name: Colpoma quercinum
 source: https://www.nagrzyby.pl/atlas/4121
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Agaricus bisporus
+latin_name: Agaricus bisporus
 source: https://www.nagrzyby.pl/atlas/338
 ---
 

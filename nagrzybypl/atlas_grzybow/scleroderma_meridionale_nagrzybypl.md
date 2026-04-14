@@ -1,5 +1,5 @@
 ---
-name: Scleroderma meridionale
+latin_name: Scleroderma meridionale
 source: https://www.nagrzyby.pl/atlas/3886
 ---
 

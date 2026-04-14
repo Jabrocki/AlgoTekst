@@ -1,5 +1,5 @@
 ---
-name: Mycena polygramma
+latin_name: Mycena polygramma
 source: https://www.nagrzyby.pl/atlas/674
 ---
 

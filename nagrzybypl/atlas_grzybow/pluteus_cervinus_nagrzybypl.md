@@ -1,5 +1,5 @@
 ---
-name: Pluteus cervinus
+latin_name: Pluteus cervinus
 source: https://www.nagrzyby.pl/atlas/416
 ---
 

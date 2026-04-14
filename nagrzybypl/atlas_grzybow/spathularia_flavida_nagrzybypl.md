@@ -1,5 +1,5 @@
 ---
-name: Spathularia flavida
+latin_name: Spathularia flavida
 source: https://www.nagrzyby.pl/atlas/415
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Peltigera praetextata
+latin_name: Peltigera praetextata
 source: https://www.nagrzyby.pl/atlas/5361
 ---
 

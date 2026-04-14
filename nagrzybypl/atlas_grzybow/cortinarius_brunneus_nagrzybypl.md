@@ -1,5 +1,5 @@
 ---
-name: Cortinarius brunneus
+latin_name: Cortinarius brunneus
 source: https://www.nagrzyby.pl/atlas/1674
 ---
 

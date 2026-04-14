@@ -1,5 +1,5 @@
 ---
-name: Exobasidium vaccinii
+latin_name: Exobasidium vaccinii
 source: https://www.nagrzyby.pl/atlas/509
 ---
 

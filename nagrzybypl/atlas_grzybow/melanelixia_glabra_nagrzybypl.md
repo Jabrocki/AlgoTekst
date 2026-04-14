@@ -1,5 +1,5 @@
 ---
-name: Melanelixia glabra
+latin_name: Melanelixia glabra
 source: https://www.nagrzyby.pl/atlas/5556
 ---
 

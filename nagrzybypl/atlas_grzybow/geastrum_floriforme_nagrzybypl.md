@@ -1,5 +1,5 @@
 ---
-name: Geastrum floriforme
+latin_name: Geastrum floriforme
 source: https://www.nagrzyby.pl/atlas/829
 ---
 

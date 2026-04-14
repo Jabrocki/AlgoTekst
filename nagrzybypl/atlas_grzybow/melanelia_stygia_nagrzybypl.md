@@ -1,5 +1,5 @@
 ---
-name: Melanelia stygia
+latin_name: Melanelia stygia
 source: https://www.nagrzyby.pl/atlas/5371
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Morchella dunensis
+latin_name: Morchella dunensis
 source: https://www.nagrzyby.pl/atlas/3885
 ---
 

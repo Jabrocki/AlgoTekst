@@ -1,5 +1,5 @@
 ---
-name: Clitocybe phaeophthalma
+latin_name: Clitocybe phaeophthalma
 source: https://www.nagrzyby.pl/atlas/1596
 ---
 

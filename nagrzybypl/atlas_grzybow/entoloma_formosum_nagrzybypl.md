@@ -1,5 +1,5 @@
 ---
-name: Entoloma formosum
+latin_name: Entoloma formosum
 source: https://www.nagrzyby.pl/atlas/4785
 ---
 

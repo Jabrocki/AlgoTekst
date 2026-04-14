@@ -1,5 +1,5 @@
 ---
-name: Xerocomus hortonii
+latin_name: Xerocomus hortonii
 source: https://www.nagrzyby.pl/atlas/5072
 ---
 

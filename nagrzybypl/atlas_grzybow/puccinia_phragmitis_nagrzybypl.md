@@ -1,5 +1,5 @@
 ---
-name: Puccinia phragmitis
+latin_name: Puccinia phragmitis
 source: https://www.nagrzyby.pl/atlas/5491
 ---
 

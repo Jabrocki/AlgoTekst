@@ -1,5 +1,5 @@
 ---
-name: Atheniella adonis
+latin_name: Atheniella adonis
 source: https://www.nagrzyby.pl/atlas/2408
 ---
 

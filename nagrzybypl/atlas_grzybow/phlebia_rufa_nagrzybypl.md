@@ -1,5 +1,5 @@
 ---
-name: Phlebia rufa
+latin_name: Phlebia rufa
 source: https://www.nagrzyby.pl/atlas/4353
 ---
 

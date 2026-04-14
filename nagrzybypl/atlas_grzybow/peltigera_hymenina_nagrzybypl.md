@@ -1,5 +1,5 @@
 ---
-name: Peltigera hymenina
+latin_name: Peltigera hymenina
 source: https://www.nagrzyby.pl/atlas/5358
 ---
 

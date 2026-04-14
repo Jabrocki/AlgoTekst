@@ -1,5 +1,5 @@
 ---
-name: Hydnotrya michaelis
+latin_name: Hydnotrya michaelis
 source: https://www.nagrzyby.pl/atlas/972
 ---
 

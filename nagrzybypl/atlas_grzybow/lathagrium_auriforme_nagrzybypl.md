@@ -1,5 +1,5 @@
 ---
-name: Lathagrium auriforme
+latin_name: Lathagrium auriforme
 source: https://www.nagrzyby.pl/atlas/5675
 ---
 

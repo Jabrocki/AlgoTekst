@@ -1,5 +1,5 @@
 ---
-name: Helvella acetabulum
+latin_name: Helvella acetabulum
 source: https://www.nagrzyby.pl/atlas/322
 ---
 

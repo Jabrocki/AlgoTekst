@@ -1,5 +1,5 @@
 ---
-name: Dacrymyces stillatus
+latin_name: Dacrymyces stillatus
 source: https://www.nagrzyby.pl/atlas/945
 ---
 

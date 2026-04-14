@@ -1,5 +1,5 @@
 ---
-name: Butyriboletus regius
+latin_name: Butyriboletus regius
 source: https://www.nagrzyby.pl/atlas/271
 ---
 

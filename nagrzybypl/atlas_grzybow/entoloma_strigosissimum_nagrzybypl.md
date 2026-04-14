@@ -1,5 +1,5 @@
 ---
-name: Entoloma strigosissimum
+latin_name: Entoloma strigosissimum
 source: https://www.nagrzyby.pl/atlas/4293
 ---
 

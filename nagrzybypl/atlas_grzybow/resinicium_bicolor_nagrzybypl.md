@@ -1,5 +1,5 @@
 ---
-name: Resinicium bicolor
+latin_name: Resinicium bicolor
 source: https://www.nagrzyby.pl/atlas/1785
 ---
 

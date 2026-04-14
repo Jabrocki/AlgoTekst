@@ -1,5 +1,5 @@
 ---
-name: Chaenotheca chrysocephala
+latin_name: Chaenotheca chrysocephala
 source: https://www.nagrzyby.pl/atlas/5411
 ---
 

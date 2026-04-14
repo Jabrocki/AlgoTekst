@@ -1,5 +1,5 @@
 ---
-name: Pleurocybella porrigens
+latin_name: Pleurocybella porrigens
 source: https://www.nagrzyby.pl/atlas/334
 ---
 

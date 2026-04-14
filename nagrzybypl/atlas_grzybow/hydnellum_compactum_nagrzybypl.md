@@ -1,5 +1,5 @@
 ---
-name: Hydnellum compactum
+latin_name: Hydnellum compactum
 source: https://www.nagrzyby.pl/atlas/4177
 ---
 

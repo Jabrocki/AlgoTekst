@@ -1,5 +1,5 @@
 ---
-name: Entoloma aprile
+latin_name: Entoloma aprile
 source: https://www.nagrzyby.pl/atlas/4754
 ---
 

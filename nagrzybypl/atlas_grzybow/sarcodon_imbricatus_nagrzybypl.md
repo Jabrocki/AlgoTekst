@@ -1,5 +1,5 @@
 ---
-name: Sarcodon imbricatus
+latin_name: Sarcodon imbricatus
 source: https://www.nagrzyby.pl/atlas/393
 ---
 

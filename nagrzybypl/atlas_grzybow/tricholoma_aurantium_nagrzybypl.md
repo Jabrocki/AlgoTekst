@@ -1,5 +1,5 @@
 ---
-name: Tricholoma aurantium
+latin_name: Tricholoma aurantium
 source: https://www.nagrzyby.pl/atlas/986
 ---
 

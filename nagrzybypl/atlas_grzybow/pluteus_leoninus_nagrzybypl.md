@@ -1,5 +1,5 @@
 ---
-name: Pluteus leoninus
+latin_name: Pluteus leoninus
 source: https://www.nagrzyby.pl/atlas/503
 ---
 

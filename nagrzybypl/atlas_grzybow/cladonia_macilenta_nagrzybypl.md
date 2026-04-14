@@ -1,5 +1,5 @@
 ---
-name: Cladonia macilenta
+latin_name: Cladonia macilenta
 source: https://www.nagrzyby.pl/atlas/5155
 ---
 

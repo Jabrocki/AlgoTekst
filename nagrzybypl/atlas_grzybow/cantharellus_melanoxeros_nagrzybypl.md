@@ -1,5 +1,5 @@
 ---
-name: Cantharellus melanoxeros
+latin_name: Cantharellus melanoxeros
 source: https://www.nagrzyby.pl/atlas/745
 ---
 

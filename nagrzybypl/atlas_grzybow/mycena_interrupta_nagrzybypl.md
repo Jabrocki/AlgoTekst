@@ -1,5 +1,5 @@
 ---
-name: Mycena interrupta
+latin_name: Mycena interrupta
 source: https://www.nagrzyby.pl/atlas/5698
 ---
 

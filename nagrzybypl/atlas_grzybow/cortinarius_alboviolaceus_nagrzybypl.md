@@ -1,5 +1,5 @@
 ---
-name: Cortinarius alboviolaceus
+latin_name: Cortinarius alboviolaceus
 source: https://www.nagrzyby.pl/atlas/933
 ---
 

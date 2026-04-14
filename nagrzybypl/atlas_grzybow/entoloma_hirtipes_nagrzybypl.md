@@ -1,5 +1,5 @@
 ---
-name: Entoloma hirtipes
+latin_name: Entoloma hirtipes
 source: https://www.nagrzyby.pl/atlas/376
 ---
 

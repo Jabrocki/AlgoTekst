@@ -1,5 +1,5 @@
 ---
-name: Cortinarius torvus
+latin_name: Cortinarius torvus
 source: https://www.nagrzyby.pl/atlas/2262
 ---
 

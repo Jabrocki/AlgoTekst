@@ -1,5 +1,5 @@
 ---
-name: Psilolechia lucida
+latin_name: Psilolechia lucida
 source: https://www.nagrzyby.pl/atlas/5310
 ---
 

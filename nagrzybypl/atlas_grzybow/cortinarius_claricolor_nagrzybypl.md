@@ -1,5 +1,5 @@
 ---
-name: Cortinarius claricolor
+latin_name: Cortinarius claricolor
 source: https://www.nagrzyby.pl/atlas/2145
 ---
 

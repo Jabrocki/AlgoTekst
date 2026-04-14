@@ -1,5 +1,5 @@
 ---
-name: Baeospora myosura
+latin_name: Baeospora myosura
 source: https://www.nagrzyby.pl/atlas/1704
 ---
 

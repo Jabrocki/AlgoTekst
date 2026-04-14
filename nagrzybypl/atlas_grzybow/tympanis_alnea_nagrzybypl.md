@@ -1,5 +1,5 @@
 ---
-name: Tympanis alnea
+latin_name: Tympanis alnea
 source: https://www.nagrzyby.pl/atlas/5980
 ---
 

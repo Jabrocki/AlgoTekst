@@ -1,5 +1,5 @@
 ---
-name: Entoloma incanum
+latin_name: Entoloma incanum
 source: https://www.nagrzyby.pl/atlas/4004
 ---
 

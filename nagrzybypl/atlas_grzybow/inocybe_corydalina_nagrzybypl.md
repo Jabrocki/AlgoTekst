@@ -1,5 +1,5 @@
 ---
-name: Inocybe corydalina
+latin_name: Inocybe corydalina
 source: https://www.nagrzyby.pl/atlas/2341
 ---
 

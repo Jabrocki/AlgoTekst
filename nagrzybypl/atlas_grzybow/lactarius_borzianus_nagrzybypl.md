@@ -1,5 +1,5 @@
 ---
-name: Lactarius borzianus
+latin_name: Lactarius borzianus
 source: https://www.nagrzyby.pl/atlas/5866
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Trichoderma sinuosum
+latin_name: Trichoderma sinuosum
 source: https://www.nagrzyby.pl/atlas/5638
 ---
 

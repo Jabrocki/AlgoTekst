@@ -1,5 +1,5 @@
 ---
-name: Arthonia spadicea
+latin_name: Arthonia spadicea
 source: https://www.nagrzyby.pl/atlas/5368
 ---
 

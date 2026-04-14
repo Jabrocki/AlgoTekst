@@ -1,5 +1,5 @@
 ---
-name: Conocybe brunneola
+latin_name: Conocybe brunneola
 source: https://www.nagrzyby.pl/atlas/2024
 ---
 

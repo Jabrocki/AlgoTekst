@@ -1,5 +1,5 @@
 ---
-name: Hymenogaster lycoperdineus
+latin_name: Hymenogaster lycoperdineus
 source: https://www.nagrzyby.pl/atlas/5847
 ---
 

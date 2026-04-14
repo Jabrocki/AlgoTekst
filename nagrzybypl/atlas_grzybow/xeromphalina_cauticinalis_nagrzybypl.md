@@ -1,5 +1,5 @@
 ---
-name: Xeromphalina cauticinalis
+latin_name: Xeromphalina cauticinalis
 source: https://www.nagrzyby.pl/atlas/4713
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Pluteus hispidulus
+latin_name: Pluteus hispidulus
 source: https://www.nagrzyby.pl/atlas/1670
 ---
 

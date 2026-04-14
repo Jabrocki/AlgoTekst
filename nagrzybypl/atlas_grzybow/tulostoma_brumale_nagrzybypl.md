@@ -1,5 +1,5 @@
 ---
-name: Tulostoma brumale
+latin_name: Tulostoma brumale
 source: https://www.nagrzyby.pl/atlas/479
 ---
 

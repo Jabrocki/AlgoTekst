@@ -1,5 +1,5 @@
 ---
-name: Conocybe intermedia
+latin_name: Conocybe intermedia
 source: https://www.nagrzyby.pl/atlas/2029
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Hygrocybe glutinipes
+latin_name: Hygrocybe glutinipes
 source: https://www.nagrzyby.pl/atlas/1253
 ---
 

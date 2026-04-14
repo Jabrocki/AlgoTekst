@@ -1,5 +1,5 @@
 ---
-name: Tuber melanosporum
+latin_name: Tuber melanosporum
 source: https://www.nagrzyby.pl/atlas/1146
 ---
 

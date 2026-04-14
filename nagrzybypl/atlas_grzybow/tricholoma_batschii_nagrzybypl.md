@@ -1,5 +1,5 @@
 ---
-name: Tricholoma batschii
+latin_name: Tricholoma batschii
 source: https://www.nagrzyby.pl/atlas/1550
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Sclerogaster hysterangioides
+latin_name: Sclerogaster hysterangioides
 source: https://www.nagrzyby.pl/atlas/4815
 ---
 

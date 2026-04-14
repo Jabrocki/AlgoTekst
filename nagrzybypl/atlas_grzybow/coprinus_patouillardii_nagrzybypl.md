@@ -1,5 +1,5 @@
 ---
-name: Coprinus patouillardii
+latin_name: Coprinus patouillardii
 source: https://www.nagrzyby.pl/atlas/2099
 ---
 

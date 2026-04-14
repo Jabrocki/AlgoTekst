@@ -1,5 +1,5 @@
 ---
-name: Rhizocarpon viridiatrum
+latin_name: Rhizocarpon viridiatrum
 source: https://www.nagrzyby.pl/atlas/5601
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Alectoria ochroleuca
+latin_name: Alectoria ochroleuca
 source: https://www.nagrzyby.pl/atlas/5215
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Pholiota flammans
+latin_name: Pholiota flammans
 source: https://www.nagrzyby.pl/atlas/417
 ---
 

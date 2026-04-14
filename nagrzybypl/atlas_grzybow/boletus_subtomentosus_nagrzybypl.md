@@ -1,5 +1,5 @@
 ---
-name: Boletus subtomentosus
+latin_name: Boletus subtomentosus
 source: https://www.nagrzyby.pl/atlas/312
 ---
 

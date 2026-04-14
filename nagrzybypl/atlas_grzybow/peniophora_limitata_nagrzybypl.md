@@ -1,5 +1,5 @@
 ---
-name: Peniophora limitata
+latin_name: Peniophora limitata
 source: https://www.nagrzyby.pl/atlas/5662
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Agrocybe erebia
+latin_name: Agrocybe erebia
 source: https://www.nagrzyby.pl/atlas/890
 ---
 

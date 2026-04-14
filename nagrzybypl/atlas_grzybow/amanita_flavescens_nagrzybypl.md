@@ -1,5 +1,5 @@
 ---
-name: Amanita flavescens
+latin_name: Amanita flavescens
 source: https://www.nagrzyby.pl/atlas/1626
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Clavaria falcata
+latin_name: Clavaria falcata
 source: https://www.nagrzyby.pl/atlas/1379
 ---
 

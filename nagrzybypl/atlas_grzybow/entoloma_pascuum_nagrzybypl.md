@@ -1,5 +1,5 @@
 ---
-name: Entoloma pascuum
+latin_name: Entoloma pascuum
 source: https://www.nagrzyby.pl/atlas/4777
 ---
 

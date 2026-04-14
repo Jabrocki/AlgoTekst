@@ -1,5 +1,5 @@
 ---
-name: Lentinellus castoreus
+latin_name: Lentinellus castoreus
 source: https://www.nagrzyby.pl/atlas/14
 ---
 

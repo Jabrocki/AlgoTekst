@@ -1,5 +1,5 @@
 ---
-name: Gymnopus oreadoides
+latin_name: Gymnopus oreadoides
 source: https://www.nagrzyby.pl/atlas/1435
 ---
 

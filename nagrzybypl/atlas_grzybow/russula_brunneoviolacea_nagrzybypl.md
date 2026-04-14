@@ -1,5 +1,5 @@
 ---
-name: Russula brunneoviolacea
+latin_name: Russula brunneoviolacea
 source: https://www.nagrzyby.pl/atlas/144
 ---
 

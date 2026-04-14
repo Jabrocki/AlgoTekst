@@ -1,5 +1,5 @@
 ---
-name: Exidia thuretiana
+latin_name: Exidia thuretiana
 source: https://www.nagrzyby.pl/atlas/4473
 ---
 

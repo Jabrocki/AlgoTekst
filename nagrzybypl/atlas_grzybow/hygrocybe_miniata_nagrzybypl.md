@@ -1,5 +1,5 @@
 ---
-name: Hygrocybe miniata
+latin_name: Hygrocybe miniata
 source: https://www.nagrzyby.pl/atlas/1259
 ---
 

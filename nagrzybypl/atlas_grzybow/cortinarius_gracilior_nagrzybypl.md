@@ -1,5 +1,5 @@
 ---
-name: Cortinarius gracilior
+latin_name: Cortinarius gracilior
 source: https://www.nagrzyby.pl/atlas/2179
 ---
 

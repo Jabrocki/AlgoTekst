@@ -1,5 +1,5 @@
 ---
-name: Phloeomana speirea
+latin_name: Phloeomana speirea
 source: https://www.nagrzyby.pl/atlas/1084
 ---
 

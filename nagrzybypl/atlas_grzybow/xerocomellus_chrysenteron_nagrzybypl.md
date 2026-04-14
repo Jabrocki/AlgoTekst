@@ -1,5 +1,5 @@
 ---
-name: Xerocomellus chrysenteron
+latin_name: Xerocomellus chrysenteron
 source: https://www.nagrzyby.pl/atlas/350
 ---
 

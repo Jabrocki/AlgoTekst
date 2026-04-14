@@ -1,5 +1,5 @@
 ---
-name: Protoparmeliopsis muralis
+latin_name: Protoparmeliopsis muralis
 source: https://www.nagrzyby.pl/atlas/5267
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Jackrogersella multiformis
+latin_name: Jackrogersella multiformis
 source: https://www.nagrzyby.pl/atlas/5457
 ---
 

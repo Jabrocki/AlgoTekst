@@ -1,5 +1,5 @@
 ---
-name: Peziza vesiculosa
+latin_name: Peziza vesiculosa
 source: https://www.nagrzyby.pl/atlas/1647
 ---
 

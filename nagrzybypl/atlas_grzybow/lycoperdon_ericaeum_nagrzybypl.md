@@ -1,5 +1,5 @@
 ---
-name: Lycoperdon ericaeum
+latin_name: Lycoperdon ericaeum
 source: https://www.nagrzyby.pl/atlas/1205
 ---
 

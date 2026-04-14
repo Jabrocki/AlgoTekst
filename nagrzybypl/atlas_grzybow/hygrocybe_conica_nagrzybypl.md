@@ -1,5 +1,5 @@
 ---
-name: Hygrocybe conica
+latin_name: Hygrocybe conica
 source: https://www.nagrzyby.pl/atlas/224
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Hypomyces spadiceus
+latin_name: Hypomyces spadiceus
 source: https://www.nagrzyby.pl/atlas/5644
 ---
 

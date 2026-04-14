@@ -1,5 +1,5 @@
 ---
-name: Vahliella leucophaea
+latin_name: Vahliella leucophaea
 source: https://www.nagrzyby.pl/atlas/5565
 ---
 

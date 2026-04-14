@@ -1,5 +1,5 @@
 ---
-name: Ganoderma pfeifferi
+latin_name: Ganoderma pfeifferi
 source: https://www.nagrzyby.pl/atlas/1127
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Hygrocybe aurantiosplendens
+latin_name: Hygrocybe aurantiosplendens
 source: https://www.nagrzyby.pl/atlas/4218
 ---
 

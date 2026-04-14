@@ -1,5 +1,5 @@
 ---
-name: Mycena strobilicola
+latin_name: Mycena strobilicola
 source: https://www.nagrzyby.pl/atlas/315
 ---
 

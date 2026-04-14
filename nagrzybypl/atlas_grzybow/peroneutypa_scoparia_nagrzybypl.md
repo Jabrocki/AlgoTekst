@@ -1,5 +1,5 @@
 ---
-name: Peroneutypa scoparia
+latin_name: Peroneutypa scoparia
 source: https://www.nagrzyby.pl/atlas/5648
 ---
 

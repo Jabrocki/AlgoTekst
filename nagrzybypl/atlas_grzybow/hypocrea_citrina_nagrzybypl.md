@@ -1,5 +1,5 @@
 ---
-name: Hypocrea citrina
+latin_name: Hypocrea citrina
 source: https://www.nagrzyby.pl/atlas/5497
 ---
 

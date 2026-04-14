@@ -1,5 +1,5 @@
 ---
-name: Psathyrella cotonea
+latin_name: Psathyrella cotonea
 source: https://www.nagrzyby.pl/atlas/1733
 ---
 

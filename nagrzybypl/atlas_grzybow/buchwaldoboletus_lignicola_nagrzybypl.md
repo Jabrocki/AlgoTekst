@@ -1,5 +1,5 @@
 ---
-name: Buchwaldoboletus lignicola
+latin_name: Buchwaldoboletus lignicola
 source: https://www.nagrzyby.pl/atlas/1770
 ---
 

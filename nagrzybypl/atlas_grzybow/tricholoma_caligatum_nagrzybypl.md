@@ -1,5 +1,5 @@
 ---
-name: Tricholoma caligatum
+latin_name: Tricholoma caligatum
 source: https://www.nagrzyby.pl/atlas/981
 ---
 

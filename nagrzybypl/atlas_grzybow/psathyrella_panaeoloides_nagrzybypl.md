@@ -1,5 +1,5 @@
 ---
-name: Psathyrella panaeoloides
+latin_name: Psathyrella panaeoloides
 source: https://www.nagrzyby.pl/atlas/5088
 ---
 

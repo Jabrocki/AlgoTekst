@@ -1,5 +1,5 @@
 ---
-name: (Amanita muscaria forma guessowii  formaaureola
+latin_name: (Amanita muscaria forma guessowii  formaaureola
 source: https://www.nagrzyby.pl/atlas/5986
 ---
 

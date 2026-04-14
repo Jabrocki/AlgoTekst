@@ -1,5 +1,5 @@
 ---
-name: Helvella crispa
+latin_name: Helvella crispa
 source: https://www.nagrzyby.pl/atlas/316
 ---
 

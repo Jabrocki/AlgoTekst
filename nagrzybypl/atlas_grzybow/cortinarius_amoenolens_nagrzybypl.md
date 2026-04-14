@@ -1,5 +1,5 @@
 ---
-name: Cortinarius amoenolens
+latin_name: Cortinarius amoenolens
 source: https://www.nagrzyby.pl/atlas/2115
 ---
 

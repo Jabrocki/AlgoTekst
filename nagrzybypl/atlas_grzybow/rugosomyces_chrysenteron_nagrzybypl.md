@@ -1,5 +1,5 @@
 ---
-name: Rugosomyces chrysenteron
+latin_name: Rugosomyces chrysenteron
 source: https://www.nagrzyby.pl/atlas/1913
 ---
 

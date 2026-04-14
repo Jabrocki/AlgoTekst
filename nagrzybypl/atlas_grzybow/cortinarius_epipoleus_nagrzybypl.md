@@ -1,5 +1,5 @@
 ---
-name: Cortinarius epipoleus
+latin_name: Cortinarius epipoleus
 source: https://www.nagrzyby.pl/atlas/2166
 ---
 

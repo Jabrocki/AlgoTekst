@@ -1,5 +1,5 @@
 ---
-name: Faerberia carbonaria
+latin_name: Faerberia carbonaria
 source: https://www.nagrzyby.pl/atlas/641
 ---
 

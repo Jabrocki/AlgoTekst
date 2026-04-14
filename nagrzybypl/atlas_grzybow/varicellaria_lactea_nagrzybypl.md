@@ -1,5 +1,5 @@
 ---
-name: Varicellaria lactea
+latin_name: Varicellaria lactea
 source: https://www.nagrzyby.pl/atlas/5390
 ---
 

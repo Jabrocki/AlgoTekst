@@ -1,5 +1,5 @@
 ---
-name: Cortinarius percomis
+latin_name: Cortinarius percomis
 source: https://www.nagrzyby.pl/atlas/2220
 ---
 

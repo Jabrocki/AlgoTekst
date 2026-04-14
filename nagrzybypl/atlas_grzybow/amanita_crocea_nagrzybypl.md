@@ -1,5 +1,5 @@
 ---
-name: Amanita crocea
+latin_name: Amanita crocea
 source: https://www.nagrzyby.pl/atlas/451
 ---
 

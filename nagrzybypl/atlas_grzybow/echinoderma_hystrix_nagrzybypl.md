@@ -1,5 +1,5 @@
 ---
-name: Echinoderma hystrix
+latin_name: Echinoderma hystrix
 source: https://www.nagrzyby.pl/atlas/4857
 ---
 

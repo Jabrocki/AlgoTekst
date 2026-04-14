@@ -1,5 +1,5 @@
 ---
-name: Inocybe asterospora
+latin_name: Inocybe asterospora
 source: https://www.nagrzyby.pl/atlas/2330
 ---
 

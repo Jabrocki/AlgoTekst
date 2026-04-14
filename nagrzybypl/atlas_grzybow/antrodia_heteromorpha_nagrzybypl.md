@@ -1,5 +1,5 @@
 ---
-name: Antrodia heteromorpha
+latin_name: Antrodia heteromorpha
 source: https://www.nagrzyby.pl/atlas/2080
 ---
 

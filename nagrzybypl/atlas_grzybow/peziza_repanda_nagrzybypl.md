@@ -1,5 +1,5 @@
 ---
-name: Peziza repanda
+latin_name: Peziza repanda
 source: https://www.nagrzyby.pl/atlas/1308
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Peziza praetervisa
+latin_name: Peziza praetervisa
 source: https://www.nagrzyby.pl/atlas/1831
 ---
 

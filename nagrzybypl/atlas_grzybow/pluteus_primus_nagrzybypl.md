@@ -1,5 +1,5 @@
 ---
-name: Pluteus primus
+latin_name: Pluteus primus
 source: https://www.nagrzyby.pl/atlas/1190
 ---
 

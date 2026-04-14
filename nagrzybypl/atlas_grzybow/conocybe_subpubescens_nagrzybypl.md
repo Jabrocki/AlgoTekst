@@ -1,5 +1,5 @@
 ---
-name: Conocybe subpubescens
+latin_name: Conocybe subpubescens
 source: https://www.nagrzyby.pl/atlas/2052
 ---
 

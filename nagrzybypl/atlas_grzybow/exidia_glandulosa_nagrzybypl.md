@@ -1,5 +1,5 @@
 ---
-name: Exidia glandulosa
+latin_name: Exidia glandulosa
 source: https://www.nagrzyby.pl/atlas/138
 ---
 

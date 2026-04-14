@@ -1,5 +1,5 @@
 ---
-name: Cladonia carneola
+latin_name: Cladonia carneola
 source: https://www.nagrzyby.pl/atlas/5659
 ---
 

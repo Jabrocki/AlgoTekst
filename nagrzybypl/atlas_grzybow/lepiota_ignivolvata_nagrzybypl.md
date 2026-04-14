@@ -1,5 +1,5 @@
 ---
-name: Lepiota ignivolvata
+latin_name: Lepiota ignivolvata
 source: https://www.nagrzyby.pl/atlas/1226
 ---
 

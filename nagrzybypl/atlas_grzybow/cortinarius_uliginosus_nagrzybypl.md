@@ -1,5 +1,5 @@
 ---
-name: Cortinarius uliginosus
+latin_name: Cortinarius uliginosus
 source: https://www.nagrzyby.pl/atlas/915
 ---
 

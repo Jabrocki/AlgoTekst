@@ -1,5 +1,5 @@
 ---
-name: Geastrum striatum
+latin_name: Geastrum striatum
 source: https://www.nagrzyby.pl/atlas/838
 ---
 

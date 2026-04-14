@@ -1,5 +1,5 @@
 ---
-name: Pluteus ephebeus
+latin_name: Pluteus ephebeus
 source: https://www.nagrzyby.pl/atlas/1184
 ---
 

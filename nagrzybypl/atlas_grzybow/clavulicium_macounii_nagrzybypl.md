@@ -1,5 +1,5 @@
 ---
-name: Clavulicium macounii
+latin_name: Clavulicium macounii
 source: https://www.nagrzyby.pl/atlas/1977
 ---
 

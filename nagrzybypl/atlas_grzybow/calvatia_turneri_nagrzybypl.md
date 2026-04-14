@@ -1,5 +1,5 @@
 ---
-name: Calvatia turneri
+latin_name: Calvatia turneri
 source: https://www.nagrzyby.pl/atlas/1939
 ---
 

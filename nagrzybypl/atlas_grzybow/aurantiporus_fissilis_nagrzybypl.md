@@ -1,5 +1,5 @@
 ---
-name: Aurantiporus fissilis
+latin_name: Aurantiporus fissilis
 source: https://www.nagrzyby.pl/atlas/1701
 ---
 

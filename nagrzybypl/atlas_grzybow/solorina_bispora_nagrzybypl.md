@@ -1,5 +1,5 @@
 ---
-name: Solorina bispora
+latin_name: Solorina bispora
 source: https://www.nagrzyby.pl/atlas/5745
 ---
 

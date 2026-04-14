@@ -1,5 +1,5 @@
 ---
-name: Inocybe mixtilis
+latin_name: Inocybe mixtilis
 source: https://www.nagrzyby.pl/atlas/2375
 ---
 

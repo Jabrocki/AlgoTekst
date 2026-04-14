@@ -1,5 +1,5 @@
 ---
-name: Hygrocybe angustifolia
+latin_name: Hygrocybe angustifolia
 source: https://www.nagrzyby.pl/atlas/4563
 ---
 

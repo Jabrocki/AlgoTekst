@@ -1,5 +1,5 @@
 ---
-name: Clitocybe rivulosa
+latin_name: Clitocybe rivulosa
 source: https://www.nagrzyby.pl/atlas/1575
 ---
 

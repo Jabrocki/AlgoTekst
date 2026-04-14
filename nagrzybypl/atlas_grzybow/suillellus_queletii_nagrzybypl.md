@@ -1,5 +1,5 @@
 ---
-name: Suillellus queletii
+latin_name: Suillellus queletii
 source: https://www.nagrzyby.pl/atlas/672
 ---
 

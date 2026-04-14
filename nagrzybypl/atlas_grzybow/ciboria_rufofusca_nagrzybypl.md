@@ -1,5 +1,5 @@
 ---
-name: Ciboria rufofusca
+latin_name: Ciboria rufofusca
 source: https://www.nagrzyby.pl/atlas/4574
 ---
 

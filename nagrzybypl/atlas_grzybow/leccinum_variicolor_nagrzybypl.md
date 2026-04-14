@@ -1,5 +1,5 @@
 ---
-name: Leccinum variicolor
+latin_name: Leccinum variicolor
 source: https://www.nagrzyby.pl/atlas/750
 ---
 

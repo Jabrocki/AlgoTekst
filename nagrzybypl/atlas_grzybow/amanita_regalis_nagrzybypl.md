@@ -1,5 +1,5 @@
 ---
-name: Amanita regalis
+latin_name: Amanita regalis
 source: https://www.nagrzyby.pl/atlas/270
 ---
 

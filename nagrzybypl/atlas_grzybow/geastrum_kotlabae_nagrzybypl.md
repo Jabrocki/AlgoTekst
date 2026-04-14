@@ -1,5 +1,5 @@
 ---
-name: Geastrum kotlabae
+latin_name: Geastrum kotlabae
 source: https://www.nagrzyby.pl/atlas/1635
 ---
 

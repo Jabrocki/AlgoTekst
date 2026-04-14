@@ -1,5 +1,5 @@
 ---
-name: Entoloma mougeotii
+latin_name: Entoloma mougeotii
 source: https://www.nagrzyby.pl/atlas/4010
 ---
 

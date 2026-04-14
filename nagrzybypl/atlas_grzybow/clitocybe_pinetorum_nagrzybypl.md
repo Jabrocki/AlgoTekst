@@ -1,5 +1,5 @@
 ---
-name: Clitocybe pinetorum
+latin_name: Clitocybe pinetorum
 source: https://www.nagrzyby.pl/atlas/1582
 ---
 

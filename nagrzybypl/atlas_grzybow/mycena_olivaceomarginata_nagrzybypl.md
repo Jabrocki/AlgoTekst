@@ -1,5 +1,5 @@
 ---
-name: Mycena olivaceomarginata
+latin_name: Mycena olivaceomarginata
 source: https://www.nagrzyby.pl/atlas/5596
 ---
 

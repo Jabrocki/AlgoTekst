@@ -1,5 +1,5 @@
 ---
-name: Boletus reticulatus
+latin_name: Boletus reticulatus
 source: https://www.nagrzyby.pl/atlas/2
 ---
 

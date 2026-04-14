@@ -1,5 +1,5 @@
 ---
-name: Suillellus luridus
+latin_name: Suillellus luridus
 source: https://www.nagrzyby.pl/atlas/9
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Cortinarius hercynicus
+latin_name: Cortinarius hercynicus
 source: https://www.nagrzyby.pl/atlas/1683
 ---
 

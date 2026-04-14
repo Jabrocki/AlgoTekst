@@ -1,5 +1,5 @@
 ---
-name: Tuber bellonae
+latin_name: Tuber bellonae
 source: https://www.nagrzyby.pl/atlas/5808
 ---
 

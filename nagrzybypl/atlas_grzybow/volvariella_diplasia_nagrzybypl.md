@@ -1,5 +1,5 @@
 ---
-name: Volvariella diplasia
+latin_name: Volvariella diplasia
 source: https://www.nagrzyby.pl/atlas/1740
 ---
 

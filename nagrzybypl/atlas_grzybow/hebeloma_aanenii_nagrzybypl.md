@@ -1,5 +1,5 @@
 ---
-name: Hebeloma aanenii
+latin_name: Hebeloma aanenii
 source: https://www.nagrzyby.pl/atlas/5888
 ---
 

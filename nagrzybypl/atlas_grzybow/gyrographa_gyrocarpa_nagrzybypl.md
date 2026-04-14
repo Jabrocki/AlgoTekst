@@ -1,5 +1,5 @@
 ---
-name: Gyrographa gyrocarpa
+latin_name: Gyrographa gyrocarpa
 source: https://www.nagrzyby.pl/atlas/5367
 ---
 

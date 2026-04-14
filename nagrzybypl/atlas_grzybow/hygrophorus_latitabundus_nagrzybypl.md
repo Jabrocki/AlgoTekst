@@ -1,5 +1,5 @@
 ---
-name: Hygrophorus latitabundus
+latin_name: Hygrophorus latitabundus
 source: https://www.nagrzyby.pl/atlas/2426
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Hygrocybe acutoconica
+latin_name: Hygrocybe acutoconica
 source: https://www.nagrzyby.pl/atlas/381
 ---
 

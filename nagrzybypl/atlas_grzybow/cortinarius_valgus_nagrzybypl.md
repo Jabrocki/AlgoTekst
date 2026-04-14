@@ -1,5 +1,5 @@
 ---
-name: Cortinarius valgus
+latin_name: Cortinarius valgus
 source: https://www.nagrzyby.pl/atlas/2268
 ---
 

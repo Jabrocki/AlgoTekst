@@ -1,5 +1,5 @@
 ---
-name: Blastenia ferruginea
+latin_name: Blastenia ferruginea
 source: https://www.nagrzyby.pl/atlas/5246
 ---
 

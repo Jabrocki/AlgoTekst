@@ -1,5 +1,5 @@
 ---
-name: Hygrophorus olivaceoalbus
+latin_name: Hygrophorus olivaceoalbus
 source: https://www.nagrzyby.pl/atlas/384
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Fuligo septica varietas candida
+latin_name: Fuligo septica varietas candida
 source: https://www.nagrzyby.pl/atlas/5053
 ---
 

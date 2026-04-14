@@ -1,5 +1,5 @@
 ---
-name: Leccinum duriusculum
+latin_name: Leccinum duriusculum
 source: https://www.nagrzyby.pl/atlas/528
 ---
 

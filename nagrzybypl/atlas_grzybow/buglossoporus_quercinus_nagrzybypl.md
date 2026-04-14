@@ -1,5 +1,5 @@
 ---
-name: Buglossoporus quercinus
+latin_name: Buglossoporus quercinus
 source: https://www.nagrzyby.pl/atlas/1096
 ---
 

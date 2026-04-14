@@ -1,5 +1,5 @@
 ---
-name: Gymnopus benoistii
+latin_name: Gymnopus benoistii
 source: https://www.nagrzyby.pl/atlas/1438
 ---
 

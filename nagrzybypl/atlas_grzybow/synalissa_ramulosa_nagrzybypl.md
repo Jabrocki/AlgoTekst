@@ -1,5 +1,5 @@
 ---
-name: Synalissa ramulosa
+latin_name: Synalissa ramulosa
 source: https://www.nagrzyby.pl/atlas/5477
 ---
 

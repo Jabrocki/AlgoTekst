@@ -1,5 +1,5 @@
 ---
-name: Russula silvestris
+latin_name: Russula silvestris
 source: https://www.nagrzyby.pl/atlas/5540
 ---
 

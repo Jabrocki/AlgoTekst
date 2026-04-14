@@ -1,5 +1,5 @@
 ---
-name: Radulodon aneirinus
+latin_name: Radulodon aneirinus
 source: https://www.nagrzyby.pl/atlas/1959
 ---
 

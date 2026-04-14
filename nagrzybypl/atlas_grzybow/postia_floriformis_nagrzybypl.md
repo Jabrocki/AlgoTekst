@@ -1,5 +1,5 @@
 ---
-name: Postia floriformis
+latin_name: Postia floriformis
 source: https://www.nagrzyby.pl/atlas/4322
 ---
 

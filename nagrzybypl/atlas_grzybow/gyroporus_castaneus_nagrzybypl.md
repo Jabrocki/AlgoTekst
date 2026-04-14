@@ -1,5 +1,5 @@
 ---
-name: Gyroporus castaneus
+latin_name: Gyroporus castaneus
 source: https://www.nagrzyby.pl/atlas/344
 ---
 

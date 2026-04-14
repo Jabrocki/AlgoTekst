@@ -1,5 +1,5 @@
 ---
-name: Cortinarius colus
+latin_name: Cortinarius colus
 source: https://www.nagrzyby.pl/atlas/2148
 ---
 

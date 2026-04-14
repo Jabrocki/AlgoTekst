@@ -1,5 +1,5 @@
 ---
-name: Entoloma dysthaloides
+latin_name: Entoloma dysthaloides
 source: https://www.nagrzyby.pl/atlas/4764
 ---
 

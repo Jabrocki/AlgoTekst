@@ -1,5 +1,5 @@
 ---
-name: Steccherinum ochraceum
+latin_name: Steccherinum ochraceum
 source: https://www.nagrzyby.pl/atlas/1664
 ---
 

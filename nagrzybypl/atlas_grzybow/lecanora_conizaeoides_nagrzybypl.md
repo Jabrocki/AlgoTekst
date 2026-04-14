@@ -1,5 +1,5 @@
 ---
-name: Lecanora conizaeoides
+latin_name: Lecanora conizaeoides
 source: https://www.nagrzyby.pl/atlas/5284
 ---
 

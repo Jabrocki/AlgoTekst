@@ -1,5 +1,5 @@
 ---
-name: Psathyrella longicauda
+latin_name: Psathyrella longicauda
 source: https://www.nagrzyby.pl/atlas/4331
 ---
 

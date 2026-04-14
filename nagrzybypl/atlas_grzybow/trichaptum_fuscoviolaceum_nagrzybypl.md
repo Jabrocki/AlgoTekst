@@ -1,5 +1,5 @@
 ---
-name: Trichaptum fuscoviolaceum
+latin_name: Trichaptum fuscoviolaceum
 source: https://www.nagrzyby.pl/atlas/717
 ---
 

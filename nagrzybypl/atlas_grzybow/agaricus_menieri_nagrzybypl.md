@@ -1,5 +1,5 @@
 ---
-name: Agaricus menieri
+latin_name: Agaricus menieri
 source: https://www.nagrzyby.pl/atlas/2414
 ---
 

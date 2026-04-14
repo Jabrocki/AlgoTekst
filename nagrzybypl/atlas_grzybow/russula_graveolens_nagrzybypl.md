@@ -1,5 +1,5 @@
 ---
-name: Russula graveolens
+latin_name: Russula graveolens
 source: https://www.nagrzyby.pl/atlas/151
 ---
 

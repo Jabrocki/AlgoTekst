@@ -1,5 +1,5 @@
 ---
-name: Agaricus lanipes
+latin_name: Agaricus lanipes
 source: https://www.nagrzyby.pl/atlas/855
 ---
 

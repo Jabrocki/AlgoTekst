@@ -1,5 +1,5 @@
 ---
-name: Calocera viscosa
+latin_name: Calocera viscosa
 source: https://www.nagrzyby.pl/atlas/335
 ---
 

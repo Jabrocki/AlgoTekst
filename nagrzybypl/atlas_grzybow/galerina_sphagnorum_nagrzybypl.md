@@ -1,5 +1,5 @@
 ---
-name: Galerina sphagnorum
+latin_name: Galerina sphagnorum
 source: https://www.nagrzyby.pl/atlas/1676
 ---
 

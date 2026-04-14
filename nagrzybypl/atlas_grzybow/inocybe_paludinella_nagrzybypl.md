@@ -1,5 +1,5 @@
 ---
-name: Inocybe paludinella
+latin_name: Inocybe paludinella
 source: https://www.nagrzyby.pl/atlas/2383
 ---
 

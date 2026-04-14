@@ -1,5 +1,5 @@
 ---
-name: Cortinarius balaustinus
+latin_name: Cortinarius balaustinus
 source: https://www.nagrzyby.pl/atlas/2130
 ---
 

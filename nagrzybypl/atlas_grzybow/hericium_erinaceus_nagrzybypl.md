@@ -1,5 +1,5 @@
 ---
-name: Hericium erinaceus
+latin_name: Hericium erinaceus
 source: https://www.nagrzyby.pl/atlas/400
 ---
 

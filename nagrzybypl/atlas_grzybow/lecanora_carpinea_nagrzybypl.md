@@ -1,5 +1,5 @@
 ---
-name: Lecanora carpinea
+latin_name: Lecanora carpinea
 source: https://www.nagrzyby.pl/atlas/5276
 ---
 

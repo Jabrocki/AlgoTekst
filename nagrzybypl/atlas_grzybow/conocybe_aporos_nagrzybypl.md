@@ -1,5 +1,5 @@
 ---
-name: Conocybe aporos
+latin_name: Conocybe aporos
 source: https://www.nagrzyby.pl/atlas/596
 ---
 

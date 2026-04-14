@@ -1,5 +1,5 @@
 ---
-name: Conocybe antipus
+latin_name: Conocybe antipus
 source: https://www.nagrzyby.pl/atlas/2019
 ---
 

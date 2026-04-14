@@ -1,5 +1,5 @@
 ---
-name: Entoloma ameides
+latin_name: Entoloma ameides
 source: https://www.nagrzyby.pl/atlas/4751
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Armillaria cepistipes
+latin_name: Armillaria cepistipes
 source: https://www.nagrzyby.pl/atlas/1698
 ---
 

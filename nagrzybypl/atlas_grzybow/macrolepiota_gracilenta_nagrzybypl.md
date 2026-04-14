@@ -1,5 +1,5 @@
 ---
-name: Macrolepiota gracilenta
+latin_name: Macrolepiota gracilenta
 source: https://www.nagrzyby.pl/atlas/1212
 ---
 

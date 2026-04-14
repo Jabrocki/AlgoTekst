@@ -1,5 +1,5 @@
 ---
-name: Disciseda bovista
+latin_name: Disciseda bovista
 source: https://www.nagrzyby.pl/atlas/1172
 ---
 

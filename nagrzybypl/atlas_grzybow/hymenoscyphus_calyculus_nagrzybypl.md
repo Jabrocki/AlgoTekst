@@ -1,5 +1,5 @@
 ---
-name: Hymenoscyphus calyculus
+latin_name: Hymenoscyphus calyculus
 source: https://www.nagrzyby.pl/atlas/683
 ---
 

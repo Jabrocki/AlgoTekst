@@ -1,5 +1,5 @@
 ---
-name: Circinaria caesiocinerea
+latin_name: Circinaria caesiocinerea
 source: https://www.nagrzyby.pl/atlas/5602
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Ophiocordyceps forquignonii
+latin_name: Ophiocordyceps forquignonii
 source: https://www.nagrzyby.pl/atlas/515
 ---
 

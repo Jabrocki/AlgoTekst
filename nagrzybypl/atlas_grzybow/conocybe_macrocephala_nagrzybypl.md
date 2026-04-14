@@ -1,5 +1,5 @@
 ---
-name: Conocybe macrocephala
+latin_name: Conocybe macrocephala
 source: https://www.nagrzyby.pl/atlas/2034
 ---
 

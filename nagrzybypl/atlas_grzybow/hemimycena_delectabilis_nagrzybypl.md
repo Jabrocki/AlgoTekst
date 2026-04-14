@@ -1,5 +1,5 @@
 ---
-name: Hemimycena delectabilis
+latin_name: Hemimycena delectabilis
 source: https://www.nagrzyby.pl/atlas/4442
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Agaricus squamuliferus
+latin_name: Agaricus squamuliferus
 source: https://www.nagrzyby.pl/atlas/863
 ---
 

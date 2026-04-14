@@ -1,5 +1,5 @@
 ---
-name: Scutellinia nigrohirtula
+latin_name: Scutellinia nigrohirtula
 source: https://www.nagrzyby.pl/atlas/5774
 ---
 

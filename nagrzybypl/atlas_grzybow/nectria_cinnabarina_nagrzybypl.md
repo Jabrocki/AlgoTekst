@@ -1,5 +1,5 @@
 ---
-name: Nectria cinnabarina
+latin_name: Nectria cinnabarina
 source: https://www.nagrzyby.pl/atlas/141
 ---
 

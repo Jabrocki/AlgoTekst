@@ -1,5 +1,5 @@
 ---
-name: Heliocybe sulcata
+latin_name: Heliocybe sulcata
 source: https://www.nagrzyby.pl/atlas/804
 ---
 

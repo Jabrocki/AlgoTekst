@@ -1,5 +1,5 @@
 ---
-name: Pluteus plautus
+latin_name: Pluteus plautus
 source: https://www.nagrzyby.pl/atlas/4341
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Hymenogaster asterigmatus
+latin_name: Hymenogaster asterigmatus
 source: https://www.nagrzyby.pl/atlas/5839
 ---
 

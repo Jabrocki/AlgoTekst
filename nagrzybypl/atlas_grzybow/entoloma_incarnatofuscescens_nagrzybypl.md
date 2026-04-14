@@ -1,5 +1,5 @@
 ---
-name: Entoloma incarnatofuscescens
+latin_name: Entoloma incarnatofuscescens
 source: https://www.nagrzyby.pl/atlas/4766
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Cladonia uncialis
+latin_name: Cladonia uncialis
 source: https://www.nagrzyby.pl/atlas/5159
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Pholiota limonella
+latin_name: Pholiota limonella
 source: https://www.nagrzyby.pl/atlas/1405
 ---
 

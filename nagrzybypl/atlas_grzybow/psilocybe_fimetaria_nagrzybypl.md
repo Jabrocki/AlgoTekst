@@ -1,5 +1,5 @@
 ---
-name: Psilocybe fimetaria
+latin_name: Psilocybe fimetaria
 source: https://www.nagrzyby.pl/atlas/1749
 ---
 

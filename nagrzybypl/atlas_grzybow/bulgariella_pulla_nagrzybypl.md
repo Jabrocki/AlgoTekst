@@ -1,5 +1,5 @@
 ---
-name: Bulgariella pulla
+latin_name: Bulgariella pulla
 source: https://www.nagrzyby.pl/atlas/5793
 ---
 

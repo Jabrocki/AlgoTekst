@@ -1,5 +1,5 @@
 ---
-name: Cladonia macrophylla
+latin_name: Cladonia macrophylla
 source: https://www.nagrzyby.pl/atlas/5655
 ---
 

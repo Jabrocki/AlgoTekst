@@ -1,5 +1,5 @@
 ---
-name: Phaeophyscia nigricans
+latin_name: Phaeophyscia nigricans
 source: https://www.nagrzyby.pl/atlas/5453
 ---
 

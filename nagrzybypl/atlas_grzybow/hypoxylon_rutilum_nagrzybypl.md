@@ -1,5 +1,5 @@
 ---
-name: Hypoxylon rutilum
+latin_name: Hypoxylon rutilum
 source: https://www.nagrzyby.pl/atlas/21
 ---
 

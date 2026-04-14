@@ -1,5 +1,5 @@
 ---
-name: Lichenomphalia hudsoniana
+latin_name: Lichenomphalia hudsoniana
 source: https://www.nagrzyby.pl/atlas/5364
 ---
 

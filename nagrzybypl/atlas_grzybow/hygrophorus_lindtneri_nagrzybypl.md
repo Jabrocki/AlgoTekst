@@ -1,5 +1,5 @@
 ---
-name: Hygrophorus lindtneri
+latin_name: Hygrophorus lindtneri
 source: https://www.nagrzyby.pl/atlas/4547
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Lepiota clypeolaria
+latin_name: Lepiota clypeolaria
 source: https://www.nagrzyby.pl/atlas/536
 ---
 

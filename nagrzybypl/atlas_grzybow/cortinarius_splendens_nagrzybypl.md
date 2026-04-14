@@ -1,5 +1,5 @@
 ---
-name: Cortinarius splendens
+latin_name: Cortinarius splendens
 source: https://www.nagrzyby.pl/atlas/2247
 ---
 

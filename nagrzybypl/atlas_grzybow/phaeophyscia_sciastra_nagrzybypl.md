@@ -1,5 +1,5 @@
 ---
-name: Phaeophyscia sciastra
+latin_name: Phaeophyscia sciastra
 source: https://www.nagrzyby.pl/atlas/5629
 ---
 

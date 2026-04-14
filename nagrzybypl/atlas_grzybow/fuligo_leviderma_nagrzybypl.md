@@ -1,5 +1,5 @@
 ---
-name: Fuligo leviderma
+latin_name: Fuligo leviderma
 source: https://www.nagrzyby.pl/atlas/1718
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Coprinus ephemeroides
+latin_name: Coprinus ephemeroides
 source: https://www.nagrzyby.pl/atlas/2067
 ---
 

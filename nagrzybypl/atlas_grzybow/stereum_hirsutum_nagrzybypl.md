@@ -1,5 +1,5 @@
 ---
-name: Stereum hirsutum
+latin_name: Stereum hirsutum
 source: https://www.nagrzyby.pl/atlas/542
 ---
 

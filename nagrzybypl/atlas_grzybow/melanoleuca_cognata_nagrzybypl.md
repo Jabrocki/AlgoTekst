@@ -1,5 +1,5 @@
 ---
-name: Melanoleuca cognata
+latin_name: Melanoleuca cognata
 source: https://www.nagrzyby.pl/atlas/90
 ---
 

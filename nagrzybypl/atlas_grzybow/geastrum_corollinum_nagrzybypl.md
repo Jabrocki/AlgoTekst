@@ -1,5 +1,5 @@
 ---
-name: Geastrum corollinum
+latin_name: Geastrum corollinum
 source: https://www.nagrzyby.pl/atlas/830
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Leccinum versipelle
+latin_name: Leccinum versipelle
 source: https://www.nagrzyby.pl/atlas/69
 ---
 

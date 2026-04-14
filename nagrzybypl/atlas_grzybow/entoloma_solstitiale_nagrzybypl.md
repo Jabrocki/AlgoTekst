@@ -1,5 +1,5 @@
 ---
-name: Entoloma solstitiale
+latin_name: Entoloma solstitiale
 source: https://www.nagrzyby.pl/atlas/4794
 ---
 

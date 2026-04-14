@@ -1,5 +1,5 @@
 ---
-name: Conocybe subovalis
+latin_name: Conocybe subovalis
 source: https://www.nagrzyby.pl/atlas/2050
 ---
 

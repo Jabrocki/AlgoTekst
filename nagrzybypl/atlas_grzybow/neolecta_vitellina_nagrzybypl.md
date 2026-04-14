@@ -1,5 +1,5 @@
 ---
-name: Neolecta vitellina
+latin_name: Neolecta vitellina
 source: https://www.nagrzyby.pl/atlas/5004
 ---
 

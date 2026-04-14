@@ -1,5 +1,5 @@
 ---
-name: Inocybe fuligineoatra
+latin_name: Inocybe fuligineoatra
 source: https://www.nagrzyby.pl/atlas/2348
 ---
 

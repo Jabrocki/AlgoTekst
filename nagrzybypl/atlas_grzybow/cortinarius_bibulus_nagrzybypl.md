@@ -1,5 +1,5 @@
 ---
-name: Cortinarius bibulus
+latin_name: Cortinarius bibulus
 source: https://www.nagrzyby.pl/atlas/2132
 ---
 

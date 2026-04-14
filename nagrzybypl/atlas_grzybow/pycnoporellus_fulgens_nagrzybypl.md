@@ -1,5 +1,5 @@
 ---
-name: Pycnoporellus fulgens
+latin_name: Pycnoporellus fulgens
 source: https://www.nagrzyby.pl/atlas/1111
 ---
 

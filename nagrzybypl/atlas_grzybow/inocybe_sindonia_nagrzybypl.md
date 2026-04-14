@@ -1,5 +1,5 @@
 ---
-name: Inocybe sindonia
+latin_name: Inocybe sindonia
 source: https://www.nagrzyby.pl/atlas/2339
 ---
 

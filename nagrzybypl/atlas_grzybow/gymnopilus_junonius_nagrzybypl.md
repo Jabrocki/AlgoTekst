@@ -1,5 +1,5 @@
 ---
-name: Gymnopilus junonius
+latin_name: Gymnopilus junonius
 source: https://www.nagrzyby.pl/atlas/640
 ---
 

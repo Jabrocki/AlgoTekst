@@ -1,5 +1,5 @@
 ---
-name: Peziza howsei
+latin_name: Peziza howsei
 source: https://www.nagrzyby.pl/atlas/1288
 ---
 

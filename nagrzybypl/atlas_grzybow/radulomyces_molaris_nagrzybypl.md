@@ -1,5 +1,5 @@
 ---
-name: Radulomyces molaris
+latin_name: Radulomyces molaris
 source: https://www.nagrzyby.pl/atlas/1663
 ---
 

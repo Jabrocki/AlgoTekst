@@ -1,5 +1,5 @@
 ---
-name: Cortinarius cumatilis
+latin_name: Cortinarius cumatilis
 source: https://www.nagrzyby.pl/atlas/2152
 ---
 

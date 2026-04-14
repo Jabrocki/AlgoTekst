@@ -1,5 +1,5 @@
 ---
-name: Lactarius lilacinus
+latin_name: Lactarius lilacinus
 source: https://www.nagrzyby.pl/atlas/1804
 ---
 

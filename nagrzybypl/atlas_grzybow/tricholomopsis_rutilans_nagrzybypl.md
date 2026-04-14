@@ -1,5 +1,5 @@
 ---
-name: Tricholomopsis rutilans
+latin_name: Tricholomopsis rutilans
 source: https://www.nagrzyby.pl/atlas/347
 ---
 

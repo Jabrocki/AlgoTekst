@@ -1,5 +1,5 @@
 ---
-name: Microstoma protractum
+latin_name: Microstoma protractum
 source: https://www.nagrzyby.pl/atlas/611
 ---
 

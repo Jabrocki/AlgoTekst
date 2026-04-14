@@ -1,5 +1,5 @@
 ---
-name: Trametes suaveolens
+latin_name: Trametes suaveolens
 source: https://www.nagrzyby.pl/atlas/708
 ---
 

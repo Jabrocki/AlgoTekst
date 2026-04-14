@@ -1,5 +1,5 @@
 ---
-name: Phlebia lilascens
+latin_name: Phlebia lilascens
 source: https://www.nagrzyby.pl/atlas/4350
 ---
 

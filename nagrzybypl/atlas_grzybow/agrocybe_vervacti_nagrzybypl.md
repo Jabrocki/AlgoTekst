@@ -1,5 +1,5 @@
 ---
-name: Agrocybe vervacti
+latin_name: Agrocybe vervacti
 source: https://www.nagrzyby.pl/atlas/1848
 ---
 

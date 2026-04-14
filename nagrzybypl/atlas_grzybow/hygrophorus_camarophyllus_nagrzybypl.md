@@ -1,5 +1,5 @@
 ---
-name: Hygrophorus camarophyllus
+latin_name: Hygrophorus camarophyllus
 source: https://www.nagrzyby.pl/atlas/1247
 ---
 

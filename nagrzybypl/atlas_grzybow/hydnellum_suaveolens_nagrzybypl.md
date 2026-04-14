@@ -1,5 +1,5 @@
 ---
-name: Hydnellum suaveolens
+latin_name: Hydnellum suaveolens
 source: https://www.nagrzyby.pl/atlas/187
 ---
 

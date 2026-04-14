@@ -1,5 +1,5 @@
 ---
-name: Entoloma cetratum
+latin_name: Entoloma cetratum
 source: https://www.nagrzyby.pl/atlas/4021
 ---
 

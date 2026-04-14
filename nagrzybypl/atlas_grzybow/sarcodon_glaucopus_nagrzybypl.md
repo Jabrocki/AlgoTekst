@@ -1,5 +1,5 @@
 ---
-name: Sarcodon glaucopus
+latin_name: Sarcodon glaucopus
 source: https://www.nagrzyby.pl/atlas/4269
 ---
 

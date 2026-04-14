@@ -1,5 +1,5 @@
 ---
-name: Octaviania neuhoffii
+latin_name: Octaviania neuhoffii
 source: https://www.nagrzyby.pl/atlas/4437
 ---
 

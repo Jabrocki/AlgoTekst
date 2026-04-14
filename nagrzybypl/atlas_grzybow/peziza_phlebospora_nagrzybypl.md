@@ -1,5 +1,5 @@
 ---
-name: Peziza phlebospora
+latin_name: Peziza phlebospora
 source: https://www.nagrzyby.pl/atlas/1309
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Leotia viscosa
+latin_name: Leotia viscosa
 source: https://www.nagrzyby.pl/atlas/5928
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Inocybe haemacta
+latin_name: Inocybe haemacta
 source: https://www.nagrzyby.pl/atlas/2401
 ---
 

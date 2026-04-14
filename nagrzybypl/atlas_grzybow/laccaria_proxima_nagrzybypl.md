@@ -1,5 +1,5 @@
 ---
-name: Laccaria proxima
+latin_name: Laccaria proxima
 source: https://www.nagrzyby.pl/atlas/412
 ---
 

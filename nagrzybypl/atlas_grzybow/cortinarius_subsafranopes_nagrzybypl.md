@@ -1,5 +1,5 @@
 ---
-name: Cortinarius subsafranopes
+latin_name: Cortinarius subsafranopes
 source: https://www.nagrzyby.pl/atlas/2254
 ---
 

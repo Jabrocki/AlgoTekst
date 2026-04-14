@@ -1,5 +1,5 @@
 ---
-name: Peziza arvernensis
+latin_name: Peziza arvernensis
 source: https://www.nagrzyby.pl/atlas/1291
 ---
 

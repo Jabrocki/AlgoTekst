@@ -1,5 +1,5 @@
 ---
-name: Psilocybe mexicana
+latin_name: Psilocybe mexicana
 source: https://www.nagrzyby.pl/atlas/1752
 ---
 

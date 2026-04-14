@@ -1,5 +1,5 @@
 ---
-name: Inocybe griseovelata
+latin_name: Inocybe griseovelata
 source: https://www.nagrzyby.pl/atlas/2355
 ---
 

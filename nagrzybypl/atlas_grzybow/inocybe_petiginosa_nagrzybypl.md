@@ -1,5 +1,5 @@
 ---
-name: Inocybe petiginosa
+latin_name: Inocybe petiginosa
 source: https://www.nagrzyby.pl/atlas/903
 ---
 

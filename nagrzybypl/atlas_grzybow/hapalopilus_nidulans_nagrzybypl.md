@@ -1,5 +1,5 @@
 ---
-name: Hapalopilus nidulans
+latin_name: Hapalopilus nidulans
 source: https://www.nagrzyby.pl/atlas/221
 ---
 

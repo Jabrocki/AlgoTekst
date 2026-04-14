@@ -1,5 +1,5 @@
 ---
-name: Conocybe brunnea
+latin_name: Conocybe brunnea
 source: https://www.nagrzyby.pl/atlas/2023
 ---
 

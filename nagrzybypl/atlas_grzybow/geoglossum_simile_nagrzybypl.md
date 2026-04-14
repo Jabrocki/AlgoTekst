@@ -1,5 +1,5 @@
 ---
-name: Geoglossum simile
+latin_name: Geoglossum simile
 source: https://www.nagrzyby.pl/atlas/5802
 ---
 

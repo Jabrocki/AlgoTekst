@@ -1,5 +1,5 @@
 ---
-name: Inocybe napipes
+latin_name: Inocybe napipes
 source: https://www.nagrzyby.pl/atlas/904
 ---
 

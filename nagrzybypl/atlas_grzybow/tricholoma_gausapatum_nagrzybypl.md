@@ -1,5 +1,5 @@
 ---
-name: Tricholoma gausapatum
+latin_name: Tricholoma gausapatum
 source: https://www.nagrzyby.pl/atlas/4248
 ---
 

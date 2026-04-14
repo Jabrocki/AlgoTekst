@@ -1,5 +1,5 @@
 ---
-name: Physcia adscendens
+latin_name: Physcia adscendens
 source: https://www.nagrzyby.pl/atlas/5327
 ---
 

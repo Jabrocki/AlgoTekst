@@ -1,5 +1,5 @@
 ---
-name: Mycena atrocyanea
+latin_name: Mycena atrocyanea
 source: https://www.nagrzyby.pl/atlas/2411
 ---
 

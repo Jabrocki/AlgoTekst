@@ -1,5 +1,5 @@
 ---
-name: Hygrocybe intermedia
+latin_name: Hygrocybe intermedia
 source: https://www.nagrzyby.pl/atlas/1421
 ---
 

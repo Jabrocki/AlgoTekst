@@ -1,5 +1,5 @@
 ---
-name: Phlebia mellea
+latin_name: Phlebia mellea
 source: https://www.nagrzyby.pl/atlas/4352
 ---
 

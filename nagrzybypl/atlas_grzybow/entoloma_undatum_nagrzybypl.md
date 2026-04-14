@@ -1,5 +1,5 @@
 ---
-name: Entoloma undatum
+latin_name: Entoloma undatum
 source: https://www.nagrzyby.pl/atlas/4799
 ---
 

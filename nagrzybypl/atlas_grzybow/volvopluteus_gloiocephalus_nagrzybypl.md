@@ -1,5 +1,5 @@
 ---
-name: Volvopluteus gloiocephalus
+latin_name: Volvopluteus gloiocephalus
 source: https://www.nagrzyby.pl/atlas/318
 ---
 

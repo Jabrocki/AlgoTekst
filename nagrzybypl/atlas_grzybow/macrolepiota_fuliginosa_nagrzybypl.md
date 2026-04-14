@@ -1,5 +1,5 @@
 ---
-name: Macrolepiota fuliginosa
+latin_name: Macrolepiota fuliginosa
 source: https://www.nagrzyby.pl/atlas/4539
 ---
 

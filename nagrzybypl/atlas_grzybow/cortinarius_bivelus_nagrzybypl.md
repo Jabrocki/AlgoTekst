@@ -1,5 +1,5 @@
 ---
-name: Cortinarius bivelus
+latin_name: Cortinarius bivelus
 source: https://www.nagrzyby.pl/atlas/2135
 ---
 

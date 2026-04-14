@@ -1,5 +1,5 @@
 ---
-name: Crepidotus variabilis
+latin_name: Crepidotus variabilis
 source: https://www.nagrzyby.pl/atlas/687
 ---
 

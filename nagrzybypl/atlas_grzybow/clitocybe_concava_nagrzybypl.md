@@ -1,5 +1,5 @@
 ---
-name: Clitocybe concava
+latin_name: Clitocybe concava
 source: https://www.nagrzyby.pl/atlas/1599
 ---
 

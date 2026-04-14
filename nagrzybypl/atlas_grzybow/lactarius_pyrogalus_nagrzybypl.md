@@ -1,5 +1,5 @@
 ---
-name: Lactarius pyrogalus
+latin_name: Lactarius pyrogalus
 source: https://www.nagrzyby.pl/atlas/941
 ---
 

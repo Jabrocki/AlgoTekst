@@ -1,5 +1,5 @@
 ---
-name: Cortinarius bovinus
+latin_name: Cortinarius bovinus
 source: https://www.nagrzyby.pl/atlas/2136
 ---
 

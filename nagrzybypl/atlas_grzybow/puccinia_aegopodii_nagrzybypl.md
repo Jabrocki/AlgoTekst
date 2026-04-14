@@ -1,5 +1,5 @@
 ---
-name: Puccinia aegopodii
+latin_name: Puccinia aegopodii
 source: https://www.nagrzyby.pl/atlas/5581
 ---
 

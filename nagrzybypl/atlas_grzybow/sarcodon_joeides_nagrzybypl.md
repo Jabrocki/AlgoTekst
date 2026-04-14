@@ -1,5 +1,5 @@
 ---
-name: Sarcodon joeides
+latin_name: Sarcodon joeides
 source: https://www.nagrzyby.pl/atlas/4871
 ---
 

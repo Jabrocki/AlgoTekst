@@ -1,5 +1,5 @@
 ---
-name: Stereum reflexulum
+latin_name: Stereum reflexulum
 source: https://www.nagrzyby.pl/atlas/2676
 ---
 

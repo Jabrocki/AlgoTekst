@@ -1,5 +1,5 @@
 ---
-name: Typhula contorta
+latin_name: Typhula contorta
 source: https://www.nagrzyby.pl/atlas/5570
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Leccinum oxydabile
+latin_name: Leccinum oxydabile
 source: https://www.nagrzyby.pl/atlas/794
 ---
 

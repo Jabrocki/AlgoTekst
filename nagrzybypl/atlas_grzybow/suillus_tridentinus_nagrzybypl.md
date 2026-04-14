@@ -1,5 +1,5 @@
 ---
-name: Suillus tridentinus
+latin_name: Suillus tridentinus
 source: https://www.nagrzyby.pl/atlas/614
 ---
 

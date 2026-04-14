@@ -1,5 +1,5 @@
 ---
-name: Psathyrella piluliformis
+latin_name: Psathyrella piluliformis
 source: https://www.nagrzyby.pl/atlas/439
 ---
 

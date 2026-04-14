@@ -1,5 +1,5 @@
 ---
-name: Leucopaxillus giganteus
+latin_name: Leucopaxillus giganteus
 source: https://www.nagrzyby.pl/atlas/2315
 ---
 

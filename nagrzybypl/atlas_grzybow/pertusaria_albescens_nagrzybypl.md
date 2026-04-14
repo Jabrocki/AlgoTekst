@@ -1,5 +1,5 @@
 ---
-name: Pertusaria albescens
+latin_name: Pertusaria albescens
 source: https://www.nagrzyby.pl/atlas/5391
 ---
 

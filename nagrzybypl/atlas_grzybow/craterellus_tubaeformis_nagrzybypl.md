@@ -1,5 +1,5 @@
 ---
-name: Craterellus tubaeformis
+latin_name: Craterellus tubaeformis
 source: https://www.nagrzyby.pl/atlas/327
 ---
 

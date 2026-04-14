@@ -1,5 +1,5 @@
 ---
-name: Gloeocystidiellum convolvens
+latin_name: Gloeocystidiellum convolvens
 source: https://www.nagrzyby.pl/atlas/4461
 ---
 

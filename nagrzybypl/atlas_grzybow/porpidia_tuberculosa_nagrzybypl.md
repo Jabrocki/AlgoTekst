@@ -1,5 +1,5 @@
 ---
-name: Porpidia tuberculosa
+latin_name: Porpidia tuberculosa
 source: https://www.nagrzyby.pl/atlas/5250
 ---
 

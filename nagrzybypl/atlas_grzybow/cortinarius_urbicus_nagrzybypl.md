@@ -1,5 +1,5 @@
 ---
-name: Cortinarius urbicus
+latin_name: Cortinarius urbicus
 source: https://www.nagrzyby.pl/atlas/2267
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Pholiota aurivella
+latin_name: Pholiota aurivella
 source: https://www.nagrzyby.pl/atlas/523
 ---
 

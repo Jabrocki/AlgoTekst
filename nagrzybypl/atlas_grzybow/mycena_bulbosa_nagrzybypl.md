@@ -1,5 +1,5 @@
 ---
-name: Mycena bulbosa
+latin_name: Mycena bulbosa
 source: https://www.nagrzyby.pl/atlas/2413
 ---
 

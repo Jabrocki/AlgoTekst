@@ -1,5 +1,5 @@
 ---
-name: Melanoleuca strictipes
+latin_name: Melanoleuca strictipes
 source: https://www.nagrzyby.pl/atlas/4386
 ---
 

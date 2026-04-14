@@ -1,5 +1,5 @@
 ---
-name: Hygrocybe calciphila
+latin_name: Hygrocybe calciphila
 source: https://www.nagrzyby.pl/atlas/4825
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Geastrum coronatum
+latin_name: Geastrum coronatum
 source: https://www.nagrzyby.pl/atlas/828
 ---
 

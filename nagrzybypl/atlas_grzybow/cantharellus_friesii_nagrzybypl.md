@@ -1,5 +1,5 @@
 ---
-name: Cantharellus friesii
+latin_name: Cantharellus friesii
 source: https://www.nagrzyby.pl/atlas/339
 ---
 

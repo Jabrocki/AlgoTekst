@@ -1,5 +1,5 @@
 ---
-name: Tremella obscura
+latin_name: Tremella obscura
 source: https://www.nagrzyby.pl/atlas/4189
 ---
 

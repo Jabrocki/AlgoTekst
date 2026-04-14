@@ -1,5 +1,5 @@
 ---
-name: Clitocybe pruinosa
+latin_name: Clitocybe pruinosa
 source: https://www.nagrzyby.pl/atlas/1570
 ---
 

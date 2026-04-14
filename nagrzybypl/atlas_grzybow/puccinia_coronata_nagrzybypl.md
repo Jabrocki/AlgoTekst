@@ -1,5 +1,5 @@
 ---
-name: Puccinia coronata
+latin_name: Puccinia coronata
 source: https://www.nagrzyby.pl/atlas/4862
 ---
 

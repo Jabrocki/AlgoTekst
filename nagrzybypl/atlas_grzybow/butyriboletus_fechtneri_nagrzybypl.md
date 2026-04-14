@@ -1,5 +1,5 @@
 ---
-name: Butyriboletus fechtneri
+latin_name: Butyriboletus fechtneri
 source: https://www.nagrzyby.pl/atlas/755
 ---
 

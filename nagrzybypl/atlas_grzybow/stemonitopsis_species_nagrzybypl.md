@@ -1,5 +1,5 @@
 ---
-name: Stemonitopsis species
+latin_name: Stemonitopsis species
 source: https://www.nagrzyby.pl/atlas/5059
 ---
 

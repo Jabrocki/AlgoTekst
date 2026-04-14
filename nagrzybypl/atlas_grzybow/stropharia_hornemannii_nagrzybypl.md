@@ -1,5 +1,5 @@
 ---
-name: Stropharia hornemannii
+latin_name: Stropharia hornemannii
 source: https://www.nagrzyby.pl/atlas/1494
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Peniophora polygonia
+latin_name: Peniophora polygonia
 source: https://www.nagrzyby.pl/atlas/4528
 ---
 

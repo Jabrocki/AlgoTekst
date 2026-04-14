@@ -1,5 +1,5 @@
 ---
-name: Mycoacia aurea
+latin_name: Mycoacia aurea
 source: https://www.nagrzyby.pl/atlas/4381
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Russula ionochlora
+latin_name: Russula ionochlora
 source: https://www.nagrzyby.pl/atlas/770
 ---
 

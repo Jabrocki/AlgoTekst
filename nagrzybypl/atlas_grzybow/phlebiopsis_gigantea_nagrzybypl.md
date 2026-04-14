@@ -1,5 +1,5 @@
 ---
-name: Phlebiopsis gigantea
+latin_name: Phlebiopsis gigantea
 source: https://www.nagrzyby.pl/atlas/5096
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Chrysothrix chlorina
+latin_name: Chrysothrix chlorina
 source: https://www.nagrzyby.pl/atlas/5218
 ---
 

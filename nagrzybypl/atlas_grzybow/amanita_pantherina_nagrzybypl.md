@@ -1,5 +1,5 @@
 ---
-name: Amanita pantherina
+latin_name: Amanita pantherina
 source: https://www.nagrzyby.pl/atlas/288
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Variospora velana
+latin_name: Variospora velana
 source: https://www.nagrzyby.pl/atlas/5562
 ---
 

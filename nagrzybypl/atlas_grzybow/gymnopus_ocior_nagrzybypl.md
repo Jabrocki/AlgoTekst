@@ -1,5 +1,5 @@
 ---
-name: Gymnopus ocior
+latin_name: Gymnopus ocior
 source: https://www.nagrzyby.pl/atlas/1445
 ---
 

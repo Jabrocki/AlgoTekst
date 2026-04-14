@@ -1,5 +1,5 @@
 ---
-name: Psilocybe pseudobullacea
+latin_name: Psilocybe pseudobullacea
 source: https://www.nagrzyby.pl/atlas/1920
 ---
 

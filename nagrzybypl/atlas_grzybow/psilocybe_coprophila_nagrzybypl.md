@@ -1,5 +1,5 @@
 ---
-name: Psilocybe coprophila
+latin_name: Psilocybe coprophila
 source: https://www.nagrzyby.pl/atlas/1327
 ---
 

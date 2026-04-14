@@ -1,5 +1,5 @@
 ---
-name: Hohenbuehelia petaloides
+latin_name: Hohenbuehelia petaloides
 source: https://www.nagrzyby.pl/atlas/797
 ---
 

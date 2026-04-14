@@ -1,5 +1,5 @@
 ---
-name: Rubroboletus legaliae
+latin_name: Rubroboletus legaliae
 source: https://www.nagrzyby.pl/atlas/456
 ---
 

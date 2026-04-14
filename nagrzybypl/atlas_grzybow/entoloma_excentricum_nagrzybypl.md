@@ -1,5 +1,5 @@
 ---
-name: Entoloma excentricum
+latin_name: Entoloma excentricum
 source: https://www.nagrzyby.pl/atlas/4281
 ---
 

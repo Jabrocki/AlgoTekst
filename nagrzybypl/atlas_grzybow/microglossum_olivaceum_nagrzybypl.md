@@ -1,5 +1,5 @@
 ---
-name: Microglossum olivaceum
+latin_name: Microglossum olivaceum
 source: https://www.nagrzyby.pl/atlas/5790
 ---
 

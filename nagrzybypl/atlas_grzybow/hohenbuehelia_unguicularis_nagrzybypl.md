@@ -1,5 +1,5 @@
 ---
-name: Hohenbuehelia unguicularis
+latin_name: Hohenbuehelia unguicularis
 source: https://www.nagrzyby.pl/atlas/4840
 ---
 

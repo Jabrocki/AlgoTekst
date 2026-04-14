@@ -1,5 +1,5 @@
 ---
-name: Conocybe coprophila
+latin_name: Conocybe coprophila
 source: https://www.nagrzyby.pl/atlas/2025
 ---
 

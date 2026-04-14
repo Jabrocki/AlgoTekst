@@ -1,5 +1,5 @@
 ---
-name: Cetraria islandica
+latin_name: Cetraria islandica
 source: https://www.nagrzyby.pl/atlas/5382
 ---
 

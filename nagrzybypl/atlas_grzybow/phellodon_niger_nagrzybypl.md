@@ -1,5 +1,5 @@
 ---
-name: Phellodon niger
+latin_name: Phellodon niger
 source: https://www.nagrzyby.pl/atlas/499
 ---
 

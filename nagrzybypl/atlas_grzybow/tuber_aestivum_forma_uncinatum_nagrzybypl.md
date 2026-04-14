@@ -1,5 +1,5 @@
 ---
-name: Tuber aestivum forma uncinatum
+latin_name: Tuber aestivum forma uncinatum
 source: https://www.nagrzyby.pl/atlas/5817
 ---
 

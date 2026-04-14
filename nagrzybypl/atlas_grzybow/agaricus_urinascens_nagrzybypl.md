@@ -1,5 +1,5 @@
 ---
-name: Agaricus urinascens
+latin_name: Agaricus urinascens
 source: https://www.nagrzyby.pl/atlas/2399
 ---
 

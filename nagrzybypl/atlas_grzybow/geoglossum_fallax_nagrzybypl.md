@@ -1,5 +1,5 @@
 ---
-name: Geoglossum fallax
+latin_name: Geoglossum fallax
 source: https://www.nagrzyby.pl/atlas/501
 ---
 
