@@ -1,7 +1,8 @@
 import os
 from pathlib import Path
-from collections import defaultdict
+from collections import defaultdict, Counter
 import re
+import matplotlib.pyplot as plt
 
 
 def get_latin_name(path: Path) -> str:
@@ -29,12 +30,33 @@ def merger(file_sources: list[Path], out_dir: str):
             articles[latin_name].append(str(path))
 
     os.makedirs(out_dir, exist_ok=True)
+    no_sources = []
     for key, value in articles.items():
         texts = [Path(val).read_text(encoding="utf-8") for val in value]
         texts = "\n\n".join(texts)
+        if len(texts) <= 600:
+            continue
         header = f"#{key} \n#no_sources: {len(value)}\n\n"
         output = Path(os.path.join(out_dir, f"{key}.md"))
+        no_sources.append(len(value))
+        if len(value) > 3:
+            print(f"{key} has {len(value)} sources")
         output.write_text(header + texts, encoding="utf-8")
+    data_to_plot = Counter(no_sources).most_common(10)
+    _, axs = plt.subplots(2, 1, figsize=(10, 8))
+    axs[0].bar([str(x[0]) for x in data_to_plot], [x[1] for x in data_to_plot])
+    axs[0].set_xlabel("Number of sources")
+    axs[0].set_ylabel("Number of articles")
+    axs[0].set_title("Distribution of number of sources per article")
+    axs[1].bar(
+        [str(source) for source in file_sources],
+        [len(list(source.glob("*"))) for source in file_sources],
+    )
+    axs[1].set_xlabel("Source")
+    axs[1].set_ylabel("Number of articles")
+    axs[1].set_title("Number of articles per source")
+
+    plt.show()
 
 
 merger(
