@@ -3,10 +3,10 @@ import requests
 from urllib.parse import urljoin
 import time
 import os
-
+import re
 
 HEADERS = {
-    "User-Agent": "MushroomScraper/1.0 (kontakt: bartek.gryn12@gmail.com)"
+    "User-Agent": "MushroomScraper/1.0"
 }
 
 BASE_WIKI_URL = "https://pl.wikipedia.org/wiki/"
@@ -39,8 +39,6 @@ def get_mushroom_links():
     url = f"{API_BASE}Grzyby_jadalne"
 
     res = requests.get(url, headers=HEADERS)
-    print(f"Status: {res.status_code}")
-
     soup = BeautifulSoup(res.text, "lxml")
 
     mushroom_dict = {}
@@ -73,17 +71,42 @@ def get_mushroom_links():
             mushroom_name = link.get_text(strip=True)
             mushroom_dict[mushroom_name] = api_url
 
-    print(f"\nZnaleziono {len(mushroom_dict)} pozycji\n")
+    print(f"Znaleziono {len(mushroom_dict)} pozycji")
     return mushroom_dict
 
 
-def parse_to_markdown(html):
+def extract_names(first_paragraph):
+    match = re.search(r"^(.*?)\s*\((.*?)\)", first_paragraph)
+
+    if match:
+        polish = match.group(1).strip()
+        latin = match.group(2).strip()
+        return latin, polish
+
+    return "brak", "brak"
+
+
+def build_header(latin_name, polish_name, source):
+    return f"""---
+latin_name: {latin_name}
+polish_name: {polish_name}
+source: {source}
+---
+"""
+
+
+def parse_to_markdown(html, source):
     soup = BeautifulSoup(html, "lxml")
 
     for tag in soup.select("sup.reference, table, style"):
         tag.decompose()
 
     content = []
+
+    first_paragraph = soup.find('p').get_text()
+    latin_name, polish_name = extract_names(first_paragraph)
+
+    content.append(build_header(latin_name, polish_name, source))
 
     for tag in soup.find_all(["h1", "h2", "h3", "p"]):
         text = tag.get_text(strip=True)
@@ -124,7 +147,7 @@ def main():
                 print(f"pominięto: {name}")
                 continue
 
-            markdown = parse_to_markdown(res.text)
+            markdown = parse_to_markdown(res.text, api_url)
 
             filename = save_markdown(name, markdown)
 
