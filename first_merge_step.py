@@ -191,5 +191,6 @@ if __name__ == "__main__":
         Path("./ekologiapl/mushroom_data"),
         Path("./grzybypl/data"),
         Path("./nagrzybypl/atlas_grzybow"),
+        Path("./wikipedia/grzyby"),
     ]
     merge_mushroom_data(INPUT_SOURCES, "./data")

@@ -23,12 +23,12 @@ W lasach i poza nimi, na łąkach, pastwiskach, wilgotnych drogach gruntowych, p
 
 
 ---
-latin_name: Psathyrella prona
-source: https://www.nagrzyby.pl/atlas/1759
+latin_name: Psathyrella prona forma cana
+source: https://www.nagrzyby.pl/atlas/4737
 ---
 
-# Psathyrella prona
-# kruchaweczka przydrożna
+# Psathyrella prona forma cana
+# Psathyrella prona forma cana
 
 ## Podstawowe informacje
 Typ grzyba:
@@ -47,12 +47,12 @@ Sposób odżywiania:
 saprotrof
 
 ---
-latin_name: Psathyrella prona forma cana
-source: https://www.nagrzyby.pl/atlas/4737
+latin_name: Psathyrella prona
+source: https://www.nagrzyby.pl/atlas/1759
 ---
 
-# Psathyrella prona forma cana
-# Psathyrella prona forma cana
+# Psathyrella prona
+# kruchaweczka przydrożna
 
 ## Podstawowe informacje
 Typ grzyba:

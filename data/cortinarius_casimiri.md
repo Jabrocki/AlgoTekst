@@ -2,6 +2,19 @@
 #no_sources: 3
 
 ---
+latin_name: Cortinarius casimirii
+polish_name: Zasłonak brązowokakaowy
+source: https://grzyby.pl/gatunki/Cortinarius_casimirii_f._subsertipes.htm
+---
+
+# Zasłonak brązowokakaowy
+
+## Występowanie, ekologia
+
+Lasy mieszane, na ziemi, wśród mchów.
+
+
+---
 latin_name: Cortinarius casimiri
 polish_name: Zasłonak szarofioletowawy
 source: https://grzyby.pl/gatunki/Cortinarius_casimiri.htm
@@ -14,19 +27,6 @@ source: https://grzyby.pl/gatunki/Cortinarius_casimiri.htm
 W lasach mieszanych, w zaroślach, wśród mchów; na ziemi.
 
 Czerwona Lista [125 ] — R–rzadki - potencjalnie zagrożony wymarciem
-
-
----
-latin_name: Cortinarius casimirii
-polish_name: Zasłonak brązowokakaowy
-source: https://grzyby.pl/gatunki/Cortinarius_casimirii_f._subsertipes.htm
----
-
-# Zasłonak brązowokakaowy
-
-## Występowanie, ekologia
-
-Lasy mieszane, na ziemi, wśród mchów.
 
 
 ---
