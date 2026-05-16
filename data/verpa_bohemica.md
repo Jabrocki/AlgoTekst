@@ -1,5 +1,5 @@
 #verpa_bohemica
-#no_sources: 5
+#no_sources: 3
 
 ---
 latin_name: Verpa bohemica
@@ -36,37 +36,6 @@ Naparstniczka czeska jest bardzo smacznym grzybem jadalnym.
 
 ## Zastosowanie
 Naparstniczka czeska jest objęta częściową ochroną od 2014 roku. Jest bardzo smaczny po ugotowaniu czy usmażeniu. Owocniki nadają się do suszenia, jednak nie nadają się do marynowania.
-
-
----
-latin_name: Verpa bohemica
-polish_name: Naparstniczka czeska
-source: https://grzyby.pl/gatunki/Ptychoverpa_bohemica.htm
----
-
-# Naparstniczka czeska
-
-## Opis
-
-**Główka** ochrowobrązowa, żółtobrązowa, ciemnobrązowa; dzwonkowata, walcowata. 30-35 x 15-30 mm; z długimi, falistymi żebrami; przyrośnięta do trzonu jedynie na szczyie . **Miąższ** biały, konsystencji krucho-woskowatej; smak i zapach przyjemne.
-
-## Zarodniki
-
-Wysyp zarodników ochrowożółty. Zarodniki silnie wydłużone, elipsoidalne, żółtawe, bardzo duże, 50-80(100) z 15-25 µm. Worki z dwoma zarodnikami.
-
-## Występowanie
-
-Rzadka. Owocniki wyrastają wczesną wiosną, pojedynczo lub po kilka, w lasach liściastych, w miejscach wilgotnych, nad ciekami wodnymi.
-
-Czerwona Lista [125 ] — V–narażony na wymarcie
-
-## Jadalne czy trujące? 🟢
-
-Jadalna. W Polsce podlega ochronie. Dopuszczone do obrotu są egzemplarze "pochodzące spoza terytorium Rzeczypospolitej Polskiej.
-
-## Uwagi
-
-Na pierwszy rzut oka przypomina smardza stożkowatego ( Morchella conica ) lub smardza półwolnego ( Morchella gigas ) . Różni się od nich wolną główką i rodzajem żeber.
 
 
 ---
@@ -130,97 +99,46 @@ Zapach:
 grzybowy
 
 ---
-latin_name: Verpa bohemica (Krombh.
+latin_name: verpa bohemica
 polish_name: Naparstniczka czeska
-source: https://pl.wikipedia.org/api/rest_v1/page/html/Naparstniczka_czeska
+source: https://pl.wikipedia.org/wiki/Naparstniczka_czeska
 ---
+# Naparstniczka czeska 
+# verpa bohemica 
 
+Naparstniczka czeska (Verpa bohemica (Krombh.) J. Schröt.) – gatunek grzybów z rodziny smardzowatych (Morchellaceae).
 
-Naparstniczka czeska(Verpa bohemica(Krombh.) J. Schröt.) –gatunekgrzybów z rodzinysmardzowatych(Morchellaceae).
+## Systematyka i nazewnictwo 
 
+Pozycja w klasyfikacji według Index Fungorum: Morchellaceae, Pezizales, Pezizomycetidae, Pezizomycetes, Pezizomycotina, Ascomycota, Fungi.
 
-## Systematyka i nazewnictwo
-
-Pozycja w klasyfikacji wedługIndex Fungorum:Morchellaceae, Pezizales, Pezizomycetidae, Pezizomycetes, Pezizomycotina, Ascomycota, Fungi.
-
-Po raz pierwszytaksonten zdiagnozował w roku 1834Julius Vincenz von Krombholz, nadając mu nazwęMorchella bohemica. Obecną, uznaną przez Index Fungorum nazwę nadał mu w roku 1893Joseph Schröter, przenosząc go do rodzajuVerpa. Niektóresynonimy naukowe:
+Po raz pierwszy takson ten zdiagnozował w roku 1834 Julius Vincenz von Krombholz, nadając mu nazwę Morchella bohemica. Obecną, uznaną przez Index Fungorum nazwę nadał mu w roku 1893 Joseph Schröter, przenosząc go do rodzaju Verpa. Niektóre synonimy naukowe:
 
 Nazwa polska według M.A. Chmiel. W niektórych atlasach grzybów gatunek ten opisywany jest także jako smardzówka czeska (Ptychoverpa bohemica).
 
+## Morfologia 
 
-## Morfologia
+Zbudowany z główki i trzonka. Osiąga wysokość do 10–20 cm.
 
-Zbudowany zgłówkiitrzonka. Osiąga wysokość do 10–20 cm.
-
-O wysokości 2–5 cm, średnicy 2–4 cm i kształcie od stożkowatego do dzwonkowatego, przyrośnięta tylko na szczycie, cała reszta jest odstająca. Powierzchnia żeberkowana, pomiędzy niskimi, cienkimi pionowymi, falistymi i miejscami poprzecznie połączonymi żebrami znajdują sięalweole. Barwa od żółtobrązowej do ciemnobrązowej.
+O wysokości 2–5 cm, średnicy 2–4 cm i kształcie od stożkowatego do dzwonkowatego, przyrośnięta tylko na szczycie, cała reszta jest odstająca. Powierzchnia żeberkowana, pomiędzy niskimi, cienkimi pionowymi, falistymi i miejscami poprzecznie połączonymi żebrami znajdują się alweole. Barwa od żółtobrązowej do ciemnobrązowej.
 
 Wysokość 7–20 cm, grubość 1–2,5 cm, walcowaty, czasami spłaszczony i przegięty, początkowo watowaty, potem pusty, kruchy. Powierzchnia początkowo biaława z białawymi kosmkami, potem naga, kremowożółtawa z ochrowopomarańczowymi plamkami.
 
 Cienki, woskowaty, biały. Smak łagodny, zapach grzybowy.
 
-Workidwuzarodnikowe,zarodnikisilnie wydłużone, elipsoidalne, żółtawe, bardzo duże, 50-80(100) z 15-25 µm.
+Worki dwuzarodnikowe, zarodniki silnie wydłużone, elipsoidalne, żółtawe, bardzo duże, 50-80(100) z 15-25 µm.
 
-Smardz półwolnyodróżnia się tym, że ma główkę przyrośniętą na 1/3 do 1/2 długości.Naparstniczka stożkowata(Verpa conica), ma mniejsze owocniki, a powierzchnia główki nie jest pofałdowana.
+Smardz półwolny odróżnia się tym, że ma główkę przyrośniętą na 1/3 do 1/2 długości. Naparstniczka stożkowata (Verpa conica), ma mniejsze owocniki, a powierzchnia główki nie jest pofałdowana.
 
+## Występowanie i siedlisko 
 
-## Występowanie i siedlisko
+Naparstniczka czeska na półkuli północnej jest szeroko rozprzestrzeniona. W Polsce również występuje na całym obszarze. Do 2020 r. podano 120 jej stanowisk. Bardziej aktualne stanowiska podaje internetowy atlas grzybów. Znajduje się w nim na liście gatunków zagrożonych i wartych objęcia ochroną. W opracowaniu Czerwona lista roślin i grzybów Polski jest zaliczony do kategorii gatunków narażonych na wymarcie (V), które najprawdopodobniej w najbliższej przyszłości przesuną się do kategorii gatunków wymierających, jeśli nie znikną czynniki zagrażające. W latach 1983–2014 objęta ochroną ścisłą, a od 2014 r. – częściową.
 
-Naparstniczka czeska na półkuli północnej jest szeroko rozprzestrzeniona. W Polsce również występuje na całym obszarze. Do 2020 r. podano 120 jej stanowisk. Bardziej aktualne stanowiska podaje internetowy atlas grzybów. Znajduje się w nim na liście gatunków zagrożonych i wartych objęcia ochroną. W opracowaniuCzerwona lista roślin i grzybów Polskijest zaliczony do kategorii gatunków narażonych na wymarcie (V), które najprawdopodobniej w najbliższej przyszłości przesuną się do kategorii gatunków wymierających, jeśli nie znikną czynniki zagrażające. W latach 1983–2014 objęta ochroną ścisłą, a od 2014 r. – częściową.
+Naziemny grzyb saprotroficzny. Rośnie pojedynczo lub w grupach od marca do maja w lasach liściastych, zaroślach i parkach, zwłaszcza pod osikami, jesionami i olszami. Owocniki pojawiają się wczesną wiosną.
 
-Naziemnygrzyb saprotroficzny. Rośnie pojedynczo lub w grupach od marca do maja wlasach liściastych, zaroślach iparkach, zwłaszcza podosikami,jesionamiiolszami. Owocniki pojawiają się wczesną wiosną.
+## Znaczenie 
 
+Grzyb jadalny o dużych walorach kulinarnych.
 
-## Znaczenie
+## Przypisy 
 
-Grzyb jadalnyo dużych walorach kulinarnych.
-
-
-## Przypisy
-
----
-latin_name: Verpa bohemica (Krombh.
-polish_name: Naparstniczka czeska
-source: https://pl.wikipedia.org/api/rest_v1/page/html/Naparstniczka_czeska
----
-
-
-Naparstniczka czeska(Verpa bohemica(Krombh.) J. Schröt.) –gatunekgrzybów z rodzinysmardzowatych(Morchellaceae).
-
-
-## Systematyka i nazewnictwo
-
-Pozycja w klasyfikacji wedługIndex Fungorum:Morchellaceae, Pezizales, Pezizomycetidae, Pezizomycetes, Pezizomycotina, Ascomycota, Fungi.
-
-Po raz pierwszytaksonten zdiagnozował w roku 1834Julius Vincenz von Krombholz, nadając mu nazwęMorchella bohemica. Obecną, uznaną przez Index Fungorum nazwę nadał mu w roku 1893Joseph Schröter, przenosząc go do rodzajuVerpa. Niektóresynonimy naukowe:
-
-Nazwa polska według M.A. Chmiel. W niektórych atlasach grzybów gatunek ten opisywany jest także jako smardzówka czeska (Ptychoverpa bohemica).
-
-
-## Morfologia
-
-Zbudowany zgłówkiitrzonka. Osiąga wysokość do 10–20 cm.
-
-O wysokości 2–5 cm, średnicy 2–4 cm i kształcie od stożkowatego do dzwonkowatego, przyrośnięta tylko na szczycie, cała reszta jest odstająca. Powierzchnia żeberkowana, pomiędzy niskimi, cienkimi pionowymi, falistymi i miejscami poprzecznie połączonymi żebrami znajdują sięalweole. Barwa od żółtobrązowej do ciemnobrązowej.
-
-Wysokość 7–20 cm, grubość 1–2,5 cm, walcowaty, czasami spłaszczony i przegięty, początkowo watowaty, potem pusty, kruchy. Powierzchnia początkowo biaława z białawymi kosmkami, potem naga, kremowożółtawa z ochrowopomarańczowymi plamkami.
-
-Cienki, woskowaty, biały. Smak łagodny, zapach grzybowy.
-
-Workidwuzarodnikowe,zarodnikisilnie wydłużone, elipsoidalne, żółtawe, bardzo duże, 50-80(100) z 15-25 µm.
-
-Smardz półwolnyodróżnia się tym, że ma główkę przyrośniętą na 1/3 do 1/2 długości.Naparstniczka stożkowata(Verpa conica), ma mniejsze owocniki, a powierzchnia główki nie jest pofałdowana.
-
-
-## Występowanie i siedlisko
-
-Naparstniczka czeska na półkuli północnej jest szeroko rozprzestrzeniona. W Polsce również występuje na całym obszarze. Do 2020 r. podano 120 jej stanowisk. Bardziej aktualne stanowiska podaje internetowy atlas grzybów. Znajduje się w nim na liście gatunków zagrożonych i wartych objęcia ochroną. W opracowaniuCzerwona lista roślin i grzybów Polskijest zaliczony do kategorii gatunków narażonych na wymarcie (V), które najprawdopodobniej w najbliższej przyszłości przesuną się do kategorii gatunków wymierających, jeśli nie znikną czynniki zagrażające. W latach 1983–2014 objęta ochroną ścisłą, a od 2014 r. – częściową.
-
-Naziemnygrzyb saprotroficzny. Rośnie pojedynczo lub w grupach od marca do maja wlasach liściastych, zaroślach iparkach, zwłaszcza podosikami,jesionamiiolszami. Owocniki pojawiają się wczesną wiosną.
-
-
-## Znaczenie
-
-Grzyb jadalnyo dużych walorach kulinarnych.
-
-
-## Przypisy

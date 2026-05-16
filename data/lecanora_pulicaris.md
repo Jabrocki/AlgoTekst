@@ -1,14 +1,5 @@
 #lecanora_pulicaris
-#no_sources: 2
-
----
-latin_name: Lecanora pulicaris
-polish_name: Misecznica brązowa
-source: https://grzyby.pl/gatunki/Lecanora_pulicaris.htm
----
-
-# Misecznica brązowa
-
+#no_sources: 1
 
 ---
 latin_name: Lecanora pulicaris

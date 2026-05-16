@@ -1,20 +1,5 @@
 #hygrocybe_cantharellus
-#no_sources: 3
-
----
-latin_name: Hygrocybe cantharellus
-polish_name: Wilgotnica spinkowata
-source: https://grzyby.pl/gatunki/Hygrocybe_cantharellus.htm
----
-
-# Wilgotnica spinkowata
-
-## Występowanie, ekologia
-
-Na łąkach, torfowiskach i w wilgotnych lasach, zwłaszcza z olszami i mchami torfowcami; na ziemi, wśród mchów (np. sierpowiec zakrzywiony ( Drepanocladus aduncus ) ) i traw; sierpień-listopad.
-
-Czerwona Lista [125 ] — V–narażony na wymarcie
-
+#no_sources: 2
 
 ---
 latin_name: Hygrocybe cantharellus
@@ -65,25 +50,24 @@ Podłoże:
 gleba
 
 ---
-latin_name: Hygrocybe cantharellus (Fr.
-polish_name: Wilgotnica spinkowata, wilgotnica lejkowata
-source: https://pl.wikipedia.org/api/rest_v1/page/html/Wilgotnica_lejkowata
+latin_name: hygrocybe cantharellus
+polish_name: Wilgotnica spinkowata
+source: https://pl.wikipedia.org/wiki/Wilgotnica_spinkowata
 ---
+# Wilgotnica spinkowata 
+# hygrocybe cantharellus 
 
+Wilgotnica spinkowata, wilgotnica lejkowata (Hygrocybe cantharellus (Fr.) Murrill) – gatunek grzybów z rodziny wodnichowatych (Hygrophoraceae).
 
-Wilgotnica spinkowata, wilgotnica lejkowata (Hygrocybe cantharellus(Fr.) Murrill) –gatunekgrzybów z rodzinywodnichowatych(Hygrophoraceae).
+## Systematyka i nazewnictwo 
 
+Pozycja w klasyfikacji według Index Fungorum: Hygrophoraceae, Agaricales, Agaricomycetidae, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
 
-## Systematyka i nazewnictwo
+Po raz pierwszy takson ten zdiagnozował w 1838 r. Elias Fries, nadając mu nazwę Hygrophorus cantharellus. Obecną nazwę nadał mu w 1911 r. William Alphonso Murrill. Synonimy:
 
-Pozycja w klasyfikacji wedługIndex Fungorum:Hygrophoraceae, Agaricales, Agaricomycetidae, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
+Polską nazwę podała Barbara Gumińska w 1997 r. dla synonimu Hygrocybe lepida. W 2025 r. Komisja ds. Polskiego Nazewnictwa Grzybów przy Polskim Towarzystwie Mykologicznym dla nazwy naukowej Hygrocybe cantharellus zarekomendowała nazwę wilgotnica spinkowata.
 
-Po raz pierwszytaksonten zdiagnozował w 1838 r.Elias Fries, nadając mu nazwęHygrophorus cantharellus. Obecną nazwę nadał mu w 1911 r.William Alphonso Murrill.Synonimy:
-
-Polską nazwępodałaBarbara Gumińskaw 1997 r. dla synonimuHygrocybe lepida. W 2025 r. Komisja ds. Polskiego Nazewnictwa Grzybów przyPolskim Towarzystwie Mykologicznymdla nazwy naukowejHygrocybe cantharelluszarekomendowała nazwę wilgotnica spinkowata.
-
-
-## Morfologia
+## Morfologia 
 
 Średnica 1–3 cm, u młodych okazów wypukły, u starszych płaski, lub na środku wklęsły, a nawet lejkowaty. Brzeg długo pozostaje podwinięty, u starszych okazów często karbowany. Powierzchnia sucha, naga, lub drobnołuseczkowata (zwłaszcza na środku). Barwa od żółtopomarańczowej do szkarłatnej.
 
@@ -93,16 +77,15 @@ Wysokość 2–6 cm, grubość 0,2–0,3 cm, wysmukły, równowąski, lub zwęż
 
 Dość kruchy, o barwie od żółtej do czerwonopomarańczowej, w kapeluszu bardzo cienki, szczególnie przy brzegu. Bez wyraźnego zapachu, w smaku łagodny.
 
-Zarodniki9–12 × 5–6 μm, elipsoidalne lub prawie cylindryczne, gładkie, w KOH bezbarwne,nieamyloidalne.Podstawkio długości 35–45 μm z 4sterygmami. Brakcystyd.Strzępkiwtramieblaszek równoległe.Wysyp zarodnikówbiały.
+Zarodniki 9–12 × 5–6 μm, elipsoidalne lub prawie cylindryczne, gładkie, w KOH bezbarwne, nieamyloidalne. Podstawki o długości 35–45 μm z 4 sterygmami. Brak cystyd. Strzępki w tramie blaszek równoległe. Wysyp zarodników biały.
 
-Często mylona jest z bardzo podobnąwilgotnicą purpurową(Hygrocybe miniata). Różni się od niej jaśniejszym kolorem, zbiegającymi blaszkami, bardziej wysmukłym kształtem oraz suchą powierzchnią kapelusza.
+Często mylona jest z bardzo podobną wilgotnicą purpurową (Hygrocybe miniata). Różni się od niej jaśniejszym kolorem, zbiegającymi blaszkami, bardziej wysmukłym kształtem oraz suchą powierzchnią kapelusza.
 
+## Występowanie i siedlisko 
 
-## Występowanie i siedlisko
+Wilgotnica lejkowata jest szeroko rozprzestrzeniona w Ameryce Północnej, Środkowej, w Europie i na Nowej Zelandii. Podano jej występowanie także w Korei, Japonii i na Wyspach Kanaryjskich. W piśmiennictwie naukowym na terenie Polski do 2003 r. podano 7 stanowisk. Znajduje się na Czerwonej liście roślin i grzybów Polski. Ma status V – gatunek zagrożony wyginięciem. Znajduje się na listach gatunków zagrożonych także w Austrii, Czechach, Niemczech, Holandii.
 
-Wilgotnica lejkowata jest szeroko rozprzestrzeniona w Ameryce Północnej, Środkowej, w Europie i na Nowej Zelandii. Podano jej występowanie także w Korei, Japonii i na Wyspach Kanaryjskich. W piśmiennictwie naukowym na terenie Polski do 2003 r. podano 7 stanowisk. Znajduje się naCzerwonej liście roślin i grzybów Polski. Ma status V – gatunek zagrożony wyginięciem. Znajduje się na listach gatunków zagrożonych także w Austrii, Czechach, Niemczech, Holandii.
+Rośnie na ziemi w trawach, wśród mchów z rodzaju torfowiec i należących do gatunku sierpowiec zakrzywiony, szczególnie pod olchami. Owocniki wytwarza od sierpnia do listopada.
 
-Rośnie na ziemi w trawach, wśród mchów z rodzajutorfowieci należących do gatunkusierpowiec zakrzywiony, szczególnie pod olchami. Owocniki wytwarza od sierpnia do listopada.
+## Przypisy 
 
-
-## Przypisy

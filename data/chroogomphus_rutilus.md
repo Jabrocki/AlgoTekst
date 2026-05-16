@@ -1,5 +1,5 @@
 #chroogomphus_rutilus
-#no_sources: 4
+#no_sources: 3
 
 ---
 latin_name: Chroogomphus rutilus
@@ -92,27 +92,26 @@ Zapach:
 brak/nieokreślony
 
 ---
-latin_name: Chroogomphus rutilus (Schaeff.
+latin_name: chroogomphus rutilus
 polish_name: Klejek czerwonawy
-source: https://pl.wikipedia.org/api/rest_v1/page/html/Klejek_czerwonawy
+source: https://pl.wikipedia.org/wiki/Klejek_czerwonawy
 ---
+# Klejek czerwonawy 
+# chroogomphus rutilus 
 
+Klejek czerwonawy (Chroogomphus rutilus (Schaeff.) O.K. Mill.) – gatunek grzybów z rodziny klejówkowatych (Gomphidiaceae).
 
-Klejek czerwonawy(Chroogomphus rutilus(Schaeff.) O.K. Mill.) –gatunekgrzybów z rodzinyklejówkowatych(Gomphidiaceae).
+## Systematyka i nazewnictwo 
 
+Pozycja w klasyfikacji według Index Fungorum: Chroogomphus, Gomphidiaceae, Boletales, Agaricomycetidae, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
 
-## Systematyka i nazewnictwo
+Po raz pierwszy takson ten zdiagnozował w 1774 r. Jacob Christian Schäffer, nadając mu nazwę Agaricus rutilus. Obecną nazwę nadał mu w 1964 r. Orson Knapp Miller, przenosząc go do rodzaju Chroogomphus. Niektóre synonimy:
 
-Pozycja w klasyfikacji wedługIndex Fungorum:Chroogomphus, Gomphidiaceae, Boletales, Agaricomycetidae, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
+Nazwę polską zaproponował Władysław Wojewoda w 2003 r. W polskim piśmiennictwie mykologicznym gatunek ten opisywany był też pod nazwami: klejek lepki, bedłka lepak, klejówka mała, czop jemiołak, klejówka lepka.
 
-Po raz pierwszytaksonten zdiagnozował w 1774 r.Jacob Christian Schäffer, nadając mu nazwęAgaricus rutilus. Obecną nazwę nadał mu w 1964 r.Orson Knapp Miller, przenosząc go do rodzajuChroogomphus. Niektóresynonimy:
+## Morfologia 
 
-Nazwę polską zaproponowałWładysław Wojewodaw 2003 r. W polskim piśmiennictwie mykologicznym gatunek ten opisywany był też pod nazwami: klejek lepki, bedłka lepak, klejówka mała, czop jemiołak, klejówka lepka.
-
-
-## Morfologia
-
-Średnica 4–15cm. Za młodu wypukły z podwiniętym brzegiem, miedzianobrązowy, później trochę wyblakły; stary spłaszczony; wilgotny – silnie śluzowaty, suchy – gładki i błyszczący; bardzo gruby i mięsisty. Młode owocniki otoczone pajęczynowatąosłoną.
+Średnica 4–15 cm. Za młodu wypukły z podwiniętym brzegiem, miedzianobrązowy, później trochę wyblakły; stary spłaszczony; wilgotny – silnie śluzowaty, suchy – gładki i błyszczący; bardzo gruby i mięsisty. Młode owocniki otoczone pajęczynowatą osłoną.
 
 Najpierw miedzianoszare, po dojrzeniu ciemnopurpurowo-brązowe; bardzo grube i rzadkie; często rozwidlone i daleko zbiegające na trzon.
 
@@ -120,69 +119,19 @@ Długi i wysmukły, mięsisty, miedzianopomarańczowy do żółtobrązowawego, z
 
 Pomarańczowożółty, po naciśnięciu po pewnym czasie przebarwiony karminowo. W podstawie trzonu chromowożółty; bez zapachu i o łagodnym smaku.
 
-Oliwkowoczarny. Zarodniki wydłużone, elipsoidalno-wrzecionowate, gładkie, brązowożółte, o średnicy 17–23 × 5,5–7µm.
+Oliwkowoczarny. Zarodniki wydłużone, elipsoidalno-wrzecionowate, gładkie, brązowożółte, o średnicy 17–23 × 5,5–7 µm.
 
-Klejek alpejski(Chroogomphus helveticus), który ma filcowaty kapelusz. Jadalny.
+Klejek alpejski (Chroogomphus helveticus), który ma filcowaty kapelusz. Jadalny.
 
-
-## Występowanie i siedlisko
-
-Jest szeroko rozprzestrzeniony w Ameryce Północnej i Europie, podano jego stanowiska także w Korei i Japonii. W Polsce jest pospolity.
-
-Rośnie w lasach iglastych i mieszanych, na ziemi, podjodłą pospolitą,sosną zwyczajnąikosodrzewiną. Owocniki pojawiają się od lipca do listopada.
-
-
-## Znaczenie
-
-Grzyb mykoryzowy. Jestgrzybem jadalnymśredniej jakości. Nie powinien jednak być zbierany przez niezbyt doświadczonych grzybiarzy, istnieje bowiem możliwość pomylenia go z podobnymi, ale silnie trującymi gatunkami, np.zasłonak rudawy(Cortinarius rubellus) czyzasłonakiem rudym(Cortinarius orellanus).
-
-
-## Przypisy
-
----
-latin_name: Chroogomphus rutilus (Schaeff.
-polish_name: Klejek czerwonawy
-source: https://pl.wikipedia.org/api/rest_v1/page/html/Klejek_czerwonawy
----
-
-
-Klejek czerwonawy(Chroogomphus rutilus(Schaeff.) O.K. Mill.) –gatunekgrzybów z rodzinyklejówkowatych(Gomphidiaceae).
-
-
-## Systematyka i nazewnictwo
-
-Pozycja w klasyfikacji wedługIndex Fungorum:Chroogomphus, Gomphidiaceae, Boletales, Agaricomycetidae, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
-
-Po raz pierwszytaksonten zdiagnozował w 1774 r.Jacob Christian Schäffer, nadając mu nazwęAgaricus rutilus. Obecną nazwę nadał mu w 1964 r.Orson Knapp Miller, przenosząc go do rodzajuChroogomphus. Niektóresynonimy:
-
-Nazwę polską zaproponowałWładysław Wojewodaw 2003 r. W polskim piśmiennictwie mykologicznym gatunek ten opisywany był też pod nazwami: klejek lepki, bedłka lepak, klejówka mała, czop jemiołak, klejówka lepka.
-
-
-## Morfologia
-
-Średnica 4–15cm. Za młodu wypukły z podwiniętym brzegiem, miedzianobrązowy, później trochę wyblakły; stary spłaszczony; wilgotny – silnie śluzowaty, suchy – gładki i błyszczący; bardzo gruby i mięsisty. Młode owocniki otoczone pajęczynowatąosłoną.
-
-Najpierw miedzianoszare, po dojrzeniu ciemnopurpurowo-brązowe; bardzo grube i rzadkie; często rozwidlone i daleko zbiegające na trzon.
-
-Długi i wysmukły, mięsisty, miedzianopomarańczowy do żółtobrązowawego, z delikatnym, zygzakowatym wzorkiem z ochrowej osłony, w stanie suchym czasem ze zgrubiałą strefą pierścieniową.
-
-Pomarańczowożółty, po naciśnięciu po pewnym czasie przebarwiony karminowo. W podstawie trzonu chromowożółty; bez zapachu i o łagodnym smaku.
-
-Oliwkowoczarny. Zarodniki wydłużone, elipsoidalno-wrzecionowate, gładkie, brązowożółte, o średnicy 17–23 × 5,5–7µm.
-
-Klejek alpejski(Chroogomphus helveticus), który ma filcowaty kapelusz. Jadalny.
-
-
-## Występowanie i siedlisko
+## Występowanie i siedlisko 
 
 Jest szeroko rozprzestrzeniony w Ameryce Północnej i Europie, podano jego stanowiska także w Korei i Japonii. W Polsce jest pospolity.
 
-Rośnie w lasach iglastych i mieszanych, na ziemi, podjodłą pospolitą,sosną zwyczajnąikosodrzewiną. Owocniki pojawiają się od lipca do listopada.
+Rośnie w lasach iglastych i mieszanych, na ziemi, pod jodłą pospolitą, sosną zwyczajną i kosodrzewiną. Owocniki pojawiają się od lipca do listopada.
 
+## Znaczenie 
 
-## Znaczenie
+Grzyb mykoryzowy. Jest grzybem jadalnym średniej jakości. Nie powinien jednak być zbierany przez niezbyt doświadczonych grzybiarzy, istnieje bowiem możliwość pomylenia go z podobnymi, ale silnie trującymi gatunkami, np. zasłonak rudawy (Cortinarius rubellus) czy zasłonakiem rudym (Cortinarius orellanus).
 
-Grzyb mykoryzowy. Jestgrzybem jadalnymśredniej jakości. Nie powinien jednak być zbierany przez niezbyt doświadczonych grzybiarzy, istnieje bowiem możliwość pomylenia go z podobnymi, ale silnie trującymi gatunkami, np.zasłonak rudawy(Cortinarius rubellus) czyzasłonakiem rudym(Cortinarius orellanus).
+## Przypisy 
 
-
-## Przypisy

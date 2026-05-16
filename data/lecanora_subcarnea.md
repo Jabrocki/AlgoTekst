@@ -1,14 +1,5 @@
 #lecanora_subcarnea
-#no_sources: 2
-
----
-latin_name: Lecanora subcarnea
-polish_name: Misecznica wyblakła
-source: https://grzyby.pl/gatunki/Lecanora_subcarnea.htm
----
-
-# Misecznica wyblakła
-
+#no_sources: 1
 
 ---
 latin_name: Lecanora subcarnea

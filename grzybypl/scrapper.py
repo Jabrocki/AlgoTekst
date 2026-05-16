@@ -2,6 +2,7 @@ from bs4 import BeautifulSoup, Tag
 from bs4.element import NavigableString
 import requests
 import os
+import pathlib
 
 from concurrent.futures import ThreadPoolExecutor, wait, FIRST_COMPLETED
 from threading import Lock
@@ -10,6 +11,8 @@ from threading import Lock
 # Or maybe this is better https://grzyby.pl/system.htm
 
 visited_lock = Lock()
+
+DATA_DIR = os.path.join(pathlib.Path(__file__).parent, "data")
 
 
 def get_polish_name(soup: BeautifulSoup) -> str | None:
@@ -126,8 +129,16 @@ def scrap_from_url_grzybypl(url: str, visited: set[str]) -> list[str]:
         if texts:
             collected_sections.append((title, texts))
 
+    combined_text_length = sum(
+        len(text) for _, texts in collected_sections for text in texts
+    )
+
+    if combined_text_length < 900:
+        return new_links
+
     mushroom_filename = latin_name.replace(" ", "_").lower() + "_grzybypl.md"
-    mushroom_path = os.path.join(os.curdir, "data", mushroom_filename)
+
+    mushroom_path = os.path.join(DATA_DIR, mushroom_filename)
 
     with open(mushroom_path, "w", encoding="utf-8") as file:
         file.write("---\n")
@@ -170,8 +181,7 @@ def crawl(start_urls: list[str], max_workers: int = 10) -> None:
 
 
 if __name__ == "__main__":
-    data_dir = os.path.join(os.curdir, "data")
-    os.makedirs(data_dir, exist_ok=True)
+    os.makedirs(DATA_DIR, exist_ok=True)
     start_urls = [
         "https://grzyby.pl/system.htm",
         "https://grzyby.pl/atlas-grzybow-przyrodnika.htm",

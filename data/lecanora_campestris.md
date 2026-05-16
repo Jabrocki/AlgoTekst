@@ -1,14 +1,5 @@
 #lecanora_campestris
-#no_sources: 2
-
----
-latin_name: Lecanora campestris
-polish_name: Misecznica polna
-source: https://grzyby.pl/gatunki/Lecanora_campestris.htm
----
-
-# Misecznica polna
-
+#no_sources: 1
 
 ---
 latin_name: Lecanora campestris

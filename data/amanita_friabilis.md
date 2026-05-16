@@ -3,27 +3,6 @@
 
 ---
 latin_name: Amanita friabilis
-polish_name: Muchomor olszynowy
-source: https://grzyby.pl/gatunki/Amanita_friabilis.htm
----
-
-# Muchomor olszynowy
-
-## Owocnik
-
-**Kapelusz** jasnoszary, szarobeżowy do szarooliwkowego, ku centrum ciemniejszy; powierzchnia z nieregularnie rozłożonymi szarymi, szarobrązowymi łatkami, łatki nietrwałe; 30-60 mm średnicy, młody owalny, potem półkulisty, wypukły, płaski i z podniesionym brzegiem; powierzchnia gładka, matowa, blaszki prześwitują na odcinku 1/3 do brzegu kapelusza, brzeg ostry, rowkowany. **Trzon** białawy z szarobrązowymi kłaczkami; 50-100 x 5-12 mm, nieco rozszerzający się ku podstawie, pełny, z wiekiem pusty, kruchy; bez pierścienia; podstawa z niewielką bulwką, pochwa nietrwała, w postaci stref , pozostałości osłony, szara, szarobrązowa.
-
-## Zarodniki
-
-Wysyp zarodników biały. Zarodniki okrągławe, szerokoelipsoidalne, gładkie, przejrzyste, 8-12 x 6.5-9.5 µm.
-
-## Występowanie
-
-Rzadki. Od lata do jesieni, pojedynczo lub w grupach, pod różnymi gatunkami olchy .
-
-
----
-latin_name: Amanita friabilis
 source: https://www.nagrzyby.pl/atlas/1042
 ---
 
@@ -108,3 +87,42 @@ jesień
 ## Inne
 Zapach:
 brak/nieokreślony
+
+---
+latin_name: amanita friabilis
+polish_name: Muchomor olszynowy
+source: https://pl.wikipedia.org/wiki/Muchomor_olszynowy
+---
+# Muchomor olszynowy 
+# amanita friabilis 
+
+Muchomor olszynowy (Amanita friabilis (P. Karst.) Bas) – gatunek grzybów należący do rodziny muchomorowatych (Amanitaceae).
+
+## Systematyka i nazewnictwo 
+
+Pozycja w klasyfikacji według Index Fungorum: Amanita, Amanitaceae, Agaricales, Agaricomycetidae, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
+
+Po raz pierwszy opisał go w 1879 r. Petter Adolf Karsten, nadając mu nazwę Amanitopsis vaginata * friabilis. W 1974 r. Cornelis Bas przeniósł go do rodzaju Amanita. Pozostałe synonimy:
+
+Polską nazwę podaje internetowy atlas grzybów. Komisja ds. Polskiego Nazewnictwa Grzybów Polskiego Towarzystwa Mykologicznego zarekomendowała używanie nazwy muchomor olszynowy w 2025 r.
+
+## Morfologia 
+
+Średnica 2,8–7 cm, kształt płaskowypukły z lekko zagłębionym środkiem i z niskim garbkiem. Powierzchnia brązowa, naga. Brzeg prążkowany na 25–30% promienia. Pozostałości osłony występują w postaci gęsto osadzonych, trwałych brodawek o barwie od szarej do białawej.
+
+Gęste, sięgające wierzchołka trzonu, wąsko przyrośnięte, bladożółte do białawych.
+
+Wysokość 5–14 cm, grubość do 0,7 cm, pusty, blady, miejscami z brązowawymi łuseczkami. Pochwa wąska, przylegająca, pokryta brązowawymi brodawkami.
+
+Bazydiospory 10,1–12,1 × 8,5–9,8 (–10,8) µm, w odczynniku Melzera nieamyloidalne, prawie kuliste do szeroko elipsoidalnych (rzadko elipsoidalne, czasami odwrotnie jajowate). U nasady podstawek brak sprzążek.
+
+## Występowanie i siedlisko 
+
+Znany jest głównie w Europie, poza nią nieliczne stanowiska podano w Ameryce Północnej. W Polsce jest rzadki, jego występowanie podaje internetowy atlas grzybów.
+
+Muchomory to naziemne grzyby mykoryzowe. Muchomor olszynowy znany jest tylko z wilgotnych gleb pod olszami.
+
+Jest to gatunek niejadalny.
+
+## Przypisy 
+

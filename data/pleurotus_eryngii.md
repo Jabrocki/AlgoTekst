@@ -1,5 +1,5 @@
 #pleurotus_eryngii
-#no_sources: 3
+#no_sources: 2
 
 ---
 latin_name: Pleurotus eryngii
@@ -55,23 +55,6 @@ Tym, co poza smakiem i wysoką zawartością białka wyróżnia go na tle innych
 W jakiej formie boczniaki królewskie nadają się do spożycia?
 
 W praktyce w każdej – w zależności od indywidualnych upodobań można je smażyć, gotować, dusić, piec, grillować, marynować, kisić czy nawet jeść na surowo.
-
-
----
-latin_name: Pleurotus eryngii
-polish_name: Boczniak mikołajkowy
-source: https://grzyby.pl/gatunki/Pleurotus_eryngii.htm
----
-
-# Boczniak mikołajkowy
-
-## Występowanie, ekologia
-
-W parkach, na ziemi, wśród traw i korzeni dębu; pasożytuje na korzeniach bylin z rodziny selerowatych ( Apiaceae ) .
-
-## Jadalne czy trujące? 🟢
-
-Jadalny. [105 ] Gatunek chroniony w kraju. Do obrotu lub przetwórstwa dopuszczony pozyskany z uprawy lub z importu.
 
 
 ---

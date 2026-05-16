@@ -1,14 +1,5 @@
 #hypotrachyna_revoluta
-#no_sources: 2
-
----
-latin_name: Hypotrachyna revoluta
-polish_name: Przystrumycznik pustułkowy
-source: https://grzyby.pl/gatunki/Hypotrachyna_revoluta.htm
----
-
-# Przystrumycznik pustułkowy
-
+#no_sources: 1
 
 ---
 latin_name: Hypotrachyna revoluta

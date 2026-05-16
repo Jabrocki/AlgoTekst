@@ -1,14 +1,5 @@
 #lecanora_cenisia
-#no_sources: 2
-
----
-latin_name: Lecanora cenisia
-polish_name: Misecznica opylona
-source: https://grzyby.pl/gatunki/Lecanora_cenisia.htm
----
-
-# Misecznica opylona
-
+#no_sources: 1
 
 ---
 latin_name: Lecanora cenisia

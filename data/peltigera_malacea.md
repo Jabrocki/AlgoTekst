@@ -1,14 +1,5 @@
 #peltigera_malacea
-#no_sources: 2
-
----
-latin_name: Peltigera malacea
-polish_name: Pawężnica jabłkowata
-source: https://grzyby.pl/gatunki/Peltigera_malacea.htm
----
-
-# Pawężnica jabłkowata
-
+#no_sources: 1
 
 ---
 latin_name: Peltigera malacea

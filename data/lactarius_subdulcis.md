@@ -104,25 +104,24 @@ Pora występowania:
 jesień
 
 ---
-latin_name: Lactarius subdulcis (Pers.
+latin_name: lactarius subdulcis
 polish_name: Mleczaj bukowy
-source: https://pl.wikipedia.org/api/rest_v1/page/html/Lactarius_subdulcis
+source: https://pl.wikipedia.org/wiki/Mleczaj_bukowy
 ---
+# Mleczaj bukowy 
+# lactarius subdulcis 
 
+Mleczaj bukowy (Lactarius subdulcis (Pers.) Gray) – gatunek grzybów należący do rodziny gołąbkowatych (Russulaceae).
 
-Mleczaj bukowy(Lactarius subdulcis(Pers.) Gray) –gatunekgrzybównależący dorodzinygołąbkowatych(Russulaceae).
+## Systematyka i nazewnictwo 
 
+Pozycja w klasyfikacji według Index Fungorum: Lactarius, Russulaceae, Russulales, Incertae sedis, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
 
-## Systematyka i nazewnictwo
+Po raz pierwszy opisał go w 1801 r. Christiaan Hendrik Persoon, nadając mu nazwę Agaricus subdulcis. W 1821 r. Samuel Frederick Gray przeniósł go do rodzaju mleczaj (Lactarius). Ma 17 synonimów. Są nimi m.in. wszystkie formy i odmiany.
 
-Pozycja w klasyfikacji wedługIndex Fungorum:Lactarius, Russulaceae, Russulales, Incertae sedis, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
+Feliks Berdau w 1876 r. opisywał go pod polską nazwą podrydzyk łagodny lub bedłka słodkawa, Franciszek Błoński jako podrydzyk, mleczaj łagodny (1889) lub mleczaj słodkawy (1890), Stanisław Chełchowski w 1898 r. jako mleczaj podrydzyk, Władysław Wojewoda w 2003 r. zarekomendował nazwę mleczaj bukowy.
 
-Po raz pierwszy opisał go w 1801 r.Christiaan Hendrik Persoon, nadając mu nazwęAgaricus subdulcis. W 1821 r.Samuel Frederick Grayprzeniósł go do rodzajumleczaj(Lactarius). Ma 17synonimów. Są nimi m.in. wszystkieformyiodmiany.
-
-Feliks Berdauw 1876 r. opisywał go podpolską nazwąpodrydzyk łagodny lub bedłka słodkawa,Franciszek Błońskijako podrydzyk, mleczaj łagodny (1889) lub mleczaj słodkawy (1890),Stanisław Chełchowskiw 1898 r. jako mleczaj podrydzyk,Władysław Wojewodaw 2003 r. zarekomendował nazwę mleczaj bukowy.
-
-
-## Morfologia
+## Morfologia 
 
 Średnica 3–7 cm, początkowo wypukły ze stożkowatym garbem i podgiętym brzegiem, później stopniowo rozpłaszczający się, na koniec płaski z prostym brzegiem, czasami krótko karbowanym i śluzowatym. Powierzchnia gładka, matowa, ubarwiona jednolicie, bez pręgowania, początkowo czerwonobrązowa, kasztanowata, potem jaśniejąca, bardziej płowa.
 
@@ -130,25 +129,23 @@ Gęste, z blaszeczkami, początkowo białawe, potem jasnoochrowe z kawowym odcie
 
 O wysokości 5–7 cm i średnicy 0,3–1 cm, walcowaty, u starszych okazów czasami rynnowaty. Powierzchnia początkowo bladożółtawa, ale szybko nabierająca barwy kapelusza, u podstawy z grzybnią.
 
-Białawocielisty z rudawym odcieniem, w trzonie ciemniejszy. Smak łagodny, zapach podobny do zapachu pluskwiaków.Mleczkopoczątkowo wydziela się obficie, jest wodnistobiałe lub białe, niezmieniające barwy, początkowo łagodne w smaku, ale po dłuższym czasie nieco gorzkie i ostre.
+Białawocielisty z rudawym odcieniem, w trzonie ciemniejszy. Smak łagodny, zapach podobny do zapachu pluskwiaków. Mleczko początkowo wydziela się obficie, jest wodnistobiałe lub białe, niezmieniające barwy, początkowo łagodne w smaku, ale po dłuższym czasie nieco gorzkie i ostre.
 
 Kremowy.
 
-Podstawki36–45 × 9–811 µm.Cheilocystydyliczne,pleurocystydyrzadsze, wrzecionowate, 55–65 × 6–8 µm.Zarodnikio wymiarach 7–9,5 × 6–8 µm, o powierzchni pokrytej brodawkami i łączącymi je listewkami.
+Podstawki 36–45 × 9–811 µm. Cheilocystydy liczne, pleurocystydy rzadsze, wrzecionowate, 55–65 × 6–8 µm. Zarodniki o wymiarach 7–9,5 × 6–8 µm, o powierzchni pokrytej brodawkami i łączącymi je listewkami.
 
-Mleczaj pomarańczowy(Lactarius aurantiacus) ma mleczko o niewyraźnym zapachu, bez gorzkawego posmaku i rośnie w lasach iglastych. Podobny jest takżemleczaj dębowy(Lactarius quietus).
+Mleczaj pomarańczowy (Lactarius aurantiacus) ma mleczko o niewyraźnym zapachu, bez gorzkawego posmaku i rośnie w lasach iglastych. Podobny jest także mleczaj dębowy (Lactarius quietus).
 
-
-## Występowanie i siedlisko
+## Występowanie i siedlisko 
 
 Znane są jego stanowiska w Ameryce Północnej i Środkowej, w Europie, Azji, Australii i Nowej Zelandii. W Europie występuje na całym obszarze od Morza Śródziemnego po północne krańce Półwyspu Skandynawskiego, brak go na Islandii. W Polsce W. Wojewoda w 2003 r. wymienił go jako gatunek pospolity, jego stanowiska podają także autorzy późniejszej literatury mykologicznej.
 
-Naziemnygrzyb mykoryzowy. Występuje w lasach, zwłaszcza bukowych w towarzystwiebuka,jodły,leszczyny,dębu szypułkowego.Owocnikipojawiają się od lata do jesieni. W Europie Środkowej jest uważany zagatunek przewodnidla dębów. Preferuje gleby kwaśne, na glebach wapiennych występuje tylko wówczas, gdy jest na nich gruba warstwa próchnicy.
+Naziemny grzyb mykoryzowy. Występuje w lasach, zwłaszcza bukowych w towarzystwie buka, jodły, leszczyny, dębu szypułkowego. Owocniki pojawiają się od lata do jesieni. W Europie Środkowej jest uważany za gatunek przewodni dla dębów. Preferuje gleby kwaśne, na glebach wapiennych występuje tylko wówczas, gdy jest na nich gruba warstwa próchnicy.
 
+## Znaczenie 
 
-## Znaczenie
+Jest grzybem jadalnym. Jest zbierany do celów spożywczych np. w Meksyku i na Ukrainie, w Polsce jednak przez grzybiarzy zwykle nie jest zbierany.
 
-Jestgrzybem jadalnym. Jest zbierany do celów spożywczych np. w Meksyku i na Ukrainie, w Polsce jednak przez grzybiarzy zwykle nie jest zbierany.
+## Przypisy 
 
-
-## Przypisy

@@ -1,32 +1,5 @@
 #sparassis_brevipes
-#no_sources: 3
-
----
-latin_name: Sparassis brevipes
-polish_name: Siedzuń dębowy
-source: https://grzyby.pl/gatunki/Sparassis_laminosa.htm
----
-
-# Siedzuń dębowy
-
-## Cechy charakterystyczne
-
-Stosunkowo jasny, słomkowożółty. Końcówki gałązek prawie płaskie, nie są silnie kędzierzawo pofalowane jak u siedzunia sosnowego ( Sparassis crispa ) .
-
-## Występowanie, ekologia
-
-Pasożyt tworzący owocniki przy jodle i świerku, rzadko przy drzewach liściastych - buku i dębie.
-
-Czerwona Lista [125 ] — V–narażony na wymarcie
-
-## Jadalne czy trujące? 🟢
-
-Jadalny.
-
-## Uwagi
-
-Bardzo podobne, jeśli nie identyczne, osobniki wyrastające na korzeniach jodły bywają także wydzielane w osobny takson - Sparassis nemecii - ma on szerokie, jasne rozgałęzienia.
-
+#no_sources: 2
 
 ---
 latin_name: Sparassis brevipes
@@ -102,40 +75,39 @@ Zapach:
 brak/nieokreślony
 
 ---
-latin_name: Sparassis brevipes Krombh.
+latin_name: sparassis brevipes
 polish_name: Siedzuń dębowy
-source: https://pl.wikipedia.org/api/rest_v1/page/html/Siedzuń_dębowy
+source: https://pl.wikipedia.org/wiki/Siedzuń_dębowy
 ---
+# Siedzuń dębowy 
+# sparassis brevipes 
 
+Siedzuń dębowy (Sparassis brevipes Krombh.) – gatunek
+jadalnego grzyba z rodziny siedzuniowatych (Sparassidaceae).
 
-Siedzuń dębowy(Sparassis brevipesKrombh.) –gatunekjadalnegogrzybaz rodzinysiedzuniowatych(Sparassidaceae).
+## Systematyka i nazewnictwo 
 
+Pozycja w klasyfikacji według Index Fungorum: Sparassis, Sparassidaceae, Polyporales, Incertae sedis, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
 
-## Systematyka i nazewnictwo
+Nazwę polską podał Władysław Wojewoda w 2000 r. W polskim piśmiennictwie mykologicznym gatunek ten opisywany był też jako szmaciak dębowy lub szmaciak krótkotrzonowy.
 
-Pozycja w klasyfikacji wedługIndex Fungorum:Sparassis, Sparassidaceae, Polyporales, Incertae sedis, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
+Do niedawna występujący pod jodłami siedzuń jodłowy Sparassis niemeci, uważany był za oddzielny gatunek. Według najnowszej wiedzy jest on obecnie synonimem siedzunia dębowego Sparassis brevipes i traktowane są jako jeden gatunek.
 
-Nazwę polską podałWładysław Wojewodaw 2000 r. W polskim piśmiennictwie mykologicznym gatunek ten opisywany był też jako szmaciak dębowy lub szmaciak krótkotrzonowy.
-
-Do niedawna występujący pod jodłamisiedzuń jodłowySparassis niemeci, uważany był za oddzielny gatunek. Według najnowszej wiedzy jest on obecnie synonimemsiedzunia dębowegoSparassis brevipesi traktowane są jako jeden gatunek.
-
-
-## Morfologia
+## Morfologia 
 
 Średnicy 10–50 cm, za młodu jest biały, później słomiastożółty, z dość wzniesionymi elementami zewnętrznymi, grubo listkowato-falistymi do wachlarzowatych, na powierzchniach często barwnie strefowanymi.
 
 Biały; bez zapachu, o smaku łagodnym.
 
-Zarodnikio średnicy 4,5–6 × 3,5–4,5 µm.
+Zarodniki o średnicy 4,5–6 × 3,5–4,5 µm.
 
-Siedzuń dębowy przypomina barwą i wielkościąsiedzunia sosnowego(Sparassis crispa), ale jest jaśniejszy i ma szerzej powyginane, bardziej rozpostarte listkowate zakończenia odgałęzień.
+Siedzuń dębowy przypomina barwą i wielkością siedzunia sosnowego (Sparassis crispa), ale jest jaśniejszy i ma szerzej powyginane, bardziej rozpostarte listkowate zakończenia odgałęzień.
 
+## Występowanie i siedlisko 
 
-## Występowanie i siedlisko
+W Polsce gatunek rzadki. Znajduje się na Czerwonej liście roślin i grzybów Polski. Ma status V – zagrożony wyginięciem. W piśmiennictwie naukowym do 2020 r. podano 45 jego stanowisk. Bardziej aktualne stanowiska podaje internetowy atlas grzybów. W latach 1995–2014 objęty był ochroną ścisłą, a od roku 2014 ochroną częściową. Znajduje się na listach gatunków zagrożonych także w Niemczech, Anglii, Norwegii.
 
-W Polsce gatunek rzadki. Znajduje się naCzerwonej liście roślin i grzybów Polski. Ma status V – zagrożony wyginięciem. W piśmiennictwie naukowym do 2020 r. podano 45 jego stanowisk. Bardziej aktualne stanowiska podaje internetowy atlas grzybów. W latach 1995–2014 objęty był ochroną ścisłą, a od roku 2014 ochroną częściową. Znajduje się na listach gatunków zagrożonych także w Niemczech, Anglii, Norwegii.
+Grzyb nadrzewny. Owocniki wytwarza od sierpnia do października na korzeniach buków, dębów, jodeł, modrzewi i świerków. Owocniki wyrastają z twardo zbitej grzybni.
 
-Grzyb nadrzewny.Owocnikiwytwarza od sierpnia do października na korzeniachbuków,dębów,jodeł,modrzewiiświerków. Owocniki wyrastają z twardo zbitejgrzybni.
+## Przypisy 
 
-
-## Przypisy

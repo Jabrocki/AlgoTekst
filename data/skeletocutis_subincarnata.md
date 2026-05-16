@@ -1,20 +1,5 @@
 #skeletocutis_subincarnata
-#no_sources: 2
-
----
-latin_name: Skeletocutis subincarnata
-polish_name: Szkieletnica różowawa
-source: https://grzyby.pl/gatunki/Skeletocutis_subincarnata.htm
----
-
-# Szkieletnica różowawa
-
-## Występowanie, ekologia
-
-Na leżących kłodach drzew iglastych, rzadko na liściastych.
-
-Czerwona Lista [125 ] — V–narażony na wymarcie
-
+#no_sources: 1
 
 ---
 latin_name: Skeletocutis subincarnata

@@ -1,5 +1,5 @@
 #lentinula_edodes
-#no_sources: 5
+#no_sources: 3
 
 ---
 latin_name: Lentinula edodes
@@ -51,31 +51,6 @@ Wywodzi się ona z procesu twardnienia, któremu ulega miąższ owocnika poddawa
 
 ---
 latin_name: Lentinula edodes
-polish_name: Twardnik japoński
-source: https://grzyby.pl/gatunki/Lentinula_edodes.htm
----
-
-# Twardnik japoński
-
-## Opis
-
-**Kapelusz** brązowy, czerwonobrązowy, szarobrązowy; 50-100 mm średnicy, początkowo kulisty, z wiekiem wypukły do rozpostartego; powierzchnia z białymi łuseczkami, kosmkami, większymi na brzegu kapelusza; brzeg długo podwinięty. **Trzon** białawy, z wiekiem brązowiejący; wygięty, czasem ekscentryczny; powierzchnia z białymi, dużymi kosmkami; pełny.
-
-## Zarodniki
-
-Wysyp zarodników biały.
-
-## Występowanie
-
-W naturze występuje w Japonii i Chinach, w strefie subtropikalnej. Owocniki wyrastają w grupach, na martwym drewnie liściastym, głównie na dębach.
-
-## Jadalne czy trujące? 🟢
-
-Grzyb jadalny, dopuszczony do obrotu i przetwórstwa w Polsce. Najczęściej (obok łuskwiaka nameko ( Pholiota nameko ) ) uprawiany grzyb Dalekiego Wschodu.
-
-
----
-latin_name: Lentinula edodes
 source: https://www.nagrzyby.pl/atlas/370
 ---
 
@@ -114,73 +89,34 @@ Podłoże:
 drewno
 
 ---
-latin_name: Lentinula edodes (Berk.
-polish_name: Twardnik japoński, twardziak jadalny
-source: https://pl.wikipedia.org/api/rest_v1/page/html/Twardnik_japoński
+latin_name: lentinula edodes
+polish_name: Twardnik japoński
+source: https://pl.wikipedia.org/wiki/Twardnik_japoński
 ---
+# Twardnik japoński 
+# lentinula edodes 
 
+Twardnik japoński, twardziak jadalny (Lentinula edodes (Berk.) Pegler), jap. shiitake 椎茸 lub シイタケ – gatunek grzybów należący do rodziny Omphalotaceae.
 
-Twardnik japoński,twardziak jadalny(Lentinula edodes(Berk.) Pegler), jap.shiitake椎茸 lub シイタケ – gatunek grzybów należący do rodzinyOmphalotaceae.
+## Systematyka i nazewnictwo 
 
+Pozycja w klasyfikacji według Index Fungorum: Lentinula, Omphalotaceae, Agaricales, Agaricomycetidae, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
 
-## Systematyka i nazewnictwo
+Po raz pierwszy takson ten zdiagnozował w 1878 roku Miles Joseph Berkeley, nadając mu nazwę Agaricus edodes. Obecną, uznaną przez Index Fungorum, nazwę nadał mu w 1976 roku David Pegler, przenosząc go do rodzaju Lentinula. Niektóre synonimy naukowe:
 
-Pozycja w klasyfikacji wedługIndex Fungorum:Lentinula, Omphalotaceae, Agaricales, Agaricomycetidae, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
+Polską nazwę temu grzybowi nadał Władysław Wojewoda, w 1998 roku; wcześniej w polskich publikacjach mykologicznych opisywany był jako twardziak jadalny lub twardziak uprawny.
 
-Po raz pierwszytaksonten zdiagnozował w 1878 rokuMiles Joseph Berkeley, nadając mu nazwęAgaricus edodes. Obecną, uznaną przez Index Fungorum, nazwę nadał mu w 1976 rokuDavid Pegler, przenosząc go do rodzajuLentinula. Niektóresynonimy naukowe:
+## Morfologia 
 
-Polską nazwę temu grzybowi nadałWładysław Wojewoda, w 1998 roku; wcześniej w polskich publikacjach mykologicznych opisywany był jako twardziak jadalnylub twardziak uprawny.
+Brązowy lub brązowawy grzyb o kapeluszu dochodzącym do 20 cm średnicy i trzonie o 3–4 cm grubości. Kolor trzonu jasnoczerwonobrązowy z łuskami nieco ciemniejszymi w górnej części powierzchni. Hymenofor białawy, gęsty i szeroki, w późniejszym okresie przechodzący w czerwonawą plamistość. Miąższ biały w smaku lekko kwaskowatym.
 
+## Występowanie i siedlisko 
 
-## Morfologia
+Występuje na terenach Azji Wschodniej, w Chinach, Japonii, na Półwyspie Indochińskim. W Chinach i Japonii grzyb ten jest grzybem uprawianym w szklarniach i na wolnym powietrzu. W Europie podjęto próby uprawy w Eberswalde w Niemczech jeszcze przed II wojną światową.
 
-Brązowy lub brązowawy grzyb o kapeluszu dochodzącym do 20 cm średnicy i trzonie o 3–4 cm grubości. Kolor trzonu jasnoczerwonobrązowy z łuskami nieco ciemniejszymi w górnej części powierzchni.Hymenoforbiaławy, gęsty i szeroki, wpóźniejszym okresie przechodzący w czerwonawą plamistość.Miąższbiały w smaku lekko kwaskowatym.
+Grzyb nadrzewny. Owocniki wyrastają w grupach, na martwym drewnie liściastym (grab, kasztan, buk, dąb, Pasania).
 
+## Zastosowanie 
 
-## Występowanie i siedlisko
+## Przypisy 
 
-Występuje na terenachAzji Wschodniej, w Chinach, Japonii, naPółwyspie Indochińskim. W Chinach i Japonii grzyb ten jest grzybem uprawianym w szklarniach i na wolnym powietrzu. W Europie podjęto próby uprawy wEberswaldew Niemczech jeszcze przed II wojną światową.
-
-Grzyb nadrzewny.Owocnikiwyrastają w grupach, namartwym drewnieliściastym (grab,kasztan,buk,dąb,Pasania).
-
-
-## Zastosowanie
-
-
-## Przypisy
-
----
-latin_name: Lentinula edodes (Berk.
-polish_name: Twardnik japoński, twardziak jadalny
-source: https://pl.wikipedia.org/api/rest_v1/page/html/Twardnik_japoński
----
-
-
-Twardnik japoński,twardziak jadalny(Lentinula edodes(Berk.) Pegler), jap.shiitake椎茸 lub シイタケ – gatunek grzybów należący do rodzinyOmphalotaceae.
-
-
-## Systematyka i nazewnictwo
-
-Pozycja w klasyfikacji wedługIndex Fungorum:Lentinula, Omphalotaceae, Agaricales, Agaricomycetidae, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
-
-Po raz pierwszytaksonten zdiagnozował w 1878 rokuMiles Joseph Berkeley, nadając mu nazwęAgaricus edodes. Obecną, uznaną przez Index Fungorum, nazwę nadał mu w 1976 rokuDavid Pegler, przenosząc go do rodzajuLentinula. Niektóresynonimy naukowe:
-
-Polską nazwę temu grzybowi nadałWładysław Wojewoda, w 1998 roku; wcześniej w polskich publikacjach mykologicznych opisywany był jako twardziak jadalnylub twardziak uprawny.
-
-
-## Morfologia
-
-Brązowy lub brązowawy grzyb o kapeluszu dochodzącym do 20 cm średnicy i trzonie o 3–4 cm grubości. Kolor trzonu jasnoczerwonobrązowy z łuskami nieco ciemniejszymi w górnej części powierzchni.Hymenoforbiaławy, gęsty i szeroki, wpóźniejszym okresie przechodzący w czerwonawą plamistość.Miąższbiały w smaku lekko kwaskowatym.
-
-
-## Występowanie i siedlisko
-
-Występuje na terenachAzji Wschodniej, w Chinach, Japonii, naPółwyspie Indochińskim. W Chinach i Japonii grzyb ten jest grzybem uprawianym w szklarniach i na wolnym powietrzu. W Europie podjęto próby uprawy wEberswaldew Niemczech jeszcze przed II wojną światową.
-
-Grzyb nadrzewny.Owocnikiwyrastają w grupach, namartwym drewnieliściastym (grab,kasztan,buk,dąb,Pasania).
-
-
-## Zastosowanie
-
-
-## Przypisy

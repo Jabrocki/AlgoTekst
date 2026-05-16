@@ -1,24 +1,5 @@
 #perenniporia_medulla
-#no_sources: 2
-
----
-latin_name: Perenniporia medulla-panis
-polish_name: Trwałoporka różnobarwna
-source: https://grzyby.pl/gatunki/Perenniporia_medulla-panis.htm
----
-
-# Trwałoporka różnobarwna
-
-## Występowanie
-
-W kopalniach i drewnie konstrukcyjnym budynków, w lasach na leżących pniach martwych drzew liściastych, szczególnie dębów; owocniki w przeciągu całego roku.
-
-Czerwona Lista [125 ] — V–narażony na wymarcie
-
-## Znaczenie gospodarcze
-
-Powoduje intensywną białą zgniliznę drewna .
-
+#no_sources: 1
 
 ---
 latin_name: Perenniporia medulla-panis

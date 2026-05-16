@@ -44,33 +44,6 @@ Brak zastosowań berłóweczki czeskiej z racji ścisłej ochrony, ogromnej rzad
 
 ---
 latin_name: Tulostoma kotlabae
-polish_name: Berłóweczka czeska
-source: https://grzyby.pl/gatunki/Tulostoma_kotlabae.htm
----
-
-# Berłóweczka czeska
-
-## Cechy makroskopowe
-
-Owocniki małe lub średnie. Główka kulista, 7-12 mm [127 ], do 13 mm [14 ] średnicy. Endoperydium jasne, białawe , szarobeżowe; cienkie, konsystencji pergaminu. Ujście (perystom) rukowate, niskie, o równym brzegu; bez ciemnego zabarwienia wokół ujścia.
-
-## Cechy mikroskopowe
-
-Zarodniki kulistawe, małe, brodawkowane, 5-6 µm [Pouzar 1958], 4.5-5.4(6) µm [Wright 1987], (3.5)3.9-4.6(5) µm, ze stożkowatymi brodawkami wysokości 0.2-0.5 µm [127 ], .
-
-## Występowanie
-
-Rzadki. Ciepłe stanowiska piaszczyste. Owocniki pojawiają się od wiosny do późnej jesieni. Ponieważ są stosunkowo trwałe, to można je znajdować przez cały rok.
-
-Czerwona Lista [125 ] — E–wymierający - krytycznie zagrożony
-
-## Uwagi
-
-Od podobnych gatunków: berłóweczki zimowej ( Tulostoma brumale ) i berłóweczki rudawej ( Tulostoma melanocyclum ) odróżnia się brakiem ciemnego zabarwienia wokół ujścia zarodników i jasną barwą główki.
-
-
----
-latin_name: Tulostoma kotlabae
 source: https://www.nagrzyby.pl/atlas/1637
 ---
 
@@ -106,3 +79,28 @@ Literatura
 - Rudnicka-Jezierska W., 1991 - Flora Polska. Grzyby (Mycota). Tom XXIII
 Podobne gatunki
 berłóweczka zimowa
+
+---
+latin_name: tulostoma kotlabae
+polish_name: Berłóweczka czeska
+source: https://pl.wikipedia.org/wiki/Berłóweczka_czeska
+---
+# Berłóweczka czeska 
+# tulostoma kotlabae 
+
+Berłóweczka czeska, pałeczka Kotlaby (Tulostoma kotlabae Pouzar) – gatunek grzybów z rodziny pieczarkowatych (Agaricaceae).
+
+## Systematyka i nazewnictwo 
+
+Pozycja w klasyfikacji według Index Fungorum: Tulostoma, Agaricaceae, Agaricales, Agaricomycetidae, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
+
+Po raz pierwszy opisał go Zdeněk Pouzar w 1958 r. Nazwę polską zaproponował Władysław Wojewoda w 2003 r. W polskim piśmiennictwie mykologicznym gatunek ten opisywany był też jako pałeczka Kotlaby.
+
+## Występowanie i siedlisko 
+
+Gatunek rzadki. W Polsce podlega ścisłej ochronie gatunkowej. W opracowaniu Czerwona lista roślin i grzybów Polski jest zaliczony do kategorii gatunków wymierających (E). Jego przetrwanie jest mało prawdopodobne, jeśli nadal będą istnieć czynniki zagrożenia. W Polsce do 2020 r. potwierdzono tylko 2 pewne stanowiska tego gatunku: Biebrzański Park Narodowy 2012 i Kampinoski Park Narodowy 2015. Podano jeszcze 3 inne stanowiska, ale na jednym błędnie oznaczono gatunek, na pozostałych oznaczenie jest  wątpliwe.
+
+Grzyb saprotroficzny. Występuje na suchych, piaszczystych skrajach lasów, w napiaskowych i kserotermicznych murawach i śródlądowych wydmach. Grzybnia jest trwała, ale może wytwarzać owocniki nieregularnie, co kilka lat. Owocniki są trwałe przez długi czas.
+
+## Przypisy 
+

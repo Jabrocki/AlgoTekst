@@ -1,24 +1,5 @@
 #gliophorus_psittacinus
-#no_sources: 3
-
----
-latin_name: Gliophorus psittacinus
-polish_name: Wilgotniczka papuzia
-source: https://grzyby.pl/gatunki/Hygrocybe_psittacina.htm
----
-
-# Wilgotniczka papuzia
-
-## Opis
-
-**Kapelusz** **Trzon**
-
-## Występowanie
-
-Na terenach trawiastych, pastwiskach i łąkach, na obrzeżach lasów iglastych i torfowisk, czasem w lasach grabowych; na ziemi lub wśród traw i mchów; od lata do jesieni.
-
-Czerwona Lista [125 ] — R–rzadki - potencjalnie zagrożony wymarciem
-
+#no_sources: 2
 
 ---
 latin_name: Gliophorus psittacinus
@@ -81,49 +62,46 @@ Zapach:
 brak/nieokreślony
 
 ---
-latin_name: Gliophorus psittacinus (Schaeff.
-polish_name: Wilgotniczka papuzia, wilgotnica papuzia
-source: https://pl.wikipedia.org/api/rest_v1/page/html/Wilgotniczka_papuzia
+latin_name: gliophorus psittacinus
+polish_name: Wilgotniczka papuzia
+source: https://pl.wikipedia.org/wiki/Wilgotniczka_papuzia
 ---
+# Wilgotniczka papuzia 
+# gliophorus psittacinus 
 
+Wilgotniczka papuzia, wilgotnica papuzia (Gliophorus psittacinus (Schaeff.) Herink) – gatunek grzybów z rodziny wodnichowatych (Hygrophoraceae).
 
-Wilgotniczka papuzia, wilgotnica papuzia(Gliophorus psittacinus(Schaeff.) Herink) – gatunekgrzybówz rodzinywodnichowatych(Hygrophoraceae).
+## Systematyka i nazewnictwo 
 
+Pozycja w klasyfikacji według Index Fungorum: Hygrophoraceae, Agaricales, Agaricomycetidae, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
 
-## Systematyka i nazewnictwo
+Po raz pierwszy takson ten zdiagnozował w 1774 r. Jacob Christian Schäffer, nadając mu nazwę Agaricus psittacinus. Obecną, uznaną przez Index Fungorum nazwę nadał mu w 1958 r. Josef Herink. Synonimów naukowych ma ponad 20. Niektóre z nich:
 
-Pozycja w klasyfikacji wedługIndex Fungorum:Hygrophoraceae, Agaricales, Agaricomycetidae, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
+Nazwę polską „wodnica papuzia” podała Barbara Gumińska w 1983 r. (dla synonimu Hygrocybe psittacina (Schaeff.) P. Kumm.) W polskim piśmiennictwie mykologicznym gatunek ten opisywany był też jako „wodnicha żywobarwna”. W 2021 Komisja ds. Polskiego Nazewnictwa Grzybów Polskiego Towarzystwa Mykologicznego zarekomendowała, aby w razie używania synonimu Gliophorus psittacinus (Schaeff.) Herink używać nazwy „wilgotniczka papuzia”, w 2025 r. ta sama komisja zarekomendowała nazwę wilgotniczka ceglastokapeluszowa dla synonimu Gliophorus sciophanus.
 
-Po raz pierwszytaksonten zdiagnozował w 1774 r.Jacob Christian Schäffer, nadając mu nazwęAgaricus psittacinus. Obecną, uznaną przez Index Fungorum nazwę nadał mu w 1958 r.Josef Herink.Synonimów naukowychma ponad 20. Niektóre z nich:
+## Morfologia 
 
-Nazwę polską „wodnica papuzia” podałaBarbara Gumińskaw 1983 r. (dla synonimuHygrocybe psittacina(Schaeff.) P. Kumm.) W polskim piśmiennictwie mykologicznym gatunek ten opisywany był też jako „wodnicha żywobarwna”. W 2021 Komisja ds. Polskiego Nazewnictwa GrzybówPolskiego Towarzystwa Mykologicznegozarekomendowała, aby w razie używania synonimuGliophorus psittacinus(Schaeff.) Herink używać nazwy „wilgotniczka papuzia”, w 2025 r. ta sama komisja zarekomendowała nazwę wilgotniczka ceglastokapeluszowa dla synonimuGliophorus sciophanus.
-
-
-## Morfologia
-
-Średnicy od 1 do 4 cm, młody – stożkowaty, dzwonkowaty, później wypukły do rozpostartego z tępym garbkiem. Cienkomięsisty, jego powierzchnia jest bardzo mocnośluzowata. Kolor trawiastozielony, później żółtozielony, zielonopomarańczowy, pomarańczowożółty, pomarańczowobrązowy. Starsze owocniki płowieją, a ich brzeg staje się pofałdowany i żłobiony od prześwitujących blaszek.
+Średnicy od 1 do 4 cm, młody – stożkowaty, dzwonkowaty, później wypukły do rozpostartego z tępym garbkiem. Cienkomięsisty, jego powierzchnia jest bardzo mocno śluzowata. Kolor trawiastozielony, później żółtozielony, zielonopomarańczowy, pomarańczowożółty, pomarańczowobrązowy. Starsze owocniki płowieją, a ich brzeg staje się pofałdowany i żłobiony od prześwitujących blaszek.
 
 Grube, rzadkie, szerokie, wybrzuszone, przyrośnięte do trzonu. U młodych owocników mają barwę od żółtej do pomarańczowej, u starszych zielonkawą.
 
 Wysokość 3–7 cm, grubość 3–8 mm. Jest walcowaty, lub wrzecionowaty, pusty i bardzo śluzowaty. Powierzchnia gładka, błyszcząca, w dolnej części żółta lub pomarańczowa, w górnej zielona.
 
-Bardzo kruchy, biały z odcieniem żółtawym, zielonkawym i pomarańczowym.Smakłagodny, brakzapachu.
+Bardzo kruchy, biały z odcieniem żółtawym, zielonkawym i pomarańczowym. Smak łagodny, brak zapachu.
 
-Biały,nieamyloidalny.Zarodnikieliptyczne, gładkie.
+Biały, nieamyloidalny. Zarodniki eliptyczne, gładkie.
 
-Ze względu na charakterystyczny kolor, łamliwość i oślizgłość pomylenie wilgotniczki papuziej z innym gatunkiem jest mało prawdopodobne. Nieco podobna jestdzwonkówka brązowozielona(Entoloma incanum), która jednak nie ma odcieni żółtopomarańczowych.
+Ze względu na charakterystyczny kolor, łamliwość i oślizgłość pomylenie wilgotniczki papuziej z innym gatunkiem jest mało prawdopodobne. Nieco podobna jest dzwonkówka brązowozielona (Entoloma incanum), która jednak nie ma odcieni żółtopomarańczowych.
 
+## Występowanie i siedlisko 
 
-## Występowanie i siedlisko
+Występuje na wszystkich kontynentach poza Antarktydą i Afryką. W Europie jest szeroko rozprzestrzeniony, jego zasięg sięga od południowych krańców kontynentu po północne rejony Półwyspu Skandynawskiego i Islandię. W Polsce gatunek rzadki. Znajduje się na Czerwonej liście roślin i grzybów Polski. Ma status R – potencjalnie zagrożony z powodu ograniczonego zasięgu geograficznego i małych obszarów siedliskowych. Znajduje się na listach gatunków zagrożonych także w Holandii i Niemczech.
 
-Występuje na wszystkich kontynentach poza Antarktydą i Afryką. W Europie jest szeroko rozprzestrzeniony, jego zasięg sięga od południowych krańców kontynentu po północne rejony Półwyspu Skandynawskiego i Islandię. W Polsce gatunek rzadki. Znajduje się naCzerwonej liście roślin i grzybów Polski. Ma status R – potencjalnie zagrożony z powodu ograniczonego zasięgu geograficznego i małych obszarów siedliskowych. Znajduje się na listach gatunków zagrożonych także w Holandii i Niemczech.
+Grzyb naziemny. Pojawia się od maja do połowy listopada na nienawożonych pastwiskach, łąkach, trawnikach, na obrzeżach lasów, na leśnych drogach, na trawiastych miejscach w świetlistych lasach.
 
-Grzyb naziemny. Pojawia się od maja do połowy listopada na nienawożonychpastwiskach,łąkach, trawnikach, na obrzeżach lasów, na leśnych drogach, na trawiastych miejscach w świetlistych lasach.
-
-
-## Znaczenie
+## Znaczenie 
 
 Grzyb niejadalny.
 
+## Przypisy 
 
-## Przypisy

@@ -1,0 +1,40 @@
+---
+latin_name: pholiota alnicola
+polish_name: Płomiennik żółty
+source: https://pl.wikipedia.org/wiki/Płomiennik_żółty
+---
+# Płomiennik żółty 
+# pholiota alnicola 
+
+Płomiennik żółty, łuskwiak żółty (Flammula alnicola (Fr.) P. Kumm.) – gatunek grzybów należący do rodziny podziemniczkowatych (Flammulaceae).
+
+## Systematyka i nazewnictwo 
+
+Pozycja w klasyfikacji: Flammula, Hymenogastraceae, Agaricales, Agaricomycetidae, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
+
+Po raz pierwszy takson ten zdiagnozował w roku 1821 Elias Fries, nadając mu nazwę Agaricus alnicola. Obecną, uznaną przez Index Fungorum nazwę nadał mu w roku 1871 Paul Kummer, przenosząc go do rodzaju Flammula. Ma ponad 20 synonimów. Niektóre z nich:
+
+Nazwę polską (dla synonimu Pholiota alnicola) nadali w 1983 r. Barbara Gumińska i Władysław Wojewoda, wcześniej (w 1933 r.) Feliks Teodorowicz opisywał ten gatunek jako płomiennica olchowa. Wszystkie te nazwy są niespójne z aktualną nazwą naukową. W 2025 r. Komisja ds. Polskiego Nazewnictwa Grzybów przy Polskim Towarzystwie Mykologicznym zarekomendowała polską nazwę płomiennik żółty.
+
+## Morfologia 
+
+Średnica 3–8 cm. U młodych osobników jest półkulisty, potem łukowaty, na koniec płaski. Powierzchnia o barwie słomkowo-cytrynowej do zielonkawożółtej, lub żółtoruda. W stanie wilgotnym jest śliski i lepki. Zazwyczaj jest nagi, czasami jednak z drobnymi łuskami, zwłaszcza przy brzegu.
+
+Szeroko przyrośnięte i wykrojone ząbkiem. U młodych owocników żółte lub ciemnożółte i pokryte białawą osłona, szybko jednak zanikającą, u starszych brązowawe lub rdzawobrązowe.
+
+Wysokość 4–11 cm, grubość do 1 cm. Posiada delikatną, włóknistą i zanikającą strefę pierścieniową. Jest nagi lub włóknisto-łuskowaty, żółtawy, tylko przy podstawie rdzawobrązowy.
+
+Jasnożółty, bez wyraźnego smaku i zapachu
+
+Wysyp zarodników rdzawobrunatny. Zarodniki o wymiarach 8-10 × 4-5.5 μm, gładkie eliptyczne, nieco dekstrynoidalne. Brak pleurocystyd, cheilocystydy o wymiarach 22-46 × 3–6 μm, różnie ukształtowane. Strzępki szkieletowe o szerokości 2–4 μm, ze sprzążkami.
+
+Najbardziej podobny jest łuskwiak żółtawy (Pholiota flavida (Schaeff) (Schaeff.) Singer 1951). W polskim piśmiennictwie naukowym jest on uznawany za synonim łuskwiaka żółtego. Według Index Fungorum jest to jednak odrębny gatunek. Podobny jest również łuskwiak ognisty (Pholiota flammans), którego kapelusz w całości pokryty jest dużymi, zwieszającymi się z brzegów żółtymi łuskami.
+
+## Występowanie i siedlisko 
+
+Opisano występowanie tego gatunku w Ameryce Północnej i Europie. W Europie jest szeroko rozprzestrzeniony – występuje od Hiszpanii po Islandię i północne krańce Półwyspu Skandynawskiego. W piśmiennictwie naukowym na terenie Polski podano wiele jego stanowisk.
+
+Rośnie w wilgotnych lasach liściastych typu łęgi, olsy, na terenach zalewowych, w parkach, alejach. Rozwija się na martwym drewnie drzew liściastych; na pniakach, leżących na ziemi zagłębionych w niej kłodach i gałęziach. W Polsce zanotowano występowanie na drewnie olszy szarej, grabów, wierzb, lip i wiązie pospolitym.
+
+## Przypisy 
+

@@ -1,14 +1,5 @@
 #calicium_viride
-#no_sources: 2
-
----
-latin_name: Calicium viride
-polish_name: Pałecznik zielony
-source: https://grzyby.pl/gatunki/Calicium_viride.htm
----
-
-# Pałecznik zielony
-
+#no_sources: 1
 
 ---
 latin_name: Calicium viride

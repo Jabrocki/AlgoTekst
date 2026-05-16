@@ -1,14 +1,5 @@
 #rusavskia_sorediata
-#no_sources: 2
-
----
-latin_name: Rusavskia sorediata
-polish_name: Pysznorost sorediowy
-source: https://grzyby.pl/gatunki/Rusavskia_sorediata.htm
----
-
-# Pysznorost sorediowy
-
+#no_sources: 1
 
 ---
 latin_name: Rusavskia sorediata

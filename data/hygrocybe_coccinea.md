@@ -80,49 +80,46 @@ Podłoże:
 gleba
 
 ---
-latin_name: Hygrocybe coccinea (Schaeff.
+latin_name: hygrocybe coccinea
 polish_name: Wilgotnica szkarłatna
-source: https://pl.wikipedia.org/api/rest_v1/page/html/Wilgotnica_szkarłatna
+source: https://pl.wikipedia.org/wiki/Wilgotnica_szkarłatna
 ---
+# Wilgotnica szkarłatna 
+# hygrocybe coccinea 
 
+Wilgotnica szkarłatna (Hygrocybe coccinea (Schaeff.) P. Kumm.) – gatunek grzybów z rodziny wodnichowatych (Hygrophoraceae).
 
-Wilgotnica szkarłatna(Hygrocybe coccinea(Schaeff.) P. Kumm.) –gatunekgrzybów z rodzinywodnichowatych(Hygrophoraceae).
+## Systematyka i nazewnictwo 
 
+Pozycja w klasyfikacji według Index Fungorum: Hygrocybe, Hygrophoraceae, Agaricales, Agaricomycetidae, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
 
-## Systematyka i nazewnictwo
+Po raz pierwszy takson ten zdiagnozował w 1774 r. Jacob Christian Schäffer, nadając mu nazwę Agaricus coccineus. Obecną nazwę nadał mu w 1871 r. Paul Kummer, przenosząc go do rodzaju Hygrocybe. Synonimy naukowe:
 
-Pozycja w klasyfikacji wedługIndex Fungorum:Hygrocybe, Hygrophoraceae, Agaricales, Agaricomycetidae, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
+Nazwę polską podali Barbara Gumińska i Władysław Wojewoda w 1983 r. W polskim piśmiennictwie mykologicznym gatunek ten opisywany był też jako bedłka pąsowa (ponsowa) i wodnicha szkarłatna.
 
-Po raz pierwszytaksonten zdiagnozował w 1774 r.Jacob Christian Schäffer, nadając mu nazwęAgaricus coccineus. Obecną nazwę nadał mu w 1871 r.Paul Kummer, przenosząc go do rodzajuHygrocybe.Synonimy naukowe:
+## Morfologia 
 
-Nazwę polską podaliBarbara GumińskaiWładysław Wojewodaw 1983 r. W polskim piśmiennictwie mykologicznym gatunek ten opisywany był też jako bedłka pąsowa (ponsowa) i wodnicha szkarłatna.
-
-
-## Morfologia
-
-Średnicy 2 do 5 cm, młody – półkulisty, z wiekiem staje się łukowaty, potem prawie płaski. Powierzchnia gładka, w wilgotnych warunkach śliska, w czasie suszy matowa, z przylegającymi drobnymi włókienkami, brzeg ostry.Kolorczerwony do szkarłatnoczerwonego, z czasem blaknący do ochrowo – żółtego. Brzeg ostry, powierzchnia kapelusza słabo żłobiona.
+Średnicy 2 do 5 cm, młody – półkulisty, z wiekiem staje się łukowaty, potem prawie płaski. Powierzchnia gładka, w wilgotnych warunkach śliska, w czasie suszy matowa, z przylegającymi drobnymi włókienkami, brzeg ostry. Kolor czerwony do szkarłatnoczerwonego, z czasem blaknący do ochrowo – żółtego. Brzeg ostry, powierzchnia kapelusza słabo żłobiona.
 
 Grube, szerokie, dość gęste, szeroko przyrośnięte i zbiegające ząbkiem, początkowo czerwono-pomarańczowe, potem żółto-pomarańczowe. Ostrza blaszek żółte i gładkie
 
 Wysokości od 4 do 6 cm, średnicy od 5 do 8 mm, cylindryczny, spłaszczony, powyginany, podstawa nieco zwężona, powierzchnia gładka, włóknisty, pusty. Kolor szkarłatnoczerwony do pomarańczowoczerwonego, ku podstawie biały. Jest kruchy i pusty w środku.
 
-Cienki, kruchy, wodnisty, w kapeluszu czerwonopomarańczowy,smakłagodny, brakzapachu.
+Cienki, kruchy, wodnisty, w kapeluszu czerwonopomarańczowy, smak łagodny, brak zapachu.
 
 Biały.
 
-Wilgotnica szkarłatna najbardziej podobna jest dowilgotnicy karminowej(Hygrocybe punicea), która jest jednak większa i ma białawy miąższ w kapeluszu. Istnieje również cała grupa mniejszych czerwonychwilgotnic, np.wilgotnica włoska(Hygrocybe reidii),wilgotnica torfowiskowa(Hygrocybe helobia),wilgotnica purpurowa(Hygrocybe miniata).
+Wilgotnica szkarłatna najbardziej podobna jest do wilgotnicy karminowej (Hygrocybe punicea), która jest jednak większa i ma białawy miąższ w kapeluszu. Istnieje również cała grupa mniejszych czerwonych wilgotnic, np. wilgotnica włoska (Hygrocybe reidii), wilgotnica torfowiskowa (Hygrocybe helobia), wilgotnica purpurowa (Hygrocybe miniata).
 
+## Występowanie i siedlisko 
 
-## Występowanie i siedlisko
+W Polsce gatunek rzadki. Znajduje się na Czerwonej liście roślin i grzybów Polski. Ma status R – potencjalnie zagrożony z powodu ograniczonego zasięgu geograficznego i małych obszarów siedliskowych. Znajduje się na listach gatunków zagrożonych także w Belgii, Szwajcarii, Niemczech, i Holandii.
 
-W Polsce gatunek rzadki. Znajduje się naCzerwonej liście roślin i grzybów Polski. Ma status R – potencjalnie zagrożony z powodu ograniczonego zasięgu geograficznego i małych obszarów siedliskowych. Znajduje się na listach gatunków zagrożonych także w Belgii, Szwajcarii, Niemczech, i Holandii.
+Pojawia się od czerwca do października. Rośnie pojedynczo lub w grupach, na ubogich, suchych pastwiskach i polanach leśnych, na obrzeżach lasów, w strefie podgórskiej i górskiej.
 
-Pojawia się od czerwca do października. Rośnie pojedynczo lub w grupach, na ubogich, suchychpastwiskachi polanach leśnych, na obrzeżach lasów, w strefie podgórskiej i górskiej.
-
-
-## Znaczenie
+## Znaczenie 
 
 Grzyb jadalny, lecz z reguły jest omijany przez grzybiarzy. Nie ma też znaczenia użytkowego ze względu na niewielkie rozmiary. Z uwagi na swą rzadkość występowania, zasługuje na ochronę i nie powinien być zbierany.
 
+## Przypisy 
 
-## Przypisy

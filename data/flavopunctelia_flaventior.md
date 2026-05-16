@@ -1,14 +1,5 @@
 #flavopunctelia_flaventior
-#no_sources: 2
-
----
-latin_name: Flavopunctelia flaventior
-polish_name: Zeżyca seledynowa
-source: https://grzyby.pl/gatunki/Flavopunctelia_flaventior.htm
----
-
-# Zeżyca seledynowa
-
+#no_sources: 1
 
 ---
 latin_name: Flavopunctelia flaventior

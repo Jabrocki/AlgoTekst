@@ -1,5 +1,5 @@
 #lactarius_chrysorrheus
-#no_sources: 4
+#no_sources: 3
 
 ---
 latin_name: Lactarius chrysorrheus
@@ -40,33 +40,6 @@ Mleczaj złocisty jest odstręczający, palący, toteż niejadalny.
 
 ## Zastosowanie
 Obecnie mleczaja złocistego nie jada się ani nie wykorzystuje w gospodarce i lecznictwie. Z powodu bardzo przykrego, palącego smaku zwykle klasyfikowany jest jako niejadalny. Tylko nieliczni uczeni i grzybiarze traktowali go dawniej jako jadalnego po uciążliwej, długotrwałej obróbce. Wielu jednak przypisywało mu wręcz właściwości trujące .
-
-
----
-latin_name: Lactarius chrysorrheus
-polish_name: Mleczaj złocisty
-source: https://grzyby.pl/gatunki/Lactarius_chrysorrheus.htm
----
-
-# Mleczaj złocisty
-
-## Owocnik
-
-**Kapelusz** kremowożółty, pomarańczowozłoty, ochrowopomarańczowy, czerwonożółty, z brązowordzawym koncentrycznym strefowaniem; 40-80 mm średnicy, młody nieco wypukły i z podwiniętym brzegiem, potem płaski z zagłębieniem w centrum. **Trzon** biały z wiekiem blado cielistoochrowy; 30-80 x 7-15 mm, krótki, cylindryczny, z nieco zwężoną podstawą; młody gąbczasty, dojrzały pusty. **Mleczko** mleczko białe, po kilku sekundach siarkowożółte ; piekące w smaku.
-
-## Zarodniki
-
-Wysyp zarodników bladoochrowy. Zarodniki elipsoidalne, brodawkowane, nieregularnie siateczkowate, 7-8 x 6-6.5 µm.
-
-## Występowanie
-
-Częsty. Owocniki wyrastają w lasach liściastych, często w dużych skupieniach, głównie pod dębami, na kwaśnych glebach; od lipca do końca sezonu.
-
-Czerwona Lista [125 ] — R–rzadki - potencjalnie zagrożony wymarciem
-
-## Jadalne czy trujące? 🟡
-
-Niejadalny.
 
 
 ---
@@ -124,23 +97,22 @@ Zapach:
 brak/nieokreślony
 
 ---
-latin_name: Lactarius chrysorrheus Fr.
+latin_name: lactarius chrysorrheus
 polish_name: Mleczaj złocisty
-source: https://pl.wikipedia.org/api/rest_v1/page/html/Mleczaj_złocisty
+source: https://pl.wikipedia.org/wiki/Mleczaj_złocisty
 ---
+# Mleczaj złocisty 
+# lactarius chrysorrheus 
 
+Mleczaj złocisty (Lactarius chrysorrheus Fr.) – gatunek grzybów należący do rodziny gołąbkowatych (Russulaceae).
 
-Mleczaj złocisty(Lactarius chrysorrheusFr.) –gatunekgrzybów należący do rodzinygołąbkowatych(Russulaceae).
+## Systematyka i nazewnictwo 
 
+Pozycja w klasyfikacji według Index Fungorum: Lactarius, Russulaceae, Russulales, Incertae sedis, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
 
-## Systematyka i nazewnictwo
+Po raz pierwszy opisał go Elias Fries 1838 r. i nadana przez niego nazwa naukowa jest aktualna. Nazwę polską podali Barbara Gumińska i Władysław Wojewoda w 1983 r. W polskim piśmiennictwie mykologicznym gatunek ten opisywany był też pod nazwami: bedłka tygrysowa, podrydzyk ostry, podrydzyk psi. Synonimy naukowe.
 
-Pozycja w klasyfikacji wedługIndex Fungorum:Lactarius, Russulaceae, Russulales, Incertae sedis, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
-
-Po raz pierwszy opisał goElias Fries1838 r. i nadana przez niego nazwa naukowa jest aktualna. Nazwę polską podaliBarbara GumińskaiWładysław Wojewodaw 1983 r. W polskim piśmiennictwie mykologicznym gatunek ten opisywany był też pod nazwami: bedłka tygrysowa, podrydzyk ostry, podrydzyk psi.Synonimy naukowe.
-
-
-## Morfologia
+## Morfologia 
 
 Średnica 4–6(9) cm, kształt początkowo wypukły szybko jednak rozpłaszcza się i w końcu jest staje się, w środku zagłębiony do wklęsłego. Brzeg początkowo podwinięty, później rozpostarty, ostry. Powierzchnia gładka, w stanie wilgotnym śliska. Barwa od jasno mięsistej do jasno-ochrowo-pomarańczowej. Posiada kilka ciemniejszych, wyraźnych lub rozmytych pręg.
 
@@ -152,16 +124,15 @@ Kruchy, biały, na powietrzu szybko żółknący. Smak początkowo łagodny, pó
 
 Obficie wyciekające, najpierw białe, po 2–3 sekundach cytrynowożółte. W pierwszym momencie wydaje się lagodne, później jednak jest silnie piekące na języku i w gardle.
 
-Wysyp zarodnikówbiaławy z cielistym odcieniem.Zarodnikiszeroko owalne o rozmiarach 7,1–9,1 × 6–7,5 μm. Na powierzchni posiadają niskie brodawki połączone różnej długości listewkami tworzącymi rzadką siateczkę.Podstawkimają rozmiar 36–44 × 7–10 μm. Niezbyt liczne, wrzecionowatecystydymają rozmiar 45–65 × 7–10 μm i wystają zarówno na ostrzu, jak i na bokach blaszek.
+Wysyp zarodników białawy z cielistym odcieniem. Zarodniki szeroko owalne o rozmiarach 7,1–9,1 × 6–7,5 μm. Na powierzchni posiadają niskie brodawki połączone różnej długości listewkami tworzącymi rzadką siateczkę. Podstawki mają rozmiar 36–44 × 7–10 μm. Niezbyt liczne, wrzecionowate cystydy mają rozmiar 45–65 × 7–10 μm i wystają zarówno na ostrzu, jak i na bokach blaszek.
 
+## Występowanie i siedlisko 
 
-## Występowanie i siedlisko
+Występuje w Ameryce Północnej, Środkowej i Południowej, w Europie, Azji i Oceanii. W Polsce gatunek rzadki. Znajduje się na Czerwonej liście roślin i grzybów Polski. Ma status R – potencjalnie zagrożony z powodu ograniczonego zasięgu geograficznego i małych obszarów siedliskowych. Znajduje się na listach gatunków zagrożonych także w Estonii i Holandii.
 
-Występuje w Ameryce Północnej, Środkowej i Południowej, w Europie, Azji i Oceanii. W Polsce gatunek rzadki. Znajduje się naCzerwonej liście roślin i grzybów Polski. Ma status R – potencjalnie zagrożony z powodu ograniczonego zasięgu geograficznego i małych obszarów siedliskowych. Znajduje się na listach gatunków zagrożonych także w Estonii i Holandii.
-
-Naziemnygrzyb mykoryzowy. Rośnie od lipca do końca jesieni, w lasachliściastychi mieszanych, głównie poddębami, zwykle w dużych grupach. Gatunek dość częsty na nizinach.
+Naziemny grzyb mykoryzowy. Rośnie od lipca do końca jesieni, w lasach liściastych i mieszanych, głównie pod dębami, zwykle w dużych grupach. Gatunek dość częsty na nizinach.
 
 Grzyb niejadalny.
 
+## Przypisy 
 
-## Przypisy

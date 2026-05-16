@@ -1,5 +1,5 @@
 #leccinum_holopus
-#no_sources: 4
+#no_sources: 3
 
 ---
 latin_name: Leccinum holopus
@@ -42,23 +42,6 @@ Jak większość koźlarzy jadalny i łatwy w transporcie. Opinie odnośnie walo
 Jak u reszty koźlarzy podobnych do koźlarza babki . Koźlarz białawy nadaje się do suszenia, marynowania i gotowania. Wykorzystywany jest jako dodatek do sosów , zup , mięs oraz innych przetworów. Zasługuje na ochronę z powodu utraty siedlisk .
 
 W Rosji trwają badania nad wykorzystaniem tego gatunku jako wskaźnika skażenia środowiska radioaktywnym cezem 137, gdyż akumuluje on pokaźną ilość tego pierwiastka w swych owocnikach.
-
-
----
-latin_name: Leccinum holopus
-polish_name: Koźlarz beżowy
-source: https://grzyby.pl/gatunki/Leccinum_holopus.htm
----
-
-# Koźlarz beżowy
-
-## Występowanie, ekologia
-
-Pod brzozami.
-
-## Jadalne czy trujące? 🟢
-
-Jadalny.
 
 
 ---
@@ -150,36 +133,34 @@ Zapach:
 grzybowy
 
 ---
-latin_name: Leccinum holopus (Rostk.
+latin_name: leccinum holopus
 polish_name: Koźlarz torfowiskowy
-source: https://pl.wikipedia.org/api/rest_v1/page/html/Leccinum_holopus
+source: https://pl.wikipedia.org/wiki/Koźlarz_torfowiskowy
 ---
+# Koźlarz torfowiskowy 
+# leccinum holopus 
 
+Koźlarz torfowiskowy (Leccinum holopus (Rostk.) Watling) – gatunek grzybów z rodziny borowikowatych (Boletaceae).
 
-Koźlarz torfowiskowy(Leccinum holopus(Rostk.) Watling) –gatunekgrzybów z rodzinyborowikowatych(Boletaceae).
+## Systematyka i nazewnictwo 
 
+Pozycja w klasyfikacji według Index Fungorum: Leccinum, Boletaceae, Boletales, Agaricomycetidae, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
 
-## Systematyka i nazewnictwo
+Po raz pierwszy takson ten zdiagnozował w 1844 r. Friedrich Wilhelm Rostkovius, nadając mu nazwę Boletus holopus. Obecną, uznaną przez Index Fungorum nazwę nadał mu w 1960 r. Roy Watling przenosząc go do rodzaju Leccinum. Synonimy:
 
-Pozycja w klasyfikacji wedługIndex Fungorum:Leccinum, Boletaceae, Boletales, Agaricomycetidae, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
+Władysław Wojewoda wymienia go jako synonim Leccinum niveum (Fr.) Rauschert z polską nazwą borowik białawy. Jednak według Index Fungorum L. niveum to synonim Leccinum scabrum (koźlarz babka).
 
-Po raz pierwszytaksonten zdiagnozował w 1844 r.Friedrich Wilhelm Rostkovius, nadając mu nazwęBoletus holopus. Obecną, uznaną przez Index Fungorum nazwę nadał mu w 1960 r.Roy Watlingprzenosząc go do rodzajuLeccinum.Synonimy:
-
-Władysław Wojewodawymienia go jako synonimLeccinum niveum(Fr.) Rauschert z polską nazwą borowik białawy. Jednak wedługIndex FungorumL. niveumto synonimLeccinum scabrum(koźlarz babka).
-
-
-## Morfologia
+## Morfologia 
 
 Podobny jest koźlarz ałtajski (Leccinum rotundifoliae), który ma podobną barwę, jednak preferuje suche tereny oraz nie przebarwia się na niebiesko u podstawy trzonu. Podobne mogą być również albinotyczne formy innych koźlarzy rosnących pod brzozą.
 
-
-## Występowanie i siedlisko
+## Występowanie i siedlisko 
 
 Występuje w Ameryce Północnej i Europie. Władysław Wojewoda nie podaje żadnych stanowisk w Polsce, jednak jest znajdowany przez grzybiarzy.
 
-Naziemnygrzyb mykoryzowy. Rośnie od lipca do października podbrzozamina terenach podmokłych oraz torfowiskach.
+Naziemny grzyb mykoryzowy. Rośnie od lipca do października pod brzozami na terenach podmokłych oraz torfowiskach.
 
 Grzyb jadalny.
 
+## Przypisy 
 
-## Przypisy

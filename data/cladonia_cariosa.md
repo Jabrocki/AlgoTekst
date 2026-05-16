@@ -1,14 +1,5 @@
 #cladonia_cariosa
-#no_sources: 2
-
----
-latin_name: Cladonia cariosa
-polish_name: Chrobotek próchniejący
-source: https://grzyby.pl/gatunki/Cladonia_cariosa.htm
----
-
-# Chrobotek próchniejący
-
+#no_sources: 1
 
 ---
 latin_name: Cladonia cariosa

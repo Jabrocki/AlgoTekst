@@ -1,5 +1,5 @@
 #russula_claroflava
-#no_sources: 4
+#no_sources: 3
 
 ---
 latin_name: Russula claroflava
@@ -38,35 +38,6 @@ Gołąbek jasnożółty jest grzybem jadalnym. Brak danych na temat wartości od
 
 ## Zastosowanie
 Gołąbek jasnożółty ma nieszczególny smak, dlatego nie znalazł dużego zastosowania w kuchni. Można go używać jako dodatek do potraw z innymi grzybami .
-
-
----
-latin_name: Russula claroflava
-polish_name: Gołąbek jasnożółty
-source: https://grzyby.pl/gatunki/Russula_claroflava.htm
----
-
-# Gołąbek jasnożółty
-
-## Owocnik
-
-**Kapelusz** jasnożółty, chromowożółty ; duży mięsisty, jędrny, do 120 mm średnicy, półkulisty, spłaszczony potem wklęsły; brzeg długo podwinięty, tępy, stary krótko karbowany; skórka wilgotna nieco błyszcząca, sucha matowa, gładka, zdziera się na odcinku 2/3 promienia kapelusza. **Trzon** Biały (czasem ze słabym odcieniem cytrynowym), uszkodzony i z wiekiem szarzeje , 40-70 x 15-25 mm, jędrny, mocny, równogruby, stary watowaty i komorowaty, niemal gładki, zamszowaty.
-
-## Zarodniki
-
-Wysyp ochrowy. Zarodniki szeroko elipsoidalne, brodawkowato-siateczkowate, brodawki średniej wielkości, 8.5-12 x 6.5-9 µm.
-
-## Występowanie
-
-Dość częsty, występuje od czerwca do października, w wilgotnych i zatorfionych miejscach; mykoryza z brzozami .
-
-## Jadalne czy trujące? 🟢
-
-Jadalny. [105 ]
-
-## Uwagi
-
-W tych samych miejscach wyrasta pomarańczowoczerwony gołąbek płowiejący ( Russula decolorans ) .
 
 
 ---
@@ -154,29 +125,28 @@ Zapach:
 owocowy
 
 ---
-latin_name: Russula claroflava Grove
+latin_name: russula claroflava
 polish_name: Gołąbek jasnożółty
-source: https://pl.wikipedia.org/api/rest_v1/page/html/Gołąbek_jasnożółty
+source: https://pl.wikipedia.org/wiki/Gołąbek_jasnożółty
 ---
+# Gołąbek jasnożółty 
+# russula claroflava 
 
+Gołąbek jasnożółty (Russula claroflava Grove) – gatunek grzybów należący do rodziny gołąbkowatych (Russulaceae).
 
-Gołąbek jasnożółty(Russula claroflavaGrove) –gatunekgrzybów należący do rodzinygołąbkowatych(Russulaceae).
+## Systematyka i nazewnictwo 
 
+Pozycja w klasyfikacji według Index Fungorum: Russula, Russulaceae, Russulales, Incertae sedis, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
 
-## Systematyka i nazewnictwo
+Po raz pierwszy opisał go w 1888 r. William Bywater Grove i nadana przez niego nazwa naukowa jest aktualna. Niektóre synonimy nazwy naukowej:
 
-Pozycja w klasyfikacji wedługIndex Fungorum:Russula, Russulaceae, Russulales, Incertae sedis, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
+Polską nazwę podała Alina Skirgiełło w 1991 r.
 
-Po raz pierwszy opisał go w 1888 r.William Bywater Grovei nadana przez niego nazwa naukowa jest aktualna. Niektóresynonimy nazwy naukowej:
-
-Polską nazwępodałaAlina Skirgiełłow 1991 r.
-
-
-## Morfologia
+## Morfologia 
 
 Średnicy 5–10 cm, za młodu półkulisty z podwiniętym brzegiem, potem płaski, z wgłębieniem pośrodku, twardy i mięsisty. Powierzchnia lśniąca, jednobarwna, cytrynowożółta do chromowożółtej. Skórkę można zdjąć do połowy kapelusza.
 
-Grube i dosyć rzadkie, czasami rozwidlone lub tworząceanastomozy. Przy brzegu są zaokrąglone, przy trzonie zwężone, wolne, lub nieco zbiegające ząbkiem. Początkowo są białe, później żółtoochrowe.
+Grube i dosyć rzadkie, czasami rozwidlone lub tworzące anastomozy. Przy brzegu są zaokrąglone, przy trzonie zwężone, wolne, lub nieco zbiegające ząbkiem. Początkowo są białe, później żółtoochrowe.
 
 Wysokość 4–7 cm, grubość 1,5–2,5 cm, walcowaty, czasami nieco rozszerzony na środku, najpierw pełny, potem watowaty. Powierzchnia biała, czasami lekko cytrynowa, niemal gładka lub zamszowata. Po dotknięciu szarzeje.
 
@@ -184,19 +154,17 @@ Gruby i jędrny, barwy białej. Przecięty zmienia barwę na czarniawosiwą. W s
 
 Ochrowy.
 
-W korze trzonu liczne występująprzewody mleczne.Zarodnikiszeroko elipsoidalne, o rozmiarach 8,5–12 × 6–9 μm. Powierzchnia brodawkowato-siateczkowata, brodawki stożkowate, średniej wielkości, siateczka bardzo delikatna.Podstawkio rozmiarach 35–50 × 10–12 μm.Cystydywystępują licznie, są wrzecionowate, tępo zakończone i mają rozmiar 50–80 × 8–12 μm.Dermatocystydbrak.
+W korze trzonu liczne występują przewody mleczne. Zarodniki szeroko elipsoidalne, o rozmiarach 8,5–12 × 6–9 μm. Powierzchnia brodawkowato-siateczkowata, brodawki stożkowate, średniej wielkości, siateczka bardzo delikatna. Podstawki o rozmiarach 35–50 × 10–12 μm. Cystydy występują licznie, są wrzecionowate, tępo zakończone i mają rozmiar 50–80 × 8–12 μm. Dermatocystyd brak.
 
-
-## Występowanie i siedlisko
+## Występowanie i siedlisko 
 
 Występuje w Ameryce Północnej, Europie i Japonii. W polskim piśmiennictwie mykologicznym opisany na licznych stanowiskach. Prawdopodobnie nie jest rzadki.
 
-Naziemnygrzyb mykoryzowy. Rośnie w wilgotnych i ciemnych lasach liściastych z pojedynczymi brzozami lub na podmokłych brzezinach, czasami także na torfowiskach.Owocnikiwytwarza od lipca do października.
+Naziemny grzyb mykoryzowy. Rośnie w wilgotnych i ciemnych lasach liściastych z pojedynczymi brzozami lub na podmokłych brzezinach, czasami także na torfowiskach. Owocniki wytwarza od lipca do października.
 
-
-## Znaczenie
+## Znaczenie 
 
 Grzyb jadalny.
 
+## Przypisy 
 
-## Przypisy

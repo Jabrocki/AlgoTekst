@@ -1,14 +1,5 @@
 #physcia_tribacia
-#no_sources: 2
-
----
-latin_name: Physcia tribacia
-polish_name: Obrost kędzierzawy
-source: https://grzyby.pl/gatunki/Physcia_tribacia.htm
----
-
-# Obrost kędzierzawy
-
+#no_sources: 1
 
 ---
 latin_name: Physcia tribacia

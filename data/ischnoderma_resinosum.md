@@ -81,48 +81,44 @@ Podłoże:
 drewno
 
 ---
-latin_name: Ischnoderma resinosum (Schrad.
+latin_name: ischnoderma resinosum
 polish_name: Smolucha bukowa
-source: https://pl.wikipedia.org/api/rest_v1/page/html/Smolucha_bukowa
+source: https://pl.wikipedia.org/wiki/Smolucha_bukowa
 ---
+# Smolucha bukowa 
+# ischnoderma resinosum 
 
+Smolucha bukowa (Ischnoderma resinosum (Schrad.) P. Karst.) – gatunek grzybów z rodziny Ischnodermataceae.
 
-Smolucha bukowa(Ischnoderma resinosum(Schrad.) P. Karst.) –gatunekgrzybów z rodzinyIschnodermataceae.
+## Systematyka i nazewnictwo 
 
+Pozycja w klasyfikacji według Index Fungorum: Ischnodermataceae, Polyporales, Incertae sedis, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
 
-## Systematyka i nazewnictwo
+Po raz pierwszy takson ten zdiagnozował w 1794 r. Heinrich Adolf Schrader, nadając mu nazwę Boletus resinosus. Obecną, uznaną przez Index Fungorum nazwę nadał mu w 1879 r. Petter Adolf Karsten, przenosząc go do rodzaju Ischnoderma. Niektóre synonimy naukowe
 
-Pozycja w klasyfikacji wedługIndex Fungorum:Ischnodermataceae, Polyporales, Incertae sedis, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
+Łacińska nazwa ischnoderma oznacza zwiędły lub pomarszczona skóra, resinosum znaczy żywiczny. Polską nazwę nadali Barbara Gumińska i Władysław Wojewoda w 1983 r., wcześniej gatunek ten opisywany był w polskim piśmiennictwie mykologicznym pod nazwą huba żywicowata.
 
-Po raz pierwszytaksonten zdiagnozował w 1794 r.Heinrich Adolf Schrader, nadając mu nazwęBoletus resinosus. Obecną, uznaną przez Index Fungorum nazwę nadał mu w 1879 r.Petter Adolf Karsten, przenosząc go do rodzajuIschnoderma. Niektóresynonimy naukowe
+## Morfologia 
 
-Łacińska nazwaischnodermaoznaczazwiędłylubpomarszczona skóra,resinosumznaczyżywiczny. Polską nazwę nadaliBarbara GumińskaiWładysław Wojewodaw 1983 r., wcześniej gatunek ten opisywany był w polskim piśmiennictwie mykologicznym pod nazwą huba żywicowata.
+Jednoroczna huba do podłoża przyrastająca bokiem.. Pojedynczy owocnik ma kształt konsolowaty lub półkolisty, szerokość 6–15(30) cm i grubość 1–2(3) cm. Brzeg jest gruby, zaokrąglony i jaśniejszej barwy. Powierzchnia górna młodych owocników filcowata, starszych naga, z lekkim połyskiem. Ma barwę od rdzaworudej przez czerwonobrunatną do czarnobrązowej. Starsze owocniki są ciemniejsze. Często hymenofor wydziela ciemne krople. Pod skórką znajduje się cienka żywiczna warstwa rdzawego koloru.
 
-
-## Morfologia
-
-Jednorocznahubado podłoża przyrastająca bokiem.. Pojedynczy owocnik ma kształt konsolowaty lub półkolisty, szerokość 6–15(30) cm i grubość 1–2(3) cm. Brzeg jest gruby, zaokrąglony i jaśniejszej barwy. Powierzchnia górna młodych owocników filcowata, starszych naga, z lekkim połyskiem. Ma barwę od rdzaworudej przez czerwonobrunatną do czarnobrązowej. Starsze owocniki są ciemniejsze. Częstohymenoforwydziela ciemne krople. Pod skórką znajduje się cienka żywiczna warstwa rdzawego koloru.
-
-Wykształca się dopiero w końcowej fazie rozwoju owocnika.Rurkimają długość 10–15 mm, ich pory są drobne (0,15–0,25 mm średnicy), o barwie od białej do ochrowej. Po uciśnięciu zmieniają barwę na czerwonobrązową.
+Wykształca się dopiero w końcowej fazie rozwoju owocnika. Rurki mają długość 10–15 mm, ich pory są drobne (0,15–0,25 mm średnicy), o barwie od białej do ochrowej. Po uciśnięciu zmieniają barwę na czerwonobrązową.
 
 Soczysty, mięsisto-włóknisty, kilka razy grubszy od warstwy rurek. Po wysuszeniu staje się korkowaty i kruchy.
 
-System strzępkowydimityczny. Strzępki generatywne zesprzążkaami. W skórce kapelusza o brązowych i bardzo grubych ścianach, z kilkoma rozproszonymi sprzążkami, średnio rozgałęzione, o szerokości 4–10 μm. Strzępki generatywne wkontekścieprzeważnie bezbarwne i w środku rozszerzone do 12 μm. Strzępki generatywne wsubhymeniumo lekko zgęstniałych ścianach szerokości 3–5 μm. Strzępki szkieletowe w kontekście częściowo splątane z generatywnymi, proste lub lekko faliste, bardzo grubościenne, bez odgałęzień, o średnicy 3–10 μm. Strzępki wtramieproste, grubościenne, w dojrzałym owocniku nieco żółtawe, o średnicy 3–10 μm.Podstawkizgrubiałe, 4–sterygmowe, o rozmiarach 12–18 × 4–6 μm, ze sprzążką w podstawie.Zarodnikicylindryczne, bezbarwne, cienkościenne,nieamyloidalne, o rozmiarach 1,5–2 × 5–7 μm.
+System strzępkowy dimityczny. Strzępki generatywne ze sprzążkaami. W skórce kapelusza o brązowych i bardzo grubych ścianach, z kilkoma rozproszonymi sprzążkami, średnio rozgałęzione, o szerokości 4–10 μm. Strzępki generatywne w kontekście przeważnie bezbarwne i w środku rozszerzone do 12 μm. Strzępki generatywne w subhymenium o lekko zgęstniałych ścianach szerokości 3–5 μm. Strzępki szkieletowe w kontekście częściowo splątane z generatywnymi, proste lub lekko faliste, bardzo grubościenne, bez odgałęzień, o średnicy 3–10 μm. Strzępki w tramie proste, grubościenne, w dojrzałym owocniku nieco żółtawe, o średnicy 3–10 μm. Podstawki zgrubiałe, 4–sterygmowe, o rozmiarach 12–18 × 4–6 μm, ze sprzążką w podstawie. Zarodniki cylindryczne, bezbarwne, cienkościenne, nieamyloidalne, o rozmiarach 1,5–2 × 5–7 μm.
 
+## Występowanie i siedlisko 
 
-## Występowanie i siedlisko
+Występuje w Ameryce Północnej oraz Europie. W Ameryce Północnej jest szeroko rozprzestrzeniony i dość częsty. W Europie jest szeroko rozprzestrzeniony, występuje na obszarze od Hiszpanii do Rosji, ale częściej w południowej części. W Europie Północnej jest rzadki, w Szwecji znany tylko z jednego stanowiska, podobnie w Danii. W Polsce gatunek rzadki. Znajduje się na Czerwonej liście roślin i grzybów Polski. Ma status V – gatunek narażony na wymarcie. Znajduje się na listach gatunków zagrożonych także w Austrii, Niemczech, Danii, Szwecji, Słowacji.
 
-Występuje w Ameryce Północnej oraz Europie. W Ameryce Północnej jest szeroko rozprzestrzeniony i dość częsty. W Europie jest szeroko rozprzestrzeniony, występuje na obszarze od Hiszpanii do Rosji, ale częściej w południowej części. W Europie Północnej jest rzadki, w Szwecji znany tylko z jednego stanowiska, podobnie w Danii. W Polsce gatunek rzadki. Znajduje się naCzerwonej liście roślin i grzybów Polski. Ma status V – gatunek narażony na wymarcie. Znajduje się na listach gatunków zagrożonych także w Austrii, Niemczech, Danii, Szwecji, Słowacji.
+Rozwija się na pniach i pniakach martwych drzew liściastych, najczęściej na buku i klonie jaworze, rzadziej na innych gatunkach drzew liściastych; grab, lipa, jarzębina, jabłoń i brzoza. Owocniki pojawiają się od sierpnia do października.
 
-Rozwija się na pniach i pniakach martwych drzew liściastych, najczęściej na buku i klonie jaworze, rzadziej na innych gatunkach drzew liściastych; grab, lipa, jarzębina, jabłońi brzoza. Owocniki pojawiają się od sierpnia do października.
+## Znaczenie 
 
+Saprotrof wywołujący białą zgniliznę drewna. Gnijące drewno jest żółtawe i wydziela silny zapach anyżu. Grzyb niejadalny.
 
-## Znaczenie
+## Przypisy 
 
-Saprotrofwywołującybiałą zgniliznę drewna. Gnijące drewno jest żółtawe i wydziela silny zapach anyżu.Grzyb niejadalny.
+## Linki zewnętrzne 
 
-
-## Przypisy
-
-
-## Linki zewnętrzne

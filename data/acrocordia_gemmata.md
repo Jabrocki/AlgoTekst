@@ -1,14 +1,5 @@
 #acrocordia_gemmata
-#no_sources: 2
-
----
-latin_name: Acrocordia gemmata
-polish_name: Rzędnica pospolita
-source: https://grzyby.pl/gatunki/Acrocordia_gemmata.htm
----
-
-# Rzędnica pospolita
-
+#no_sources: 1
 
 ---
 latin_name: Acrocordia gemmata
