@@ -1,14 +1,5 @@
 #stereocaulon_dactylophyllum
-#no_sources: 2
-
----
-latin_name: Stereocaulon dactylophyllum
-polish_name: Chróścik palczasty
-source: https://grzyby.pl/gatunki/Stereocaulon_dactylophyllum.htm
----
-
-# Chróścik palczasty
-
+#no_sources: 1
 
 ---
 latin_name: Stereocaulon dactylophyllum

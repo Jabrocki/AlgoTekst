@@ -1,14 +1,5 @@
 #xanthoparmelia_verruculifera
-#no_sources: 2
-
----
-latin_name: Xanthoparmelia verruculifera
-polish_name: Żełuczka ciemna
-source: https://grzyby.pl/gatunki/Xanthoparmelia_verruculifera.htm
----
-
-# Żełuczka ciemna
-
+#no_sources: 1
 
 ---
 latin_name: Xanthoparmelia verruculifera

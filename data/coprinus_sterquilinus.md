@@ -1,20 +1,5 @@
 #coprinus_sterquilinus
-#no_sources: 3
-
----
-latin_name: Coprinus sterquilinus
-polish_name: Czernidłak wielkopierścieniowy
-source: https://grzyby.pl/gatunki/Coprinus_sterquilinus.htm
----
-
-# Czernidłak wielkopierścieniowy
-
-## Występowanie, ekologia
-
-Na odchodach roślinożerców (koń, królik).
-
-Czerwona Lista [125 ] — E–wymierający - krytycznie zagrożony
-
+#no_sources: 2
 
 ---
 latin_name: Coprinus sterquilinus
@@ -95,42 +80,40 @@ Sposób odżywiania:
 saprotrof
 
 ---
-latin_name: Coprinus sterquilinus (Fr.
+latin_name: coprinus sterquilinus
 polish_name: Czernidłak wielkopierścieniowy
-source: https://pl.wikipedia.org/api/rest_v1/page/html/Czernidłak_wielkopierścieniowy
+source: https://pl.wikipedia.org/wiki/Czernidłak_wielkopierścieniowy
 ---
+# Czernidłak wielkopierścieniowy 
+# coprinus sterquilinus 
 
+Czernidłak wielkopierścieniowy (Coprinus sterquilinus (Fr.) Fr.) – gatunek grzybów należący do rodziny pieczarkowatych (Agaricaceae).
 
-Czernidłak wielkopierścieniowy(Coprinus sterquilinus(Fr.) Fr.) –gatunekgrzybów należący do rodzinypieczarkowatych(Agaricaceae).
+## Systematyka i nazewnictwo 
 
+Pozycja w klasyfikacji według Index Fungorum: Coprinus, Agaricaceae, Agaricales, Agaricomycetidae, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
 
-## Systematyka i nazewnictwo
+Po raz pierwszy takson ten zdiagnozował w roku 1821 Elias Fries nadając mu nazwę Agaricus sterquilinus. Obecną, uznaną przez Index Fungorum nazwę nadał mu w roku 1838 ten sam autor, przenosząc go do rodzaju Coprinus. Synonimy:
 
-Pozycja w klasyfikacji wedługIndex Fungorum:Coprinus, Agaricaceae, Agaricales, Agaricomycetidae, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
+Nazwę polską zaproponował Władysław Wojewoda w 2003 r., wcześniej (w 1830 r.) Józef Jundziłł opisywał ten gatunek jako bedłka gnojowa.
 
-Po raz pierwszytaksonten zdiagnozował w roku 1821Elias Friesnadając mu nazwęAgaricus sterquilinus. Obecną, uznaną przez Index Fungorum nazwę nadał mu w roku 1838 ten sam autor, przenosząc go do rodzajuCoprinus.Synonimy:
+## Morfologia 
 
-Nazwę polską zaproponowałWładysław Wojewodaw 2003 r., wcześniej (w 1830 r.)Józef Jundziłłopisywał ten gatunek jako bedłka gnojowa.
-
-
-## Morfologia
-
-Młody ma kształt cylindryczno-eliptyczny, wysokość 3–6 cm i średnicę 2–2,5 cm. Z wiekiem staje się stożkowaty, osiągając średnicę 7 cm. Brzeg początkowo jest przywarty do trzonu, potem gdy kapelusz rozchyla się, często ulega rozdarciu, skrzywieniu lub zapadnięciu. Powierzchnia prążkowana, włókienkowata i pokryta kłaczkowatymi resztkamiosłony. Początkowo kapelusz jest biały, potem w miarę dojrzewania coraz ciemniejszy, w końcu czarny i rozpływający się.
+Młody ma kształt cylindryczno-eliptyczny, wysokość 3–6 cm i średnicę 2–2,5 cm. Z wiekiem staje się stożkowaty, osiągając średnicę 7 cm. Brzeg początkowo jest przywarty do trzonu, potem gdy kapelusz rozchyla się, często ulega rozdarciu, skrzywieniu lub zapadnięciu. Powierzchnia prążkowana, włókienkowata i pokryta kłaczkowatymi resztkami osłony. Początkowo kapelusz jest biały, potem w miarę dojrzewania coraz ciemniejszy, w końcu czarny i rozpływający się.
 
 Wolne, o szerokości do 7 mm, początkowo stłoczone, potem luźne. Początkowo białe, potem różowawe. Czasami rozwidlone.
 
-Wysokość 4–9 cm, grubość 0,6–1 cm. Jest zwężający się w kierunku wierzchołka, nabrzmiały lub bulwiasty u podstawy. Powierzchnia przylegająco włóknista, początkowo biaława, potem szara. Podstawa trzonu osłonięta resztkami białejosłony, czasami po osłonie tej pozostają tylko pierścienie na podstawie trzonu.
+Wysokość 4–9 cm, grubość 0,6–1 cm. Jest zwężający się w kierunku wierzchołka, nabrzmiały lub bulwiasty u podstawy. Powierzchnia przylegająco włóknista, początkowo biaława, potem szara. Podstawa trzonu osłonięta resztkami białej osłony, czasami po osłonie tej pozostają tylko pierścienie na podstawie trzonu.
 
 Biały, w kapeluszu o grubości do 3 mm na środku i 1 mm przy brzegu, bez wyraźnego smaku i zapachu.
 
-Czarny.Zarodnikio średnicy 17,5–22,5 25 × 11,0–13,5 × 9,5–11 µm, eliptyczne lub migdałowate, gładkie, ciemnobrązowe,pora rostkowanieco ekscentryczna.
+Czarny. Zarodniki o średnicy 17,5–22,5 25 × 11,0–13,5 × 9,5–11 µm, eliptyczne lub migdałowate, gładkie, ciemnobrązowe, pora rostkowa nieco ekscentryczna.
 
+## Występowanie i siedlisko 
 
-## Występowanie i siedlisko
+Najwięcej stanowisk tego gatunku podano w Ameryce Północnej i Europie, poza tym znany jest jeszcze w Maroku, Chinach i Japonii. W Polsce do 2003 r. podano tylko jedno stanowisko (W. Wojewoda w Ogrodzie Botanicznym w Krakowie, 1996 r.). Znajduje się na Czerwonej liście roślin i grzybów Polski. Ma status E– gatunek wymierający.
 
-Najwięcej stanowisk tego gatunku podano w Ameryce Północnej i Europie, poza tym znany jest jeszcze w Maroku, Chinach i Japonii. WPolscedo 2003 r. podano tylko jedno stanowisko (W. Wojewoda wOgrodzie Botanicznym w Krakowie, 1996 r.). Znajduje się naCzerwonej liście roślin i grzybów Polski. Ma status E– gatunek wymierający.
+Saprotrof. Sporadycznie pojawia się na substancjach organicznych; na oborniku, słomie i odchodach zwierząt roślinożernych.
 
-Saprotrof. Sporadycznie pojawia się na substancjach organicznych; na oborniku, słomiei odchodach zwierząt roślinożernych.
+## Przypisy 
 
-
-## Przypisy

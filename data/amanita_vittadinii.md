@@ -1,14 +1,5 @@
 #amanita_vittadinii
-#no_sources: 2
-
----
-latin_name: Amanita vittadinii
-polish_name: Muchomor łuskowaty
-source: https://grzyby.pl/gatunki/Amanita_vittadinii.htm
----
-
-# Muchomor łuskowaty
-
+#no_sources: 1
 
 ---
 latin_name: Amanita vittadinii

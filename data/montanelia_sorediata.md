@@ -1,14 +1,5 @@
 #montanelia_sorediata
-#no_sources: 2
-
----
-latin_name: Montanelia sorediata
-polish_name: Góralka sorediowa
-source: https://grzyby.pl/gatunki/Montanelia_sorediata.htm
----
-
-# Góralka sorediowa
-
+#no_sources: 1
 
 ---
 latin_name: Montanelia sorediata

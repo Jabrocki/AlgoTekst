@@ -152,7 +152,7 @@ def merge_mushroom_data(sources: list[Path], output_dir: str):
     for name, files in articles.items():
         combined_text = "\n\n".join(f.read_text("utf-8") for f in files)
 
-        if len(combined_text) <= 700:
+        if len(combined_text) <= 1500:
             continue
 
         header = f"#{name}\n#no_sources: {len(files)}\n\n"
@@ -191,6 +191,6 @@ if __name__ == "__main__":
         Path("./ekologiapl/mushroom_data"),
         Path("./grzybypl/data"),
         Path("./nagrzybypl/atlas_grzybow"),
-        Path("./wikipedia/grzyby"),
+        Path("./wiki_2/data"),
     ]
     merge_mushroom_data(INPUT_SOURCES, "./data")

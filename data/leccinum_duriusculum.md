@@ -1,5 +1,5 @@
 #leccinum_duriusculum
-#no_sources: 4
+#no_sources: 3
 
 ---
 latin_name: Leccinum duriusculum
@@ -36,27 +36,6 @@ Koźlarz topolowy jest smacznym grzybem jadalnym. Brak danych na temat wartości
 
 ## Zastosowanie
 Koźlarz topolowy wykorzystywany jest jako składnik sosów i zup grzybowych . Grzyb ten jest także dobrym dodatkiem do dań mięsnych . Można go suszyć i marynować.
-
-
----
-latin_name: Leccinum duriusculum
-polish_name: Koźlarz topolowy
-source: https://grzyby.pl/gatunki/Leccinum_duriusculum.htm
----
-
-# Koźlarz topolowy
-
-## Opis
-
-Kapelusz szarobrązowy. Pory białawe do jasnoszarych. Trzon białawy z czarniawymi łuseczkami. Miąższ na cięciu przebarwia się czerwonawo, następnie do fioletowoczarnego, w podstawie trzonu i na jego powierzchni także zielonkawo lub niebieskawo.
-
-## Występowanie
-
-Pojawia się pod topolą osiką ( Populus tremula ) i topolą białą ( Populus alba ) .
-
-## Jadalne czy trujące? 🟢
-
-Jadalny ale prawdopodobnie surowy może wywołać zatrucie [105 ] (ta uwaga dotyczy w zasadzie wszystkich grzybów jadalnych).
 
 
 ---
@@ -154,26 +133,25 @@ Zapach:
 grzybowy
 
 ---
-latin_name: Leccinum duriusculum (Schulzer ex Kalchbr.
+latin_name: leccinum duriusculum
 polish_name: Koźlarz topolowy
-source: https://pl.wikipedia.org/api/rest_v1/page/html/Koźlarz_topolowy
+source: https://pl.wikipedia.org/wiki/Koźlarz_topolowy
 ---
+# Koźlarz topolowy 
+# leccinum duriusculum 
 
+Koźlarz topolowy (Leccinum duriusculum (Schulzer ex Kalchbr.) Singer) – gatunek grzybów z rodziny borowikowatych (Boletaceae). Grzyb jadalny.
 
-Koźlarz topolowy(Leccinum duriusculum(Schulzer exKalchbr.) Singer) –gatunekgrzybówz rodzinyborowikowatych(Boletaceae). Grzyb jadalny.
+## Systematyka i nazewnictwo 
 
-
-## Systematyka i nazewnictwo
-
-Pozycja w klasyfikacji wedługIndex Fungorum:Boletaceae, Boletales, Agaricomycetidae, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
+Pozycja w klasyfikacji według Index Fungorum: Boletaceae, Boletales, Agaricomycetidae, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
 Schulzer ex Kalchbr.
 
-Po raz pierwszytaksonten opisali w 1874 r.SchulzeriKalchbrennernadając mu nazwęBoletus duriusculus. Obecną, uznaną przez Index Fungorum nazwę nadał mu w 1947 r.Singer, przenosząc go do rodzajuLeccinum. Niektóresynonimy:
+Po raz pierwszy takson ten opisali w 1874 r. Schulzer i Kalchbrenner nadając mu nazwę Boletus duriusculus. Obecną, uznaną przez Index Fungorum nazwę nadał mu w 1947 r. Singer, przenosząc go do rodzaju Leccinum. Niektóre synonimy:
 
-Nazwę polską podałWładysław Wojewodaw 1999 r.
+Nazwę polską podał Władysław Wojewoda w 1999 r.
 
-
-## Morfologia
+## Morfologia 
 
 Średnica dochodzi do 15 cm, u młodych egzemplarzy półkulisty, potem poduszkowato spłaszczony. Jest mięsisty, podczas suchej pogody suchy, matowy i filcowaty, przy wilgotnej pogodzie powierzchnia kapelusza jest lepka. Za młodu powierzchnia jest gładka, z czasem staje się pomarszczona. Barwa od czerwonosiwej do ciemnobrązowej, przy brzegu z żółtymi plamkami. Powierzchnia łuskowata i włókniście pilśniowata.
 
@@ -183,14 +161,13 @@ Grubość do 3 cm, wysokość do 15 cm, cylindryczny. Jest biały lub kremowy i 
 
 W kapeluszu biały, po przecięciu łososiowy, w górnej części trzonu siwofioletowy, u podstawy siniejący. Smak i zapach przyjemny.
 
-Zarodnikigładkie, wrzecionowate o rozmiarach 13–17 × 5–7 μm.
+Zarodniki gładkie, wrzecionowate o rozmiarach 13–17 × 5–7 μm.
 
-
-## Występowanie i siedlisko
+## Występowanie i siedlisko 
 
 Opisano jego występowanie tylko w Europie. Jest tutaj szeroko rozprzestrzeniony, na północy sięga po północne krańce Półwyspu Skandynawskiego. W Polsce jest rzadki, ale nie jest szczególnie zagrożony. Znajduje się natomiast na czerwonych listach gatunków zagrożonych w Austrii, Danii, Niemczech, Holandii, Słowacji i Czechach.
 
-Jesienią spotykany podosikamii topolami białymi.Owocnikipojawiają się od sierpnia do października.
+Jesienią spotykany pod osikami i topolami białymi. Owocniki pojawiają się od sierpnia do października.
 
+## Przypisy 
 
-## Przypisy

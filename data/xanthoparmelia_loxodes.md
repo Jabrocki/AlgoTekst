@@ -1,14 +1,5 @@
 #xanthoparmelia_loxodes
-#no_sources: 2
-
----
-latin_name: Xanthoparmelia loxodes
-polish_name: Nyl.
-source: https://grzyby.pl/gatunki/Xanthoparmelia_loxodes.htm
----
-
-# Nyl.
-
+#no_sources: 1
 
 ---
 latin_name: Xanthoparmelia loxodes

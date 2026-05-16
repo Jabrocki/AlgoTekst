@@ -3,31 +3,6 @@
 
 ---
 latin_name: Marasmius epiphyllus
-polish_name: Twardzioszek liściolubny
-source: https://grzyby.pl/gatunki/Marasmius_epiphyllus.htm
----
-
-# Twardzioszek liściolubny
-
-## Owocnik
-
-**Kapelusz** mlecznobiały, 3-10 mm średnicy; prawie bez miąższu; parasolowaty, stare spłaszczone, powierzchnia pomarszczona. **Trzon** długi, nitkowaty, powyginany; brązowy, brązowoczerwony; u szczytu jaśniejszy, jasnożółty, ku podstawie coraz ciemniejszy; cały biało oprószony; bez grzybni u podstawy.
-
-## Zarodniki
-
-Wysyp biały. 10-11 x 3.5-4 µm. Podstawki z 4(3) zarodnikami. Strzępki ze sprzążkami.
-
-## Występowanie
-
-Częsty. Owocniki wyrastają jesienią na ogonkach i nerwach opadłych, sczerniałych liści drzew liściastych, na drewienkach i leżących gałązkach. Zwykle w dużej ilości, gromadnie; lipiec-listopad.
-
-## Gatunki podobne
-
-Inne drobne twardzioszki. W odróżnieniu powinna pomóc biała barwa, żyłkowate i zachodzące na trzon blaszki i miejsce występowania. Marasmius epiphylloides wyrasta na butwiejących liściach bluszczu (Hedera).
-
-
----
-latin_name: Marasmius epiphyllus
 source: https://www.nagrzyby.pl/atlas/5120
 ---
 
@@ -98,3 +73,40 @@ jesień
 ## Inne
 Zapach:
 brak/nieokreślony
+
+---
+latin_name: marasmius epiphyllus
+polish_name: Twardzioszek liściolubny
+source: https://pl.wikipedia.org/wiki/Twardzioszek_liściolubny
+---
+# Twardzioszek liściolubny 
+# marasmius epiphyllus 
+
+Twardzioszek liściolubny (Marasmius epiphyllus (Pers.) Fr.) – gatunek grzybów należący do rodziny twardzioszkowatych (Marasmiaceae).
+
+## Systematyka i nazewnictwo 
+
+Nazwę polską zaproponował Władysław Wojewoda w 2003 r. Synonimy naukowe:
+
+## Morfologia 
+
+Średnica 4–10 mm, kształt początkowo parasolowaty, starsze kapelusze stają się spłaszczone i pomarszczone. Powierzchnia naga, mlecznobiała
+
+Dochodzące do trzonu, wykrojone lub przyrośnięte. Są mlecznobiałe, bardzo wąskie i pofalowane, przypominające żyłki. Nie tworzą obroży wokół trzonu.
+
+Cielistobrązowawy (początkowo biały), nitkowaty, oszroniony.
+
+Bardzo cienki, bez wyraźnego zapachu i smaku.
+
+Biały. Zarodniki o rozmiarach 10-11 × 3.5-4 µm. Podstawki z trzema sterygmami.
+Gatunki podobne:
+Jest wiele podobnych, drobnych gatunków twardzioszków żyjących na liściach i resztkach drzewnych. Twardzioszka liściolubnego dość łatwo można rozpoznać po wąskich (listewkowatych) i dochodzących do trzonu blaszkach oraz bardziej rozpostartym kapeluszu. Podobne są:
+
+## Występowanie i siedlisko 
+
+Jest szeroko rozprzestrzeniony w Europie i Ameryce Północnej, poza tym podano jego stanowiska także w Maroku i Armenii. W Polsce jest częsty.
+
+Saprotrof. Owocniki wyrastają od lipca do listopada na ogonkach i nerwach opadłych i sczerniałych już liści, ale także na drewienkach, leżących gałązkach. Zazwyczaj występuje gromadnie. Szczególnie często spotykany na liściach jawora, buka, jesionu, dębu.
+
+## Przypisy 
+

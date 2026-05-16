@@ -1,14 +1,5 @@
 #aspicilia_cinerea
-#no_sources: 2
-
----
-latin_name: Aspicilia cinerea
-polish_name: Dzbanusznik popielaty
-source: https://grzyby.pl/gatunki/Aspicilia_cinerea.htm
----
-
-# Dzbanusznik popielaty
-
+#no_sources: 1
 
 ---
 latin_name: Aspicilia cinerea

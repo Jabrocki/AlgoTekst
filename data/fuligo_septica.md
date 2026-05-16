@@ -100,6 +100,51 @@ gatunków.
 Praca zbiorowa - Świat śluzowców, grzybów i mszaków Wigierskiego Parku Narodowego 2010r.
 
 ---
+latin_name: Fuligo septica varietas rufa
+source: https://www.nagrzyby.pl/atlas/5100
+---
+
+# Fuligo septica varietas rufa
+# wykwit piankowaty czerwieniejący
+
+## Podstawowe informacje
+Jadalność:
+niejadalny
+Typ grzyba:
+śluzowce
+
+## Opis
+Budowa:
+zros
+ł
+ozarodnie najczęściej zaokrąglone ,rzadziej wydłużone , od beżoworóżówych do różówobrunatnych
+. Kora gładsza od pozostałych odmian, w
+łośnia czerwonawa .
+Zarodniki :
+brnatne z odcieniem fioletowym
+o
+ś
+rednicy 6 – 7
+μm .
+Podłoże :
+próchniej
+ą
+ce drewno i kora ró
+ż
+nych
+drzew li
+ś
+ciastych, rzadziej iglastych lub
+mchy.
+Występowanie:
+w lasach, parkach, przez ca
+ł
+y
+sezon wegetacyjny, ale rzadziej od pozostałych form.
+opracował
+: PAWEŁ
+
+---
 latin_name: Fuligo septica varietas candida
 source: https://www.nagrzyby.pl/atlas/5053
 ---
@@ -172,89 +217,40 @@ y sezon wegetacyjny.
 Praca zbiorowa - Świat śluzowców, grzybów i mszaków Wigierskiego Parku Narodowego 2010r.
 
 ---
-latin_name: Fuligo septica varietas rufa
-source: https://www.nagrzyby.pl/atlas/5100
+latin_name: fuligo septica
+polish_name: Wykwit piankowaty
+source: https://pl.wikipedia.org/wiki/Wykwit_piankowaty
 ---
+# Wykwit piankowaty 
+# fuligo septica 
 
-# Fuligo septica varietas rufa
-# wykwit piankowaty czerwieniejący
+Wykwit piankowaty, wykwit różnobarwny, wykwit zmienny, masło czarownicy (Fuligo septica (L.) F.H. Wigg) – gatunek śluzowca.
 
-## Podstawowe informacje
-Jadalność:
-niejadalny
-Typ grzyba:
-śluzowce
+## Systematyka i nazewnictwo 
 
-## Opis
-Budowa:
-zros
-ł
-ozarodnie najczęściej zaokrąglone ,rzadziej wydłużone , od beżoworóżówych do różówobrunatnych
-. Kora gładsza od pozostałych odmian, w
-łośnia czerwonawa .
-Zarodniki :
-brnatne z odcieniem fioletowym
-o
-ś
-rednicy 6 – 7
-μm .
-Podłoże :
-próchniej
-ą
-ce drewno i kora ró
-ż
-nych
-drzew li
-ś
-ciastych, rzadziej iglastych lub
-mchy.
-Występowanie:
-w lasach, parkach, przez ca
-ł
-y
-sezon wegetacyjny, ale rzadziej od pozostałych form.
-opracował
-: PAWEŁ
+Pozycja w klasyfikacji: Physaraceae, Physarida, Incertae sedis, Myxogastrea, Mycetozoa, Amoebozoa, Protozoa (według Index Fungorum).
 
----
-latin_name: Fuligo septica (L.
-polish_name: Wykwit piankowaty, wykwit różnobarwny, wykwit zmienny, masło czarownicy
-source: https://pl.wikipedia.org/api/rest_v1/page/html/Wykwit_piankowaty
----
-
-
-Wykwit piankowaty, wykwit różnobarwny, wykwit zmienny, masło czarownicy(Fuligo septica(L.) F.H. Wigg) – gatunekśluzowca.
-
-
-## Systematyka i nazewnictwo
-
-Pozycja w klasyfikacji:Physaraceae, Physarida, Incertae sedis, Myxogastrea, Mycetozoa, Amoebozoa, Protozoa(wedługIndex Fungorum).
-
-Po raz pierwszy opis tego gatunku sporządził francuski botanik Jean Maechant w 1727 r. i zaklasyfikował go dogąbek. W 1753 r.K. Linneusznadał mu nazwęMucor septicus. Obecną, uznaną przez Index Fungorum nazwę nadał mu w 1780 r.F. H. Wiggers, przenosząc go do rodzajuFuligo.
+Po raz pierwszy opis tego gatunku sporządził francuski botanik Jean Maechant w 1727 r. i zaklasyfikował go do gąbek. W 1753 r. K. Linneusz nadał mu nazwę Mucor septicus. Obecną, uznaną przez Index Fungorum nazwę nadał mu w 1780 r. F. H. Wiggers, przenosząc go do rodzaju Fuligo.
 
 Odmiany:
 
+## Morfologia 
 
-## Morfologia
+Tworzy cytrynowożółte, śluzowate, bezkształtne plazmodium, które nie zawiera chlorofilu i nie posiada błon cytoplazmatycznych. Z zewnątrz okryte jest cienką warstewką śluzu i hialoplazmy, w środku znajduje się płynna cytoplazma z ziarnistościami. Plazmodium osiąga średnicę 3–10 cm. Ściśle przylega do podłoża. Z czasem ulega zwapnieniu, twardnieje i zmienia barwę na czerwonawą lub brązowawą.
 
-Tworzy cytrynowożółte, śluzowate, bezkształtneplazmodium, które nie zawierachlorofilui nie posiada błon cytoplazmatycznych. Z zewnątrz okryte jest cienką warstewką śluzu ihialoplazmy, w środku znajduje się płynnacytoplazmaz ziarnistościami. Plazmodium osiąga średnicę 3–10 cm. Ściśle przylega do podłoża. Z czasem ulega zwapnieniu, twardnieje i zmienia barwę na czerwonawą lub brązowawą.
+Zarodnie posiadają zwapniałą ścianę. Jest w nich włośnia złożona z wielokrotnie rozgałęzionych nitek, zawierających żółte, wrzecionowate wapniaczki.
 
-Zarodnieposiadają zwapniałą ścianę. Jest w nichwłośniazłożona z wielokrotnie rozgałęzionych nitek, zawierających żółte, wrzecionowate wapniaczki.
+## Biologia 
 
+Plazmodium wykwitu piankowego w poszukiwaniu składników pokarmowych powoli porusza się na podłożu za pomocą nibynóżek. Nie potrzebuje światła i rozwija się w ciemności, ale podczas wytwarzania zarodników wypełza na miejsca oświetlone. Rozmnaża się za pomocą zarodników, które wytwarza w otoczonych celulozową błonką zrosłozarodniach. Zarodniki mają dwuwarstwową ścianę, ściana wewnętrzna jest włóknista, zewnętrzna jest gęsta i ma kolce. Podczas kiełkowania zewnętrzna warstwa pęka, a przez powstały w niej otwór oraz bardziej elastyczną warstwę wewnętrzną wydobywa się protoplazma zarodników. Czasami pozostałości zewnętrznej warstwy, która jest dość trwała, pozostają długo przyklejone do plazmodium. Zawarty w wewnętrznej warstwie enzym peroksydaza bierze udział w procesie kiełkowania. Zarodniki roznoszone są przez chrząszcze z rodziny Lathridiidae.
 
-## Biologia
+Wykwit piankowaty charakteryzuje się niezwykle wysoką odpornością na toksyczne działanie metali. W badaniach laboratoryjnych stwierdzono w jego plazmodium tak wysoką zawartość cynku (4000–20 000 ppm), że wydaje się wprost niewiarygodne, że organizm żywy może żyć przy takiej ilości toksycznego metalu. Odporność na cynk jest specyficzną cechą tego gatunku.
 
-Plazmodium wykwitu piankowego w poszukiwaniu składników pokarmowych powoli porusza się na podłożu za pomocąnibynóżek. Nie potrzebuje światła i rozwija się w ciemności, ale podczas wytwarzaniazarodnikówwypełza na miejsca oświetlone. Rozmnaża się za pomocą zarodników, które wytwarza w otoczonych celulozową błonkązrosłozarodniach. Zarodniki mają dwuwarstwową ścianę, ściana wewnętrzna jest włóknista, zewnętrzna jest gęsta i ma kolce. Podczas kiełkowania zewnętrzna warstwa pęka, a przez powstały w niej otwór oraz bardziej elastyczną warstwę wewnętrzną wydobywa sięprotoplazmazarodników. Czasami pozostałości zewnętrznej warstwy, która jest dość trwała, pozostają długo przyklejone do plazmodium. Zawarty w wewnętrznej warstwie enzymperoksydazabierze udział w procesie kiełkowania. Zarodniki roznoszone są przez chrząszcze z rodzinyLathridiidae.
-
-Wykwit piankowaty charakteryzuje się niezwykle wysoką odpornością na toksyczne działanie metali. W badaniach laboratoryjnych stwierdzono w jego plazmodium tak wysoką zawartośćcynku(4000–20000 ppm), że wydaje się wprost niewiarygodne, że organizm żywy może żyć przy takiej ilości toksycznego metalu. Odporność na cynk jest specyficzną cechą tego gatunku.
-
-
-## Występowanie i siedlisko
+## Występowanie i siedlisko 
 
 Jest rozprzestrzeniony na całej kuli ziemskiej. Zazwyczaj rośnie na martwych pniakach, pniach drzew, opadłych liściach i innych resztkach roślinnych, ale może rosnąć również na żywych roślinach. W Polsce spotykany jest głównie w lecie i jesienią, po deszczach i jest pospolity na terenie całego kraju.
 
+## Znaczenie 
 
-## Znaczenie
+## Przypisy 
 
-
-## Przypisy

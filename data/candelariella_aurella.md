@@ -1,14 +1,5 @@
 #candelariella_aurella
-#no_sources: 2
-
----
-latin_name: Candelariella aurella
-polish_name: Liszajecznik złocisty
-source: https://grzyby.pl/gatunki/Candelariella_aurella.htm
----
-
-# Liszajecznik złocisty
-
+#no_sources: 1
 
 ---
 latin_name: Candelariella aurella

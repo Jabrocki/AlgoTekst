@@ -1,5 +1,5 @@
 #russula_alutacea
-#no_sources: 4
+#no_sources: 3
 
 ---
 latin_name: Russula alutacea
@@ -36,29 +36,6 @@ Gołąbek cukrówka jest bardzo smacznym grzybem jadalnym o orzechowym smaku. Br
 
 ## Zastosowanie
 Gołąbek cukrówka najczęściej spożywany jest na surowo, jako dodatek do sałatek. Ze względu na bardzo kruche owocniki nie nadaje się do przerobu.
-
-
----
-latin_name: Russula alutacea
-polish_name: Gołąbek cukrówka
-source: https://grzyby.pl/gatunki/Russula_alutacea.htm
----
-
-# Gołąbek cukrówka
-
-## Opis
-
-**Kapelusz** **Trzon**
-
-## Występowanie
-
-W lasach, zwykle w liściastych, na ziemi, wśród ściółki, pod bukami, rzadko pod dębami; lipiec-październik.
-
-Czerwona Lista [125 ] — E–wymierający - krytycznie zagrożony
-
-## Jadalne czy trujące? 🟢
-
-Jadalny. [105 ]
 
 
 ---
@@ -138,39 +115,36 @@ Zapach:
 owocowy
 
 ---
-latin_name: Russula alutacea (Fr.
+latin_name: russula alutacea
 polish_name: Gołąbek cukrówka
-source: https://pl.wikipedia.org/api/rest_v1/page/html/Gołąbek_cukrówka
+source: https://pl.wikipedia.org/wiki/Gołąbek_cukrówka
 ---
+# Gołąbek cukrówka 
+# russula alutacea 
 
+Gołąbek cukrówka (Russula alutacea (Fr.) Fr.) – gatunek grzybów należący do rodziny gołąbkowatych (Russulaceae).
 
-Gołąbek cukrówka(Russula alutacea(Fr.) Fr.) –gatunekgrzybów należący do rodzinygołąbkowatych(Russulaceae).
+## Systematyka i nazewnictwo 
 
+Pozycja w klasyfikacji według Index Fungorum: Russula, Russulaceae, Russulales, Incertae sedis, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
 
-## Systematyka i nazewnictwo
+Po raz pierwszy takson ten zdiagnozował w 1821 r. Elias Fries, nadając mu nazwę Agaricus alutaceus. Obecną, uznaną przez Index Fungorum nazwę nadał mu w 1838 r. ten sam autor, przenosząc go do rodzaju Russula. Ma około 30 synonimów. Niektóre z nich:
 
-Pozycja w klasyfikacji wedługIndex Fungorum:Russula, Russulaceae, Russulales, Incertae sedis, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
+Nazwę polską podała Alina Skirgiełło w 1991 r. Wcześniej gatunek ten (i podobne) podawany był pod nazwami: gołąbek czerwonka, cukrówka, gołąbek czerwony, syrojeszka czerwona, serojeszka czerwona. A. Skirgiełło podała także nazwę gołąbek oliwkowiejący dla Russula olivascens, jednak według Index Fungorum jest to synonim Russula alutacea.
 
-Po raz pierwszytaksonten zdiagnozował w 1821 r.Elias Fries, nadając mu nazwęAgaricus alutaceus. Obecną, uznaną przez Index Fungorum nazwę nadał mu w 1838 r. ten sam autor, przenosząc go do rodzajuRussula. Ma około 30synonimów. Niektóre z nich:
+## Morfologia 
 
-Nazwę polską podałaAlina Skirgiełłow 1991 r. Wcześniej gatunek ten (i podobne) podawany był pod nazwami: gołąbek czerwonka, cukrówka, gołąbek czerwony, syrojeszka czerwona, serojeszka czerwona. A. Skirgiełło podała także nazwę gołąbek oliwkowiejący dlaRussula olivascens, jednak według Index Fungorum jest to synonimRussula alutacea.
+Bywa mylony z gołąbkiem oliwkowym (Russula olivacea), a także z gołąbkiem Romella (Russula romellii).
 
+## Występowanie 
 
-## Morfologia
+Występuje w Ameryce Północnej, Europie, Azji i Australii. W Polsce gatunek rzadki. Znajduje się na Czerwonej liście roślin i grzybów Polski. Ma status E – gatunek wymierający.
 
-Bywa mylony zgołąbkiem oliwkowym(Russula olivacea), a także zgołąbkiem Romella(Russula romellii).
+Grzyb naziemny występujący w lasach liściastych, rzadziej w iglastych, także w parkach. Rośnie na ziemi wśród liści, szczególnie pod bukami, rzadziej pod dębami. W lasach iglastych rośnie pod świerkiem pospolitym i sosną zwyczajną. Owocniki pojawiają się od lipca do października.
 
+## Znaczenie 
 
-## Występowanie
+Grzyb jadalny, mykoryzowy.
 
-Występuje w Ameryce Północnej, Europie, Azji i Australii. W Polsce gatunek rzadki. Znajduje się naCzerwonej liście roślin i grzybów Polski. Ma status E – gatunek wymierający.
+## Przypisy 
 
-Grzyb naziemnywystępujący w lasach liściastych, rzadziej w iglastych, także w parkach. Rośnie na ziemi wśród liści, szczególnie podbukami, rzadziej poddębami. W lasach iglastych rośnie podświerkiem pospolitymisosną zwyczajną.Owocnikipojawiają się od lipca do października.
-
-
-## Znaczenie
-
-Grzyb jadalny,mykoryzowy.
-
-
-## Przypisy

@@ -1,14 +1,5 @@
 #cladonia_carneola
-#no_sources: 2
-
----
-latin_name: Cladonia carneola
-polish_name: Chrobotek cielisty
-source: https://grzyby.pl/gatunki/Cladonia_carneola.htm
----
-
-# Chrobotek cielisty
-
+#no_sources: 1
 
 ---
 latin_name: Cladonia carneola

@@ -1,14 +1,5 @@
 #melanelixia_subargentifera
-#no_sources: 2
-
----
-latin_name: Melanelixia subargentifera
-polish_name: Przylepnik brodawkowaty
-source: https://grzyby.pl/gatunki/Melanelixia_subargentifera.htm
----
-
-# Przylepnik brodawkowaty
-
+#no_sources: 1
 
 ---
 latin_name: Melanelixia subargentifera

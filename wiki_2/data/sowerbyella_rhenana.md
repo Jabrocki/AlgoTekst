@@ -1,0 +1,36 @@
+---
+latin_name: sowerbyella rhenana
+polish_name: Sowerbyella rhenana
+source: https://pl.wikipedia.org/wiki/Sowerbyella_rhenana
+---
+# Sowerbyella rhenana 
+# sowerbyella rhenana 
+
+Sowerbyella rhenana (Fuckel) J. Moravec – gatunek grzybów z rodziny Pyronemataceae.
+
+## Systematyka i nazewnictwo 
+
+Pozycja w klasyfikacji według Index Fungorum: Sowerbyella, Pyronemataceae, Pezizales, Pezizomycetidae, Pezizomycetes, Pezizomycotina, Ascomycota, Fungi.
+
+Po raz pierwszy opisał go Leopold Fuckel w 1870 roku, nadając mu nazwę Aleuria rhenana. Obecną nazwę nadał mu J. Moravec w 1986 roku
+
+Synonimy:
+
+## Morfologia 
+
+Apotecja mają 1–1,5 cm średnicy, zewnętrzna strona intensywnie żółta, wewnętrzna mniej, rosną pojedynczo lub w grupach po 2–4, trzon grzyba o 1–4 cm długości, częściowo lub całkowicie zakopany w ściółce lub w glebie, kremowobiały, aksamitny. Zarodniki o wymiarach 18–22 × 10–13 μm, elipsoidalne, białe w wysypie.
+
+Zarodniki o wymiarach 18–22 × 10–12 µm, elipsoidalne, początkowo gładkie, w stanie dojrzałym o powierzchni pokrytej grubą siateczką, szkliste, w wodorotlenku potasu (KOH) niezmieniające barwy, w odczynniku Melzera pomarańczowo-złote. Worki o wymiarach 275–300 × 15–20 µm, 8-zarodnikowe, w KOH szkliste, nieamyloidalne. Parafizy wyrastające ponad worki, o wysokości 5–10 µm, szerokości 3–6 µm, cylindryczne z wierzchołkami nieco pogrubionymi lub maczugowatymi (czasami z lekko nieregularnymi zgrubieniami), proste lub haczykowato zagięte pod kątem 45–90 stopni, septowane, gładkie, w KOH szkliste.
+
+Czasami mylony z dzieżką pomarańczową (Aleuria aurantia), od której Sowerbyella rhenana różni się kolorem i obecnością trzonu.
+
+## Występowanie i siedlisko 
+
+Gatunek kosmopolityczny, występuje w Ameryce Północnej, Południowej, Europie (w tym Polsce), Japonii i Australii. W Ameryce Południowej spotykany w zacienionych, wilgotnych lasach coigüe. Brak go w wykazie wielkoowocnikowych grzybów workowych Polski, ale jego stanowiska podaje internetowy atlas grzybów (pod nazwą Aleuria rhenana). Znajduje się w nim na liście gatunków zagrożonych, wartych objęcia ochroną.
+
+Grzyb naziemny, prawdopodobnie mykoryzowy. W Polsce notowany w igliwiu na piaszczystym podłożu w monokulturze sosnowej.
+
+## Przypisy 
+
+## Linki zewnętrzne 
+

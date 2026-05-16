@@ -66,6 +66,20 @@ Jadalna. W Polsce podlega ochronie.
 
 
 ---
+latin_name: Verpa conica varietas cerebriformis
+source: https://www.nagrzyby.pl/atlas/5791
+---
+
+# Verpa conica varietas cerebriformis
+# naparstniczka stożkowata odmiana mózgokształtna *
+
+## Podstawowe informacje
+Brak informacji
+
+## Opis
+* Rekomendacja nr 1/2021 Komisji ds. Polskiego Nazewnictwa Grzybów Polskiego Towarzystwa Mykologicznego
+
+---
 latin_name: Verpa conica
 source: https://www.nagrzyby.pl/atlas/413
 ---
@@ -116,39 +130,24 @@ grzybowy,
 brak/nieokreślony
 
 ---
-latin_name: Verpa conica varietas cerebriformis
-source: https://www.nagrzyby.pl/atlas/5791
----
-
-# Verpa conica varietas cerebriformis
-# naparstniczka stożkowata odmiana mózgokształtna *
-
-## Podstawowe informacje
-Brak informacji
-
-## Opis
-* Rekomendacja nr 1/2021 Komisji ds. Polskiego Nazewnictwa Grzybów Polskiego Towarzystwa Mykologicznego
-
----
-latin_name: Verpa conica (O.F. Müll.
+latin_name: verpa conica
 polish_name: Naparstniczka stożkowata
-source: https://pl.wikipedia.org/api/rest_v1/page/html/Naparstniczka_stożkowata
+source: https://pl.wikipedia.org/wiki/Naparstniczka_stożkowata
 ---
+# Naparstniczka stożkowata 
+# verpa conica 
 
+Naparstniczka stożkowata (Verpa conica (O.F. Müll.) Sw.) – gatunek grzybów z rodziny smardzowatych (Morchellaceae) z klasy workowców.
 
-Naparstniczka stożkowata(Verpa conica(O.F. Müll.) Sw.) –gatunekgrzybów z rodzinysmardzowatych(Morchellaceae) z klasyworkowców.
+## Systematyka i nazewnictwo 
 
+Pozycja w klasyfikacji według Index Fungorum: Verpa, Morchellaceae, Pezizales, Pezizomycetidae, Pezizomycetes, Pezizomycotina, Ascomycota, Fungi.
 
-## Systematyka i nazewnictwo
+Po raz pierwszy opisał go w 1775 r. Otto Friedrich Müller, nadając mu nazwę Phallus conicus. W 1815 r. Olof Peter Swartz przeniósł go do rodzaju Verpa. Niektóre synonimy naukowe:
 
-Pozycja w klasyfikacji wedługIndex Fungorum:Verpa, Morchellaceae, Pezizales, Pezizomycetidae, Pezizomycetes, Pezizomycotina, Ascomycota, Fungi.
+Nazwa polska według M.A. Chmiel. Nazwa anglojęzyczna naparstniczki stożkowatej to thimble morel, gdzie słowo thimble oznacza właśnie naparstek, natomiast słowo morel – smardz. Analogicznie jest w języku niemieckim, gdzie Fingerhut w Fingerhutverpel także oznacza naparstek.
 
-Po raz pierwszy opisał go w 1775 r.Otto Friedrich Müller, nadając mu nazwęPhallus conicus. W 1815 r.Olof Peter Swartzprzeniósł go do rodzajuVerpa. Niektóresynonimy naukowe:
-
-Nazwa polska według M.A. Chmiel. Nazwa anglojęzyczna naparstniczki stożkowatej tothimble morel, gdzie słowothimbleoznacza właśnienaparstek, natomiast słowomorel– smardz. Analogicznie jest w języku niemieckim, gdzieFingerhutwFingerhutverpeltakże oznacza naparstek.
-
-
-## Morfologia
+## Morfologia 
 
 Zbudowany z główki i trzonka. Osiąga wysokość do 10–20 cm.
 
@@ -160,14 +159,13 @@ Kruchy, woskowaty, cienki. Smak łagodny, zapach przyjemny.
 
 Gładkie, elipsoidalne, bezbarwne.
 
-Naparstniczka czeska(Verpa bohemica), która ma większe owocniki, a powierzchnia główki jest pofałdowana.
+Naparstniczka czeska (Verpa bohemica), która ma większe owocniki, a powierzchnia główki jest pofałdowana.
 
+## Występowanie i siedlisko 
 
-## Występowanie i siedlisko
+Naparstniczka stożkowata jest szeroko rozprzestrzeniona w Ameryce Północnej, Europie i Azji, występuje także na Nowej Zelandii. W Polsce do 2020 r. podano 60 jej stanowisk w piśmiennictwie naukowym. Aktualne jej stanowiska podaje także internetowy atlas grzybów. W latach 1983–2014 objęta ochroną ścisłą, a od 2014 r. – częściową. W opracowaniu Czerwonej listy roślin i grzybów Polski jest zaliczona do kategorii grzybów rzadkich (R).
 
-Naparstniczka stożkowata jest szeroko rozprzestrzeniona w Ameryce Północnej, Europie i Azji, występuje także na Nowej Zelandii. W Polsce do 2020 r. podano 60 jej stanowisk w piśmiennictwie naukowym. Aktualne jej stanowiska podaje także internetowy atlas grzybów. W latach 1983–2014 objęta ochroną ścisłą, a od 2014 r. – częściową. W opracowaniuCzerwonej listy roślin i grzybów Polskijest zaliczona do kategorii grzybów rzadkich (R).
+Naziemny grzyb saprotroficzny. Rośnie pojedynczo lub w grupach od kwietnia do maja na brzegach lasów i zarośli, w miejscach trawiastych.
 
-Naziemnygrzyb saprotroficzny. Rośnie pojedynczo lub w grupach od kwietnia do maja na brzegachlasówi zarośli, w miejscach trawiastych.
+## Przypisy 
 
-
-## Przypisy

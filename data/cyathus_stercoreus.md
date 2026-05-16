@@ -1,5 +1,5 @@
 #cyathus_stercoreus
-#no_sources: 4
+#no_sources: 3
 
 ---
 latin_name: Cyathus stercoreus
@@ -56,21 +56,6 @@ Kubek gnojowy znajduje obecnie więcej zastosowań od kubka prążkowanego. Dobi
 
 ---
 latin_name: Cyathus stercoreus
-polish_name: Kubek gnojowy
-source: https://grzyby.pl/gatunki/Cyathus_stercoreus.htm
----
-
-# Kubek gnojowy
-
-## Występowanie, ekologia
-
-Na odchodach, być może także na drewnie.
-
-Czerwona Lista [125 ] — E–wymierający - krytycznie zagrożony
-
-
----
-latin_name: Cyathus stercoreus
 source: https://www.nagrzyby.pl/atlas/1642
 ---
 
@@ -100,36 +85,34 @@ kubek prążkowany
 kubecznik pospolity
 
 ---
-latin_name: Cyathus stercoreus (Schwein.
+latin_name: cyathus stercoreus
 polish_name: Kubek gnojowy
-source: https://pl.wikipedia.org/api/rest_v1/page/html/Kubek_gnojowy
+source: https://pl.wikipedia.org/wiki/Kubek_gnojowy
 ---
+# Kubek gnojowy 
+# cyathus stercoreus 
 
+Kubek gnojowy (Cyathus stercoreus (Schwein.) De Toni) – gatunek grzybów z rzędu pieczarkowców (Agaricales).
 
-Kubek gnojowy(Cyathus stercoreus(Schwein.) De Toni) –gatunekgrzybów z rzędupieczarkowców(Agaricales).
+## Systematyka i nazewnictwo 
 
+Pozycja w klasyfikacji według Index Fungorum: Incertae sedis, Agaricales, Agaricomycetidae, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
 
-## Systematyka i nazewnictwo
+Po raz pierwszy takson ten zdiagnozował w 1832 r. Lewis David von Schweinitz, nadając mu nazwę Nidularia stercorea. Obecną, uznaną przez Index Fungorum nazwę nadał mu w 1888 r. Giovanni Battista de Toni. Niektóre synonimy naukowe:
 
-Pozycja w klasyfikacji wedługIndex Fungorum:Incertae sedis, Agaricales, Agaricomycetidae, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
+Nazwę polską podała Wanda Rudnicka-Jezierska w 1991 r. W polskim piśmiennictwie mykologicznym gatunek ten opisywany był też jako pucharek błotny.
 
-Po raz pierwszytaksonten zdiagnozował w 1832 r.Lewis Schweinitz, nadając mu nazwęNidularia stercorea. Obecną, uznaną przez Index Fungorum nazwę nadał mu w 1888 r.Giovanni Battista de Toni. Niektóresynonimy naukowe:
+## Morfologia 
 
-Nazwę polskąpodałaWanda Rudnicka-Jezierskaw 1991 r. W polskim piśmiennictwie mykologicznym gatunek ten opisywany był też jako pucharek błotny.
+Tak jak inne gatunki z rodzaju kubek wytwarza pucharkowate lub kubkowate owocniki, w których wnętrzu znajdują się tzw. perydiole, zawierające zarodniki. Nazwa gatunkowa odzwierciedla fakt, że grzyb wyrasta na nawozie lub glebie bogatej w nawóz.
 
+W Polsce występuje jeszcze kubek ołowianoszary (Cyathus olla) i kubek prążkowany (Cyathus striatus). Ten pierwszy ma gładką wewnętrzną powierzchnię, a zewnętrzną bez kolców, kubek prążkowany zaś ma wnętrze wyraźnie prążkowane.
 
-## Morfologia
+## Występowanie i siedlisko 
 
-Tak jak inne gatunki z rodzaju kubek wytwarza pucharkowate lub kubkowateowocniki, w których wnętrzu znajdują się tzw.perydiole, zawierające zarodniki. Nazwa gatunkowa odzwierciedla fakt, że grzyb wyrasta na nawozie lub glebie bogatej w nawóz.
+W Polsce gatunek rzadki. Znajduje się na Czerwonej liście roślin i grzybów Polski. Ma status E – gatunek wymierający. Znajduje się na listach gatunków zagrożonych także w Belgii, Danii, Niemczech, Anglii i Holandii.
 
-W Polsce występuje jeszczekubek ołowianoszary(Cyathus olla) ikubek prążkowany(Cyathus striatus). Ten pierwszy ma gładką wewnętrzną powierzchnię, a zewnętrzną bez kolców, kubek prążkowany zaś ma wnętrze wyraźnie prążkowane.
+Saprotrof, grzyb koprofilny. Występuje na polach, ogrodach, ogrodach działkowych, parkach, w szklarniach, ogrodach botanicznych. Rozwija się na gnijących resztkach drzewa i odchodach zwierzęcych. Owocniki wytwarza od sierpnia do października.
 
+## Przypisy 
 
-## Występowanie i siedlisko
-
-W Polsce gatunek rzadki. Znajduje się naCzerwonej liście roślin i grzybów Polski. Ma status E – gatunek wymierający. Znajduje się na listach gatunków zagrożonych także w Belgii, Danii, Niemczech, Anglii i Holandii.
-
-Saprotrof,grzyb koprofilny. Występuje na polach, ogrodach, ogrodach działkowych, parkach, w szklarniach, ogrodach botanicznych. Rozwija się na gnijących resztkach drzewa i odchodach zwierzęcych. Owocniki wytwarza od sierpnia do października.
-
-
-## Przypisy

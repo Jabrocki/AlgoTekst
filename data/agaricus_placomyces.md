@@ -1,5 +1,5 @@
 #agaricus_placomyces
-#no_sources: 4
+#no_sources: 3
 
 ---
 latin_name: Agaricus placomyces
@@ -38,25 +38,6 @@ Pieczarka płaska jest grzybem trującym. Zjedzenie jej powoduje silne zaburzeni
 
 ## Zastosowanie
 Pieczarka płaska jest grzybem trującym i nie wolno jej spożywać pod żadnym pozorem!
-
-
----
-latin_name: Agaricus placomyces
-polish_name: Pieczarka płaska
-source: https://grzyby.pl/gatunki/Agaricus_placomyces.htm
----
-
-# Pieczarka płaska
-
-## Występowanie, ekologia
-
-W lasach liściastych; na ziemi.
-
-Czerwona Lista [125 ] — E–wymierający - krytycznie zagrożony
-
-## Jadalne czy trujące? 🔴
-
-Trująca. [105 ]
 
 
 ---
@@ -124,47 +105,44 @@ lato,
 jesień
 
 ---
-latin_name: Agaricus placomyces Peck
+latin_name: agaricus placomyces
 polish_name: Pieczarka płaska
-source: https://pl.wikipedia.org/api/rest_v1/page/html/Pieczarka_płaska
+source: https://pl.wikipedia.org/wiki/Pieczarka_płaska
 ---
+# Pieczarka płaska 
+# agaricus placomyces 
 
+Pieczarka płaska (Agaricus placomyces Peck) – gatunek grzybów z rodziny pieczarkowatych.
 
-Pieczarka płaska(Agaricus placomycesPeck) – gatunekgrzybówz rodzinypieczarkowatych.
+## Systematyka i nazewnictwo 
 
+Pozycja w klasyfikacji według Index Fungorum: Agaricaceae, Agaricales, Agaricomycetidae, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
 
-## Systematyka i nazewnictwo
+Po raz pierwszy opisał go w 1976 r. Charles Horton Peck. Synonimy naukowe:
 
-Pozycja w klasyfikacji wedługIndex Fungorum:Agaricaceae, Agaricales, Agaricomycetidae, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
+Polską nazwę podali Barbara Gumińska i Władysław Wojewoda w 1983 r.
 
-Po raz pierwszy opisał go w 1976 r.Charles Horton Peck.Synonimy naukowe:
+## Morfologia 
 
-Polską nazwępodaliBarbara GumińskaiWładysław Wojewodaw 1983 r.
-
-
-## Morfologia
-
-Średnicy 5–12 cm, od szaropopielatego do ciemnego, prawie czarnego na jego wierzchołku. Brzeg kapelusza bywa niekiedy całkowicie biały. Okryty jest drobnymi łuseczkami do złudzenie przypominającego łuseczki innego grzyba – jadalnejczubajki kani(Macrolepiota procera). Łuseczki niekiedy przybierają odcień brązowy.
+Średnicy 5–12 cm, od szaropopielatego do ciemnego, prawie czarnego na jego wierzchołku. Brzeg kapelusza bywa niekiedy całkowicie biały. Okryty jest drobnymi łuseczkami do złudzenie przypominającego łuseczki innego grzyba – jadalnej czubajki kani (Macrolepiota procera). Łuseczki niekiedy przybierają odcień brązowy.
 
 Za młodu niekiedy przez krótki czas różowo „rozkwitające”, przeważnie jednak tylko szaroróżowe.
 
 Biały, wysmukły, bez bulwki lub z płaską, odsadzoną bulwką. Pierścień zwisający, od spodu z charakterystycznym, dookoła biegnącym kantem.
 
-Po ugnieceniu, szczególnie w bulwce trzonu, żółknący. Zapach charakterystyczny, przypominający zapach środka dezynfekcyjnegokarbolulub atramentu.
+Po ugnieceniu, szczególnie w bulwce trzonu, żółknący. Zapach charakterystyczny, przypominający zapach środka dezynfekcyjnego karbolu lub atramentu.
 
-Ciemny.Zarodnikieliptyczne.
+Ciemny. Zarodniki eliptyczne.
 
+## Występowanie i siedlisko 
 
-## Występowanie i siedlisko
+Występuje w Ameryce Północnej, Południowej, Europie, Azji i Australii. W Polsce jest rzadka. W piśmiennictwie naukowym do 2003 r. na terenie Polski podano tylko jedno jej stanowisko (w Ojcowskim Parku Narodowym). Ma status E – gatunek wymierający. Znajduje się na listach gatunków zagrożonych także w Niemczech, Danii, Finlandii.
 
-Występuje w Ameryce Północnej, Południowej, Europie, Azji i Australii. W Polsce jest rzadka. W piśmiennictwie naukowym do 2003 r. na terenie Polski podano tylko jedno jej stanowisko (wOjcowskim Parku Narodowym). Ma status E – gatunek wymierający. Znajduje się na listach gatunków zagrożonych także w Niemczech, Danii, Finlandii.
+Naziemny grzyb saprotroficzny. Owocniki tworzy od sierpnia do października w lasach liściastych i iglastych, parkach.
 
-Naziemnygrzyb saprotroficzny.Owocnikitworzy od sierpnia do października w lasach liściastych i iglastych, parkach.
-
-
-## Znaczenie
+## Znaczenie 
 
 Grzyb trujący, powoduje (chociaż nie u wszystkich ludzi) silne zaburzenia w trawieniu, połączone z mdłościami i wymiotami. Alkohol może wzmacniać działanie trujące, zależnie od stanu zatrutej osoby.
 
+## Przypisy 
 
-## Przypisy

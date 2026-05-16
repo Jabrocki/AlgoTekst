@@ -40,11 +40,31 @@ Brak. Wilgotnica czerniejąca to grzyb niejadalny i niewykorzystywany w medycyni
 
 ---
 latin_name: Hygrocybe conica
-polish_name: Wilgotnica wydmowa
-source: https://grzyby.pl/gatunki/Hygrocybe_conicoides.htm
+polish_name: Wilgotnica czerniejąca
+source: https://grzyby.pl/gatunki/Hygrocybe_conica.htm
 ---
 
-# Wilgotnica wydmowa
+# Wilgotnica czerniejąca
+
+## Owocnik
+
+**Kapelusz** czerwonopomarańczowy do żółtopomarańczowego, czasem z zielonymi lub siarkowymi plamami, miejsca uszkodzone, i z wiekiem, przebarwiają się czarno; 15-40 mm średnicy; stożkowaty, z zaostrzonym lub obłym wierzchołkiem; powierzchnia gładka, promieniście włókienkowata, sucha jedwabista, wilgotna nieco lepka; brzeg kapelusza wykracza poza blaszki, trochę podwinięty. **Trzon** początkowo siarkowożółty, z wiekiem czerwonopomarańczowy do żółtopomarańczowego, u podstawy białawy, z wiekiem stopniowo czerniejący; 30-100 x 5-10 mm, walcowaty, skręcony; powierzchnia sucha, podłużnie włókienkowata.
+
+## Zarodniki
+
+Wysyp zarodników biały. Zarodniki elipsoidalne, gładkie, 9-11 x 6-7 µm.
+
+## Występowanie
+
+Najczęściej spotykana wilgotnica, częściej występuje w górach. Owocniki wyrastają od maja do jesieni, pojedynczo lub w grupach, w trawie, na łąkach, obrzeżach lasów, na polanach, w zaroślach.
+
+## Jadalne czy trujące? 🟡
+
+Niejadalna, być może trująca.
+
+## Uwagi
+
+Duża i podobnie zabarwiona jest wilgotnica żółtostożkowata ( Hygrocybe acutoconica ) /. Nie ma ona jednak czerniejącego miąższu.
 
 
 ---
@@ -99,27 +119,26 @@ Zapach:
 brak/nieokreślony
 
 ---
-latin_name: Hygrocybe conica (Schaeff.
+latin_name: hygrocybe conica
 polish_name: Wilgotnica czerniejąca
-source: https://pl.wikipedia.org/api/rest_v1/page/html/Wilgotnica_czerniejąca
+source: https://pl.wikipedia.org/wiki/Wilgotnica_czerniejąca
 ---
+# Wilgotnica czerniejąca 
+# hygrocybe conica 
 
+Wilgotnica czerniejąca (Hygrocybe conica (Schaeff.) P. Kumm.) – gatunek grzybów z rodziny wodnichowatych (Hygrophoraceae).
 
-Wilgotnica czerniejąca(Hygrocybe conica(Schaeff.) P. Kumm.) –gatunekgrzybów z rodzinywodnichowatych(Hygrophoraceae).
+## Systematyka i nazewnictwo 
 
+Pozycja w klasyfikacji według Index Fungorum: Hygrocybe, Hygrophoraceae, Agaricales, Agaricomycetidae, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
 
-## Systematyka i nazewnictwo
+Po raz pierwszy takson ten zdiagnozował w 1871 r. Jacob Christian Schäffer, nadając mu nazwę Agaricus conicus. Obecną nazwę nadał mu w 1871 r. Paul Kummer, przenosząc go do rodzaju Hygrocybe. Synonimów naukowych ma ponad 40. Wszystkie dawniej wyróżniane odmiany według Index Fungorum to również synonimy.
 
-Pozycja w klasyfikacji wedługIndex Fungorum:Hygrocybe, Hygrophoraceae, Agaricales, Agaricomycetidae, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
+Nazwę polską podali Barbara Gumińska i Władysław Wojewoda w 1983 r. W polskim piśmiennictwie mykologicznym gatunek ten opisywany był też jako bedłka koniczna, wilgotnica stożkowata, wilgotnica wysmukła.
 
-Po raz pierwszytaksonten zdiagnozował w 1871 r.Jacob Christian Schäffer, nadając mu nazwęAgaricus conicus. Obecną nazwę nadał mu w 1871 r.Paul Kummer, przenosząc go do rodzajuHygrocybe.Synonimów naukowychma ponad 40. Wszystkie dawniej wyróżniane odmiany wedługIndex Fungorumto również synonimy.
+## Morfologia 
 
-Nazwę polską podaliBarbara GumińskaiWładysław Wojewodaw 1983 r. W polskim piśmiennictwie mykologicznym gatunek ten opisywany był też jako bedłka koniczna, wilgotnica stożkowata, wilgotnica wysmukła.
-
-
-## Morfologia
-
-Średnicy 1–3(6) cm, młody – ostro stożkowaty, później dzwonkowato wypukły, na koniec rozpostarty, promieniście popękany, z ostro zakończonym garbkiem, w wilgotnych warunkach lepki, w czasie suszy jedwabiście lśniący, wkolorzenasyconej żółci, czerwonożółty, szkarłatnoczerwony, po uciśnięciu i z wiekiem czernieje
+Średnicy 1–3(6) cm, młody – ostro stożkowaty, później dzwonkowato wypukły, na koniec rozpostarty, promieniście popękany, z ostro zakończonym garbkiem, w wilgotnych warunkach lepki, w czasie suszy jedwabiście lśniący, w kolorze nasyconej żółci, czerwonożółty, szkarłatnoczerwony, po uciśnięciu i z wiekiem czernieje
 
 Początkowo prawie wolne, później wolne, szerokie, wybrzuszone, grube, bladożółte do cytrynowożółtych.
 
@@ -127,21 +146,19 @@ Wysokości od 6 do 8 cm, średnicy od 0,5 do 1 cm, cylindryczny, pusty, wzdłuż
 
 Kruchy, żółty do pomarńczowożółtego, czerniejący. Zapach owocowy, smak cierpki.
 
-Biały.Zarodniki(na podstawkach 4-zarodnikowych) o średnicy 7–9 × 4,5–6 µm lub (na podstawkach 2-zarodnikowych) 8–12(14) x 6–7,5 µm.
+Biały. Zarodniki (na podstawkach 4-zarodnikowych) o średnicy 7–9 × 4,5–6 µm lub (na podstawkach 2-zarodnikowych) 8–12(14) x 6–7,5 µm.
 
-Jest w Polsce kilka gatunków wilgotnic o czerwonej barwie, m.in.:wilgotnica szkarłatna(Hygrocybe coccinea),wilgotnica czerwona(Hygrocybe coccineocrenata),wilgotnica torfowiskowa(Hygrocybe helobia),wilgotnica drobna(Hygrocybe insipida),wilgotnica purpurowa(Hygrocybe miniata),wilgotnica karminowa(Hygrocybe punicea), jednak silnie stożkowaty kształt młodych owocników i ich czernienie pozwala łatwo od nich odróżnić wilgotnicę czerniejącą.
+Jest w Polsce kilka gatunków wilgotnic o czerwonej barwie, m.in.: wilgotnica szkarłatna (Hygrocybe coccinea), wilgotnica czerwona (Hygrocybe coccineocrenata), wilgotnica torfowiskowa (Hygrocybe helobia), wilgotnica drobna (Hygrocybe insipida), wilgotnica purpurowa (Hygrocybe miniata), wilgotnica karminowa (Hygrocybe punicea), jednak silnie stożkowaty kształt młodych owocników i ich czernienie pozwala łatwo od nich odróżnić wilgotnicę czerniejącą.
 
-
-## Występowanie i siedlisko
+## Występowanie i siedlisko 
 
 Występuje na wszystkich kontynentach z wyjątkiem Antarktydy i Afryki. W Polsce jest pospolita.
 
-Grzyb naziemny. Pojawia się od czerwca do października. Częsta na wilgotnychłąkachipastwiskach.
+Grzyb naziemny. Pojawia się od czerwca do października. Częsta na wilgotnych łąkach i pastwiskach.
 
-
-## Znaczenie
+## Znaczenie 
 
 Grzyb lekko trujący, powoduje zaburzenia trawienne.
 
+## Przypisy 
 
-## Przypisy

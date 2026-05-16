@@ -1,14 +1,5 @@
 #cetrelia_cetrarioides
-#no_sources: 2
-
----
-latin_name: Cetrelia cetrarioides
-polish_name: Nibypłucnik okazały
-source: https://grzyby.pl/gatunki/Cetrelia_cetrarioides.htm
----
-
-# Nibypłucnik okazały
-
+#no_sources: 1
 
 ---
 latin_name: Cetrelia cetrarioides

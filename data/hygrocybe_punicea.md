@@ -1,32 +1,5 @@
 #hygrocybe_punicea
-#no_sources: 4
-
----
-latin_name: Hygrocybe punicea
-polish_name: Wilgotnica karminowa
-source: https://grzyby.pl/gatunki/Hygrocybe_punicea.htm
----
-
-# Wilgotnica karminowa
-
-## Owocnik
-
-**Kapelusz** **Trzon**
-
-## Zarodniki
-
-Wysyp zarodników
-
-## Występowanie
-
-Na terenach trawiastych, łąkach, polanach leśnych, skrajach lasów; na ziemi; sierpień-październik.
-
-Czerwona Lista [125 ] — R–rzadki - potencjalnie zagrożony wymarciem
-
-## Jadalne czy trujące? 🟢
-
-Jadalna [105 ], jednak zbyt drobna by miało to praktyczne znaczenie.
-
+#no_sources: 2
 
 ---
 latin_name: Hygrocybe punicea
@@ -73,97 +46,46 @@ Podłoże:
 gleba
 
 ---
-latin_name: Hygrocybe punicea (Fr.
+latin_name: hygrocybe punicea
 polish_name: Wilgotnica karminowa
-source: https://pl.wikipedia.org/api/rest_v1/page/html/Wilgotnica_karminowa
+source: https://pl.wikipedia.org/wiki/Wilgotnica_karminowa
 ---
+# Wilgotnica karminowa 
+# hygrocybe punicea 
 
+Wilgotnica karminowa (Hygrocybe punicea (Fr.) P. Kumm.) – gatunek grzybów z rodziny wodnichowatych (Hygrophoraceae).
 
-Wilgotnica karminowa(Hygrocybe punicea(Fr.) P. Kumm.) –gatunekgrzybów zrodzinywodnichowatych(Hygrophoraceae).
+## Systematyka i nazewnictwo 
 
+Pozycja w klasyfikacji według Index Fungorum: Hygrocybe, Hygrophoraceae, Agaricales, Agaricomycetidae, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
 
-## Systematyka i nazewnictwo
+Po raz pierwszy takson ten zdiagnozował w 1821 r. Elias Fries, nadając mu nazwę Agaricus puniceus. Obecną, uznaną przez Index Fungorum nazwę nadał mu w 1871 r. P. Kumm. Synonimów naukowych ma ok. 15.
 
-Pozycja w klasyfikacji wedługIndex Fungorum:Hygrocybe, Hygrophoraceae, Agaricales, Agaricomycetidae, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
+Nazwę polską podali Barbara Gumińska i Władysław Wojewoda w 1968 r. W polskim piśmiennictwie mykologicznym gatunek ten opisywany był też jako wodnicha karminowa i wodnicha pąsowa.
 
-Po raz pierwszytaksonten zdiagnozował w 1821 r.Elias Fries, nadając mu nazwęAgaricus puniceus. Obecną, uznaną przez Index Fungorum nazwę nadał mu w 1871 r.P. Kumm.Synonimów naukowychma ok. 15.
-
-Nazwę polską podaliBarbara GumińskaiWładysław Wojewodaw 1968 r. W polskim piśmiennictwie mykologicznym gatunek ten opisywany był też jako wodnicha karminowa i wodnicha pąsowa.
-
-
-## Morfologia
+## Morfologia 
 
 Średnica od 5 do 12 cm, u młodych owocników stożkowato dzwonkowaty, u starszych rozpostarty, zawsze z garbem. Powierzchnia naga, lepka i śliska. U młodych owocników ma barwę szkarłatną, potem blaknie do krwistoczerwonej, w końcu u starszych owocników do żółtoczerwonej.
 
 Kruche, początkowo przyrośnięte, później wolne, rzadkie, grube, brzuchate. Mają barwę od żółtej przez kremową do szarożółtej. Ostrza gładkie.
 
-Wysokość od 6 do 10 cm, średnica od 1 do 2 cm, walcowaty, w podstawie zwężony, młody – pełny, u dojrzałychokazówrurkowaty. Powierzchnia podłużnie delikatnie włóknista o barwie czerwonej, pomarańczowoczerwonej, czerwonożółtej, u podstawy białawożółtawej.
+Wysokość od 6 do 10 cm, średnica od 1 do 2 cm, walcowaty, w podstawie zwężony, młody – pełny, u dojrzałych okazów rurkowaty. Powierzchnia podłużnie delikatnie włóknista o barwie czerwonej, pomarańczowoczerwonej, czerwonożółtej, u podstawy białawożółtawej.
 
-Cienkomięsisty, soczysty, młody – biały, później żółtopomarańczowy, pod skórką kapelusza ciemnoszaroczerwony.Smakizapachniewyraźne.
-
-Biały.
-
-Wilgotnica okazała(Hygrocybe splendidissima) jest smuklejsza,kapeluszma pomidorowoczerwony, trzon na żółtym tle pomarańczowo włóknisty, zaś miąższ żywo pomarańczowy.Wilgotnica szkarłatna(Hygrocybe coccinea) ma kapelusz czereśniowoczerwony, miąższ czerwony, zaś blaszki szeroko przyrośnięte do trzonu.
-
-
-## Występowanie i siedlisko
-
-W Polsce gatunek rzadki. Znajduje się naCzerwonej liście roślin i grzybów Polski. Ma status R – potencjalnie zagrożony z powodu ograniczonego zasięgu geograficznego i małych obszarów siedliskowych. Znajduje się na listach gatunków zagrożonych także w Belgii, Szwajcarii, Niemczech, Danii, Norwegii, Holandii, Szwecji.
-
-Grzyb naziemny. Pojawia się od sierpnia do października na podgórskich i górskich łąkach oraz pastwiskach.
-
-
-## Znaczenie
-
-Grzyb jadalny, nadający się na sosy i zupy. W czasie gotowania zabarwia wodę na czerwono.
-
-
-## Przypisy
-
----
-latin_name: Hygrocybe punicea (Fr.
-polish_name: Wilgotnica karminowa
-source: https://pl.wikipedia.org/api/rest_v1/page/html/Wilgotnica_karminowa
----
-
-
-Wilgotnica karminowa(Hygrocybe punicea(Fr.) P. Kumm.) –gatunekgrzybów zrodzinywodnichowatych(Hygrophoraceae).
-
-
-## Systematyka i nazewnictwo
-
-Pozycja w klasyfikacji wedługIndex Fungorum:Hygrocybe, Hygrophoraceae, Agaricales, Agaricomycetidae, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
-
-Po raz pierwszytaksonten zdiagnozował w 1821 r.Elias Fries, nadając mu nazwęAgaricus puniceus. Obecną, uznaną przez Index Fungorum nazwę nadał mu w 1871 r.P. Kumm.Synonimów naukowychma ok. 15.
-
-Nazwę polską podaliBarbara GumińskaiWładysław Wojewodaw 1968 r. W polskim piśmiennictwie mykologicznym gatunek ten opisywany był też jako wodnicha karminowa i wodnicha pąsowa.
-
-
-## Morfologia
-
-Średnica od 5 do 12 cm, u młodych owocników stożkowato dzwonkowaty, u starszych rozpostarty, zawsze z garbem. Powierzchnia naga, lepka i śliska. U młodych owocników ma barwę szkarłatną, potem blaknie do krwistoczerwonej, w końcu u starszych owocników do żółtoczerwonej.
-
-Kruche, początkowo przyrośnięte, później wolne, rzadkie, grube, brzuchate. Mają barwę od żółtej przez kremową do szarożółtej. Ostrza gładkie.
-
-Wysokość od 6 do 10 cm, średnica od 1 do 2 cm, walcowaty, w podstawie zwężony, młody – pełny, u dojrzałychokazówrurkowaty. Powierzchnia podłużnie delikatnie włóknista o barwie czerwonej, pomarańczowoczerwonej, czerwonożółtej, u podstawy białawożółtawej.
-
-Cienkomięsisty, soczysty, młody – biały, później żółtopomarańczowy, pod skórką kapelusza ciemnoszaroczerwony.Smakizapachniewyraźne.
+Cienkomięsisty, soczysty, młody – biały, później żółtopomarańczowy, pod skórką kapelusza ciemnoszaroczerwony. Smak i zapach niewyraźne.
 
 Biały.
 
-Wilgotnica okazała(Hygrocybe splendidissima) jest smuklejsza,kapeluszma pomidorowoczerwony, trzon na żółtym tle pomarańczowo włóknisty, zaś miąższ żywo pomarańczowy.Wilgotnica szkarłatna(Hygrocybe coccinea) ma kapelusz czereśniowoczerwony, miąższ czerwony, zaś blaszki szeroko przyrośnięte do trzonu.
+Wilgotnica okazała (Hygrocybe splendidissima) jest smuklejsza, kapelusz ma pomidorowoczerwony, trzon na żółtym tle pomarańczowo włóknisty, zaś miąższ żywo pomarańczowy. Wilgotnica szkarłatna (Hygrocybe coccinea) ma kapelusz czereśniowoczerwony, miąższ czerwony, zaś blaszki szeroko przyrośnięte do trzonu.
 
+## Występowanie i siedlisko 
 
-## Występowanie i siedlisko
-
-W Polsce gatunek rzadki. Znajduje się naCzerwonej liście roślin i grzybów Polski. Ma status R – potencjalnie zagrożony z powodu ograniczonego zasięgu geograficznego i małych obszarów siedliskowych. Znajduje się na listach gatunków zagrożonych także w Belgii, Szwajcarii, Niemczech, Danii, Norwegii, Holandii, Szwecji.
+W Polsce gatunek rzadki. Znajduje się na Czerwonej liście roślin i grzybów Polski. Ma status R – potencjalnie zagrożony z powodu ograniczonego zasięgu geograficznego i małych obszarów siedliskowych. Znajduje się na listach gatunków zagrożonych także w Belgii, Szwajcarii, Niemczech, Danii, Norwegii, Holandii, Szwecji.
 
 Grzyb naziemny. Pojawia się od sierpnia do października na podgórskich i górskich łąkach oraz pastwiskach.
 
-
-## Znaczenie
+## Znaczenie 
 
 Grzyb jadalny, nadający się na sosy i zupy. W czasie gotowania zabarwia wodę na czerwono.
 
+## Przypisy 
 
-## Przypisy

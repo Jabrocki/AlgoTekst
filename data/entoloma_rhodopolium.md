@@ -3,38 +3,32 @@
 
 ---
 latin_name: Entoloma rhodopolium
-polish_name: Dzwonkówka szara forma ługowata
-source: https://grzyby.pl/gatunki/Entoloma_rhodopolium_f._nidorosum.htm
+polish_name: Dzwonkówka ługowata
+source: https://grzyby.pl/gatunki/Entoloma_rhodopolium.htm
 ---
 
-# Dzwonkówka szara forma ługowata
+# Dzwonkówka ługowata
 
+## Owocnik
 
----
-latin_name: Entoloma rhodopolium formanidorosum
-source: https://www.nagrzyby.pl/atlas/4802
----
+**Kapelusz** higrofaniczny, wilgotny szary do ochrowobrązowego i oliwkowo-żółtawego, suchy jasnobeżowy do żółtawobeżowego; (20)40-80(120) mm średnicy, wypukły, z wiekiem rozpostarty z zagłębionym centrum, stary niemal lejkowaty i z pofalowanym brzegiem; powierzchnia gładka, matowa, wilgotna nieco lepka; brzeg długo podwinięty, słabo ząbkowany i z wiekiem pofalowany, wilgotny z nieco prześwitującymi blaszkami. **Trzon** biały od jasnożółtawego, szaropłowy; 40-90(110) x 3-8(12) mm, cylindryczny, u góry i podstawy nieco rozszerzony; pusty, sztywny i kruchy; powierzchnia gładka, jedwabiście lśniąca, silnie wzdłużnie włóknista, szczyt biało oprószony.
 
-# Entoloma rhodopolium formanidorosum
-# dzwonkówka szara formanidorosum
+## Zarodniki
 
-## Podstawowe informacje
-Typ grzyba:
-blaszki
-
-## Trzon
-Typ trzonu:
-centralny
-
-## Hymenofor
-Kolor wysypu:
-odcienie różu i fioletu
+Wysyp zarodników rdzawobrązowy. Zarodniki 5-7-kątne, 7-10 x 7-9 µm.
 
 ## Występowanie
-Podłoże:
-gleba
-Sposób odżywiania:
-saprotrof
+
+Gatunek pospolity. Latem i jesienią; pojedynczo i w grupach na ziemi w lasach liściastych i mieszanych, najczęściej pod bukami, w miejscach wilgotnych; na ziemi, wśród ściółki leśnej.
+
+## Jadalne czy trujące? 🔴
+
+Trująca, powoduje zaburzenia żołądkowo-jelitowe. [134 ]
+
+## Uwagi
+
+Dzwonkówka szara forma ługowata ( Entoloma rhodopolium f. nidorosum ) charakteryzuje się alkalicznym zapachem. Entoloma myrmecophilum ma wyraźny mączny zapach i smak, owocnik są ciemniejsze i nieco mniejsze.
+
 
 ---
 latin_name: Entoloma rhodopolium
@@ -88,27 +82,52 @@ Sposób odżywiania:
 saprotrof
 
 ---
-latin_name: Entoloma rhodopolium (Fr.
-polish_name: Dzwonkówka szara
-source: https://pl.wikipedia.org/api/rest_v1/page/html/Dzwonkówka_szara
+latin_name: Entoloma rhodopolium formanidorosum
+source: https://www.nagrzyby.pl/atlas/4802
 ---
 
+# Entoloma rhodopolium formanidorosum
+# dzwonkówka szara formanidorosum
 
-Dzwonkówka szara(Entoloma rhodopolium(Fr.) P. Kumm.) –gatunekgrzybów z rodzinydzwonkówkowatych(Entolomataceae).
+## Podstawowe informacje
+Typ grzyba:
+blaszki
 
+## Trzon
+Typ trzonu:
+centralny
 
-## Systematyka i nazewnictwo
+## Hymenofor
+Kolor wysypu:
+odcienie różu i fioletu
 
-Pozycja w klasyfikacji wedługIndex Fungorum:Entoloma, Entolomataceae, Agaricales, Agaricomycetidae, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
+## Występowanie
+Podłoże:
+gleba
+Sposób odżywiania:
+saprotrof
 
-Po raz pierwszy zdiagnozował go w 1818 r.Elias Fries, nadając mu nazwęAgaricus rhodopolium. Obecną nazwę nadał muPaul Kummerw 1871 r.Synonimówma ok. 20. Niektóre z nich:
+---
+latin_name: entoloma rhodopolium
+polish_name: Dzwonkówka szara
+source: https://pl.wikipedia.org/wiki/Dzwonkówka_szara
+---
+# Dzwonkówka szara 
+# entoloma rhodopolium 
 
-Nazwę zwyczajowązaproponowałWładysław Wojewodaw 2003 r.
+Dzwonkówka szara (Entoloma rhodopolium (Fr.) P. Kumm.) – gatunek grzybów z rodziny dzwonkówkowatych (Entolomataceae).
 
+## Systematyka i nazewnictwo 
 
-## Morfologia
+Pozycja w klasyfikacji według Index Fungorum: Entoloma, Entolomataceae, Agaricales, Agaricomycetidae, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
 
-Średnica (2)4-8(12) cm, początkowo wypukły, potem rozpostarty z zagłębionym środkiem, w końcu prawie lejkowaty. Brzeg długo podwinięty, pofalowany, powierzchnia gładka, matowa. Jest słabohigrofaniczny; w stanie wilgotnym nieco lepki i słabo prążkowany, o barwie od szarej do oliwkowożółtawej lub ochrowobrązowej, w stanie suchym jasnobeżowy do żółtawobeżowego.
+Po raz pierwszy zdiagnozował go w 1818 r. Elias Fries, nadając mu nazwę Agaricus rhodopolium. Obecną nazwę nadał mu Paul Kummer w 1871 r. Synonimów ma ok. 20. Niektóre z nich:
+
+Nazwę zwyczajową zaproponował Władysław Wojewoda w 2003 r.
+
+## Morfologia 
+
+Średnica (2)4-8(12) cm, początkowo wypukły, potem rozpostarty z zagłębionym środkiem, w końcu prawie lejkowaty. Brzeg długo podwinięty, pofalowany, powierzchnia gładka, matowa. Jest słabo higrofaniczny; w stanie wilgotnym nieco lepki i słabo prążkowany, o barwie od szarej do oliwkowożółtawej lub ochrowobrązowej, w stanie suchym jasnobeżowy do żółtawobeżowego.
 
 Zbiegające, gęste lub dość gęste, początkowo białe, potem różowe.
 
@@ -116,14 +135,13 @@ Wysokość 1,5–4 cm, grubość 6–12 mm, cylindryczny, nagi lub na szczycie b
 
 Cienki, kruchy, o barwie od białawej do bardzo jasnobrązowej, niezmieniającej się po uszkodzeniu.
 
-Zarodnikiw widoku z boku wielokątne, 5-8-kątowe, o wymiarach 8–11 × 5–8 μm, gładkie,nieamyloidalne. Brakcystyd.Strzępkiskórki kapelusza wąskie, cylindryczne, hialinowe. Wstrzępkachwystępująsprzążki.
+Zarodniki w widoku z boku wielokątne, 5-8-kątowe, o wymiarach 8–11 × 5–8 μm, gładkie, nieamyloidalne. Brak cystyd. Strzępki skórki kapelusza wąskie, cylindryczne, hialinowe. W strzępkach występują sprzążki.
 
-
-## Występowanie i siedlisko
+## Występowanie i siedlisko 
 
 Dzwonkówka szara występuje w Europie, Ameryce Północnej i Japonii. W Europie jest szeroko rozprzestrzeniona, w Ameryce podano jej stanowiska w kilku stanach USA i w Kanadzie. W piśmiennictwie naukowym na terenie Polski podano wiele stanowisk.
 
-Grzyb naziemny, prawdopodobniemykoryzowy.Owocnikiwyrastają pojedynczo lub w grupach pod drzewami liściastymi, zwłaszcza pod olszą, bukiem, ale także pod sosną. W Polsce pojawiają się od czerwca do września.
+Grzyb naziemny, prawdopodobnie mykoryzowy. Owocniki wyrastają pojedynczo lub w grupach pod drzewami liściastymi, zwłaszcza pod olszą, bukiem, ale także pod sosną. W Polsce pojawiają się od czerwca do września.
 
+## Przypisy 
 
-## Przypisy

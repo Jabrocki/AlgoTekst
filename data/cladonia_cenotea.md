@@ -1,14 +1,5 @@
 #cladonia_cenotea
-#no_sources: 2
-
----
-latin_name: Cladonia cenotea
-polish_name: Chrobotek otwarty
-source: https://grzyby.pl/gatunki/Cladonia_cenotea.htm
----
-
-# Chrobotek otwarty
-
+#no_sources: 1
 
 ---
 latin_name: Cladonia cenotea

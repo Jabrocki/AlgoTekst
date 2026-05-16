@@ -1,14 +1,5 @@
 #lecanora_saligna
-#no_sources: 2
-
----
-latin_name: Lecanora saligna
-polish_name: Misecznica wierzbowa
-source: https://grzyby.pl/gatunki/Lecanora_saligna.htm
----
-
-# Misecznica wierzbowa
-
+#no_sources: 1
 
 ---
 latin_name: Lecanora saligna

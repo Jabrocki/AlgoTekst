@@ -1,14 +1,5 @@
 #ramalina_calicaris
-#no_sources: 2
-
----
-latin_name: Ramalina calicaris
-polish_name: Odnożyca rynienkowata
-source: https://grzyby.pl/gatunki/Ramalina_calicaris.htm
----
-
-# Odnożyca rynienkowata
-
+#no_sources: 1
 
 ---
 latin_name: Ramalina calicaris

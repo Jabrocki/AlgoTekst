@@ -3,33 +3,6 @@
 
 ---
 latin_name: Hericium cirrhatum
-polish_name: Soplówka strzępiasta
-source: https://grzyby.pl/gatunki/Creolophus_cirrhatus.htm
----
-
-# Soplówka strzępiasta
-
-## Owocnik
-
-**Owocnik** mniej więcej jednolicie zabarwiony, kremowy, ochrowy, różowawo-łososiowy, z wiekiem pomarańczowo-brązowy; 50-200 mm szerokości; składa się z wielu kolistawych, językowatych, nieregularnych i pofałdowanych płatów zrośniętych podstawą na wspólnym, grubym trzonie . Pojedyncze płaty szerokości 30-80 mm; ich górna powierzchnia pokryta nie w pełni wykształconymi płonnymi kolcami lub brodawkowana; brzeg podwinięty. **Miąższ** barwy kapelusza lub jaśniejszy, w trzonie gruby; miękki, watowaty; zapach przyjemny, słodkawo-owocowy; smak łagodny.
-
-## Występowanie
-
-Rzadki. Owocniki wyrastają latem i jesienią, zazwyczaj pojedynczo, na martwym drewnie różnych gatunków drzew liściastych; na pniakach i kłodach, przeważnie buka i dębów.
-
-Czerwona Lista [125 ] — V–narażony na wymarcie
-
-## Jadalne czy trujące? 🟢
-
-Jadalny [134 ].
-
-## Uwagi
-
-Jest to charakterystycznie wyglądający rzadki grzyb nadrzewny. Nie powinno być problemu z jego rozpoznaniem.
-
-
----
-latin_name: Hericium cirrhatum
 source: https://www.nagrzyby.pl/atlas/354
 ---
 
@@ -82,3 +55,52 @@ jesień
 ## Inne
 Zapach:
 grzybowy
+
+---
+latin_name: hericium cirrhatum
+polish_name: Soplówka strzępiasta
+source: https://pl.wikipedia.org/wiki/Soplówka_strzępiasta
+---
+# Soplówka strzępiasta 
+# hericium cirrhatum 
+
+Soplówka strzępiasta, kolczatek strzępiasty (Hericium cirrhatum (Pers.) Nikol.) – gatunek grzybów z rodziny soplówkowatych (Hericiaceae).
+
+## Systematyka i nazewnictwo 
+
+Pozycja w klasyfikacji według Index Fungorum: Hericium, Hericiaceae, Russulales, Incertae sedis, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
+
+Po raz pierwszy takson ten opisał Christiaan Hendrik Persoon w 1794 roku, nadając mu nazwę Hydnum cirrhatum. Rosyjska mykolog Taisiya Lvovna Nikolayeva w 1950 roku przeniosła ten gatunek do rodzaju Hericium, ustanawiając tym samym naukową nazwę Hericium cirrhatum. Synonimy naukowe:
+
+Nazwę polską dla synonimu Creolophus cirrhatus podali prof. Barbara Gumińska i Władysław Wojewoda w 1983 roku. Nazwa ta według Index Fungorum nie jest spójna z nazwą systematyczną. Aktualną nazwę dla Hericium cirrhatum zarekomendowała Komisja ds. Polskiego Nazewnictwa Grzybów Polskiego Towarzystwa Mykologicznego. Wcześniej Franciszek Błoński opisywał go w 1888 roku pod nazwą kolczak strzępiasty.
+
+Nazwa rodzajowa Hericium oznacza jeża i odnosi się do kolczastych hymenoforów grzybów w obrębie tego rodzaju. Epitet gatunkowy cirrhatum oznacza „posiadanie wąsów” – kolejne odniesienie do zwisających kolców.
+
+## Morfologia 
+
+Średnicy do 30 cm, składa się z wielu muszlowatych, nieregularnych i pofałdowanych płatów zrośniętych podstawą na wspólnym, grubym trzonie. Poszczególne kapelusze ułożone są kępkami, czasem dachówkowato. Barwa młodych owocników białawokremowa, później żółtawa, w końcu żółtawobrązowawa lub ochrowa.
+
+Pojedyncze płaty w kształcie muszli, wachlarzowate o szerokości 30–80 mm. Początkowo wypukłe, potem płaskie do lekko wklęsłych, z wiekiem pofalowane. Ich górna powierzchnia pokryta nie w pełni wykształconymi, płonnymi, nie wzniesionymi kolcami lub jest brodawkowata. Brzeg ostry, często pofalowany lub podwinięty.
+
+Kolczasty, kolce gęsto ustawione, pionowe, białawe, o długości 5–15 mm znajdujące się na spodniej stronie płatów.
+
+Barwy kapelusza lub nieco jaśniejszy, za młodu miękki, gruby i mięsisty, kruchy, później nieco łykowaty, a na starość twardniejący. Zapach przyjemny, słodkawo-owocowy. Smak łagodny.
+
+Biały.
+
+Zarodniki 3,5–4,5 × 3–4 μm, okrągławe lub elipsoidalne, gładkie, amyloidalne. Podstawki wydłużone, czterozarodnikowe, w kształcie maczugi. Cystydy wydłużone, o robakowatym kształcie, z ziarnistą zawartością.
+
+## Występowanie i siedlisko 
+
+Podano stanowiska tego gatunku w Ameryce Północnej, Europie, Australii, Azji i na wyspach japońskich. W Europie jest szeroko rozprzestrzeniony; występuje od Morza Śródziemnego po północne krańce Półwyspu Skandynawskiego. Jest to grzyb rzadki. Został ujęty na Czerwonej liście roślin i grzybów Polski ze statusem „V” – narażony. Znajduje się na czerwonych listach w wielu państwach Europy, między innymi w Bułgarii, Niemczech, Wielkiej Brytanii, Danii i Holandii”.
+
+Grzyb nadrzewny. Jego owocniki pojawiają się od czerwca do października, w lasach liściastych i mieszanych, na pniakach i kłodach drzew liściastych, zwłaszcza buków, ale również dębów, grabów, brzóz i topoli. Zdarza się, że rośnie na jeszcze żywych drzewach. Owocniki wyrastają samotnie lub w małych grupach, w których mogą zrastać się ze sobą.
+
+## Znaczenie 
+
+Saprotrof, czasami pasożyt. Powoduje białą zgniliznę drewna.
+
+Grzyb jadalny, gdy jest młody, jednak z uwagi na rzadkość zasługuje na ochronę i nie powinien być zbierany. Stare owocniki są łykowate i twarde.
+
+## Przypisy 
+

@@ -67,25 +67,24 @@ lato,
 jesień
 
 ---
-latin_name: Boletinus cavipes (Klotzsch
-polish_name: Borowiczak dęty, borowiec dęty, maślak dęty
-source: https://pl.wikipedia.org/api/rest_v1/page/html/Borowiec_dęty
+latin_name: boletinus cavipes
+polish_name: Borowiczak dęty
+source: https://pl.wikipedia.org/wiki/Borowiczak_dęty
 ---
+# Borowiczak dęty 
+# boletinus cavipes 
 
+Borowiczak dęty, borowiec dęty, maślak dęty (Boletinus cavipes (Klotzsch) Kalchbr.) – gatunek grzybów z rodziny maślakowatych (Suillaceae).
 
-Borowiczak dęty, borowiec dęty, maślak dęty (Boletinus cavipes(Klotzsch) Kalchbr.) –gatunekgrzybów z rodzinymaślakowatych(Suillaceae).
+## Systematyka i nazewnictwo 
 
+Pozycja w klasyfikacji: Suillaceae, Boletales, Agaricomycetidae, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi (według Index Fungorum).
 
-## Systematyka i nazewnictwo
+Po raz pierwszy opisał go w 1835 r. Johann Friedrich Klotzsch, nadając mu nazwę Boletus cavipes. Później zaliczany był do różnych rodzajów. Obecną nazwę nadał mu w 1867 r. Károly Kalchbrenner. Niektóre Synonimy naukowe:
 
-Pozycja w klasyfikacji:Suillaceae, Boletales, Agaricomycetidae, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi(wedługIndex Fungorum).
+Alina Skirgiełło nadała mu w 1939 r. nazwę borowik pustotrzonowy, w 1960 r. borowiec dęty. W 2003 r. Władysław Wojewoda zaproponował polską nazwę borowiczak dęty. W internetowym atlasie grzybów ma nazwę maślak dęty. Gatunek wielokrotnie przenoszony był do różnych rodzajów, stąd różnorodność polskich nazw. W 2025 r. zgodna z nazwą naukową jest polska nazwa zaproponowana przez W. Wojewodę.
 
-Po raz pierwszy opisał go w 1835 r.Johann Friedrich Klotzsch, nadając mu nazwęBoletus cavipes. Później zaliczany był do różnychrodzajów. Obecną nazwę nadał mu w 1867 r.Károly Kalchbrenner. NiektóreSynonimy naukowe:
-
-Alina Skirgiełłonadała mu w 1939 r. nazwę borowik pustotrzonowy, w 1960 r. borowiec dęty. W 2003 r.Władysław Wojewodazaproponował polską nazwę borowiczak dęty. W internetowym atlasie grzybów ma nazwę maślak dęty. Gatunek wielokrotnie przenoszony był do różnych rodzajów, stąd różnorodność polskich nazw. W 2025 r. zgodna z nazwą naukową jest polska nazwa zaproponowana przez W. Wojewodę.
-
-
-## Morfologia
+## Morfologia 
 
 4–12 cm średnicy, początkowo półkolisty lub stożkowaty, z wiekiem płaski z małym garbkiem pośrodku. Początkowo ma brzeg podwinięty, później ostry. Cały pokryty jest drobnymi, ciemniejszymi kosmkami i jest pilśniowato łuskowaty. Kolor od żółtobrązowego przez czerwonobrązowy do brązowego.
 
@@ -95,17 +94,15 @@ Wysokość 4–10 cm, grubość 1–2 cm, walcowaty, dołem zgrubiały, pusty. B
 
 W kapeluszu żółtawy, gąbczasty, w trzonie biały, suchszy i bardziej zwarty. Nie zmienia barwy po uszkodzeniu. Zapach przyjemny, smak nieco kwaśny, u starszych okazów cierpki, gorzkawy.
 
-Oliwkowożółtawy.Zarodnikielipsoidalno-wrzecionowate, o rozmiarach 7–19 × 3–4 μm.
+Oliwkowożółtawy. Zarodniki elipsoidalno-wrzecionowate, o rozmiarach 7–19 × 3–4 μm.
 
+## Występowanie i siedlisko 
 
-## Występowanie i siedlisko
+W piśmiennictwie naukowym podano ponad 80 jego stanowisk w Polsce. Częściej występuje w górach. W opracowaniu Czerwona lista roślin i grzybów Polski jest zaliczony do kategorii grzybów rzadkich (R).
 
-W piśmiennictwie naukowym podano ponad 80 jego stanowisk w Polsce. Częściej występuje w górach. W opracowaniuCzerwona lista roślin i grzybów Polskijest zaliczony do kategorii grzybów rzadkich (R).
+Naziemny grzyb mykoryzowy. Występuje wyłącznie pod modrzewiami, z którymi tworzy mykoryzę.
 
-Naziemnygrzyb mykoryzowy. Występuje wyłącznie podmodrzewiami, z którymi tworzymykoryzę.
+## Znaczenie 
 
+## Przypisy 
 
-## Znaczenie
-
-
-## Przypisy

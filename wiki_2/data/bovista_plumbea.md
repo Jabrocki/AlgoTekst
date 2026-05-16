@@ -1,0 +1,43 @@
+---
+latin_name: bovista plumbea
+polish_name: Kurzawka ołowiana
+source: https://pl.wikipedia.org/wiki/Kurzawka_ołowiana
+---
+# Kurzawka ołowiana 
+# bovista plumbea 
+
+Kurzawka ołowiana (Bovista plumbea Pers.) – gatunek grzybów z rodziny purchawkowatych (Lycoperdaceae). Przez laików często (błędnie) uważany za purchawki. Różni się od nich brakiem płonnej części (trzonu pod owocnikiem).
+
+## Systematyka i nazewnictwo 
+
+Pozycja w klasyfikacji według Index Fungorum: Bovista, Lycoperdaceae, Agaricales, Agaricomycetidae, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
+
+Po raz pierwszy opisał go Christiaan Hendrik Persoon w 1795 r. Ma 16 synonimów naukowych. Niektóre z nich:
+
+Nazwę polską podał Franciszek Błoński w 1889 r. W polskim piśmiennictwie mykologicznym gatunek ten opisywany był też jako purchawka ołowiana, kurzawka oponiasta, kurzawka otulona.
+
+## Morfologia 
+
+Kulisty, o średnicy do 3 cm. Za młodu pokryty jest białą okrywą zewnętrzną (egzoperydium). Po dojrzeniu egzoperydium odpada i odsłania się cienka, bibułowata okrywa wewnętrzna (endoperydium). Ma kolor początkowo białoszarawy lub popielaty, później popielatobrązowy do czarnego. Otwiera się ona na szczycie nieregularnym otworem o szerokości około 9 mm lub więcej. U starych owocników czasami następuje wywinięcie brzegów otworu. Wnętrze owocnika wypełnia gleba, która u młodych owocników jest biała, w trakcie dojrzewania stopniowo zmienia barwę na żółtosiarkową, oliwkowożółtawą, oliwkowobrązową, umbrową. U dojrzałych owocników jest kłaczkowata.
+
+Polska nazwa (kurzawka) pochodzi od tego, że zarodniki te, bardzo drobne i występujące w ogromnej ilości, pod wpływem wiatru, dotknięcia, czy nawet kropli deszczu, wzbijają się w powietrze („kurzą się”). Starsze owocniki nie są już połączone z podłożem, są wyschnięte i wiatr przemieszcza je po trawie rozsiewając zarodniki.
+
+Zarodniki w masie mają barwę oliwkowobrązową, rdzawobrązową, brązowoczekoladową lub umbrową. Pojedynczy zarodnik jest brązowy, przeświecający, elipsoidalny lub krótko jajowaty, czasami także kulisty. Zarodniki mają rozmiar 4–5,2 × 4–5,2 μm i posiadają jedną kroplę. Episporium hialinowe, drobno brodawkowane. Sterygmy proste, zazwyczaj o długości 6–14,5 μm, o niemal równej grubości na całej swojej długości, lub nieznacznie tylko zwężające się. Końce mają zakończone ostro, jak ucięte. Strzępki budujące włośnię są długie, dichotmicznie rozgałęziające się, czasami łukowato wygięte, na końcach stopniowo zwężające się i ostro zakończone. Włośnia jest dość długa, sztywna, sprężynująca, grubościenna i brązowo prześwitująca. Jej strzępki posiadają w niektórych miejscach zgrubienia, ale nie mają przegród ani jamek. Tylko wyjątkowo zdarzają się rzekome przegrody. Główny pień wlośni ma grubość 10–20 μm. Brak nibywłośni.
+
+## Występowanie i siedlisko 
+
+Kurzawka ołowiana poza Antarktydą i Afryką występuje na wszystkich kontynentach, a także na wielu wyspach. W Europie jest szeroko rozprzestrzeniona. W Alpach dochodzi do wysokości 2400 m n.p.m.
+
+Występuje od lata do jesieni, zarówno w górach, jak i na niżu. Rośnie na pastwiskach, łąkach i polanach górskich, szczególnie na miejscach nawożonych obornikiem. Zazwyczaj występuje gromadnie. Stare owocniki czasami utrzymują się do następnego roku.
+
+## Znaczenie 
+
+Młode, jeszcze białe owocniki są jadalne.
+
+## Gatunki podobne 
+
+Kurzawkę ołowianą charakteryzuje matowe i szare endoperydium, zazwyczaj jajowate zarodniki i długie sterygmy na podstawkach.
+Bardzo podobna jest kurzawka czerniejąca (Bovista nigrescens). Pewne odróżnienie tych gatunków zazwyczaj możliwe jest tylko badaniem mikroskopowym. Wskazówką może być też endoperydium: u kurzawki czerniejącej jest czerwonobrązowe do czarnobrązowego. Kurzawka omszona (Bovista tomentosa) ma owocniki mniejsze i bez połysku, rośnie też w innych miejscach (na piasku i skałach).
+
+## Przypisy 
+

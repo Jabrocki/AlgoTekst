@@ -1,5 +1,5 @@
 #agaricus_dulcidulus
-#no_sources: 4
+#no_sources: 3
 
 ---
 latin_name: Agaricus dulcidulus
@@ -44,25 +44,6 @@ Znaczenie kulinarne pieczarki purpurowej nie jest duże z powodu małych rozmiar
 
 ---
 latin_name: Agaricus dulcidulus
-polish_name: Pieczarka purpurowowłókienkowata
-source: https://grzyby.pl/gatunki/Agaricus_dulcidulus.htm
----
-
-# Pieczarka purpurowowłókienkowata
-
-## Występowanie, ekologia
-
-Lasy liściaste i iglaste z jodłą, zarośla jałowca, pastwiska; na ziemi; czerwiec-październik.
-
-Czerwona Lista [125 ] — V–narażony na wymarcie
-
-## Jadalne czy trujące? 🟢
-
-Jadalna [105 ] [134 ] ale zbyt drobna i rzadka aby miała znaczenie dla grzybiarzy.
-
-
----
-latin_name: Agaricus dulcidulus
 source: https://www.nagrzyby.pl/atlas/880
 ---
 
@@ -101,44 +82,42 @@ migdałów,
 anyżowy
 
 ---
-latin_name: Agaricus dulcidulus Schulzer
-polish_name: Pieczarka purpurowowłókienkowata, pieczarka purpurowa
-source: https://pl.wikipedia.org/api/rest_v1/page/html/Pieczarka_purpurowa
+latin_name: agaricus dulcidulus
+polish_name: Pieczarka purpurowowłókienkowata
+source: https://pl.wikipedia.org/wiki/Pieczarka_purpurowowłókienkowata
 ---
+# Pieczarka purpurowowłókienkowata 
+# agaricus dulcidulus 
 
+Pieczarka purpurowowłókienkowata, pieczarka purpurowa (Agaricus dulcidulus Schulzer) – gatunek grzybów należący do rodziny pieczarkowatych (Agaricaceae).
 
-Pieczarka purpurowowłókienkowata, pieczarka purpurowa (Agaricus dulcidulusSchulzer) –gatunekgrzybównależący dorodzinypieczarkowatych(Agaricaceae).
+## Systematyka i nazewnictwo 
 
+Pozycja w klasyfikacji według Index Fungorum: Agaricus, Agaricaceae, Agaricales, Agaricomycetidae, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
 
-## Systematyka i nazewnictwo
+Po raz pierwszy opisał go w 1874 r. Schulzer von Müggenburg i nadana przez niego nazwa naukowa jest aktualna. Niektóre synonimy naukowe:
 
-Pozycja w klasyfikacji wedługIndex Fungorum:Agaricus, Agaricaceae, Agaricales, Agaricomycetidae, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
+Polskie nazewnictwo tego gatunku jest zagmatwane. Władysław Wojewoda w 2003 r. uznał go za synonim A. niveolutescens Huijsman 1960 i nadał mu nazwę pieczarka migdałowa. Według Index Fungorum są to jednak odrębne gatunki, A. niveolutescens jest synonimem A. comtulus (pieczarka malutka). W. Wojewoda wymienił też gatunek A. purpurellus (F.H. Møller) F.H. Møller, któremu nadał nazwę pieczarka purpurowa. Według Index Fungorum jednak A. purpurellus to synonim A. dulcidulus. W 2025 r. Komisja ds. Polskiego Nazewnictwa Grzybów Polskiego Towarzystwa Mykologicznego zarekomendowała dla A. dulcidulus używanie nazwy pieczarka purpurowowłókienkowata.
 
-Po raz pierwszy opisał go w 1874 r.Schulzer von Müggenburgi nadana przez niego nazwa naukowa jest aktualna. Niektóresynonimy naukowe:
+W niektórych źródłach jest uznawany za synonim Agaricus semotus, jednak według Index Fungorum są to odrębne taksony.
 
-Polskie nazewnictwo tego gatunku jest zagmatwane.Władysław Wojewodaw 2003 r. uznał go za synonimA. niveolutescensHuijsman 1960 i nadał mu nazwę pieczarka migdałowa. Według Index Fungorum są to jednak odrębne gatunki,A. niveolutescensjest synonimemA. comtulus(pieczarka malutka). W. Wojewoda wymienił też gatunekA. purpurellus(F.H. Møller) F.H. Møller, któremu nadał nazwę pieczarka purpurowa. Według Index Fungorum jednakA. purpurellusto synonimA. dulcidulus. W 2025 r. Komisja ds. Polskiego Nazewnictwa GrzybówPolskiego Towarzystwa Mykologicznegozarekomendowała dlaA. dulcidulusużywanie nazwy pieczarka purpurowowłókienkowata.
-
-W niektórych źródłach jest uznawany za synonimAgaricus semotus, jednak według Index Fungorum są to odrębne taksony.
-
-
-## Charakterystyka
+## Charakterystyka 
 
 O średnicy 2–7 cm, wypukły, o szaroróżowej barwie. Pokryty na całej powierzchni promieniście ułożonymi, rzadkimi włóknami o barwie od różowo-brązowej do purpurowo-brązowej.
 
-Blaszkowy.Blaszkiwolne, gęste, początkowo jasno szarobrązowe, potem ciemno purpurowobrązowe.
+Blaszkowy. Blaszki wolne, gęste, początkowo jasno szarobrązowe, potem ciemno purpurowobrązowe.
 
-Cylindryczny, o wysokości 2,5 cm i grubości 0,4–0,8 cm z delikatnym, zwisającympierścieniem. Podstawa trzonu bulwiasta lub maczugowata. Powierzchnia powyżej pierścienia o barwie żółto brązowej, poniżej biaława pokryta resztkamiosłony.
+Cylindryczny, o wysokości 2,5 cm i grubości 0,4–0,8 cm z delikatnym, zwisającym pierścieniem. Podstawa trzonu bulwiasta lub maczugowata. Powierzchnia powyżej pierścienia o barwie żółto brązowej, poniżej biaława pokryta resztkami osłony.
 
-Charakterystyczną cechąAgaricus dulcidulusjest anyżkowa, a w podstawie migdałowa woń oraz przebarwianie się żółto samej podstawy trzonu przy dotknięciu</ref name=ger/>.
+Charakterystyczną cechą Agaricus dulcidulus jest anyżkowa, a w podstawie migdałowa woń oraz przebarwianie się żółto samej podstawy trzonu przy dotknięciu</ref name=ger/>.
 
-Pieczarka winnoczerwona(Agaricus semotus). Odróżnia się brakiem włókienek na kapeluszu. U rzadkiejpieczarki liliowoczerwonawej(Agaricus porphyrizon) miąższ po uszkodzeniu żółknie, ma też inne łuski i włókienka na kapeluszu.
+Pieczarka winnoczerwona (Agaricus semotus). Odróżnia się brakiem włókienek na kapeluszu. U rzadkiej pieczarki liliowoczerwonawej (Agaricus porphyrizon) miąższ po uszkodzeniu żółknie, ma też inne łuski i włókienka na kapeluszu.
 
+## Występowanie i siedlisko 
 
-## Występowanie i siedlisko
+Podano występowanie pieczarki purpurowej w Europie, oraz na Ziemi Ognistej w Ameryce Południowej. W Polsce gatunek rzadki. Znajduje się na Czerwonej liście roślin i grzybów Polski. Ma status V – gatunek zagrożony wymarciem. Znajduje się na listach gatunków zagrożonych także w Niemczech.
 
-Podano występowanie pieczarki purpurowej w Europie, oraz naZiemi Ognistejw Ameryce Południowej. W Polsce gatunek rzadki. Znajduje się naCzerwonej liście roślin i grzybów Polski. Ma status V – gatunek zagrożony wymarciem. Znajduje się na listach gatunków zagrożonych także w Niemczech.
+Grzyb naziemny, saprotrof. Występuje w lasach liściastych i mieszanych. Owocniki wytwarza od lipca do października.
 
-Grzyb naziemny,saprotrof. Występuje w lasach liściastych i mieszanych. Owocniki wytwarza od lipca do października.
+## Przypisy 
 
-
-## Przypisy

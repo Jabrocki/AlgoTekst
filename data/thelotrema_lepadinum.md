@@ -1,14 +1,5 @@
 #thelotrema_lepadinum
-#no_sources: 2
-
----
-latin_name: Thelotrema lepadinum
-polish_name: Puchlinka ząbkowata
-source: https://grzyby.pl/gatunki/Thelotrema_lepadinum.htm
----
-
-# Puchlinka ząbkowata
-
+#no_sources: 1
 
 ---
 latin_name: Thelotrema lepadinum

@@ -1,14 +1,5 @@
 #athalia_pyracea
-#no_sources: 2
-
----
-latin_name: Athalia pyracea
-polish_name: Bezpleszek gruszowy
-source: https://grzyby.pl/gatunki/Athalia_pyracea.htm
----
-
-# Bezpleszek gruszowy
-
+#no_sources: 1
 
 ---
 latin_name: Athallia pyracea

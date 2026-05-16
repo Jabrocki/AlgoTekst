@@ -1,30 +1,5 @@
 #laccaria_bicolor
-#no_sources: 3
-
----
-latin_name: Laccaria bicolor
-polish_name: Lakówka dwubarwna
-source: https://grzyby.pl/gatunki/Laccaria_bicolor.htm
----
-
-# Lakówka dwubarwna
-
-## Owocnik
-
-**Kapelusz** **Trzon**
-
-## Występowanie
-
-W lasach, w borach sosnowych, parkach, na wydmach; na ziemi; lipiec-listopad.
-
-## Jadalne czy trujące? 🟢
-
-Jadalna. [105 ]
-
-## Uwagi
-
-Zbliżona do lakówki pospolitej ( Laccaria laccata ) i lakówki okazałej ( Laccaria proxima ) .
-
+#no_sources: 2
 
 ---
 latin_name: Laccaria bicolor
@@ -76,45 +51,42 @@ Sposób odżywiania:
 saprotrof
 
 ---
-latin_name: Laccaria bicolor (Maire
+latin_name: laccaria bicolor
 polish_name: Lakówka dwubarwna
-source: https://pl.wikipedia.org/api/rest_v1/page/html/Lakówka_dwubarwna
+source: https://pl.wikipedia.org/wiki/Lakówka_dwubarwna
 ---
+# Lakówka dwubarwna 
+# laccaria bicolor 
 
+Lakówka dwubarwna (Laccaria bicolor (Maire) P.D. Orton) – gatunek grzybów z rodziny piestróweczkowatych (Hydnangiaceae).
 
-Lakówka dwubarwna(Laccaria bicolor(Maire) P.D. Orton) –gatunekgrzybów z rodzinypiestróweczkowatych(Hydnangiaceae).
+## Systematyka i nazewnictwo 
 
+Pozycja w klasyfikacji według Index Fungorum: Laccaria, Hydnangiaceae, Agaricales, Agaricomycetidae, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
 
-## Systematyka i nazewnictwo
+Po raz pierwszy takson ten opisany został w 1937 r. przez René Charles Maire jako odmiana lakówki pospolitej. Do rangi odrębnego gatunku podniósł go Peter Darbishire Orton w 1960 r. Synonimy naukowe:
 
-Pozycja w klasyfikacji wedługIndex Fungorum:Laccaria, Hydnangiaceae, Agaricales, Agaricomycetidae, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
+Polską nazwę zaproponował Władysław Wojewoda w 2003 r.
 
-Po raz pierwszytaksonten opisany został w 1937 r. przezRené Charles Mairejako odmianalakówki pospolitej. Do rangi odrębnego gatunku podniósł goPeter Darbishire Ortonw 1960 r.Synonimy naukowe:
-
-Polską nazwęzaproponowałWładysław Wojewodaw 2003 r.
-
-
-## Morfologia
+## Morfologia 
 
 Średnicy 1–6 cm, za młodu dzwonkowaty, później łukowaty, na koniec płasko rozpostarty o pofalowanych brzegach. Powierzchnia o barwie mięsnoczerwonawej lub czerwonobrązowej i pokryta drobnymi łuseczkami.
 
 Szerokie, rzadkie i dość grube, do trzonu przyrośnięte lub nieco zbiegające. Mają fioletoworóżową barwę, podczas wysychania coraz bardziej fioletową, u starszych okazów są białawo oprószone zarodnikami.
 
-Wysokość 6–10 cm, grubość do 8 mm. Cylindryczny, podłużnie włóknisty. Powierzchnia koloru od różowego do czerwonobrązowego. U podstawy występuje fioletowagrzybnia. Fioletowy kolor grzybni u podstawy jest jedną z najważniejszych cech morfologicznych umożliwiających odróżnienie tego gatunku lakówki od podobnych, jednak zanika on dość szybko i morfologiczne odróżnienie starszych okazów staje się czasami niemożliwe.
+Wysokość 6–10 cm, grubość do 8 mm. Cylindryczny, podłużnie włóknisty. Powierzchnia koloru od różowego do czerwonobrązowego. U podstawy występuje fioletowa grzybnia. Fioletowy kolor grzybni u podstawy jest jedną z najważniejszych cech morfologicznych umożliwiających odróżnienie tego gatunku lakówki od podobnych, jednak zanika on dość szybko i morfologiczne odróżnienie starszych okazów staje się czasami niemożliwe.
 
 Kruchy, cienki, brązowawy o słodkawym smaku i niewyraźnym zapachu.
 
-Wysyp zarodnikówbiały.Zarodnikiszeroko elipsoidalne lub niemal kuliste, o rozmiarach 7–9 × 6–8 µm, pokryte kolcami długości do 1–2 µm. Podstawki 4-zarodnikowe,Cheilocystydyo kształcie od nitkowatego do palczastego i rozmiarach do 55×8µm.
+Wysyp zarodników biały. Zarodniki szeroko elipsoidalne lub niemal kuliste, o rozmiarach 7–9 × 6–8 µm, pokryte kolcami długości do 1–2 µm. Podstawki 4-zarodnikowe, Cheilocystydy o kształcie od nitkowatego do palczastego i rozmiarach do 55 × 8 µm.
 
-
-## Występowanie i siedlisko
+## Występowanie i siedlisko 
 
 Jest szeroko rozprzestrzeniony w Ameryce Północnej i Europie, występuje także w Australii oraz Japonii i Korei.
 
-Grzyb naziemny. Rośnie w lasach iglastych pod sosnami i świerkami, oraz liściastych pod dębami, bukami i brzozami. W Polsceowocnikiwytwarza od lipca do listopada.
+Grzyb naziemny. Rośnie w lasach iglastych pod sosnami i świerkami, oraz liściastych pod dębami, bukami i brzozami. W Polsce owocniki wytwarza od lipca do listopada.
 
+## Znaczenie 
 
-## Znaczenie
+## Przypisy 
 
-
-## Przypisy

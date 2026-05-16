@@ -1,14 +1,5 @@
 #buellia_aethalea
-#no_sources: 2
-
----
-latin_name: Buellia aethalea
-polish_name: Brunatka graniasta
-source: https://grzyby.pl/gatunki/Buellia_aethalea.htm
----
-
-# Brunatka graniasta
-
+#no_sources: 1
 
 ---
 latin_name: Buellia aethalea

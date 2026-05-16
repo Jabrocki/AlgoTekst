@@ -1,14 +1,5 @@
 #cladonia_phyllophora
-#no_sources: 2
-
----
-latin_name: Cladonia phyllophora
-polish_name: Chrobotek zwyrodniały
-source: https://grzyby.pl/gatunki/Cladonia_phyllophora.htm
----
-
-# Chrobotek zwyrodniały
-
+#no_sources: 1
 
 ---
 latin_name: Cladonia phyllophora

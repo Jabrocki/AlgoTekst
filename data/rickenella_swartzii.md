@@ -1,18 +1,5 @@
 #rickenella_swartzii
-#no_sources: 2
-
----
-latin_name: Rickenella swartzii
-polish_name: Spinka fioletowotrzonowa
-source: https://grzyby.pl/gatunki/Rickenella_swartzii.htm
----
-
-# Spinka fioletowotrzonowa
-
-## Występowanie, ekologia
-
-W lasach różnego typu, na ziemi i na drewnie, wśród traw i mchów; czerwiec-październik.
-
+#no_sources: 1
 
 ---
 latin_name: Rickenella swartzii

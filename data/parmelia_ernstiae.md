@@ -1,14 +1,5 @@
 #parmelia_ernstiae
-#no_sources: 2
-
----
-latin_name: Parmelia ernstiae
-polish_name: Tarczownica ernst
-source: https://grzyby.pl/gatunki/Parmelia_ernstiae.htm
----
-
-# Tarczownica ernst
-
+#no_sources: 1
 
 ---
 latin_name: Parmelia ernstiae

@@ -1,5 +1,5 @@
 #hygrophorus_eburneus
-#no_sources: 5
+#no_sources: 3
 
 ---
 latin_name: Hygrophorus eburneus
@@ -44,31 +44,6 @@ Wodnicha biała jest grzybem jadalnym, choć zdaniem Europejczyków przykrym w s
 W Europie Środkowej, w tym w Polsce nie ma tradycji zbierania i jadania wodnichy białej. Odgrywa on jednak pewną rolę w kulturze Tybetańczyków, sporządzających podobny do naszych kefirów napój z mleka jaków i owocników tejże wodnichy. Mleko jaków fermentuje pod wpływem mieszanej kultury bakteryjnej, zawierającej głównie Lactobacillus acidophilus , L. delbrueckii subsp. bulgaricus oraz Streptococcus thermophilus , a metabolity wtórne wodnichy hamują rozwój reszty grzybów i bakterii.
 
 Współcześnie rolnicy i uczeni chcą produkować z wodnichy białej naturalne pestycydy (tak zwane gamma-okso-krotoniany), mocno działające na zarazę ziemniaczaną Phytophthora infestans , zarazę cynamonu P. cinnamomi oraz pozostałe, grzybopodobne protisty z typu lęgniowców.
-
-
----
-latin_name: Hygrophorus eburneus
-polish_name: Wodnicha biała
-source: https://grzyby.pl/gatunki/Hygrophorus_eburneus.htm
----
-
-# Wodnicha biała
-
-## Owocnik
-
-**Kapelusz** biały z wiekiem słabo kremowy; 30-80 mm średnicy, początkowo półkulisty z podwiniętym brzegiem, stary rozpostarty z faliście powyginanym brzegiem; powierzchnia silnie śluzowata ; miąższ w kapeluszu cienki, grubszy jedynie w centrum. **Trzon** biały; 40-120 x 3-10 mm, równogruby lub zwężony u podstawy, często powyginany; powierzchnia gładka, śluzowata, naga, w górze drobno kosmkowata; pełny, w wiekiem pusty.
-
-## Zarodniki
-
-Wysyp zarodników biały. Zarodniki elipsoidalne, gładkie, 6-9 x 3.5-5 µm.
-
-## Występowanie
-
-Częsta. Owocniki wyrastają masowo pod bukami i jodłami; od sierpnia do listopada.
-
-## Jadalne czy trujące? 🟡🟢
-
-Może być jadany ale z uwagi na intensywny zapach raczej nie jest to przyjemne.
 
 
 ---
@@ -135,97 +110,46 @@ Sposób odżywiania:
 symbiont(mikoryza)
 
 ---
-latin_name: Hygrophorus eburneus (Bull.
+latin_name: hygrophorus eburneus
 polish_name: Wodnicha biała
-source: https://pl.wikipedia.org/api/rest_v1/page/html/Wodnicha_biała
+source: https://pl.wikipedia.org/wiki/Wodnicha_biała
 ---
+# Wodnicha biała 
+# hygrophorus eburneus 
 
+Wodnicha biała (Hygrophorus eburneus (Bull.) Fr.) – gatunek grzybów z rodziny wodnichowatych (Hygrophoraceae).
 
-Wodnicha biała(Hygrophorus eburneus(Bull.) Fr.) –gatunekgrzybów z rodzinywodnichowatych(Hygrophoraceae).
+## Systematyka i nazewnictwo 
 
+Pozycja w klasyfikacji według Index Fungorum: Hygrophorus, Hygrophoraceae, Agaricales, Agaricomycetidae, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
 
-## Systematyka i nazewnictwo
+Po raz pierwszy takson ten zdiagnozował w 1780 r. Jean Baptiste François Pierre Bulliard, nadając mu nazwę Agaricus eburneus. W 1838 r. Elias Fries przeniósł go do rodzaju Hygrophorus. Synonimów naukowych ma kilkanaście. Niektóre z nich:
 
-Pozycja w klasyfikacji wedługIndex Fungorum:Hygrophorus, Hygrophoraceae, Agaricales, Agaricomycetidae, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
+Nazwę polską podał Stanisław Chełchowski w 1898 r. W polskim piśmiennictwie mykologicznym gatunek ten opisywany był też jako bedłka biała, bedłka słoniowokostna, ślimak biały.
 
-Po raz pierwszytaksonten zdiagnozował w 1780 r.Jean Baptiste François Pierre Bulliard, nadając mu nazwęAgaricus eburneus. W 1838 r.Elias Friesprzeniósł go do rodzajuHygrophorus.Synonimów naukowychma kilkanaście. Niektóre z nich:
+## Morfologia 
 
-Nazwę polską podałStanisław Chełchowskiw 1898 r. W polskim piśmiennictwie mykologicznym gatunek ten opisywany był też jako bedłka biała, bedłka słoniowokostna, ślimak biały.
+Średnicy od 3 do 7 cm, młody – półkulisty, później wypukły do rozpostartego, brzeg długo podwinięty. Powierzchnię ma gładką, w warunkach wilgotnych silnie śluzowatą, w czasie suszy jedwabiście lśniącą. Kolor biały, później kości słoniowej, następnie kremowy.
 
+Grube, dość rzadkie, zbiegające po trzonie, szerokość od 3 do 5 mm. Są zawsze czystobiałe.
 
-## Morfologia
-
-Średnicy od 3 do 7cm, młody – półkulisty, później wypukły do rozpostartego, brzeg długo podwinięty. Powierzchnię ma gładką, w warunkach wilgotnych silnieśluzowatą, w czasie suszyjedwabiścielśniącą. Kolor biały, późniejkości słoniowej, następnie kremowy.
-
-Grube, dość rzadkie, zbiegające po trzonie, szerokość od 3 do 5mm. Są zawsze czystobiałe.
-
-Wysokość od 4 do 11cm, średnica od 5 do 12mm, cylindryczny, zwężający się ku podstawie, mocno tkwiący w gruncie, pełny. Pod kapeluszem suchy i pokryty drobnymi łuskami i kosmkami. Jego powierzchnia jest śluzowata, kolor biały lub w odcieniu kości słoniowej.
+Wysokość od 4 do 11 cm, średnica od 5 do 12 mm, cylindryczny, zwężający się ku podstawie, mocno tkwiący w gruncie, pełny. Pod kapeluszem suchy i pokryty drobnymi łuskami i kosmkami. Jego powierzchnia jest śluzowata, kolor biały lub w odcieniu kości słoniowej.
 
 W kapeluszu miękki, sprężysty i soczysty, w trzonie włóknisty. Jest biały i ma słaby smak i zapach. Nie zmienia barwy po uszkodzeniu.
 
-Biały.Zarodnikielipsoidalne, o gładkiej powierzchni. Rozmiar 6-7 × 5μm.
+Biały. Zarodniki elipsoidalne, o gładkiej powierzchni. Rozmiar 6-7 × 5μm.
 
-Istnieje kilka gatunków wodnich o białym kolorze. Ich rozróżnienie jest trudne nawet dla grzyboznawców. Czasami niezbędne jest badanie mikroskopowe. Bardzo podobna jest np.wodnicha świerkowa(Hygrophorus piceae) rosnąca pod świerkami orazkopułka śnieżna(Cuphophyllus virgineus), ale jest mniejszy i rośnie na łąkach.
+Istnieje kilka gatunków wodnich o białym kolorze. Ich rozróżnienie jest trudne nawet dla grzyboznawców. Czasami niezbędne jest badanie mikroskopowe. Bardzo podobna jest np. wodnicha świerkowa (Hygrophorus piceae) rosnąca pod świerkami oraz kopułka śnieżna (Cuphophyllus virgineus), ale jest mniejszy i rośnie na łąkach.
 
-
-## Występowanie i siedlisko
-
-Występuje w Ameryce Północnej, Europie i Azji. W Europie jest szeroko rozprzestrzeniony, występuje od Morza Śródziemnego po północne rejony Półwyspu Skandynawskiego. W Polsce gatunek dość częsty.
-
-Grzyb naziemny. Rośnie pojedynczo lub w grupkach, w lasach liściastych i mieszanych, w parkach, starych alejach. Rośnie głównie pod bukami, rzadziej pod dębami. Nie lubi kwaśnych gleb. Rośnie również pozalasem– napastwiskachiłąkach, szczególnie na glebach bogatych wwapń.
-
-
-## Znaczenie
-
-Grzyb mykoryzowy. Jest togrzyb jadalny, lecz niskiej jakości. W Polsce zazwyczaj nie jest zbierany.
-
-
-## Przypisy
-
----
-latin_name: Hygrophorus eburneus (Bull.
-polish_name: Wodnicha biała
-source: https://pl.wikipedia.org/api/rest_v1/page/html/Wodnicha_biała
----
-
-
-Wodnicha biała(Hygrophorus eburneus(Bull.) Fr.) –gatunekgrzybów z rodzinywodnichowatych(Hygrophoraceae).
-
-
-## Systematyka i nazewnictwo
-
-Pozycja w klasyfikacji wedługIndex Fungorum:Hygrophorus, Hygrophoraceae, Agaricales, Agaricomycetidae, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
-
-Po raz pierwszytaksonten zdiagnozował w 1780 r.Jean Baptiste François Pierre Bulliard, nadając mu nazwęAgaricus eburneus. W 1838 r.Elias Friesprzeniósł go do rodzajuHygrophorus.Synonimów naukowychma kilkanaście. Niektóre z nich:
-
-Nazwę polską podałStanisław Chełchowskiw 1898 r. W polskim piśmiennictwie mykologicznym gatunek ten opisywany był też jako bedłka biała, bedłka słoniowokostna, ślimak biały.
-
-
-## Morfologia
-
-Średnicy od 3 do 7cm, młody – półkulisty, później wypukły do rozpostartego, brzeg długo podwinięty. Powierzchnię ma gładką, w warunkach wilgotnych silnieśluzowatą, w czasie suszyjedwabiścielśniącą. Kolor biały, późniejkości słoniowej, następnie kremowy.
-
-Grube, dość rzadkie, zbiegające po trzonie, szerokość od 3 do 5mm. Są zawsze czystobiałe.
-
-Wysokość od 4 do 11cm, średnica od 5 do 12mm, cylindryczny, zwężający się ku podstawie, mocno tkwiący w gruncie, pełny. Pod kapeluszem suchy i pokryty drobnymi łuskami i kosmkami. Jego powierzchnia jest śluzowata, kolor biały lub w odcieniu kości słoniowej.
-
-W kapeluszu miękki, sprężysty i soczysty, w trzonie włóknisty. Jest biały i ma słaby smak i zapach. Nie zmienia barwy po uszkodzeniu.
-
-Biały.Zarodnikielipsoidalne, o gładkiej powierzchni. Rozmiar 6-7 × 5μm.
-
-Istnieje kilka gatunków wodnich o białym kolorze. Ich rozróżnienie jest trudne nawet dla grzyboznawców. Czasami niezbędne jest badanie mikroskopowe. Bardzo podobna jest np.wodnicha świerkowa(Hygrophorus piceae) rosnąca pod świerkami orazkopułka śnieżna(Cuphophyllus virgineus), ale jest mniejszy i rośnie na łąkach.
-
-
-## Występowanie i siedlisko
+## Występowanie i siedlisko 
 
 Występuje w Ameryce Północnej, Europie i Azji. W Europie jest szeroko rozprzestrzeniony, występuje od Morza Śródziemnego po północne rejony Półwyspu Skandynawskiego. W Polsce gatunek dość częsty.
 
-Grzyb naziemny. Rośnie pojedynczo lub w grupkach, w lasach liściastych i mieszanych, w parkach, starych alejach. Rośnie głównie pod bukami, rzadziej pod dębami. Nie lubi kwaśnych gleb. Rośnie również pozalasem– napastwiskachiłąkach, szczególnie na glebach bogatych wwapń.
+Grzyb naziemny. Rośnie pojedynczo lub w grupkach, w lasach liściastych i mieszanych, w parkach, starych alejach. Rośnie głównie pod bukami, rzadziej pod dębami. Nie lubi kwaśnych gleb. Rośnie również poza lasem – na pastwiskach i łąkach, szczególnie na glebach bogatych w wapń.
 
+## Znaczenie 
 
-## Znaczenie
+Grzyb mykoryzowy. Jest to grzyb jadalny, lecz niskiej jakości. W Polsce zazwyczaj nie jest zbierany.
 
-Grzyb mykoryzowy. Jest togrzyb jadalny, lecz niskiej jakości. W Polsce zazwyczaj nie jest zbierany.
+## Przypisy 
 
-
-## Przypisy

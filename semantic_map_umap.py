@@ -45,7 +45,7 @@ def create_3d_scatter_plots(data):
     X = np.array(embeddings)
     X_bin = (X > 0).astype(int)
 
-    kmeans = KMeans(n_clusters=50, n_init="auto", random_state=6)
+    kmeans = KMeans(n_clusters=100, n_init="auto", random_state=6)
     clusters = kmeans.fit_predict(X)
     cluster_labels = [f"Grupa {c+1}" for c in clusters]
 
@@ -72,9 +72,9 @@ def create_3d_scatter_plots(data):
 
         df = pd.DataFrame(
             {
-                "X": X_3d[:, 0],
-                "Y": X_3d[:, 1],
-                "Z": X_3d[:, 2],
+                "X": X_3d[:, 0],  # type: ignore
+                "Y": X_3d[:, 1],  # type: ignore
+                "Z": X_3d[:, 2],  # type: ignore
                 "Grzyb": display_names,
                 "Rodzina": cluster_labels,
             }

@@ -1,14 +1,5 @@
 #peltigera_ponojensis
-#no_sources: 2
-
----
-latin_name: Peltigera ponojensis
-polish_name: Pawężnica węgierska
-source: https://grzyby.pl/gatunki/Peltigera_ponojensis.htm
----
-
-# Pawężnica węgierska
-
+#no_sources: 1
 
 ---
 latin_name: Peltigera ponojensis

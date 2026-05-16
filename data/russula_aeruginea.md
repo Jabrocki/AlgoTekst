@@ -1,5 +1,5 @@
 #russula_aeruginea
-#no_sources: 4
+#no_sources: 3
 
 ---
 latin_name: Russula aeruginea ex
@@ -36,35 +36,6 @@ Gołąbek białozielonawy jest grzybem jadalnym, niemniej jednak spożyty w duż
 
 ## Zastosowanie
 Gołąbek białozielonawy zbierany jest przez grzybiarzy, jednak nieczęsto, ponieważ znaleźć można wiele smaczniejszych grzybów o cenniejszych właściwościach kulinarnych.
-
-
----
-latin_name: Russula aeruginea
-polish_name: Gołąbek białozielonawy
-source: https://grzyby.pl/gatunki/Russula_aeruginea.htm
----
-
-# Gołąbek białozielonawy
-
-## Owocnik
-
-**Kapelusz** zwykle szarozielony, oliwkowy brzeg znacznie jaśniejszy; średnicy 50-100 mm; młody kulisty, szybko rozpostarty i płytko wklęsły; skórka nieco lepka i błyszcząca, sucha matowa, daje się zedrzeć co najwyżej do połowy kapelusza; brzeg tępo zaokrąglony. **Trzon** biały, u podstawy często z rdzawymi plamami; 40-60(80) x 10-20 mm, dość krótki, zaostrzony, podłużnie pomarszczony; pełny i jędrny, szybko staje się gąbczasty i miękki.
-
-## Zarodniki
-
-Wysyp zarodników kremowy (kremowożółty). Zarodniki szerokoelipsoidalne, drobno brodawkowane, 7-10 x 5-7 µm.
-
-## Występowanie
-
-Pospolity. Od lipca do września, w grupach pod brzozami w lasach sosnowych.
-
-## Jadalne czy trujące? 🟡🟢
-
-Jadalny z zastrzeżeniami [105 ]. Surowy może powodować niedyspozycje żołądkowe (wymaga dokładnej obróbki termicznej), więc nie warto.
-
-## Uwagi
-
-Z uwagi na podobną barwę kapelusza może być przez ignorantów mylony ze śmiertelnie trującym muchomorem zielonawym ( Amanita phalloides ) .
 
 
 ---
@@ -160,49 +131,46 @@ Zapach:
 brak/nieokreślony
 
 ---
-latin_name: Russula aeruginea Lindblad ex Fr.
-polish_name: Gołąbek białozielonawy, gołąbek grynszpanowy
-source: https://pl.wikipedia.org/api/rest_v1/page/html/Gołąbek_białozielonawy
+latin_name: russula aeruginea
+polish_name: Gołąbek białozielonawy
+source: https://pl.wikipedia.org/wiki/Gołąbek_białozielonawy
 ---
+# Gołąbek białozielonawy 
+# russula aeruginea 
 
+Gołąbek białozielonawy, gołąbek grynszpanowy (Russula aeruginea Lindblad ex Fr.) – gatunek grzybów należący do rodziny gołąbkowatych (Russulaceae).
 
-Gołąbek białozielonawy, gołąbek grynszpanowy (Russula aerugineaLindblad ex Fr.) –gatunekgrzybów należący do rodzinygołąbkowatych(Russulaceae).
+## Systematyka i nazewnictwo 
 
+Pozycja w klasyfikacji według Index Fungorum: Russula, Russulaceae, Russulales, Incertae sedis, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
 
-## Systematyka i nazewnictwo
+Po raz pierwszy opisali go w 1863 r. Matts Adolf Lindblad i Elias Fries. Niektóre synonimy nazwy naukowej:
 
-Pozycja w klasyfikacji wedługIndex Fungorum:Russula, Russulaceae, Russulales, Incertae sedis, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
+Polską nazwę zaproponował Władysław Wojewoda w 2003 r., dawniej grzyb ten znany był pod nazwą gołąbek grynszpanowy podaną przez Alinę Skirgiełło w 1991 r.
 
-Po raz pierwszy opisali go w 1863 r.Matts Adolf LindbladiElias Fries. Niektóresynonimy nazwy naukowej:
+## Morfologia 
 
-Polską nazwęzaproponowałWładysław Wojewodaw 2003 r., dawniej grzyb ten znany był pod nazwą gołąbek grynszpanowy podaną przezAlinę Skirgiełłow 1991 r.
-
-
-## Morfologia
-
-Średnica 3–10cm. Młode owocniki mają kapelusz kulisty, u starszych staje się szeroko rozpostarty i wklęsły na środku. Powierzchnia gładka, sucha i matowa, przy brzegu karbowana. W czasie deszczu staje się śliska. Kolor od zielonego przez oliwkowozielony do żółtozielonego. Na środku przeważnie ciemniejszy. Skórkę można ściągnąć niemal z całego kapelusza.
+Średnica 3–10 cm. Młode owocniki mają kapelusz kulisty, u starszych staje się szeroko rozpostarty i wklęsły na środku. Powierzchnia gładka, sucha i matowa, przy brzegu karbowana. W czasie deszczu staje się śliska. Kolor od zielonego przez oliwkowozielony do żółtozielonego. Na środku przeważnie ciemniejszy. Skórkę można ściągnąć niemal z całego kapelusza.
 
 Szerokie, gęsto ustawione i o różnej długości. przy trzonie nieprzyrośnięte, lub tylko nieznacznie. U młodych osobników białe, u starszych kremowe.
 
-Gładki i walcowaty,białyu podstawy rdzawoplamisty, zaostrzony bez pierścienia. Wysokość 4–8cm, grubość 1–2cm. U młodych okazów pełny, u starszych gąbczasty w środku.
+Gładki i walcowaty, biały u podstawy rdzawoplamisty, zaostrzony bez pierścienia. Wysokość 4–8 cm, grubość 1–2 cm. U młodych okazów pełny, u starszych gąbczasty w środku.
 
-U młodych okazów twardy, biały i kruchy. Ma lekko piekący smak, szczególnie blaszki. Pod działaniemFeSO4staje się szaroróżowawy.
+U młodych okazów twardy, biały i kruchy. Ma lekko piekący smak, szczególnie blaszki. Pod działaniem FeSO4 staje się szaroróżowawy.
 
-Jasnokremowy.Zarodnikielipsoidalne, lub odwrotnie jajowate, pokryte drobnymi brodawkami. Brodawki mają wysokość do 0,6 μm, tępe wierzchołki, niektóre z nich połączone są pojedynczymi, delikatnymi łącznikami. Rozmiary: 7–10×6–7 μm.Cystydytępe lub posiadające na szczycie szeroki kończyk,dermatocystydycylindryczne, tępe.
+Jasnokremowy. Zarodniki elipsoidalne, lub odwrotnie jajowate, pokryte drobnymi brodawkami. Brodawki mają wysokość do 0,6 μm, tępe wierzchołki, niektóre z nich połączone są pojedynczymi, delikatnymi łącznikami. Rozmiary: 7–10 × 6 –7 μm. Cystydy tępe lub posiadające na szczycie szeroki kończyk, dermatocystydy cylindryczne, tępe.
 
-Bywa mylony ze śmiertelnie trującymmuchomorem zielonawym(Amanita phalloides). Podobny jest teżgołąbek oliwkowozielony(Russula heterophylla), ale nie ma on szczypiącego smaku i jego skórkę można ściągnąć tylko do jednej trzeciej promienia kapelusza.
+Bywa mylony ze śmiertelnie trującym muchomorem zielonawym (Amanita phalloides). Podobny jest też gołąbek oliwkowozielony (Russula heterophylla), ale nie ma on szczypiącego smaku i jego skórkę można ściągnąć tylko do jednej trzeciej promienia kapelusza.
 
-
-## Występowanie i siedlisko
+## Występowanie i siedlisko 
 
 Występuje w Ameryce Północnej i Europie. W Polsce jest jednym z najczęściej występujących gołąbków.
 
-Grzyb naziemny. Rośnie wlasach liściastych, iglastych i mieszanych, także w parkach, naściółce, głównie podbrzozą brodawkowatąibrzozą omszoną, rzadziej podklonem jaworem,bukiem,świerkiem,sosnąirobinią.Owocnikiwyrastają od czerwca do listopada.
+Grzyb naziemny. Rośnie w lasach liściastych, iglastych i mieszanych, także w parkach, na ściółce, głównie pod brzozą brodawkowatą i brzozą omszoną, rzadziej pod klonem jaworem, bukiem, świerkiem, sosną i robinią. Owocniki wyrastają od czerwca do listopada.
 
+## Znaczenie 
 
-## Znaczenie
+Grzyb mykoryzowy. Jest grzybem jadalnym gorszej jakości. Bywa jednak zbierany przez grzybiarzy, po ugotowaniu traci bowiem gorzki smak. Jednak spożyty w większych ilościach może wywołać u wrażliwych osób lekką niedyspozycję żołądkowo-jelitową. Ponadto przez niedoświadczonych grzybiarzy może być pomylony ze śmiertelnie trującym muchomorem zielonawym (Amanita phalloides) lub muchomorem cytrynowym (Amanita citrina).
 
-Grzyb mykoryzowy. Jestgrzybem jadalnymgorszej jakości. Bywa jednak zbierany przez grzybiarzy, po ugotowaniu traci bowiem gorzki smak. Jednak spożyty w większych ilościach może wywołać u wrażliwych osób lekką niedyspozycję żołądkowo-jelitową. Ponadto przez niedoświadczonych grzybiarzy może być pomylony ze śmiertelnie trującymmuchomorem zielonawym(Amanita phalloides) lubmuchomorem cytrynowym(Amanita citrina).
+## Przypisy 
 
-
-## Przypisy

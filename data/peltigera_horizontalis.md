@@ -1,14 +1,5 @@
 #peltigera_horizontalis
-#no_sources: 2
-
----
-latin_name: Peltigera horizontalis
-polish_name: Pawężnica rozłożysta
-source: https://grzyby.pl/gatunki/Peltigera_horizontalis.htm
----
-
-# Pawężnica rozłożysta
-
+#no_sources: 1
 
 ---
 latin_name: Peltigera horizontalis

@@ -1,5 +1,5 @@
 #agaricus_campestris
-#no_sources: 5
+#no_sources: 4
 
 ---
 latin_name: Agaricus campestris
@@ -44,15 +44,41 @@ Pieczarka łąkowa jest dobrym grzybem jadalnym, jednak w smaku nie dorównuje s
 
 ---
 latin_name: Agaricus campestris
-polish_name: Pieczarka łąkowa odm. łuseczkowata
-source: https://grzyby.pl/gatunki/Agaricus_campestris_var._squamulosus.htm
+polish_name: Pieczarka łąkowa
+source: https://grzyby.pl/gatunki/Agaricus_campestris.htm
 ---
 
-# Pieczarka łąkowa odm. łuseczkowata
+# Pieczarka łąkowa
 
-## Występowanie, ekologia
+## Owocnik
 
-Bez publikowanych stanowisk w Polsce. [r.2025]
+**Kapelusz** biały, stary z brązowym odcieniem; 50-120 mm średnicy, początkowo półkulisty, z wiekiem wypukły i w końcu rozpostarty; brzeg długo podwinięty, młody ze zwieszającymi się fragmentami osłony; powierzchnia gładka i lśniąca, satynowa, z wiekiem czasem słabo spękana na drobne, przylegające nieco szarzejące lub szarobrązowe łuseczki. Miejsca uciśnięte nie żółkną lub jedynie nieznacznie. **Trzon** biały, brązowiejący z wiekiem; 50-80 × 10-25 mm, cylindryczny, u podstawy nieco zwężony lub zaostrzony, nie dłuższy lub nieznacznie dłuższy niż średnica kapelusza; powierzchnia włóknista do drobno kłaczkowatej. **Pierścień** błoniasty, zwisający, słaby, delikatny, zanikający .
+
+## Zarodniki
+
+Wysyp zarodników czekoladowobrązowy. Zarodniki szerokoelipsoidalne, gładkie, grubościenne, z drobną porą rostkową, 6.5-8.5 × 4.5-6 µm [80.5].
+
+## Występowanie
+
+Pospolita. Owocniki wyrastają od lata do jesieni, zwykle w grupach, głównie na pastwiskach, łąkach, polach , zwykle na glebach żyznych. Rzadziej wyrasta w parkach, na poboczach dróg, skrajach lasów. Od maja do października.
+
+## Jadalne czy trujące? 🟢
+
+Jadalna.
+
+## Uwagi
+
+Jest też odmiana z brązowymi łuseczkami na kapeluszu - var. squamulosus , z brązowo włókienkowatą powierzchnią kapelusza var. fuscopilosellus .
+
+Drugi rosnący poza lasami często spotykany gatunek białej pieczarki – pieczarka biaława ( Agaricus arvensis ) / odróżniamy po tym, że za młodu ma jasnoszaroróżowe blaszki, w miejscach otartych przebarwia się żółto, ma zapach anyżowy lub migdałowy oraz trwały, gruby pierścień, jego spodnia warstwa pęka gwiazdkowato - zostawiając na obwodzie wyraźne, grube łuseczki.
+
+Jeśli podstawa trzonu silnie żółknie a pieczarka ma nieprzyjemny zapach karbolu, to jest to trująca pieczarka karbolowa ( Agaricus xanthodermus ) .
+
+## Pomyłki z muchomorami
+
+Blaszki młodych pieczarek są jasne. W trakcie dojrzewania różowieją i następnie stają się ciemnobrązowe, tak samo jak i barwa wysypu ich zarodników. Jest to cecha pewnie odróżniająca pieczarki od muchomorów. Muchomory mają zawsze białą barwę wysypu zarodników i także w wieku dojrzałym jasne, zwykle białe blaszki.
+
+Zbieranie dojrzałych pieczarek, tj. w fazie brązowych blaszek, nie grozi więc tragiczną pomyłką z muchomorami, zwłaszcza z białymi silnie trującymi muchomorami jak np. muchomor jadowity ( Amanita virosa ) / lub muchomor zielonawy odm. biała ( Amanita phalloides var. alba ) /.
 
 
 ---
@@ -123,101 +149,48 @@ Zapach:
 grzybowy
 
 ---
-latin_name: Agaricus campestris L.
+latin_name: agaricus campestris
 polish_name: Pieczarka łąkowa
-source: https://pl.wikipedia.org/api/rest_v1/page/html/Pieczarka_łąkowa
+source: https://pl.wikipedia.org/wiki/Pieczarka_łąkowa
 ---
+# Pieczarka łąkowa 
+# agaricus campestris 
 
+Pieczarka łąkowa (Agaricus campestris L.) – gatunek grzybów z rodziny pieczarkowatych (Agaricaceae).
 
-Pieczarka łąkowa(Agaricus campestrisL.) –gatunekgrzybówz rodzinypieczarkowatych(Agaricaceae).
+## Systematyka i nazewnictwo 
 
+Pozycja w klasyfikacji: Agaricus, Agaricaceae, Agaricales, Agaricomycetidae, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi (według Index Fungorum).
 
-## Systematyka i nazewnictwo
+Po raz pierwszy gatunek ten opisał Karol Linneusz w 1753 r. Synonimów naukowych ma ponad 60. Nazwę pieczarka łąkowa podał Władysław Wojewoda w 1987 r. W polskim piśmiennictwie mykologicznym gatunek ten występuje też pod nazwami bedłka pieczarka, pieczarka inspektowa, pieczarka ogrodowa, pieczarka prawdziwa, pieczarka polna, pieczarka polowa, pieczarka zwyczajna.
 
-Pozycja w klasyfikacji:Agaricus, Agaricaceae, Agaricales, Agaricomycetidae, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi(wedługIndex Fungorum).
+## Morfologia 
 
-Po raz pierwszy gatunek ten opisałKarol Linneuszw 1753 r.Synonimów naukowychma ponad 60. Nazwę pieczarka łąkowa podałWładysław Wojewodaw 1987 r. W polskim piśmiennictwie mykologicznym gatunek ten występuje też pod nazwami bedłka pieczarka, pieczarka inspektowa, pieczarka ogrodowa, pieczarka prawdziwa, pieczarka polna, pieczarka polowa, pieczarka zwyczajna.
-
-
-## Morfologia
-
-Średnica 5–11cm, u młodych okazów zamknięty i niemal kulisty, później półkulisty, na koniec płasko rozpostarty. Brzeg łuskowato spękany, powierzchnia jedwabiście włóknista, na wierzchołku występują rzadkie, przylegające łuseczki o brązowej barwie. Po uciśnięciu zmienia barwę na żółtawą lub brązowawą (starsze okazy). Barwa kapelusza początkowo biała, później szaroochrowa. U dojrzałych grzybów, szczególnie podczas suchej pogody, górna powierzchnia kapelusza pęka i powstają na niej głębokie rowki i poletka. Skórka daje się łatwo ściągnąć z całego kapelusza.
+Średnica 5–11 cm, u młodych okazów zamknięty i niemal kulisty, później półkulisty, na koniec płasko rozpostarty. Brzeg łuskowato spękany, powierzchnia jedwabiście włóknista, na wierzchołku występują rzadkie, przylegające łuseczki o brązowej barwie. Po uciśnięciu zmienia barwę na żółtawą lub brązowawą (starsze okazy). Barwa kapelusza początkowo biała, później szaroochrowa. U dojrzałych grzybów, szczególnie podczas suchej pogody, górna powierzchnia kapelusza pęka i powstają na niej głębokie rowki i poletka. Skórka daje się łatwo ściągnąć z całego kapelusza.
 
 Gęste, przy trzonie wolne. Tylko w bardzo młodych, jeszcze zamkniętych owocnikach są białe, potem stają się różowe i wiekiem coraz ciemniejsze; czekoladowobrązowe, do czarnobrązowych. W starych owocnikach od zarodników stają się fioletowoczarne.
 
-Wysokość 4–8cm, grubość 1–2cm, cylindryczny, pełny, łatwo odłamujący się od kapelusza, z białym błoniastympierścieniemu góry. Powierzchnia gładka, biała, u starszych okazów brunatna. Pierścień jest niezbyt trwały i u starszych okazów zanika. Górna część trzonu często jest różowawa od przeświecającego się miąższu. U starszych grzybów trzon jest ciemniejszy, brązowy lub rdzawobrunatny.
+Wysokość 4–8 cm, grubość 1–2 cm, cylindryczny, pełny, łatwo odłamujący się od kapelusza, z białym błoniastym pierścieniem u góry. Powierzchnia gładka, biała, u starszych okazów brunatna. Pierścień jest niezbyt trwały i u starszych okazów zanika. Górna część trzonu często jest różowawa od przeświecającego się miąższu. U starszych grzybów trzon jest ciemniejszy, brązowy lub rdzawobrunatny.
 
-Biały, lub wodnistoróżowy po przekrojeniu miejscami różowieje. Powyżej blaszek i na trzonie pod blaszkami miąższ ma często szary odcień, a w podstawie trzonu pomarańczowy. Smak przyjemny,zapachlekko grzybowy.
+Biały, lub wodnistoróżowy po przekrojeniu miejscami różowieje. Powyżej blaszek i na trzonie pod blaszkami miąższ ma często szary odcień, a w podstawie trzonu pomarańczowy. Smak przyjemny, zapach lekko grzybowy.
 
-Czarnobrązowy.Zarodnikielipsoidalne, gładkie, o rozmiarach 7–10×5–6µm.Cystydysłabo rozwinięte,podstawkiczterozarodnikowe.
+Czarnobrązowy. Zarodniki elipsoidalne, gładkie, o rozmiarach 7–10 × 5–6 µm. Cystydy słabo rozwinięte, podstawki czterozarodnikowe.
 
-
-## Występowanie i siedlisko
+## Występowanie i siedlisko 
 
 Gatunek rozprzestrzeniony na całej kuli ziemskiej: poza Antarktydą występuje na wszystkich kontynentach, również na wielu wyspach. W Europie Środkowej jest szeroko rozprzestrzeniony i dość częsty, jednakże wskutek zbyt intensywnego nawożenia łąk i pastwisk liczebność tego gatunku w Europie spada.
 
 Owocniki rosną bardzo szybko, po letnich obfitych deszczach czasami wyrastają w ciągu jednego dnia. To właśnie dzięki temu gatunkowi grzyba powstało powiedzenie „rosnąć jak grzyby po deszczu”. Owocniki pojawiają się od maja do października na łąkach, pastwiskach i w rowach przydrożnych, najczęściej na średnio nawożonych miejscach, np. na łąkach, gdzie pasie się bydło, na zaoranym polu uprawnym. Pieczarki te szczególnie preferują łąki i pola nawożone nawozem końskim.
 
+## Znaczenie 
 
-## Znaczenie
+Dobry grzyb jadalny, nieco tylko mniej smaczny od uprawianej pieczarki dwuzarodnikowej (Agaricus bisporus). Pieczarka łąkowa nie jest uprawiana, ze względu na szybkie dojrzewanie owocników i krótki okres przydatności do spożycia. Nadaje się jako dodatek do różnych mięsnych dań oraz do zup. W badaniach laboratoryjnych stwierdzono, że wodne wyciągi z pieczarki łąkowej in vitro zwiększają wydzielanie insuliny, wpływając na metabolizm glukozy w organizmie; mechanizm tego działania nie został jednak wyjaśniony.
 
-Dobrygrzyb jadalny, nieco tylko mniej smaczny od uprawianejpieczarki dwuzarodnikowej(Agaricus bisporus). Pieczarka łąkowa nie jest uprawiana, ze względu na szybkie dojrzewanie owocników i krótki okres przydatności do spożycia. Nadaje się jako dodatek do różnych mięsnych dań oraz dozup. W badaniach laboratoryjnych stwierdzono, że wodnewyciągiz pieczarki łąkowejin vitrozwiększają wydzielanieinsuliny, wpływając nametabolizmglukozy w organizmie; mechanizm tego działania nie został jednak wyjaśniony.
+Wyciągi z owocników pieczarki łąkowej hamują wzrost gronkowca złocistego, pałeczki duru brzusznego. Oczyszczona z domieszek substancja czynna znalazła zastosowanie w lecznictwie.
 
-Wyciągi z owocników pieczarki łąkowej hamują wzrostgronkowca złocistego,pałeczki duru brzusznego. Oczyszczona z domieszek substancja czynna znalazła zastosowanie w lecznictwie.
+Pierwszy raz pieczarka łąkowa, opisana jako polna, znalazła się na znaczku pocztowym wyemitowanym przez Pocztę Polską 8 maja 1959 roku. Ząbkowany znaczek w formie trójkątnej, o nominale 2,50 zł wydany został w serii Grzyby Polski. Wydrukowano 3 091 000 szt., techniką rotograwiury, na papierze niepowlekanym. Autorem projektu znaczka był grafik Czesław Borowczyk. Cała seria pozostawała w obiegu do 31 grudnia 1994 roku.
 
-Pierwszy raz pieczarka łąkowa, opisana jakopolna, znalazła się naznaczku pocztowymwyemitowanym przezPocztę Polską8 maja 1959 roku. Ząbkowany znaczek w formie trójkątnej, o nominale 2,50złwydany został w seriiGrzyby Polski. Wydrukowano3 091 000szt., technikąrotograwiury, na papierze niepowlekanym. Autorem projektu znaczka był grafikCzesław Borowczyk. Cała seria pozostawała w obiegu do 31 grudnia 1994 roku.
+Kolejny znaczek z pieczarką łąkową Poczta Polska wyemitowała 29 sierpnia 2014 r. w serii Grzyby w polskich lasach. Autorem projektu znaczka o nominale 2,35 zł była Marzanna Dąbrowska. Znaczek wydrukowano techniką offsetową, na papierze fluorescencyjnym, w nakładzie 400 000 sztuk.
 
-Kolejny znaczek z pieczarką łąkową Poczta Polska wyemitowała 29 sierpnia 2014 r. w seriiGrzyby w polskich lasach. Autorem projektu znaczka o nominale 2,35złbyłaMarzanna Dąbrowska. Znaczek wydrukowanotechniką offsetową, na papierze fluorescencyjnym, w nakładzie400 000sztuk.
+## Przypisy 
 
-
-## Przypisy
-
----
-latin_name: Agaricus campestris L.
-polish_name: Pieczarka łąkowa
-source: https://pl.wikipedia.org/api/rest_v1/page/html/Pieczarka_łąkowa
----
-
-
-Pieczarka łąkowa(Agaricus campestrisL.) –gatunekgrzybówz rodzinypieczarkowatych(Agaricaceae).
-
-
-## Systematyka i nazewnictwo
-
-Pozycja w klasyfikacji:Agaricus, Agaricaceae, Agaricales, Agaricomycetidae, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi(wedługIndex Fungorum).
-
-Po raz pierwszy gatunek ten opisałKarol Linneuszw 1753 r.Synonimów naukowychma ponad 60. Nazwę pieczarka łąkowa podałWładysław Wojewodaw 1987 r. W polskim piśmiennictwie mykologicznym gatunek ten występuje też pod nazwami bedłka pieczarka, pieczarka inspektowa, pieczarka ogrodowa, pieczarka prawdziwa, pieczarka polna, pieczarka polowa, pieczarka zwyczajna.
-
-
-## Morfologia
-
-Średnica 5–11cm, u młodych okazów zamknięty i niemal kulisty, później półkulisty, na koniec płasko rozpostarty. Brzeg łuskowato spękany, powierzchnia jedwabiście włóknista, na wierzchołku występują rzadkie, przylegające łuseczki o brązowej barwie. Po uciśnięciu zmienia barwę na żółtawą lub brązowawą (starsze okazy). Barwa kapelusza początkowo biała, później szaroochrowa. U dojrzałych grzybów, szczególnie podczas suchej pogody, górna powierzchnia kapelusza pęka i powstają na niej głębokie rowki i poletka. Skórka daje się łatwo ściągnąć z całego kapelusza.
-
-Gęste, przy trzonie wolne. Tylko w bardzo młodych, jeszcze zamkniętych owocnikach są białe, potem stają się różowe i wiekiem coraz ciemniejsze; czekoladowobrązowe, do czarnobrązowych. W starych owocnikach od zarodników stają się fioletowoczarne.
-
-Wysokość 4–8cm, grubość 1–2cm, cylindryczny, pełny, łatwo odłamujący się od kapelusza, z białym błoniastympierścieniemu góry. Powierzchnia gładka, biała, u starszych okazów brunatna. Pierścień jest niezbyt trwały i u starszych okazów zanika. Górna część trzonu często jest różowawa od przeświecającego się miąższu. U starszych grzybów trzon jest ciemniejszy, brązowy lub rdzawobrunatny.
-
-Biały, lub wodnistoróżowy po przekrojeniu miejscami różowieje. Powyżej blaszek i na trzonie pod blaszkami miąższ ma często szary odcień, a w podstawie trzonu pomarańczowy. Smak przyjemny,zapachlekko grzybowy.
-
-Czarnobrązowy.Zarodnikielipsoidalne, gładkie, o rozmiarach 7–10×5–6µm.Cystydysłabo rozwinięte,podstawkiczterozarodnikowe.
-
-
-## Występowanie i siedlisko
-
-Gatunek rozprzestrzeniony na całej kuli ziemskiej: poza Antarktydą występuje na wszystkich kontynentach, również na wielu wyspach. W Europie Środkowej jest szeroko rozprzestrzeniony i dość częsty, jednakże wskutek zbyt intensywnego nawożenia łąk i pastwisk liczebność tego gatunku w Europie spada.
-
-Owocniki rosną bardzo szybko, po letnich obfitych deszczach czasami wyrastają w ciągu jednego dnia. To właśnie dzięki temu gatunkowi grzyba powstało powiedzenie „rosnąć jak grzyby po deszczu”. Owocniki pojawiają się od maja do października na łąkach, pastwiskach i w rowach przydrożnych, najczęściej na średnio nawożonych miejscach, np. na łąkach, gdzie pasie się bydło, na zaoranym polu uprawnym. Pieczarki te szczególnie preferują łąki i pola nawożone nawozem końskim.
-
-
-## Znaczenie
-
-Dobrygrzyb jadalny, nieco tylko mniej smaczny od uprawianejpieczarki dwuzarodnikowej(Agaricus bisporus). Pieczarka łąkowa nie jest uprawiana, ze względu na szybkie dojrzewanie owocników i krótki okres przydatności do spożycia. Nadaje się jako dodatek do różnych mięsnych dań oraz dozup. W badaniach laboratoryjnych stwierdzono, że wodnewyciągiz pieczarki łąkowejin vitrozwiększają wydzielanieinsuliny, wpływając nametabolizmglukozy w organizmie; mechanizm tego działania nie został jednak wyjaśniony.
-
-Wyciągi z owocników pieczarki łąkowej hamują wzrostgronkowca złocistego,pałeczki duru brzusznego. Oczyszczona z domieszek substancja czynna znalazła zastosowanie w lecznictwie.
-
-Pierwszy raz pieczarka łąkowa, opisana jakopolna, znalazła się naznaczku pocztowymwyemitowanym przezPocztę Polską8 maja 1959 roku. Ząbkowany znaczek w formie trójkątnej, o nominale 2,50złwydany został w seriiGrzyby Polski. Wydrukowano3 091 000szt., technikąrotograwiury, na papierze niepowlekanym. Autorem projektu znaczka był grafikCzesław Borowczyk. Cała seria pozostawała w obiegu do 31 grudnia 1994 roku.
-
-Kolejny znaczek z pieczarką łąkową Poczta Polska wyemitowała 29 sierpnia 2014 r. w seriiGrzyby w polskich lasach. Autorem projektu znaczka o nominale 2,35złbyłaMarzanna Dąbrowska. Znaczek wydrukowanotechniką offsetową, na papierze fluorescencyjnym, w nakładzie400 000sztuk.
-
-
-## Przypisy

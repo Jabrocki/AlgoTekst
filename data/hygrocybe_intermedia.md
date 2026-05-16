@@ -3,21 +3,6 @@
 
 ---
 latin_name: Hygrocybe intermedia
-polish_name: Wilgotnica nielepka
-source: https://grzyby.pl/gatunki/Hygrocybe_intermedia.htm
----
-
-# Wilgotnica nielepka
-
-## Występowanie, ekologia
-
-Na terenach trawiastych; na ziemi.
-
-Czerwona Lista [125 ] — E–wymierający - krytycznie zagrożony
-
-
----
-latin_name: Hygrocybe intermedia
 source: https://www.nagrzyby.pl/atlas/1421
 ---
 
@@ -61,3 +46,46 @@ biały
 ## Występowanie
 Podłoże:
 gleba
+
+---
+latin_name: hygrocybe intermedia
+polish_name: Wilgotnica nielepka
+source: https://pl.wikipedia.org/wiki/Wilgotnica_nielepka
+---
+# Wilgotnica nielepka 
+# hygrocybe intermedia 
+
+Wilgotnica nielepka, wilgotnica pośrednia (Hygrocybe intermedia (Pass.) Fayod) – gatunek grzybów z rodziny wodnichowatych (Hygrophoraceae).
+
+## Systematyka i nazewnictwo 
+
+Pozycja w klasyfikacji według Index Fungorum: Hygrocybe, Hygrophoraceae, Agaricales, Agaricomycetidae, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
+
+Po raz pierwszy takson ten zdiagnozował w 1872 r. Giovanni Passerini, nadając mu nazwę Hygrophorus intermedius. Obecną, uznaną przez Index Fungorum nazwę nadał mu w 1871 r. Victor Fayod. Synonimy:
+
+Nazwę polską zaproponował w 2003 r. Władysław Wojewoda, w 1983 r. wraz z Barbarą Gumińską opisywali ten gatunek pod nazwą wilgotnica pośrednia.
+
+## Morfologia 
+
+Średnicy 0,8–2,5 cm, młody – półkulisty, później rozpostarty i na środku zagłębiony, starsze okazy czasami bywają pofalowane. Powierzchnia sucha, matowa i aksamitna, drobnołuseczkowata, zwłaszcza na środku. Brzeg bez prążkowania. Barwa od jasnopomarańczowej do ogniście pomarańczowej.
+
+Szeroko przyrośnięte i zbiegające, rzadkie, z wieloma blaszeczkami, początkowo białawe, potem chromowożółte z pomarańczowym odcieniem. Ostrza jaśniejsze.
+
+Wysokości od 2 do 5 cm, średnicy od 0,2 do 0,4 cm, cylindryczny, czasami spłaszczony, w środku pusty. Powierzchnia gładka, tylko na szczycie czasami oszroniona, barwa pomarańczowoczerwona, w dolnej części żółtopomarańczowa.
+
+W kapeluszu cienki, kruchy, nie czerniejący. Ma łagodny smak bez wyraźnego zapachu.
+
+Biały.
+
+Zarodniki gładkie, elipsoidalne lub pestkowate, ale zmienne pod względem kształtu i wielkości.
+
+Charakterystyczną cechą wilgotnicy nielepkiej jest matowy i nielepki kapelusz. Morfologicznie podobna jest wilgotnica ostrostożkowata (Hygrocybe persistens), ale jest mniejsza i ma lepki kapelusz, zawsze z ostrym garbem. Wilgotnica okazała (Hygrocybe splendisissimus) ma kapelusz czereśniowoczewrwony, miąższ uw górnej części trzonu czerwonawy, a u podstawy żółtawy.
+
+## Występowanie i siedlisko 
+
+Wilgotnica nielepka występuje w Europie i jest tutaj szeroko rozprzestrzeniona. W piśmiennictwie naukowym na terenie Polski do 2003 r. podano 6 stanowisk. Jest rzadka. Znajduje się na Czerwonej liście roślin i grzybów Polski. Ma status E – gatunek wymierający. Znajduje się na listach gatunków zagrożonych także w Szwajcarii, Niemczech, Danii, Holandii, Norwegii, Szwecji.
+
+Rozwija się w trawie i mchach na wilgotnych łąkach i torfowiskach, także na górskich pastwiskach, obrzeżach dróg, w parkach i zaroślach. Owocniki pojawiają się od lipca do października.
+
+## Przypisy 
+

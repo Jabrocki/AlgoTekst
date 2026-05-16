@@ -1,14 +1,5 @@
 #athalia_holocarpa
-#no_sources: 2
-
----
-latin_name: Athalia holocarpa
-polish_name: Bezpleszek obojętny
-source: https://grzyby.pl/gatunki/Athalia_holocarpa.htm
----
-
-# Bezpleszek obojętny
-
+#no_sources: 1
 
 ---
 latin_name: Athallia holocarpa

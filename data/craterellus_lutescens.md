@@ -1,5 +1,5 @@
 #craterellus_lutescens
-#no_sources: 4
+#no_sources: 3
 
 ---
 latin_name: Craterellus lutescens
@@ -36,37 +36,6 @@ Pieprznik żyłkowany jest niezły w smaku grzyb jadalny , ceniony za brak „ro
 
 ## Zastosowanie
 Jak u pozostałych, jadalnych pieprznikowatych. Z pieprznika żyłkowanego uzyskuje się selektywne inhibitory trombiny, potencjalnie nadające się do produkcji leków przeciwzakrzepowych.
-
-
----
-latin_name: Craterellus lutescens
-polish_name: Lejkowiec brzoskwiniowonny
-source: https://grzyby.pl/gatunki/Cantharellus_aurora.htm
----
-
-# Lejkowiec brzoskwiniowonny
-
-## Opis
-
-**Kapelusz** szarobrązowy, z rdzawymi, pomarańczowymi i ochrowymi rozjaśnieniami z wiekiem; 15-60 mm średnicy, początkow wypukły, szybko z zagłębionym lejkowato centrum kapelusza, także trąbkowaty; powierzchnia początkowo z drobnymi łuseczkami, z wiekiem naga; brzeg początkowo podwinięty, z wiekiem pofalowany. **Trzon** żółtawy do żółtopomarańczowego , zwłaszcza w dolnej połowie; 15-70 x 5-10, równogruby lub w dolnej i górnej części rozszerzony, często bocznie spłaszczony, z podłużnymi bruzdami.
-
-## Zarodniki
-
-Zarodniki szeroko-owalne do szerokoelipsoidalnych, gładkie, przejrzyste, 9-11 x 6.5-8 µm.
-
-## Występowanie
-
-Nieczęsto. W lasach iglastych, mieszanych i liściastych; na ziemi; sierpień-wrzesień.
-
-Czerwona Lista [125 ] — V–narażony na wymarcie
-
-## Jadalne czy trujące? 🟢
-
-Jadalny.
-
-## Uwagi
-
-Bardzo podobny do stosunkowo częstego lejkowca trąbkowego ( Craterellus tubaeformis ) , który ma wyraźnie żyłkowany, szaro, szarożółtawo zabarwiony hymenofor.
 
 
 ---
@@ -148,47 +117,44 @@ Zapach:
 owocowy
 
 ---
-latin_name: Craterellus lutescens (Fr.
+latin_name: craterellus lutescens
 polish_name: Lejkowiec brzoskwiniowonny
-source: https://pl.wikipedia.org/api/rest_v1/page/html/Pieprznik_żyłkowany
+source: https://pl.wikipedia.org/wiki/Lejkowiec_brzoskwiniowonny
 ---
+# Lejkowiec brzoskwiniowonny 
+# craterellus lutescens 
 
+Lejkowiec brzoskwiniowonny (Craterellus lutescens (Fr.) Fr.) – gatunek grzybów z rodziny kolczakowatych (Hydnaceae).
 
-Lejkowiec brzoskwiniowonny(Craterellus lutescens(Fr.) Fr.) –gatunekgrzybów z rodzinykolczakowatych(Hydnaceae).
+## Systematyka i nazewnictwo 
 
+Pozycja w klasyfikacji według Index Fungorum: Craterellus, Hydnaceae, Cantharellales, Incertae sedis, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
 
-## Systematyka i nazewnictwo
+Po raz pierwszy takson ten opisał w 1821 r. Elias Fries, nadając mu nazwę Canthrellus lutescens, w 1838 r. ten sam autor przeniósł go do rodzaju Craterellus. Synonimów naukowych ma ok. 30. Niektóre z nich:
 
-Pozycja w klasyfikacji wedługIndex Fungorum:Craterellus, Hydnaceae, Cantharellales, Incertae sedis, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
+W polskim piśmiennictwie mykologicznym gatunek ten opisywany był również jako pieprznik żółtawy oraz pieprznik żyłkowany. Nazwy te stały się niespójne z nazwą naukową po przeniesieniu do rodzaju Craterellus (lejkowiec). Polską nazwę zaktualizowała Komisja ds. Polskiego Nazewnictwa Grzybów Polskiego Towarzystwa Mykologicznego w 2025 r.
 
-Po raz pierwszytaksonten opisał w 1821 r.Elias Fries, nadając mu nazwęCanthrellus lutescens, w 1838 r. ten sam autor przeniósł go do rodzajuCraterellus.Synonimów naukowychma ok. 30. Niektóre z nich:
+## Morfologia 
 
-W polskim piśmiennictwie mykologicznym gatunek ten opisywany był również jako pieprznik żółtawy oraz pieprznik żyłkowany. Nazwy te stały się niespójne z nazwą naukową po przeniesieniu do rodzajuCraterellus(lejkowiec). Polską nazwę zaktualizowała Komisja ds. Polskiego Nazewnictwa GrzybówPolskiego Towarzystwa Mykologicznegow 2025 r.
+Średnica 2–8 cm, głęboko lejkowaty, o brzegach płatowatych, postrzępionych. Powierzchnia młodych okazów z wrośniętymi promieniście włókienkami lub łuskami, później naga. Kolor od chrowobrązowego do ciemnobrązowego.
 
+U młodych owocników nagi, później pomarszczony, dopiero u starszych owocników pojawiają się rzadko rozmieszczone i zbiegające na trzon żyłki połączone (anastomozami). Kolor żółtopomarańczowy lub złotosiwy, nigdy jednak nie jest czarnosiwy.
 
-## Morfologia
-
-Średnica 2–8cm, głęboko lejkowaty, o brzegach płatowatych, postrzępionych. Powierzchnia młodych okazów z wrośniętymi promieniście włókienkami lub łuskami, później naga. Kolor od chrowobrązowego do ciemnobrązowego.
-
-U młodychowocnikównagi, później pomarszczony, dopiero u starszych owocników pojawiają się rzadko rozmieszczone i zbiegające na trzon żyłki połączone (anastomozami). Kolor żółtopomarańczowy lub złotosiwy, nigdy jednak nie jest czarnosiwy.
-
-Wysokość 5–8cm, grubość 0,4–1,5cm. Jest nieregularnie walcowaty i wyraźnie pusty, czasami spłaszczony, od dołu ku górze rozszerza się, w górnej części dość płynnie przechodząc w kapelusz.
+Wysokość 5–8 cm, grubość 0,4–1,5 cm. Jest nieregularnie walcowaty i wyraźnie pusty, czasami spłaszczony, od dołu ku górze rozszerza się, w górnej części dość płynnie przechodząc w kapelusz.
 
 Białawy, cienki o przyjemnym smaku i owocowym zapachu.
 
-Biały lub jasnożółty.Zarodnikieliptyczne, gładkie, o średnicy 11–9 × 6–7,5µm.
+Biały lub jasnożółty. Zarodniki eliptyczne, gładkie, o średnicy 11–9 × 6–7,5 µm.
 
+## Występowanie i siedlisko 
 
-## Występowanie i siedlisko
+Występuje w Ameryce Północnej i Europie. W Polsce gatunek rzadki. Znajduje się na Czerwonej liście roślin i grzybów Polski. Ma status R – potencjalnie zagrożony z powodu ograniczonego zasięgu geograficznego i małych obszarów siedliskowych.
 
-Występuje w Ameryce Północnej i Europie. W Polsce gatunek rzadki. Znajduje się naCzerwonej liście roślin i grzybów Polski. Ma status R – potencjalnie zagrożony z powodu ograniczonego zasięgu geograficznego i małych obszarów siedliskowych.
+Grzyb naziemny rosnący w lasach, szczególnie podgórskich i górskich. Lubi wilgotne i cieniste miejsca nad potokami i w mchach
 
-Grzyb naziemnyrosnący w lasach, szczególnie podgórskich i górskich. Lubi wilgotne i cieniste miejsca nad potokami i w mchach
+## Znaczenie 
 
+Grzyb jadalny, żyjący w mykoryzie z niektórymi gatunkami drzew.
 
-## Znaczenie
+## Przypisy 
 
-Grzyb jadalny, żyjący wmykoryziez niektórymi gatunkami drzew.
-
-
-## Przypisy

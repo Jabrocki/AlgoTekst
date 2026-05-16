@@ -1,14 +1,5 @@
 #physconia_perisidiosa
-#no_sources: 2
-
----
-latin_name: Physconia perisidiosa
-polish_name: Soreniec dachówkowaty
-source: https://grzyby.pl/gatunki/Physconia_perisidiosa.htm
----
-
-# Soreniec dachówkowaty
-
+#no_sources: 1
 
 ---
 latin_name: Physconia perisidiosa

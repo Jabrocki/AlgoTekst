@@ -1,5 +1,5 @@
 #hygrophorus_gliocyclus
-#no_sources: 4
+#no_sources: 3
 
 ---
 latin_name: Hygrophorus gliocyclus
@@ -36,29 +36,6 @@ Wodnicha grubopierścieniowa jest jadalna, aczkolwiek niemiła (oślizgła) w do
 
 ## Zastosowanie
 Wodnichę grubopierścieniową uznaje się za gatunek jadalny, choć mało smaczny. Grzybiarzy odstręcza od niej przede wszystkim śluz . Przed przyrządzaniem należy się go całkiem pozbyć, co bywa niełatwe. Kolejnym ważnym powodem by jej nie zbierać jest jej rzadkość.
-
-
----
-latin_name: Hygrophorus gliocyclus
-polish_name: Wodnicha grubopierścieniowa
-source: https://grzyby.pl/gatunki/Hygrophorus_gliocyclus.htm
----
-
-# Wodnicha grubopierścieniowa
-
-## Owocnik
-
-**Kapelusz** **Trzon**
-
-## Zarodniki
-
-Wysyp zarodników
-
-## Występowanie
-
-Pod drzewami iglastymi, najczęściej pod sosnami; na ziemi; sierpień-październik.
-
-Czerwona Lista [125 ] — V–narażony na wymarcie
 
 
 ---
@@ -112,23 +89,22 @@ Sposób odżywiania:
 symbiont(mikoryza)
 
 ---
-latin_name: Hygrophorus gliocyclus Fr.
+latin_name: hygrophorus gliocyclus
 polish_name: Wodnicha grubopierścieniowa
-source: https://pl.wikipedia.org/api/rest_v1/page/html/Wodnicha_grubopierścieniowa
+source: https://pl.wikipedia.org/wiki/Wodnicha_grubopierścieniowa
 ---
+# Wodnicha grubopierścieniowa 
+# hygrophorus gliocyclus 
 
+Wodnicha grubopierścieniowa (Hygrophorus gliocyclus Fr.) – gatunek grzybów z rodziny wodnichowatych (Hygrophoraceae).
 
-Wodnicha grubopierścieniowa(Hygrophorus gliocyclusFr.) –gatunekgrzybów z rodzinywodnichowatych(Hygrophoraceae).
+## Systematyka i nazewnictwo 
 
+Pozycja w klasyfikacji według Index Fungorum: Hygrophoraceae, Agaricales, Agaricomycetidae, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
 
-## Systematyka i nazewnictwo
+Po raz pierwszy opisał go Elias Fries w 1861 r. Synonim Limacium gliocyclum (Fr.) Ricken 1910. Nazwę polską podała Barbara Gumińska w 1997 r.
 
-Pozycja w klasyfikacji wedługIndex Fungorum:Hygrophoraceae, Agaricales, Agaricomycetidae, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
-
-Po raz pierwszy opisał goElias Friesw 1861 r.SynonimLimacium gliocyclum(Fr.) Ricken 1910. Nazwę polską podałaBarbara Gumińskaw 1997 r.
-
-
-## Morfologia
+## Morfologia 
 
 Średnica od 3 do 10 cm, młody – nisko wypukły, później płasko rozpostarty, z szerokim tępym garbkiem, brzeg podwinięty i nieprążkowany, u starszych okazów prosty i pofałdowany. Powierzchnia gładka, w wilgotnych warunkach bardzo śliska, w czasie suszy lepka, kremowobiaława, żółtawoochrowa, pośrodku ciemniejsza.
 
@@ -136,23 +112,21 @@ Szerokie, rzadkie, zbiegające po trzonie, białawe, bladokremowe lub żółtawe
 
 Wysokość od 4 do 12 cm, średnica od 1 do 2 cm, pełny, masywny, zwężający się ku podstawie. Jest bardzo oślizgły, w górnej części posiada śluzowatą strefę pierścieniową, która jednak podczas suszy u starszych owocników zanika. Powierzchnia gładka, biaława lub kremowosłomkowa.
 
-Miękki, białawy, pod skórkąkapeluszażółtawy. Smak i zapach niewyraźne.
+Miękki, białawy, pod skórką kapelusza żółtawy. Smak i zapach niewyraźne.
 
-Biały.Zarodnikielipsoidalne, gładkie, wewnątrz ziarniste.
+Biały. Zarodniki elipsoidalne, gładkie, wewnątrz ziarniste.
 
-Minimalna możliwość pomyłki. Wystarczająco charakteryzuje ją oślizgłykapelusz, trzon i pierścieniowata obrączka na trzonie. Z białych, oślizgłychwodnichnajbardziej podobna do niej jestwodnicha biała(Hygrophorus eburneus), która jednak nie ma śluzowatego pierścienia i rośnie wlasach bukowych.
+Minimalna możliwość pomyłki. Wystarczająco charakteryzuje ją oślizgły kapelusz, trzon i pierścieniowata obrączka na trzonie. Z białych, oślizgłych wodnich najbardziej podobna do niej jest wodnicha biała (Hygrophorus eburneus), która jednak nie ma śluzowatego pierścienia i rośnie w lasach bukowych.
 
+## Występowanie i siedlisko 
 
-## Występowanie i siedlisko
+Opisano występowanie wodnichy grubopierścieniowej w wielu krajach Europy oraz w zachodniej części Ameryki Północnej. W Polsce gatunek rzadki. Znajduje się na Czerwonej liście roślin i grzybów Polski. Ma status V – gatunek narażony, który zapewne w najbliższej przyszłości przesunie się do kategorii wymierających, jeśli nadal będą działać czynniki zagrożenia Znajduje się na listach gatunków zagrożonych także w Norwegii, Szwecji, Finlandii i Niemczech.
 
-Opisano występowanie wodnichy grubopierścieniowej w wielu krajach Europy oraz w zachodniej części Ameryki Północnej. W Polsce gatunek rzadki. Znajduje się naCzerwonej liście roślin i grzybów Polski. Ma status V – gatunek narażony, który zapewne w najbliższej przyszłości przesunie się do kategorii wymierających, jeśli nadal będą działać czynniki zagrożeniaZnajduje się na listach gatunków zagrożonych także w Norwegii, Szwecji, Finlandii i Niemczech.
+Naziemny grzyb mykoryzowy. Pojawia się od września do listopada w lasach sosnowych, rzadziej w lasach bukowych. Owocniki przeważnie występują w niewielkich grupkach.
 
-Naziemnygrzyb mykoryzowy. Pojawia się od września do listopada w lasach sosnowych, rzadziej w lasach bukowych. Owocniki przeważnie występują w niewielkich grupkach.
+## Znaczenie 
 
+Grzyb jadalny, przed użyciem należy go pozbawić śluzu.
 
-## Znaczenie
+## Przypisy 
 
-Grzyb jadalny, przed użyciem należy go pozbawićśluzu.
-
-
-## Przypisy
