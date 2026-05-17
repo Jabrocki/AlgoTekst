@@ -5,7 +5,9 @@ Uruchom:
     python rag_chat.py
 Wymagania:
     1. Ollama uruchomiona w tle (instalator z https://ollama.com).
-    2. Pobrany model:  ollama pull gemma3:4b
+    2. Pobranie modeli:  
+       ollama pull gemma3:4b
+       ollama pull nomic-embed-text
     3. pip install -r requirements.txt
 """
 
@@ -21,7 +23,7 @@ DB_URL = os.getenv(
     "postgresql://postgres.vhwxrmwtekxelbarhcgl:grzyby12345!!!"
     "@aws-0-eu-west-1.pooler.supabase.com:6543/postgres",
 )
-EMBED_MODEL_NAME = "paraphrase-multilingual-mpnet-base-v2"
+EMBED_MODEL_NAME = "nomic-embed-text"
 LLM_MODEL = os.getenv("OLLAMA_MODEL", "gemma3:4b")  # zmień na gemma3:1b jeżeli mało RAM
 TOP_K = 4               # ile fragmentów wciągamy do kontekstu
 MAX_CTX_CHARS = 2500    # przycinanie pojedynczego opisu, by nie zalać promptu
@@ -34,14 +36,13 @@ SYSTEM_PROMPT = (
     "Nigdy nie zachęcaj do spożywania grzybów bez weryfikacji u eksperta."
 )
 
-# --- Lazy init ------------------------------------------------------------
-print(f"[init] Ładowanie embeddera ({EMBED_MODEL_NAME})...")
-embedder = SentenceTransformer(EMBED_MODEL_NAME)
 
 
 # --- Retrieval ------------------------------------------------------------
 def retrieve(question: str, k: int = TOP_K):
-    vec = embedder.encode(question).tolist()
+    response = ollama.embeddings(model=EMBED_MODEL_NAME, prompt=question)
+    vec = response['embedding']
+    
     sql = """
         SELECT name, description,
                1 - (embedding <=> %s::vector) AS similarity
@@ -51,7 +52,8 @@ def retrieve(question: str, k: int = TOP_K):
     """
     with psycopg2.connect(DB_URL) as conn:
         with conn.cursor() as cur:
-            cur.execute(sql, (str(vec), str(vec), k))
+            vec_str = str(vec)
+            cur.execute(sql, (vec_str, vec_str, k))
             return cur.fetchall()  # [(name, description, similarity), ...]
 
 
