@@ -1,5 +1,5 @@
 #auricularia_nigricans
-#no_sources: 3
+#no_sources: 2
 
 ---
 latin_name: Auricularia nigricans synonymum Hirneola nigricans
@@ -39,60 +39,36 @@ Uszak gęstowłosy to wysoko ceniony grzyb jadalny i leczniczy, dopuszczony do o
 
 
 ---
-latin_name: Auricularia nigricans
+latin_name: auricularia nigricans
 polish_name: Uszak gęstowłosy
-source: https://grzyby.pl/gatunki/Auricularia_polytricha.htm
+source: https://pl.wikipedia.org/wiki/Uszak_gęstowłosy
 ---
+# Uszak gęstowłosy 
+# auricularia nigricans 
 
-# Uszak gęstowłosy
+Uszak gęstowłosy (Auricularia nigricans (Sw.) Birkebak, Looney & Sánchez-García) – gatunek grzybów z rodziny uszakowatych (Auriculariaceae). Rośnie w strefie tropikalnej, spokrewniony z rodzimym uszakiem bzowym (Auricularia auricula-judae).
 
-## Opis
+## Systematyka i nazewnictwo 
 
-Tropikalny gatunek bliski rodzimemu uszakowi bzowemu ( Auricularia auricula-judae ) . Owocniki są nieco większe. Ich zewnętrzna powierzchnia jest pokryta, dwa razy dłuższymi włoskami, długości do 450 µm. Wysuszone owocniki po zewnętrznej stronie ciemnobrązowe do czarnych, matowe, po wewnętrznej szarobrązowe.
+Pozycja w klasyfikacji według Index Fungorum: Auricularia, Auriculariaceae, Auriculariales, Auriculariomycetidae, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
 
-## Występowanie
-
-Grzyb nadrzewny, występuje w strefie tropikalnej na całym świecie.
-
-## Jadalne czy trujące? 🟢
-
-Grzyb jadalny. Dopuszczony do obrotu handlowego i przetwórstwa na terenie Polski. Jest uprawiany na drewnie, w krajach Dalekiego Wschodu.
-
-
----
-latin_name: Auricularia nigricans (Sw.
-polish_name: Uszak gęstowłosy
-source: https://pl.wikipedia.org/api/rest_v1/page/html/Uszak_gęstowłosy
----
-
-
-Uszak gęstowłosy(Auricularia nigricans(Sw.) Birkebak, Looney & Sánchez-García) –gatunekgrzybówzrodzinyuszakowatych(Auriculariaceae). Rośnie w strefie tropikalnej, spokrewniony z rodzimymuszakiem bzowym(Auricularia auricula-judae).
-
-
-## Systematyka i nazewnictwo
-
-Pozycja w klasyfikacji wedługIndex Fungorum:Auricularia, Auriculariaceae, Auriculariales, Auriculariomycetidae, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
-
-Po raz pierwszytaksonten zdiagnozował w 1806 r.Olof Peter Swartz, nadając mu nazwęPeziza nigricans. Obecną, uznaną przez Index Fungorum nazwę nadali mu w 2013 r. Birkebak, Looney & Sánchez-García. Niektóresynonimy:
+Po raz pierwszy takson ten zdiagnozował w 1806 r. Olof Peter Swartz, nadając mu nazwę Peziza nigricans. Obecną, uznaną przez Index Fungorum nazwę nadali mu w 2013 r. Birkebak, Looney & Sánchez-García. Niektóre synonimy:
 
 Popularnie znany jako uszak judaszowy albo grzyb Mun.
 
+## Morfologia 
 
-## Morfologia
+Gatunek podobny do rodzimego uszaka bzowego, jednak o nieco większych owocnikach i zewnętrznej powierzchni pokrytej dwa razy dłuższymi włoskami (do 0,5 mm). Wysuszone owocniki po zewnętrznej stronie ciemnobrązowe do czarnych, matowe, po wewnętrznej szarobrązowe.
 
-Gatunek podobny do rodzimegouszaka bzowego, jednak o nieco większychowocnikachi zewnętrznej powierzchni pokrytej dwa razy dłuższymi włoskami (do 0,5 mm). Wysuszone owocniki po zewnętrznej stronie ciemnobrązowe do czarnych, matowe, po wewnętrznej szarobrązowe.
-
-
-## Występowanie i siedlisko
+## Występowanie i siedlisko 
 
 Grzyb występuje w strefie tropikalnej na całym świecie. Rośnie głównie na osłabionych lub martwych drzewach w lasach, zaroślach, parkach, ogrodach. W warunkach naturalnych występuje głównie na pniach czarnego bzu, ale też na akacji i innych drzewach zazwyczaj liściastych, praktycznie nie występuje na iglastych. Jest również uprawiany przez człowieka.
 
+## Znaczenie 
 
-## Znaczenie
-
-Grzyb jadalny, obecny w kuchniach wielu narodów azjatyckich, szczególniechińskiejijapońskiejoraz wmedycynie chińskiej, w której uważany jest zagrzyb leczniczy. Przypisuje mu się szereg właściwości leczniczych, m.in. w leczeniuchorób układu oddechowego.
+Grzyb jadalny, obecny w kuchniach wielu narodów azjatyckich, szczególnie chińskiej i japońskiej oraz w medycynie chińskiej, w której uważany jest za grzyb leczniczy. Przypisuje mu się szereg właściwości leczniczych, m.in. w leczeniu chorób układu oddechowego.
 
 Grzyb uprawny. W krajach Dalekiego Wschodu uprawia się go na drewnie, jest też sprowadzany do Europy, w tym do Polski i serwowany w restauracjach kuchni azjatyckiej. Dopuszczony jest do obrotu handlowego i przetwórstwa na terenie Polski.
 
+## Przypisy 
 
-## Przypisy

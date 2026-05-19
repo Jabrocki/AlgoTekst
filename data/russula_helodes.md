@@ -1,22 +1,5 @@
 #russula_helodes
-#no_sources: 2
-
----
-latin_name: Russula helodes
-polish_name: Gołąbek bagienny
-source: https://grzyby.pl/gatunki/Russula_helodes.htm
----
-
-# Gołąbek bagienny
-
-## Opis
-
-**Kapelusz** **Trzon**
-
-## Zarodniki
-
-Wysyp zarodników
-
+#no_sources: 1
 
 ---
 latin_name: Russula helodes

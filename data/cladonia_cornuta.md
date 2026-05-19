@@ -1,14 +1,5 @@
 #cladonia_cornuta
-#no_sources: 2
-
----
-latin_name: Cladonia cornuta
-polish_name: Chrobotek rożkowaty
-source: https://grzyby.pl/gatunki/Cladonia_cornuta.htm
----
-
-# Chrobotek rożkowaty
-
+#no_sources: 1
 
 ---
 latin_name: Cladonia cornuta

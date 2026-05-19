@@ -1,5 +1,5 @@
 #lactarius_uvidus
-#no_sources: 4
+#no_sources: 3
 
 ---
 latin_name: Lactarius uvidus
@@ -38,35 +38,6 @@ Mleczaj lepki jest grzybem niejadalnym ze względu na swój ohydny, gorzki smak.
 
 ## Zastosowanie
 Mleczaj lepki jako grzyb niejadalny, pozbawiony własności leczniczych, a zarazem godny ochrony gatunków z racji swego wymierania w skali całej Europy , nie znajduje obecnie zastosowań.
-
-
----
-latin_name: Lactarius uvidus
-polish_name: Mleczaj lepki
-source: https://grzyby.pl/gatunki/Lactarius_uvidus.htm
----
-
-# Mleczaj lepki
-
-## Owocnik
-
-**Kapelusz** silnie śluzowaty, gładki, nie strefowany lub nieznacznie; młody brudno szarolila z wiekiem szarobrunatny z liliowym odcieniem; młody wypukły z podwiniętym brzegiem, szybko staje się płaski do prawie lejkowatego; do 30-80(100) mm średnicy. **Trzon** szarofioletowy, białawy, w miejscach uszkodzonych barwi się fioletowo; oślizgły, dość długi, 50-80(120) x 5-20 mm; gładki, z wiekiem gąbczasty do pustego. **Mleczko** obfite, mlecznobiałe szybko na powietrzu przebarwiające się fioletowo, początkowo łagodne, potem gorzkie w smaku.
-
-## Zarodniki
-
-Wysyp zarodników biały (żółtawy). Zarodniki z brodaweczkami które mogą łączyć się w siateczkę, 8.5-12 x 6.5-9 µm.
-
-## Występowanie
-
-Dość częsty. Wyrasta w miejscach bagnistych w lasach szpilkowych i liściastych, na torfowiskach.
-
-## Jadalne czy trujące? 🟡
-
-Niejadalny z powodu gorzkiego smaku.
-
-## Gatunki podobne
-
-Mleczaj fiołkowy ( Lactarius violascens ) ma powierzchnię słabo śluzowata z wyraźnym brunatnym strefowaniem.
 
 
 ---
@@ -152,51 +123,48 @@ Zapach:
 brak/nieokreślony
 
 ---
-latin_name: Lactarius uvidus (Fr.
+latin_name: lactarius uvidus
 polish_name: Mleczaj lepki
-source: https://pl.wikipedia.org/api/rest_v1/page/html/Mleczaj_lepki
+source: https://pl.wikipedia.org/wiki/Mleczaj_lepki
 ---
+# Mleczaj lepki 
+# lactarius uvidus 
 
+Mleczaj lepki (Lactarius uvidus (Fr.) Fr.) – gatunek grzybów należący do rodziny gołąbkowatych (Russulaceae).
 
-Mleczaj lepki(Lactarius uvidus(Fr.) Fr.) –gatunekgrzybównależący dorodzinygołąbkowatych(Russulaceae).
+## Systematyka i nazewnictwo 
 
+Pozycja w klasyfikacji według Index Fungorum: Lactarius, Russulaceae, Russulales, Incertae sedis, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
 
-## Systematyka i nazewnictwo
+Gatunek ten został zdiagnozowany taksonomicznie po raz pierwszy przez Eliasa Friesa w drugim tomie „Observationes mycologicae” z 1815 r. (jako Agaricus uvidus). Do rodzaju Lactarius został przeniesiony przez tego samego autora w „Epicrisis systematis mycologici” z 1838 r. Niektóre synonimy naukowe:
 
-Pozycja w klasyfikacji wedługIndex Fungorum:Lactarius, Russulaceae, Russulales, Incertae sedis, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
+Nazwę polską podał Franciszek Błoński w 1898 r.
 
-Gatunek ten został zdiagnozowany taksonomicznie po raz pierwszy przezEliasa Friesaw drugim tomie„Observationes mycologicae”z 1815 r. (jakoAgaricus uvidus). Do rodzajuLactariuszostał przeniesiony przez tego samego autora w„Epicrisis systematis mycologici”z1838r.Niektóresynonimy naukowe:
+## Morfologia 
 
-Nazwę polską podałFranciszek Błońskiw 1898 r.
-
-
-## Morfologia
-
-Średnicy 2–8cm, zabarwiony cielistobrązowawo lub szarobrązowawo, niestrefowany, po ugnieceniu fioletowiejący, u dojrzałych owocników blaknący. Pokryty śluzowatą podczas deszczu skórką. Za młodu jest wypukły, później płaski, na koniec wklęsły. Zawsze występują liliowe odcienie.
+Średnicy 2–8 cm, zabarwiony cielistobrązowawo lub szarobrązowawo, niestrefowany, po ugnieceniu fioletowiejący, u dojrzałych owocników blaknący. Pokryty śluzowatą podczas deszczu skórką. Za młodu jest wypukły, później płaski, na koniec wklęsły. Zawsze występują liliowe odcienie.
 
 Cienkie, nieco zbiegające lub przyrośnięte przy trzonie. Kolor białawy, po skaleczeniu wybarwiają się fioletowo.
 
-Wysokość 5–8cm, grubość 0,5–1,5cm, w środku gąbczasty, a u starszych okazów pusty. Białawy, częściowo ochrowo-plamisty, przy dużejwilgotności powietrzanieco lepki.
+Wysokość 5–8 cm, grubość 0,5–1,5 cm, w środku gąbczasty, a u starszych okazów pusty. Białawy, częściowo ochrowo-plamisty, przy dużej wilgotności powietrza nieco lepki.
 
-Zbudowany jest z kulistawych komórek powodujących ich specyficzną kruchość i nieregularny przełam. Smak łagodny, po chwili gorzki. Wydziela białemleczko, szybko wybarwiające się ametystowo na powietrzu.
+Zbudowany jest z kulistawych komórek powodujących ich specyficzną kruchość i nieregularny przełam. Smak łagodny, po chwili gorzki. Wydziela białe mleczko, szybko wybarwiające się ametystowo na powietrzu.
 
 Biały
 
-Zarodnikielipsoidalne, o wymiarach 9–11 × 7,5–9 μm, bezpory rostkowej, pokryte drobnymi brodawkami połączonymi listewkami tworzącymi siateczkowaty wzór,amyloidalne.
+Zarodniki elipsoidalne, o wymiarach 9–11 × 7,5–9 μm, bez pory rostkowej, pokryte drobnymi brodawkami połączonymi listewkami tworzącymi siateczkowaty wzór, amyloidalne.
 
 Charakterystycznymi cechami mleczaja lepkiego są: występowanie w wilgotnych miejscach, lepki i mięsistoliliowy kapelusz z brązowawym odcieniem, niemal zupełny brak prążków na kapeluszu oraz przebarwiające się na ametystowo mleczko blaszek. Podobne są:
 
-
-## Występowanie i siedlisko
+## Występowanie i siedlisko 
 
 Jest szeroko rozprzestrzeniony w Europie, Azji i Ameryce Północnej. W Polsce nie jest rzadki; w piśmiennictwie mykologicznym opisano liczne jego stanowiska.
 
-Naziemnygrzyb mykoryzowy. Rozwija się w glebie wlasach iglastychi liściastych, często pod brzozami, bukami, dębami, lipami. Wytwarza owocniki od sierpnia do października. Zazwyczaj występuje gromadnie. Preferuje miejsca wilgotne.
+Naziemny grzyb mykoryzowy. Rozwija się w glebie w lasach iglastych i liściastych, często pod brzozami, bukami, dębami, lipami. Wytwarza owocniki od sierpnia do października. Zazwyczaj występuje gromadnie. Preferuje miejsca wilgotne.
 
+## Znaczenie 
 
-## Znaczenie
+Grzyb niejadalny. W Rosji i na Ukrainie uważany jest jednak za grzyb jadalny.
 
-Grzyb niejadalny. WRosjii naUkrainieuważany jest jednak za grzyb jadalny.
+## Przypisy 
 
-
-## Przypisy

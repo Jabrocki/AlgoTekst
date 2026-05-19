@@ -35,25 +35,24 @@ Bardzo ciekawy komentarz o podblaszkach. Czytając proszę zwrócić uwagę na t
 
 
 ---
-latin_name: Leucocybe connata (Schumach.
-polish_name: Kredolejkówka zrosła, kępkowiec białawy
-source: https://pl.wikipedia.org/api/rest_v1/page/html/Kredolejkówka_zrosła
+latin_name: leucocybe connata
+polish_name: Kredolejkówka zrosła
+source: https://pl.wikipedia.org/wiki/Kredolejkówka_zrosła
 ---
+# Kredolejkówka zrosła 
+# leucocybe connata 
 
+Kredolejkówka zrosła, kępkowiec białawy (Leucocybe connata (Schumach.) Vizzini, P. Alvarado, G. Moreno & Consiglio) – gatunek grzybów należący do rzędu pieczarkowców (Agaricales).
 
-Kredolejkówka zrosła, kępkowiec białawy (Leucocybe connata(Schumach.) Vizzini, P. Alvarado, G. Moreno & Consiglio) –gatunekgrzybów należący do rzędupieczarkowców(Agaricales).
+## Systematyka i nazewnictwo 
 
+Pozycja w klasyfikacji według Index Fungorum: Leucocybe, Incertae sedis, Agaricales, Agaricomycetidae, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
 
-## Systematyka i nazewnictwo
+Po raz pierwszy takson ten zdiagnozował w 1803 r. Heinrich Christian Friedrich Schumacher, nadając mu nazwę Agaricus connatus. Później zaliczany był do różnych rodzajów. W 2015 r. Alfredo Vizzini, P. Alvarado, G. Moreno i Consiglio przenieśli go do rodzaju Leucocybe. Niektóre synonimy naukowe:
 
-Pozycja w klasyfikacji wedługIndex Fungorum:Leucocybe, Incertae sedis, Agaricales, Agaricomycetidae, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
+W polskim piśmiennictwie mykologicznym gatunek ten miał polską nazwę podblaszek zrosły. W 2003 r. Władysław Wojewoda nadał mu nazwę kępkowiec białawy. Obydwie nazwy stały się niespójne z aktualną nazwą naukową. W 2025 r. Komisja ds. Polskiego Nazewnictwa Grzybów przy Polskim Towarzystwie Mykologicznym zarekomendowała nazwę kredolejkówka zrosła.
 
-Po raz pierwszytaksonten zdiagnozował w 1803 r.Heinrich Christian Friedrich Schumacher, nadając mu nazwęAgaricus connatus. Później zaliczany był do różnych rodzajów. W 2015 r. Alfredo Vizzini, P. Alvarado, G. Moreno i Consiglio przenieśli go do rodzajuLeucocybe. Niektóresynonimy naukowe:
-
-W polskim piśmiennictwie mykologicznym gatunek ten miałpolską nazwępodblaszek zrosły. W 2003 r.Władysław Wojewodanadał mu nazwę kępkowiec białawy. Obydwie nazwy stały się niespójne z aktualną nazwą naukową. W 2025 r. Komisja ds. Polskiego Nazewnictwa Grzybów przyPolskim Towarzystwie Mykologicznymzarekomendowała nazwę kredolejkówka zrosła.
-
-
-## Morfologia
+## Morfologia 
 
 Zazwyczaj owocniki wyrastają kępkami, a ich trzony zrośnięte są u nasady. Czasami zrastają się także kapelusze.
 
@@ -65,21 +64,19 @@ Wysokość 4–12 cm, grubość do 2 cm, cylindryczny ze zwężoną podstawą, z
 
 Biały, nie zmieniający zabarwienia po przekrojeniu, jędrny, elastyczny. Smak nieznaczny, zapach niewyraźny.
 
-Biały.Zarodnikigładkie, elipsoidalne, o rozmiarach 6–7 × 3,5–4 μm.
+Biały. Zarodniki gładkie, elipsoidalne, o rozmiarach 6–7 × 3,5–4 μm.
 
-Kredolejkówka zrosła często mylona jest z białymi lejkówkami. W pewny sposób można go od nich odróżnić reakcją zsiarczanem żelazowym: podczas niej lejkówki barwią się na fioletowo, kredolejkówka nie wchodzi w tę reakcję.
+Kredolejkówka zrosła często mylona jest z białymi lejkówkami. W pewny sposób można go od nich odróżnić reakcją z siarczanem żelazowym: podczas niej lejkówki barwią się na fioletowo, kredolejkówka nie wchodzi w tę reakcję.
 
-
-## Występowanie i siedlisko
+## Występowanie i siedlisko 
 
 Występuje w Ameryce Północnej, Europie, Korei i Nowej Zelandii. W Polsce jest pospolity.
 
 Rozwija się w lasach liściastych, mieszanych i iglastych oraz w parkach, na brzegach strumieni i w miejscach wilgotnych. Owocniki wytwarza od sierpnia do października, gromadnie.
 
+## Znaczenie 
 
-## Znaczenie
+Saprotrof. W zależności od źródła traktowany jako grzyb jadalny lub trujący. Za jadalny uważany jest np. w atlasach Wojewody i Dermeka, który podaje, że jadalne są tylko kapelusze i nadają się do zup i marynowania. Za jadalny uważany jest w Rosji. Atlas Pavola Škubli uznaje go za grzyb trujący, a w atlasie Gmindera jest notka, że prawdopodobnie zawarta w tym grzybie liofilina jest substancją mutagenną. W związku z tak niejednoznacznymi opiniami na przydatność spożywczą tego grzyba należy go uważać za grzyb niejadalny, tym bardziej że może być pomylony z trującymi lejkówkami.
 
-Saprotrof. W zależności od źródła traktowany jako grzyb jadalny lub trujący. Za jadalny uważany jest np. w atlasach Wojewodyi Dermeka, który podaje, że jadalne są tylko kapelusze i nadają się do zup i marynowania. Za jadalny uważany jest w Rosji. Atlas Pavola Škubli uznaje go za grzyb trujący, a w atlasie Gmindera jest notka, że prawdopodobnie zawarta w tym grzybieliofilinajest substancją mutagenną. W związku z tak niejednoznacznymi opiniami na przydatność spożywczą tego grzyba należy go uważać za grzyb niejadalny, tym bardziej że może być pomylony z trującymilejkówkami.
+## Przypisy 
 
-
-## Przypisy

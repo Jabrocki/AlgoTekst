@@ -1,14 +1,5 @@
 #xanthoparmelia_pulla
-#no_sources: 2
-
----
-latin_name: Xanthoparmelia pulla
-polish_name: Żełuczka drobna
-source: https://grzyby.pl/gatunki/Xanthoparmelia_pulla.htm
----
-
-# Żełuczka drobna
-
+#no_sources: 1
 
 ---
 latin_name: Xanthoparmelia pulla

@@ -1,5 +1,5 @@
 #lactarius_trivialis
-#no_sources: 4
+#no_sources: 3
 
 ---
 latin_name: Lactarius trivialis
@@ -42,25 +42,6 @@ Mleczaj niebieskawy to grzyb jadalny, choć niezbyt smaczny. Ważne by pozbawić
 
 ## Zastosowanie
 Mleczaja niebieskawego jada się po zakiszeniu lub mocnym osoleniu. Z powodu rzadkiego występowania nie powinno się go jednak spożywać.
-
-
----
-latin_name: Lactarius trivialis
-polish_name: Mleczaj pospolity
-source: https://grzyby.pl/gatunki/Lactarius_trivialis.htm
----
-
-# Mleczaj pospolity
-
-## Występowanie, ekologia
-
-W lasach pod różnymi drzewami, najczęściej związany z brzozami i świerkiem; lipiec-październik.
-
-Czerwona Lista [125 ] — R–rzadki - potencjalnie zagrożony wymarciem
-
-## Jadalne czy trujące? 🟡🟢
-
-Jadalny [105 ] po neutralizacji drażniącego soku mlecznego.
 
 
 ---
@@ -147,25 +128,24 @@ Zapach:
 owocowy
 
 ---
-latin_name: Lactarius trivialis Fr.
-polish_name: Mleczaj niebieskawy, mleczaj niebieszczejący
-source: https://pl.wikipedia.org/api/rest_v1/page/html/Mleczaj_niebieskawy
+latin_name: lactarius trivialis
+polish_name: Mleczaj niebieskawy
+source: https://pl.wikipedia.org/wiki/Mleczaj_niebieskawy
 ---
+# Mleczaj niebieskawy 
+# lactarius trivialis 
 
+Mleczaj niebieskawy, mleczaj niebieszczejący (Lactarius trivialis Fr.) – gatunek grzyba z rodziny gołąbkowatych (Russulaceae).
 
-Mleczaj niebieskawy, mleczaj niebieszczejący (Lactarius trivialisFr.) –gatunekgrzyba z rodzinygołąbkowatych(Russulaceae).
+## Systematyka i nazewnictwo 
 
+Pozycja w klasyfikacji według Index Fungorum: Lactarius, Russulaceae, Russulales, Incertae sedis, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
 
-## Systematyka i nazewnictwo
+Po raz pierwszy takson ten zdiagnozował w 1815 r. Elias Fries nadając mu nazwę Agaricus trivialis. Obecną nazwę nadał mu w 1838 r. ten sam autor, przenosząc go do rodzaju Lactarius. Niektóre synonimy naukowe:
 
-Pozycja w klasyfikacji wedługIndex Fungorum:Lactarius, Russulaceae, Russulales, Incertae sedis, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
+Nazwę polską zaproponował Władysław Wojewoda w 2003 r., przez Alinę Skirgiełło gatunek ten opisany był jako mleczaj pospolity, dawniej w polskim piśmiennictwie mykologicznym miał jeszcze inne nazwy: bedłka świniarka, świniarka i mleczaj niezgrabny. W 2025 r. Komisja ds. Polskiego Nazewnictwa Grzybów przy Polskim Towarzystwie Mykologicznym zarekomendowała polską nazwę mleczaj niebieszczejący.
 
-Po raz pierwszytaksonten zdiagnozował w 1815 r.Elias Friesnadając mu nazwęAgaricus trivialis. Obecną nazwę nadał mu w 1838 r. ten sam autor, przenosząc go do rodzajuLactarius. Niektóresynonimy naukowe:
-
-Nazwę polską zaproponowałWładysław Wojewodaw 2003 r., przezAlinę Skirgiełłogatunek ten opisany był jako mleczaj pospolity, dawniej w polskim piśmiennictwie mykologicznym miał jeszcze inne nazwy: bedłka świniarka, świniarka i mleczaj niezgrabny. W 2025 r. Komisja ds. Polskiego Nazewnictwa Grzybów przyPolskim Towarzystwie Mykologicznymzarekomendowałapolską nazwęmleczaj niebieszczejący.
-
-
-## Morfologia
+## Morfologia 
 
 Średnica 5–17 cm. Początkowo wypukły z wąsko podwiniętym brzegiem, potem płasko rozpostarty, na koniec wklęsły z wyprostowanym brzegiem. Powierzchnia gładka, lepka, oślizgła i błyszcząca, skórka łatwo dająca się ściągnąć. Początkowo ma kolor od brudnomięsistego do jasnofioletowego, lekko marmurkowaty i na brzegu również wodnoplamisty, później blaknie i staje się różowo-ochrowy mięsopomarańczowy.
 
@@ -177,21 +157,19 @@ U młodych okazów białawy, tylko pod skórką szaroliliowy, u starszych brązo
 
 Młode owocniki wydzielają obficie białe mleczko, które po stwardnieniu staje się żółtawe. Początkowo jest łagodne w smaku, później jednak gorzkie i silnie piekące.
 
-Wysyp zarodnikówkremowy.Zarodnikiszerokoelipsoidalne o rozmiarach 8,5–10,5 × 7–8,5 μm. Ich powierzchnia pokryta jest brodawkami, które połączone są grubymi łącznikami tworzącymi nieregularną siatkę. Licznecystydywystępują na ostrzach i na bokach blaszek. Są wrzecionowate i zazwyczaj mają zaokrąglone szczyty.
+Wysyp zarodników kremowy. Zarodniki szerokoelipsoidalne o rozmiarach 8,5–10,5 × 7–8,5 μm. Ich powierzchnia pokryta jest brodawkami, które połączone są grubymi łącznikami tworzącymi nieregularną siatkę. Liczne cystydy występują na ostrzach i na bokach blaszek. Są wrzecionowate i zazwyczaj mają zaokrąglone szczyty.
 
+## Występowanie i siedlisko 
 
-## Występowanie i siedlisko
+Występuje w Ameryce Północnej, Europie i Azji. W Polsce gatunek rzadki. Znajduje się na Czerwonej liście roślin i grzybów Polski. Ma status R – potencjalnie zagrożony z powodu ograniczonego zasięgu geograficznego i małych obszarów siedliskowych. Znajduje się na listach gatunków zagrożonych także w Danii, Niemczech, Holandii.
 
-Występuje w Ameryce Północnej, Europie i Azji. W Polsce gatunek rzadki. Znajduje się naCzerwonej liście roślin i grzybów Polski. Ma status R – potencjalnie zagrożony z powodu ograniczonego zasięgu geograficznego i małych obszarów siedliskowych. Znajduje się na listach gatunków zagrożonych także w Danii, Niemczech, Holandii.
+Naziemny grzyb mykoryzowy. Rośnie w wilgotnych lasach iglastych i liściastych, szczególnie pod brzozami i świerkami. Owocniki wytwarza od lipca do października.
 
-Naziemnygrzyb mykoryzowy. Rośnie w wilgotnych lasach iglastych i liściastych, szczególnie pod brzozami i świerkami.Owocnikiwytwarza od lipca do października.
-
-
-## Znaczenie
+## Znaczenie 
 
 Grzyb jadalny, spożywany w krajach Europy Wschodniej, po wcześniejszym ukiszeniu lub zasoleniu.
 
-Jest często atakowany przez pasożytniczego grzybapodgrzybnica ceglasta(Hypomyces lateritius), powodującego pleśnienie i niedorozwój jego blaszek oraz stwardnienie miąższu. Porażone przez tego grzybaowocnikirydzów są niejadalne.
+Jest często atakowany przez pasożytniczego grzyba podgrzybnica ceglasta (Hypomyces lateritius), powodującego pleśnienie i niedorozwój jego blaszek oraz stwardnienie miąższu. Porażone przez tego grzyba owocniki rydzów są niejadalne.
 
+## Przypisy 
 
-## Przypisy

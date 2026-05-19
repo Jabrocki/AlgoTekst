@@ -1,5 +1,5 @@
 #leccinum_quercinum
-#no_sources: 3
+#no_sources: 2
 
 ---
 latin_name: Leccinum quercinum
@@ -42,23 +42,6 @@ Koźlarz dębowy to smaczny, łatwy w transporcie grzyb jadalny.
 
 ## Zastosowanie
 Zastosowanie koźlarza dębowego nie odbiega od zastosowań pozostałych koźlarzy podobnych do koźlarza babki (sosnowego, świerkowego itd.). Miło smakuje mimo nierzadko okropnego czarnego wyglądu, doskonale nadaje się do suszenia, pieczenia, duszenia, marynowania w occie (może wtedy zachować oryginalne kolory), jednakowoż zasługuje jednak na ochronę z powodu rzadkości.
-
-
----
-latin_name: Leccinum quercinum
-polish_name: Koźlarz dębowy
-source: https://grzyby.pl/gatunki/Leccinum_quercinum.htm
----
-
-# Koźlarz dębowy
-
-## Występowanie, ekologia
-
-Pod dębami; lipiec-wrzesień.
-
-## Jadalne czy trujące? 🟢
-
-Jadalny.
 
 
 ---

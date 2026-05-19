@@ -1,30 +1,5 @@
 #helvella_elastica
-#no_sources: 3
-
----
-latin_name: Helvella elastica
-polish_name: Piestrzyca giętka
-source: https://grzyby.pl/gatunki/Helvella_elastica.htm
----
-
-# Piestrzyca giętka
-
-## Owocnik
-
-Owocnik wysokości do 100 mm. **Główka** początkowo nieregularnie siodełkowata, potem coraz bardziej pofałdowana, kilkupłatowa; powierzchnia zewnętrzna gładka szarobeżowa do żółtawobrązowawej, wewnętrzna jaśniejsza, średnicy do 40 mm. **Trzon** białawy, ochrowy; 30-100 x 5-10 mm, rozszerzający się ku podstawie, gładki lub słabo bruzdowany; powierzchnia u góry drobno oprószona; pusty. **Miąższ** woskowej konsystencji; zapach przyjemny.
-
-## Zarodniki
-
-Zarodniki elipsoidalne, gładkie, bezbarwne, z jedną dużą kroplą, 17-20 x 10-13 µm.
-
-## Występowanie
-
-Pospolita. Od lata do jesieni, w grupach, na ziemi, w lasach liściastych.
-
-## Jadalne czy trujące? 🟡
-
-Niejadalna. [134 ]
-
+#no_sources: 2
 
 ---
 latin_name: Helvella elastica
@@ -82,25 +57,24 @@ lato,
 jesień
 
 ---
-latin_name: Helvella elastica Bull.
+latin_name: helvella elastica
 polish_name: Piestrzyca giętka
-source: https://pl.wikipedia.org/api/rest_v1/page/html/Piestrzyca_giętka
+source: https://pl.wikipedia.org/wiki/Piestrzyca_giętka
 ---
+# Piestrzyca giętka 
+# helvella elastica 
 
+Piestrzyca giętka (Helvella elastica Bull.) – gatunek grzybów z rodziny piestrzycowatych (Helvellaceae).
 
-Piestrzyca giętka(Helvella elasticaBull.) –gatunekgrzybówzrodzinypiestrzycowatych(Helvellaceae).
+## Systematyka i nazewnictwo 
 
+Pozycja w klasyfikacji: Helvella, Helvellaceae, Pezizales, Pezizomycetidae, Pezizomycetes, Pezizomycotina, Ascomycota, Fungi (według Index Fungorum).
 
-## Systematyka i nazewnictwo
-
-Pozycja w klasyfikacji:Helvella, Helvellaceae, Pezizales, Pezizomycetidae, Pezizomycetes, Pezizomycotina, Ascomycota, Fungi(wedługIndex Fungorum).
-
-Po raz pierwszy opisał goJean Baptiste François Pierre Bulliardw 1785 r. i nadana przez niego nazwa jest ważna. Ma 27synonimów. Niektóre z nich:
+Po raz pierwszy opisał go Jean Baptiste François Pierre Bulliard w 1785 r. i nadana przez niego nazwa jest ważna. Ma 27 synonimów. Niektóre z nich:
 
 Nazwa polska według M.A. Chmiel.
 
-
-## Morfologia
+## Morfologia 
 
 Twardo galaretowaty o średnicy 1,5–3 cm, kształtem przypominający siodło lub ucho. Złożony jest z dwóch lub trzech bokiem spłaszczonych i zmarszczonych płatków. Kolor od jasnosiwego poprzez ochrowy i szarożółtawy do żółtobrązowego.
 
@@ -108,16 +82,15 @@ Wysokość 3–8 cm, średnica 0,5–1 cm. Jest z zewnątrz gładki, jak gdyby n
 
 Cienki, kruchy i woskowaty o przyjemnym zapachu. Kolor biały.
 
-Worki8-zarodnikowe.Zarodniki18–24 × 11,5–15 µm, eliptyczne, gładkie, zwykle z jedną centralną kroplą oleju i do 5 małymi kropelkami na każdym końcu.Parafizyszkliste do bladobrązowawych z ziarnistą zawartością. Ich wierzchołki maczugowate do główkowatych, o szerokości 5–11 µm.Strzępkina powierzchni owocnika tylko z kilkoma wystającymi, szklistymiseptowanymielementami o szerokości 2–3 µm.
+Worki 8-zarodnikowe. Zarodniki 18–24 × 11,5–15 µm, eliptyczne, gładkie, zwykle z jedną centralną kroplą oleju i do 5 małymi kropelkami na każdym końcu. Parafizy szkliste do bladobrązowawych z ziarnistą zawartością. Ich wierzchołki maczugowate do główkowatych, o szerokości 5–11 µm. Strzępki na powierzchni owocnika tylko z kilkoma wystającymi, szklistymi septowanymi elementami o szerokości 2–3 µm.
 
-
-## Występowanie i siedlisko
+## Występowanie i siedlisko 
 
 Piestrzyca elastyczna jest szeroko w Ameryce Północnej, Europie i Azji, podano także jedno jej stanowisko w Afryce. W Europie Środkowej jest pospolita. Również w Polsce spotykana jest dość często.
 
-Grzyb naziemny, prawdopodobniemykoryzowy. Występuje przede wszystkim na glebach o odczynie zasadowym lub obojętnym, dużo rzadziej w lasach iglastych na igliwiu. Owocniki tworzy latem i jesienią w lasach liściastych i iglastych.
+Grzyb naziemny, prawdopodobnie mykoryzowy. Występuje przede wszystkim na glebach o odczynie zasadowym lub obojętnym, dużo rzadziej w lasach iglastych na igliwiu. Owocniki tworzy latem i jesienią w lasach liściastych i iglastych.
 
 Grzyb niejadalny.
 
+## Przypisy 
 
-## Przypisy

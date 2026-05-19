@@ -1,30 +1,5 @@
 #hygrophorus_lucorum
-#no_sources: 4
-
----
-latin_name: Hygrophorus lucorum
-polish_name: Wodnicha modrzewiowa
-source: https://grzyby.pl/gatunki/Hygrophorus_lucorum.htm
----
-
-# Wodnicha modrzewiowa
-
-## Opis
-
-**Kapelusz** **Trzon**
-
-## Zarodniki
-
-Wysyp zarodników
-
-## Występowanie
-
-W lasach, pod modrzewiami, na ziemi; wrzesień-październik.
-
-## Jadalne czy trujące? 🟢
-
-Jadalna. [105 ]
-
+#no_sources: 2
 
 ---
 latin_name: Hygrophorus lucorum
@@ -81,25 +56,24 @@ Zapach:
 brak/nieokreślony
 
 ---
-latin_name: Hygrophorus lucorum Kalchbr.
+latin_name: hygrophorus lucorum
 polish_name: Wodnicha modrzewiowa
-source: https://pl.wikipedia.org/api/rest_v1/page/html/Wodnicha_modrzewiowa
+source: https://pl.wikipedia.org/wiki/Wodnicha_modrzewiowa
 ---
+# Wodnicha modrzewiowa 
+# hygrophorus lucorum 
 
+Wodnicha modrzewiowa (Hygrophorus lucorum Kalchbr.) – gatunek grzybów należący do rodziny wodnichowatych (Hygrophoraceae).
 
-Wodnicha modrzewiowa(Hygrophorus lucorumKalchbr.) –gatunekgrzybównależący dorodzinywodnichowatych(Hygrophoraceae).
+## Systematyka i nazewnictwo 
 
+Pozycja w klasyfikacji według Index Fungorum: Hygrophorus, Hygrophoraceae, Agaricales, Agaricomycetidae, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
 
-## Systematyka i nazewnictwo
+Po raz pierwszy opisał go Károly Kalchbrenner w 1874 r. Niektóre synonimy naukowe:
 
-Pozycja w klasyfikacji wedługIndex Fungorum:Hygrophorus, Hygrophoraceae, Agaricales, Agaricomycetidae, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
+Nazwę polską podali Barbara Gumińska i Władysław Wojewoda w 1983 r.
 
-Po raz pierwszy opisał goKároly Kalchbrennerw 1874 r.Niektóresynonimy naukowe:
-
-Nazwę polską podaliBarbara GumińskaiWładysław Wojewodaw 1983 r.
-
-
-## Morfologia
+## Morfologia 
 
 Średnicy 2–6 cm, u młodych okazów wypukły, u starszych spłaszczony, a nawet czasami wgłębiony na środku. Powierzchnia gładka i lepka, kolor cytrynowożółty lub złocisty.
 
@@ -109,65 +83,17 @@ Wysokość 4–6 cm, grubość do 1 cm, walcowaty, miękki i lepiący się. Jest
 
 Żółtawy, nie zmieniający barwy po uszkodzeniu. Smak i zapach łagodny.
 
-Biały.Zarodnikiwydłużone, gładkie, o rozmiarach 7–91 × 4–5 μm.
+Biały. Zarodniki wydłużone, gładkie, o rozmiarach 7–91 × 4–5 μm.
 
-
-## Występowanie i siedlisko
-
-Występuje w Ameryce Północnej, Europie i Azji. W Polsce jest dość częsta, w górach bardziej, niż na niżu.
-
-Grzyb mykoryzowy, rośnie wyłącznie pod modrzewiami. Owocniki pojawiają się jesienią, aż do silniejszych mrozów, czasami, również w zimie. Pojawia się dopiero po pierwszych jesiennych przymrozkach.
-
-
-## Znaczenie
-
-Grzyb jadalny, w Polsce jednak zazwyczaj nie jest zbierany. Jest to jednak dobry grzyb jadalny.
-
-
-## Przypisy
-
----
-latin_name: Hygrophorus lucorum Kalchbr.
-polish_name: Wodnicha modrzewiowa
-source: https://pl.wikipedia.org/api/rest_v1/page/html/Wodnicha_modrzewiowa
----
-
-
-Wodnicha modrzewiowa(Hygrophorus lucorumKalchbr.) –gatunekgrzybównależący dorodzinywodnichowatych(Hygrophoraceae).
-
-
-## Systematyka i nazewnictwo
-
-Pozycja w klasyfikacji wedługIndex Fungorum:Hygrophorus, Hygrophoraceae, Agaricales, Agaricomycetidae, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
-
-Po raz pierwszy opisał goKároly Kalchbrennerw 1874 r.Niektóresynonimy naukowe:
-
-Nazwę polską podaliBarbara GumińskaiWładysław Wojewodaw 1983 r.
-
-
-## Morfologia
-
-Średnicy 2–6 cm, u młodych okazów wypukły, u starszych spłaszczony, a nawet czasami wgłębiony na środku. Powierzchnia gładka i lepka, kolor cytrynowożółty lub złocisty.
-
-Nieco zbiegające, dość rzadkie i dość grube. Początkowo są białe, u starszych okazów żółkną.
-
-Wysokość 4–6 cm, grubość do 1 cm, walcowaty, miękki i lepiący się. Jest jaśniejszy od kapelusza i ma kolor blado cytrynowożółty.
-
-Żółtawy, nie zmieniający barwy po uszkodzeniu. Smak i zapach łagodny.
-
-Biały.Zarodnikiwydłużone, gładkie, o rozmiarach 7–91 × 4–5 μm.
-
-
-## Występowanie i siedlisko
+## Występowanie i siedlisko 
 
 Występuje w Ameryce Północnej, Europie i Azji. W Polsce jest dość częsta, w górach bardziej, niż na niżu.
 
 Grzyb mykoryzowy, rośnie wyłącznie pod modrzewiami. Owocniki pojawiają się jesienią, aż do silniejszych mrozów, czasami, również w zimie. Pojawia się dopiero po pierwszych jesiennych przymrozkach.
 
-
-## Znaczenie
+## Znaczenie 
 
 Grzyb jadalny, w Polsce jednak zazwyczaj nie jest zbierany. Jest to jednak dobry grzyb jadalny.
 
+## Przypisy 
 
-## Przypisy

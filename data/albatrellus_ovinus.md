@@ -1,32 +1,5 @@
 #albatrellus_ovinus
-#no_sources: 4
-
----
-latin_name: Albatrellus ovinus
-polish_name: Naziemek białawy
-source: https://grzyby.pl/gatunki/Albatrellus_ovinus.htm
----
-
-# Naziemek białawy
-
-## Zarodniki
-
-Wysyp zarodników biały. Zarodniki szerokoelipsoidalne, jajowate, gładkie, bezbarwne, często z dużymi kroplami, 3-4.5 x 3-3.5 µm.
-
-## Występowanie
-
-Rzadki. Od wiosny do jesieni, w lasach iglastych i mieszanych, grupach pod świerkami, w górach, rzadziej pod jodłami i sosnami; na ziemi lub silnie rozłożonym drewnie, wśród mchów. Tworzy mykoryzę .
-
-Czerwona Lista [125 ] — E–wymierający - krytycznie zagrożony
-
-## Jadalne czy trujące? 🟢
-
-Dobry jadalny, smaczny. [134 ]
-
-## Uwagi
-
-Jest kilka podobnych gatunków, różnią się barwą i wykształceniem łuseczek. Podobny naziemek żółtopomarańczowy ( Albatrellus subrubescens ) jest jasnoochrowy od jasnobrązowego, zwykle z brązowofioletowym odcieniem; uciśnięte pory jasnopomarańczowe; rośnie pod sosnami i jodłami. W podobnych miejscach rośnie rzadszy naziemek ceglasty ( Albatrellus confluens ) o żółtoochrowym, pomarańczoowobrązowym kapeluszu i nie żółknących porach przy uciśnięciu.
-
+#no_sources: 2
 
 ---
 latin_name: Albatrellus ovinus
@@ -85,25 +58,24 @@ Zapach:
 migdałów
 
 ---
-latin_name: Albatrellus ovinus (Schaeff.
+latin_name: albatrellus ovinus
 polish_name: Naziemek białawy
-source: https://pl.wikipedia.org/api/rest_v1/page/html/Naziemek_białawy
+source: https://pl.wikipedia.org/wiki/Naziemek_białawy
 ---
+# Naziemek białawy 
+# albatrellus ovinus 
 
+Naziemek białawy (Albatrellus ovinus (Schaeff.) Kotl. & Pouzar) – gatunek grzybów z rodziny naziemkowatych (Albatrellaceae).
 
-Naziemek białawy(Albatrellus ovinus(Schaeff.) Kotl. & Pouzar) –gatunekgrzybówzrodzinynaziemkowatych(Albatrellaceae).
+## Systematyka i nazewnictwo 
 
+Pozycja w klasyfikacji według Index Fungorum: Albatrellaceae, Russulales, Incertae sedis, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
 
-## Systematyka i nazewnictwo
+Po raz pierwszy takson ten zdiagnozował w 1774 r. Jacob Christian Schaeffer nadając mu nazwę Boletus ovinus. Obecną, uznaną przez Index Fungorum nazwę nadali mu w 1957 r. František Kotlaba i Zdeněk Pouzar, przenosząc go do rodzaju Albatrellus. Niektóre synonimy łacińskie:
 
-Pozycja w klasyfikacji wedługIndex Fungorum:Albatrellaceae, Russulales, Incertae sedis, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
+Nazwę polską zaproponował Władysław Wojewoda w 2003 r. W polskim piśmiennictwie mykologicznym gatunek ten ma też inne nazwy: huba owcza, huba biaława, sarna, siarna bagnowa, żagiew owcza, bielaczek owczy Górale nazywają go pańscok. W atlasach grzybów zazwyczaj opisywany jest pod nazwą bielaczek owczy.
 
-Po raz pierwszytaksonten zdiagnozował w 1774 r.Jacob Christian Schaeffernadając mu nazwęBoletus ovinus. Obecną, uznaną przez Index Fungorum nazwę nadali mu w 1957 r.František KotlabaiZdeněk Pouzar, przenosząc go do rodzajuAlbatrellus. Niektóresynonimy łacińskie:
-
-Nazwę polską zaproponowałWładysław Wojewodaw 2003 r. W polskim piśmiennictwie mykologicznym gatunek ten ma też inne nazwy: huba owcza, huba biaława, sarna, siarna bagnowa, żagiew owcza, bielaczek owczyGórale nazywają go pańscok. W atlasach grzybów zazwyczaj opisywany jest pod nazwąbielaczek owczy.
-
-
-## Morfologia
+## Morfologia 
 
 O średnicy 5–12 cm, nieregularny, powyginany, najpierw łukowaty, później płasko rozpostarty, okrągławy do elipsowatego; ostry brzeg zagięty w dół. Powierzchnia u młodszych owocników biaława, gładka, później popękana na poletka. Kolor górnej strony owocnika od siwożółtawego przez ochrowobrązowy do cytrynowooliwkowego.
 
@@ -113,75 +85,21 @@ Wysokości 2–7 cm i grubości 1–3 cm, gładki, białawy, często ustawiony n
 
 Biały, później żółtawy, mięsisty, o grzybowym smaku i delikatnym, migdałowym zapachu, najpierw delikatny, później twardy, czasem łykowaty. Smak zawsze łagodny.
 
-Biały.Zarodnikiprawie okrągławe, o rozmiarach 3,5–4,5×3,5µm.Strzępkibezsprzążek.
+Biały. Zarodniki prawie okrągławe, o rozmiarach 3,5–4,5 × 3,5 µm. Strzępki bez sprzążek.
 
+## Występowanie i siedlisko 
 
-## Występowanie i siedlisko
-
-Występuje wEuropie, wAmeryce Północnej, naKaukaziei wAustralii. Dawniej w Europie Środkowej był dość pospolity, obecnie jest rzadki (z wyjątkiem Alp, gdzie jest pospolity). W Polsce gatunek rzadki. Znajduje się naCzerwonej liście roślin i grzybów Polski. Ma status E – zagrożony wymarciem. Znajduje się na czerwonych listach gatunków zagrożonych także w Czechach, Danii i w Niemczech.
-
-Rośnie w lasach typu iglastego, głównie w rejonach górskich pod drzewami iglastymi, szczególnie pod świerkiem. Owocuje latem i na jesieni (lipiec-październik) zazwyczaj w koloniach, na skraju górskich lasów świerkowych lub sosnowych, często na glebach zawierających wapń.
-
-
-## Znaczenie
-
-Grzyb jadalny, ale o mniejszej wartości, gdyż jest niezbyt smaczny, ponadto łykowaty i ciężkostrawny. Po wysuszeniu i zmieleniu nadaje się na przyprawy.
-
-
-## Gatunki podobne
-
-Podobne są inne mało smaczne naziemki, na przykładnaziemek ceglasty(Albatrellus confluens), który ma wysyp zarodników wyraźnieamyloidalny. Zdarza się, że grzyb ten jest mylony zkolczakami(Hydnum) orazżagwiami(Polyporus) rosnącymi na drzewach.
-
-
-## Przypisy
-
----
-latin_name: Albatrellus ovinus (Schaeff.
-polish_name: Naziemek białawy
-source: https://pl.wikipedia.org/api/rest_v1/page/html/Naziemek_białawy
----
-
-
-Naziemek białawy(Albatrellus ovinus(Schaeff.) Kotl. & Pouzar) –gatunekgrzybówzrodzinynaziemkowatych(Albatrellaceae).
-
-
-## Systematyka i nazewnictwo
-
-Pozycja w klasyfikacji wedługIndex Fungorum:Albatrellaceae, Russulales, Incertae sedis, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
-
-Po raz pierwszytaksonten zdiagnozował w 1774 r.Jacob Christian Schaeffernadając mu nazwęBoletus ovinus. Obecną, uznaną przez Index Fungorum nazwę nadali mu w 1957 r.František KotlabaiZdeněk Pouzar, przenosząc go do rodzajuAlbatrellus. Niektóresynonimy łacińskie:
-
-Nazwę polską zaproponowałWładysław Wojewodaw 2003 r. W polskim piśmiennictwie mykologicznym gatunek ten ma też inne nazwy: huba owcza, huba biaława, sarna, siarna bagnowa, żagiew owcza, bielaczek owczyGórale nazywają go pańscok. W atlasach grzybów zazwyczaj opisywany jest pod nazwąbielaczek owczy.
-
-
-## Morfologia
-
-O średnicy 5–12 cm, nieregularny, powyginany, najpierw łukowaty, później płasko rozpostarty, okrągławy do elipsowatego; ostry brzeg zagięty w dół. Powierzchnia u młodszych owocników biaława, gładka, później popękana na poletka. Kolor górnej strony owocnika od siwożółtawego przez ochrowobrązowy do cytrynowooliwkowego.
-
-Delikatne, okrągłe, białawe, później kremowe, a nawet żółte, względnie głęboko zachodzące na trzon. Po ugnieceniu żółknące, o bardzo małych porach (2–4 na 1 mm).
-
-Wysokości 2–7 cm i grubości 1–3 cm, gładki, białawy, często ustawiony niecentrycznie. Płynnie przechodzi w kapelusz.
-
-Biały, później żółtawy, mięsisty, o grzybowym smaku i delikatnym, migdałowym zapachu, najpierw delikatny, później twardy, czasem łykowaty. Smak zawsze łagodny.
-
-Biały.Zarodnikiprawie okrągławe, o rozmiarach 3,5–4,5×3,5µm.Strzępkibezsprzążek.
-
-
-## Występowanie i siedlisko
-
-Występuje wEuropie, wAmeryce Północnej, naKaukaziei wAustralii. Dawniej w Europie Środkowej był dość pospolity, obecnie jest rzadki (z wyjątkiem Alp, gdzie jest pospolity). W Polsce gatunek rzadki. Znajduje się naCzerwonej liście roślin i grzybów Polski. Ma status E – zagrożony wymarciem. Znajduje się na czerwonych listach gatunków zagrożonych także w Czechach, Danii i w Niemczech.
+Występuje w Europie, w Ameryce Północnej, na Kaukazie i w Australii. Dawniej w Europie Środkowej był dość pospolity, obecnie jest rzadki (z wyjątkiem Alp, gdzie jest pospolity). W Polsce gatunek rzadki. Znajduje się na Czerwonej liście roślin i grzybów Polski. Ma status E – zagrożony wymarciem. Znajduje się na czerwonych listach gatunków zagrożonych także w Czechach, Danii i w Niemczech.
 
 Rośnie w lasach typu iglastego, głównie w rejonach górskich pod drzewami iglastymi, szczególnie pod świerkiem. Owocuje latem i na jesieni (lipiec-październik) zazwyczaj w koloniach, na skraju górskich lasów świerkowych lub sosnowych, często na glebach zawierających wapń.
 
-
-## Znaczenie
+## Znaczenie 
 
 Grzyb jadalny, ale o mniejszej wartości, gdyż jest niezbyt smaczny, ponadto łykowaty i ciężkostrawny. Po wysuszeniu i zmieleniu nadaje się na przyprawy.
 
+## Gatunki podobne 
 
-## Gatunki podobne
+Podobne są inne mało smaczne naziemki, na przykład naziemek ceglasty (Albatrellus confluens), który ma wysyp zarodników wyraźnie amyloidalny. Zdarza się, że grzyb ten jest mylony z kolczakami (Hydnum) oraz żagwiami (Polyporus) rosnącymi na drzewach.
 
-Podobne są inne mało smaczne naziemki, na przykładnaziemek ceglasty(Albatrellus confluens), który ma wysyp zarodników wyraźnieamyloidalny. Zdarza się, że grzyb ten jest mylony zkolczakami(Hydnum) orazżagwiami(Polyporus) rosnącymi na drzewach.
+## Przypisy 
 
-
-## Przypisy

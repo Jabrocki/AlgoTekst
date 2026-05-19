@@ -1,0 +1,40 @@
+---
+latin_name: thamnolia vermicularis
+polish_name: Szydlina różowa
+source: https://pl.wikipedia.org/wiki/Szydlina_różowa
+---
+# Szydlina różowa 
+# thamnolia vermicularis 
+
+Szydlina różowa (Thamnolia vermicularis (Sw.) Schaer. – gatunek grzybów z rodziny czasznikowatych (Icmadophilaceae). Ze względu na współżycie z glonami zaliczany jest do porostów.
+
+## Systematyka i nazewnictwo 
+
+Pozycja w klasyfikacji według Index Fungorum: Icmadophilaceae, Pertusariales, Ostropomycetidae, Lecanoromycetes, Pezizomycotina, Ascomycota, Fungi.
+
+Po raz pierwszy takson ten zdiagnozował w 1781 r. Olof Swartz nadając mu nazwę Lichen vermicularis. Obecną, uznaną przez Index Fungorum nazwę nadał mu w 1850 r. Ludwig Emanuel Schaerer, przenosząc go do rodzaju Thamnolia.
+
+Niektóre synonimy naukowe:
+
+Nazwa polska według Krytycznej listy porostów i grzybów naporostowych Polski. Pochodzi od tego, że po dłuższym przechowywaniu w zielniku nabiera różowego koloru.
+
+## Morfologia 
+
+Plecha krzaczkowata, mająca postać szydlasto zakończonych, pojedynczych lub słabo rozgałęzionych trzoneczków o wysokości 2–6 cm. Są one proste, łukowato lub robakowato zgięte. Wyrastają w luźnych skupiskach, lub tworzą niewielkie murawki. Na przekroju poprzecznym są obłe lub nieco spłaszczone, puste w środku i mają grubość 1–3 mm. Powierzchnia biała, gładka lub delikatnie pomarszczona, pod korą występuje warstwa mechanicznej nibytkanki. Reakcje barwne: plecha K + intensywnie żółta, Pd + pomarańczowa.
+
+Plecha nie wytwarza ani soraliów, ani izydiów, ani owocników, a jedynie pyknidia, które znajdują się zagłębione w drobnych brodawkach na bokach trzoneczków.
+
+## Występowanie i siedlisko 
+
+Jest szeroko rozprzestrzeniona na świecie, występuje na wszystkich kontynentach z wyjątkiem Afryki i Antarktydy. Szczególnie częsta jest na obszarach o klimacie zimnym, w wysokich górach i w tundrze, występuje m.in. na Grenlandii. W Polsce występuje tylko w Tatrach, Karkonoszach i na Babiej Górze, i jest w tych regionach dość częsta. Rośnie na ziemi, w wyższych partiach gór, głównie w niskich murawach w piętrze halnym. Rośnie w miejscach otwartych, narażonych na silne wiatry. Znajduje się na Czerwonej liście roślin i grzybów Polski. Ma status LC – gatunek słabo zagrożony.
+
+## Gatunki podobne 
+
+Podobne są niektóre gatunki chrobotków (Cladonia), jednak szydlinę różową łatwo od nich odróżnić, gdyż nigdy nie tworzy plechy pierwotnej, jej trzoneczki wyrastają bezpośrednio z podłoża.
+
+## Znaczenie 
+
+W Chinach jest porostem jadalnym.
+
+## Przypisy 
+

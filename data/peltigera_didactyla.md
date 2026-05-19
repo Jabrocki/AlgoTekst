@@ -1,14 +1,5 @@
 #peltigera_didactyla
-#no_sources: 2
-
----
-latin_name: Peltigera didactyla
-polish_name: Pawężnica drobna
-source: https://grzyby.pl/gatunki/Peltigera_didactyla.htm
----
-
-# Pawężnica drobna
-
+#no_sources: 1
 
 ---
 latin_name: Peltigera didactyla

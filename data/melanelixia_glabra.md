@@ -1,14 +1,5 @@
 #melanelixia_glabra
-#no_sources: 2
-
----
-latin_name: Melanelixia glabra
-polish_name: Przylepnik łysiejący
-source: https://grzyby.pl/gatunki/Melanelixia_glabra.htm
----
-
-# Przylepnik łysiejący
-
+#no_sources: 1
 
 ---
 latin_name: Melanelixia glabra

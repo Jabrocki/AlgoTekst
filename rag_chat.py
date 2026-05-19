@@ -5,8 +5,15 @@ Uruchom:
     python rag_chat.py
 
 Wymagania:
+<<<<<<< HEAD
     1. Ollama uruchomiona w tle (https://ollama.com).
     2. Pobrany model:  ollama pull gemma3:4b
+=======
+    1. Ollama uruchomiona w tle (instalator z https://ollama.com).
+    2. Pobranie modeli:  
+       ollama pull gemma3:4b
+       ollama pull nomic-embed-text
+>>>>>>> 227926647e68554d02d59847857acef1fe841fdc
     3. pip install -r requirements.txt
 
 Komendy w chacie:
@@ -37,6 +44,7 @@ DB_URL = os.getenv(
     "postgresql://postgres.vhwxrmwtekxelbarhcgl:grzyby12345!!!"
     "@aws-0-eu-west-1.pooler.supabase.com:6543/postgres",
 )
+<<<<<<< HEAD
 EMBED_MODEL_NAME = "paraphrase-multilingual-mpnet-base-v2"
 LLM_MODEL = os.getenv("OLLAMA_MODEL", "gemma3:4b")
 
@@ -55,6 +63,12 @@ PGV_OP = {
     "l2": "<->",       # euclidean distance
     "l1": "<+>",       # taxicab distance (pgvector >= 0.7)
 }
+=======
+EMBED_MODEL_NAME = "nomic-embed-text"
+LLM_MODEL = os.getenv("OLLAMA_MODEL", "gemma3:4b")  # zmień na gemma3:1b jeżeli mało RAM
+TOP_K = 4               # ile fragmentów wciągamy do kontekstu
+MAX_CTX_CHARS = 2500    # przycinanie pojedynczego opisu, by nie zalać promptu
+>>>>>>> 227926647e68554d02d59847857acef1fe841fdc
 
 SYSTEM_PROMPT = (
     "Jesteś polskim mykologiem. Odpowiadasz po polsku, krótko i konkretnie.\n"
@@ -71,6 +85,7 @@ SYSTEM_PROMPT = (
     "6. Na końcu dodaj linijkę: Źródła: [Polska nazwa (Łacińska nazwa)]."
 )
 
+<<<<<<< HEAD
 POLISH_STOPWORDS = {
     "i", "oraz", "lub", "albo", "ale", "ze", "sie", "nie", "to", "ten", "ta", "te",
     "tam", "tu", "tak", "jak", "co", "czy", "jest", "sa", "byc", "byl", "byla",
@@ -172,12 +187,23 @@ def retrieve_pgvector_chunks(question: str, fetch: int, metric: str) -> List[Tup
     op = PGV_OP[metric]
     vec = _vec(question)
     sql = f"""
+=======
+
+
+# --- Retrieval ------------------------------------------------------------
+def retrieve(question: str, k: int = TOP_K):
+    response = ollama.embeddings(model=EMBED_MODEL_NAME, prompt=question)
+    vec = response['embedding']
+    
+    sql = """
+>>>>>>> 227926647e68554d02d59847857acef1fe841fdc
         SELECT name, description,
                (embedding {op} %s::vector) AS dist
         FROM mushrooms
         ORDER BY embedding {op} %s::vector
         LIMIT %s;
     """
+<<<<<<< HEAD
     try:
         with psycopg2.connect(DB_URL) as conn, conn.cursor() as cur:
             cur.execute(sql, (str(vec), str(vec), fetch))
@@ -188,6 +214,13 @@ def retrieve_pgvector_chunks(question: str, fetch: int, metric: str) -> List[Tup
         raise
 
     return [(name, desc, _to_sim(metric, float(dist))) for name, desc, dist in rows]
+=======
+    with psycopg2.connect(DB_URL) as conn:
+        with conn.cursor() as cur:
+            vec_str = str(vec)
+            cur.execute(sql, (vec_str, vec_str, k))
+            return cur.fetchall()  # [(name, description, similarity), ...]
+>>>>>>> 227926647e68554d02d59847857acef1fe841fdc
 
 
 def retrieve_numeric_client_side(question: str, fetch: int, metric: str) -> List[Tuple[str, str, float]]:

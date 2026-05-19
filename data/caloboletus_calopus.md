@@ -172,27 +172,26 @@ grzybowy,
 kwaskowaty
 
 ---
-latin_name: Caloboletus calopus (Pers.
+latin_name: caloboletus calopus
 polish_name: Gorzkoborowik żółtopory
-source: https://pl.wikipedia.org/api/rest_v1/page/html/Gorzkoborowik_żółtopory
+source: https://pl.wikipedia.org/wiki/Gorzkoborowik_żółtopory
 ---
+# Gorzkoborowik żółtopory 
+# caloboletus calopus 
 
+Gorzkoborowik żółtopory (Caloboletus calopus (Pers.) Vizzini) – gatunek grzybów z rodziny borowikowatych (Boletaceae).
 
-Gorzkoborowik żółtopory(Caloboletus calopus(Pers.) Vizzini) –gatunekgrzybówz rodzinyborowikowatych(Boletaceae).
+## Systematyka i nazewnictwo 
 
+Pozycja w klasyfikacji: Boletus, Boletaceae, Boletales, Agaricomycetidae, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi (według Index Fungorum).
 
-## Systematyka i nazewnictwo
-
-Pozycja w klasyfikacji:Boletus, Boletaceae, Boletales, Agaricomycetidae, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi(wedługIndex Fungorum).
-
-Po raz pierwszytaksonten zdiagnozował w roku 1801Christiaan Hendrik Persoon, nadając mu nazwęBoletus calopus. Obecną, uznaną przez Index Fungorum nazwę nadał mu w roku 2014Alfredo Vizzini, przenosząc go do nowo utworzonego rodzajuCaloboletus.
+Po raz pierwszy takson ten zdiagnozował w roku 1801 Christiaan Hendrik Persoon, nadając mu nazwę Boletus calopus. Obecną, uznaną przez Index Fungorum nazwę nadał mu w roku 2014 Alfredo Vizzini, przenosząc go do nowo utworzonego rodzaju Caloboletus.
 
 Synonimy:
 
-Alina Skirgiełłonadała w 1939 r. polską nazwę tego gatunkuborowik grubotrzonowy, jednakWładysław Wojewodaw 2003 r. zaproponował nazwę borowik żółtopory, uważając ją za bardziej właściwą. W polskim piśmiennictwie mykologicznym gatunek ten ma też inne nazwy: goryczak, wścieklak i grzyb grubotrzonowy gorzki. Po przeniesieniu gatunku do rodzajuCaloboletuspolska nazwa stała się niespójna z nazwą naukową. W 2021 Komisja ds. Polskiego Nazewnictwa GrzybówPolskiego Towarzystwa Mykologicznegozarekomendowała używanie nazwy gorzkoborowik żółtopory.
+Alina Skirgiełło nadała w 1939 r. polską nazwę tego gatunku borowik grubotrzonowy, jednak Władysław Wojewoda w 2003 r. zaproponował nazwę borowik żółtopory, uważając ją za bardziej właściwą. W polskim piśmiennictwie mykologicznym gatunek ten ma też inne nazwy: goryczak, wścieklak i grzyb grubotrzonowy gorzki. Po przeniesieniu gatunku do rodzaju Caloboletus polska nazwa stała się niespójna z nazwą naukową. W 2021 Komisja ds. Polskiego Nazewnictwa Grzybów Polskiego Towarzystwa Mykologicznego zarekomendowała używanie nazwy gorzkoborowik żółtopory.
 
-
-## Morfologia
+## Morfologia 
 
 Średnica 3–15 cm, u młodych okazów półkulisty, potem łukowaty. Brzeg długo podwinięty. Barwa jasnobrązowa lub szarooliwkowa. Powierzchnia zamszowa.
 
@@ -202,21 +201,19 @@ Wysokość 7–14 cm, grubość 2–4,5 cm. Mocny i gruby, początkowo beczułko
 
 Kremowy, koło nasady trzonu różowawy. Po przecięciu zmienia kolor na niebieskozielony. W smaku gorzki, zapach słaby, kwaskowaty.
 
-Ochrowooliwkowy.Zarodnikigładkie o średnicy 12–14 × 4–6μm.
+Ochrowooliwkowy. Zarodniki gładkie o średnicy 12–14 × 4–6 μm.
 
-Podobny jestmodroborowik ponury(Suillellus luridus), ale ma rurki pomarańczowoczerwone i nie ma czerwonego trzonu. Podobnie ubarwione kapelusze mająkrwistoborowik szatański(Rubroboletus satanas) igorzkoborowik korzeniasty(Caloboletus radicans).
+Podobny jest modroborowik ponury (Suillellus luridus), ale ma rurki pomarańczowoczerwone i nie ma czerwonego trzonu. Podobnie ubarwione kapelusze mają krwistoborowik szatański (Rubroboletus satanas) i gorzkoborowik korzeniasty (Caloboletus radicans).
 
-
-## Występowanie
+## Występowanie 
 
 Występuje w Ameryce Północnej, Europie i Japonii. W Europie Środkowej jest dość rzadki. Ostatnio jednak jego liczebność wzrosła, prawdopodobnie dzięki zmniejszeniu się ilości związków siarki w powietrzu.
 
-Występuje przeważnie w górskichświerczynachi lasach liściastych, na kwaśnych glebach, głównie pod świerkami, dębami i bukami.Owocnikipojawiają się latem i jesienią. Występuje nierównomiernie; w niektórych okolicach jest rzadki, w innych pospolity. W Polsce występuje częściej na południu, szczególnie w niższych położeniach górskich.
+Występuje przeważnie w górskich świerczynach i lasach liściastych, na kwaśnych glebach, głównie pod świerkami, dębami i bukami. Owocniki pojawiają się latem i jesienią. Występuje nierównomiernie; w niektórych okolicach jest rzadki, w innych pospolity. W Polsce występuje częściej na południu, szczególnie w niższych położeniach górskich.
 
+## Znaczenie 
 
-## Znaczenie
+Grzyb mykoryzowy. Grzyb niejadalny, według niektórych uznawany za lekko trujący. Może spowodować poważne zaburzenia ze strony układu pokarmowego, pojawiające się po około 20 minutach po spożyciu i trwające do 2 dni.
 
-Grzyb mykoryzowy.Grzyb niejadalny, według niektórych uznawany zalekko trujący. Może spowodować poważne zaburzenia ze strony układu pokarmowego, pojawiające się po około 20 minutach po spożyciu i trwające do 2 dni.
+## Przypisy 
 
-
-## Przypisy

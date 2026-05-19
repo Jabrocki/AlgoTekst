@@ -1,5 +1,5 @@
 #agrocybe_cylindracea
-#no_sources: 1
+#no_sources: 2
 
 ---
 latin_name: Agrocybe cylindracea
@@ -56,3 +56,44 @@ Pora występowania:
 wiosna,
 lato,
 jesień
+
+---
+latin_name: agrocybe cylindracea
+polish_name: Polownica południowa
+source: https://pl.wikipedia.org/wiki/Polownica_południowa
+---
+# Polownica południowa 
+# agrocybe cylindracea 
+
+Polownica południowa, polówka południowa (Cyclocybe cylindracea (DC.) Vizzini & Angelini) – gatunek grzybów z rodziny Tubariaceae.
+
+## Systematyka i nazewnictwo 
+
+Pozycja w klasyfikacji według Index Fungorum: Cyclocybe, Tubariaceae, Agaricales, Agaricomycetidae, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
+
+Po raz pierwszy gatunek ten opisał w 1815 r. Augustin Pyramus de Candolle pod nazwą Agaricus cylindraceus. Potem zaliczany był do rodzajów Pholiota, Agrocybe lub Togaria. Do rodzaju Cyclocybe przenieśli go Alfredo Vizzini i Claudio Angelini w 2014 r.
+
+Ma 11 synonimów. Niektóre z nich:
+
+W 2003 r. Władysław Wojewoda zaproponował polską nazwę polówka południowa. Wówczas gatunek ten zaliczany był do rodzaju Agrocybe (polówka). Po przeniesieniu do rodzaju Cyclocybe nazwa stała się niespójna z nazwą naukową. Nazwę polownica południowa podaje internetowy atlas grzybów.
+
+## Morfologia 
+
+Średnica 4–12 cm, u młodych owocników półkulisty, potem płaskołukowaty, w końcu płaski. Powierzchnia gładka lub garbkowato pomarszczona, podczas suchej pogody popękana, sucha, początkowo brązowa, potem brązowoochrowa lub ochrowa, na środku ciemniejsza.
+
+Gęste, wykrojone i zbiegające ząbkiem, początkowo o barwie od białej do kremowej, potem brązowe.
+
+Wysokość 3–15 cm, grubość 1–2 cm, kształt walcowaty, dołem zwężony, pełny. Powierzchnia bladokremowa. Pod kalepuszem jest biały, błoniasty pierścień.
+
+Biały, zwarty, o przyjemnym zapachu i smaku.
+
+Brudno ciemnobrązowawy. Zarodniki blado brązowawe, elipsoidalne lub nerkowate, gładkie, o wymiarach 9 – 11 × 6 – 7 µm, z niewyraźną porą rostkową.
+
+## Występowanie i siedlisko 
+
+Znane jest występowanie polownicy południowej w Europie, Maroku, Japonii, Korei, Gruzji i na Tajwanie. W. Wojewoda proponował umieszczenie tego gatunku na czerwonej liście gatunków zagrożonych w kategorii gatunek rzadki. Do 2020 r. w piśmiennictwie naukowym podano 5 stanowisk tego gatunku w Polsce, wszystkie jednak są błędne i wątpliwe. Aktualne stanowiska podaje także internetowy atlas grzybów. Znajduje się na Czerwonej liście roślin i grzybów Polski. Ma status E – gatunek wymierający, którego przeżycie jest mało prawdopodobne, jeśli nadal będą działać czynniki zagrożenia. W latach 1995–2004 i ponownie od roku 2014 gatunek objęty ochroną częściową bez możliwości zastosowania wyłączeń spod ochrony uzasadnionych względami gospodarki rolnej, leśnej lub rybackiej.
+
+Saprotrof i pasożyt. Występuje w lasach i przy drogach, niemal wyłącznie na drewnie topoli, rzadziej na olchach i wiązach. Rozwija się przy podstawie żywych pni i w dolnej ich części do wysokości 1,5 m, także na martwych pniach, najczęściej na korzeniach. Obszar występowania pokrywa się z obszarem uprawy winorośli.
+
+## Przypisy 
+

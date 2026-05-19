@@ -1,5 +1,5 @@
 #agaricus_urinascens
-#no_sources: 4
+#no_sources: 3
 
 ---
 latin_name: Agaricus urinascens
@@ -38,25 +38,6 @@ Pieczarka słomkowożółta jest smacznym grzybem jadalnym o wysokiej wartości 
 
 ## Zastosowanie
 Pieczarkę słomkowożółtą można gotować, dusić, smażyć i piec. Dobrze smakuje w połączeniu z innymi pieczarkami . Można jej także używać jako składnika do zup , sosów i sałatek.
-
-
----
-latin_name: Agaricus urinascens
-polish_name: Pieczarka urynowa
-source: https://grzyby.pl/gatunki/Agaricus_urinascens.htm
----
-
-# Pieczarka urynowa
-
-## Występowanie, ekologia
-
-Na łąkach, pastwiskach, polanach leśnych i w parkach; na ziemi; czasem w czarcich kręgach; sierpień-październik.
-
-Czerwona Lista [125 ] — R–rzadki - potencjalnie zagrożony wymarciem
-
-## Jadalne czy trujące? 🟢
-
-Młode owocniki jadalne. [105 ]
 
 
 ---
@@ -147,25 +128,24 @@ Zapach:
 anyżowy
 
 ---
-latin_name: Agaricus urinascens (Jul. Schäff. & F.H. Møller
-polish_name: Pieczarka urynowa, pieczarka słomkowożółta, pieczarka wielkozarodnikowa
-source: https://pl.wikipedia.org/api/rest_v1/page/html/Pieczarka_słomkowożółta
+latin_name: agaricus urinascens
+polish_name: Pieczarka urynowa
+source: https://pl.wikipedia.org/wiki/Pieczarka_urynowa
 ---
+# Pieczarka urynowa 
+# agaricus urinascens 
 
+Pieczarka urynowa, pieczarka słomkowożółta, pieczarka wielkozarodnikowa (Agaricus urinascens (Jul. Schäff. & F.H. Møller) Singer) – gatunek grzybów z rodziny pieczarkowatych (Agaricaceae).
 
-Pieczarka urynowa, pieczarka słomkowożółta, pieczarka wielkozarodnikowa (Agaricus urinascens(Jul. Schäff. & F.H. Møller) Singer) – gatunekgrzybówz rodzinypieczarkowatych(Agaricaceae).
+## Systematyka i nazewnictwo 
 
+Pozycja w klasyfikacji według Index Fungorum: Agaricaceae, Agaricales, Agaricomycetidae, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
 
-## Systematyka i nazewnictwo
+Po raz pierwszy takson ten zdiagnozowali w 1938 r. Julius Schäffer i Friedrich Alfred Møller, nadając mu nazwę Psalliota urinascens. Obecną, uznaną przez Index Fungorum nazwę, nadał mu w 1951 r. Rolf Singer. Niektóre synonimy naukowe:
 
-Pozycja w klasyfikacji wedługIndex Fungorum:Agaricaceae, Agaricales, Agaricomycetidae, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
+Polską nazwę pieczarka urynowa zarekomendowała Komisja ds. Polskiego Nazewnictwa Grzybów Polskiego Towarzystwa Mykologicznego w 2025 r. Gatunek ten opisywany był także jako pieczarka słomkowa oraz pieczarka słomkowożółta. W niektórych opracowaniach (m.in. w checklist W. Wojewody) opisywany jest jako pieczarka wielkozarodnikowa (Agaricus macrosporus (F.H. Møller & Jul. Schäff.) Pilát), jednak według Index Fungorum jest to synonim Agaricus urinascens.
 
-Po raz pierwszytaksonten zdiagnozowali w 1938 r.Julius SchäfferiFriedrich Alfred Møller, nadając mu nazwęPsalliota urinascens. Obecną, uznaną przez Index Fungorum nazwę, nadał mu w 1951 r.Rolf Singer. Niektóresynonimy naukowe:
-
-Polską nazwępieczarka urynowa zarekomendowała Komisja ds. Polskiego Nazewnictwa GrzybówPolskiego Towarzystwa Mykologicznegow 2025 r.Gatunek ten opisywany był także jako pieczarka słomkowa oraz pieczarka słomkowożółta. W niektórych opracowaniach (m.in. w checklist W. Wojewody) opisywany jest jako pieczarka wielkozarodnikowa (Agaricus macrosporus(F.H. Møller & Jul. Schäff.) Pilát), jednak wedługIndex Fungorumjest to synonimAgaricus urinascens.
-
-
-## Morfologia
+## Morfologia 
 
 Za młodu półkulisty, później wypukły do płaskiego; biały, mięsisty, przy nacisku powoli przebarwiający się na żółto; z wierzchu delikatnie jedwabisto-łuseczkowaty. Średnicy 15–25 cm, a nawet do 50 cm.
 
@@ -173,23 +153,21 @@ Początkowo szare potem purpurowobrązowe; gęste, nie przyrośnięte do trzonu.
 
 Mocny i bardzo gruby, dosyć krótki, z delikatnie kosmkowatą powierzchnią; z pierścieniem bardzo szerokim, grubym, początkowo odstającym poziomo, o ząbkowanym brzegu; niżej żółtawy.
 
-Biały, na przekroju w trzonie wolno przebarwia się na pomarańczowo lub czerwonawo; smak łagodny, słaby zapachanyżku.
+Biały, na przekroju w trzonie wolno przebarwia się na pomarańczowo lub czerwonawo; smak łagodny, słaby zapach anyżku.
 
-Ciemny, purpurowobrązowy.Zarodnikieliptyczne, gładkie, o rozmiarach 8,5–12,5 × 5,5–6,5 µm, bez pory rostkowej.
+Ciemny, purpurowobrązowy. Zarodniki eliptyczne, gładkie, o rozmiarach 8,5–12,5 × 5,5–6,5 µm, bez pory rostkowej.
 
-Może być mylony ze śmiertelnie trującymimuchomorami, na przykład zmuchomorem zielonawym, czyli sromotnikowym (Amanita phalloides), czy też zmuchomorem wiosennym(Amanita verna) bądź zmuchomorem jadowitym(Amanita virosa). Podobna jest również blisko spokrewniona, jadalnapieczarka biaława(Agaricus arvensis), która ma mniejsze zarodniki oraz trującapieczarka karbolowa(Agaricus xanthoderma).
+Może być mylony ze śmiertelnie trującymi muchomorami, na przykład z muchomorem zielonawym, czyli sromotnikowym (Amanita phalloides), czy też z muchomorem wiosennym (Amanita verna) bądź z muchomorem jadowitym (Amanita virosa). Podobna jest również blisko spokrewniona, jadalna pieczarka biaława (Agaricus arvensis), która ma mniejsze zarodniki oraz trująca pieczarka karbolowa (Agaricus xanthoderma).
 
+## Występowanie i siedlisko 
 
-## Występowanie i siedlisko
+Występuje w Ameryce Północnej, Europie i na Nowej Zelandii. Jest dość rzadki, miejscami rozpowszechniony. W Polsce gatunek rzadki. Znajduje się na Czerwonej liście roślin i grzybów Polski. Ma status R – potencjalnie zagrożony z powodu ograniczonego zasięgu geograficznego i małych obszarów siedliskowych. Znajduje się na listach gatunków zagrożonych także w Belgii i Norwegii.
 
-Występuje w Ameryce Północnej, Europie i na Nowej Zelandii. Jest dość rzadki, miejscami rozpowszechniony. W Polsce gatunek rzadki. Znajduje się naCzerwonej liście roślin i grzybów Polski. Ma status R – potencjalnie zagrożony z powodu ograniczonego zasięgu geograficznego i małych obszarów siedliskowych. Znajduje się na listach gatunków zagrożonych także w Belgii i Norwegii.
+Naziemny grzyb saprotroficzny. Owocniki od sierpnia do października, przeważnie na skrajach lasów, w miejscach trawiastych (na łąkach, pastwiskach), zwłaszcza w średnich górach i w Alpach.
 
-Naziemnygrzyb saprotroficzny.Owocnikiod sierpnia do października, przeważnie na skrajach lasów, w miejscach trawiastych (na łąkach, pastwiskach), zwłaszcza w średnich górach i wAlpach.
+## Znaczenie 
 
+Grzyb jadalny i bardzo wydajny.
 
-## Znaczenie
+## Przypisy 
 
-Grzyb jadalnyi bardzo wydajny.
-
-
-## Przypisy

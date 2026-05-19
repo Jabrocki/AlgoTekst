@@ -1,14 +1,5 @@
 #cladonia_cervicornis
-#no_sources: 2
-
----
-latin_name: Cladonia cervicornis
-polish_name: Chrobotek okółkowy
-source: https://grzyby.pl/gatunki/Cladonia_cervicornis_ssp._cervicornis.htm
----
-
-# Chrobotek okółkowy
-
+#no_sources: 1
 
 ---
 latin_name: Cladonia cervicornis

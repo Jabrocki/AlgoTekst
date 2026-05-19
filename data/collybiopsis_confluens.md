@@ -1,5 +1,5 @@
 #collybiopsis_confluens
-#no_sources: 3
+#no_sources: 2
 
 ---
 latin_name: Collybiopsis confluens
@@ -31,29 +31,28 @@ Charakterystyczne jest występowanie w zwartych kępkach, bardzo licznie. Kapelu
 
 
 ---
-latin_name: Collybiopsis confluens (Pers.
+latin_name: collybiopsis confluens
 polish_name: Łysostopek pozrastany
-source: https://pl.wikipedia.org/api/rest_v1/page/html/Łysostopek_pozrastany
+source: https://pl.wikipedia.org/wiki/Łysostopek_pozrastany
 ---
+# Łysostopek pozrastany 
+# collybiopsis confluens 
 
+Łysostopek pozrastany (Collybiopsis confluens (Pers.) R.H. Petersen) – gatunek grzybów należący do rodziny Omphalotaceae.
 
-Łysostopek pozrastany(Collybiopsis confluens(Pers.) R.H. Petersen) –gatunekgrzybów należący do rodzinyOmphalotaceae.
+## Systematyka i nazewnictwo 
 
+Pozycja w klasyfikacji według Index Fungorum: Collybiopsis, Omphalotaceae, Agaricales, Agaricomycetidae, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
 
-## Systematyka i nazewnictwo
+Po raz pierwszy takson ten zdiagnozował w roku 1796 Christian Hendrik Persoon, nadając mu nazwę Agaricus confluens. Obecną, uznaną przez Index Fungorum nazwę nadał mu w roku 2021 R.H. Petersen, przenosząc go do rodzaju Collybiopsis.
 
-Pozycja w klasyfikacji wedługIndex Fungorum:Collybiopsis, Omphalotaceae, Agaricales, Agaricomycetidae, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
+Niektóre synonimy:
 
-Po raz pierwszytaksonten zdiagnozował w roku 1796Christian Hendrik Persoon, nadając mu nazwęAgaricus confluens. Obecną, uznaną przez Index Fungorum nazwę nadał mu w roku 2021 R.H. Petersen, przenosząc go do rodzajuCollybiopsis.
+Polską nazwę podał Władysław Wojewoda w 2003. W polskim piśmiennictwie mykologicznym gatunek ten opisywany był też pod nazwami: pieniążek zlewający się, bedłka zlewająca się, twardzioszek gromadny, twardzioszek nieprzyjemny i pieniążek pozrastany.
 
-Niektóresynonimy:
+## Morfologia 
 
-Polską nazwępodałWładysław Wojewodaw 2003. W polskim piśmiennictwie mykologicznym gatunek ten opisywany był też pod nazwami: pieniążek zlewający się, bedłka zlewająca się, twardzioszek gromadny, twardzioszek nieprzyjemny i pieniążek pozrastany.
-
-
-## Morfologia
-
-Średnica 2–4 cm. U młodych owocników półkulisty lub tępodzwonkowy, później staje się spłaszczony z szerokim i tępym garbem, na koniec spłaszczony z wywiniętym brzegiem. Powierzchnia gładka, naga. Jesthigrofaniczny; w stanie suchym powierzchnia jest matowa i ma kolor bladokremowy, w stanie wilgotnym jest błyszcząca, w kolorze od jasno cielistobrązowego do mięsnobrązowego. Owocniki prawie zawsze wyrastają kępami, czasami razem z innymi gatunkami.
+Średnica 2–4 cm. U młodych owocników półkulisty lub tępodzwonkowy, później staje się spłaszczony z szerokim i tępym garbem, na koniec spłaszczony z wywiniętym brzegiem. Powierzchnia gładka, naga. Jest higrofaniczny; w stanie suchym powierzchnia jest matowa i ma kolor bladokremowy, w stanie wilgotnym jest błyszcząca, w kolorze od jasno cielistobrązowego do mięsnobrązowego. Owocniki prawie zawsze wyrastają kępami, czasami razem z innymi gatunkami.
 
 Blaszki wąskie i gęste, początkowo białe, później cielistoochrowe do mięsnobrązowych. Ostrza blaszek owłosione. Przy trzonie blaszki wolne.
 
@@ -61,71 +60,19 @@ Wysokość 5–12 cm, grubość do 0,5 cm. Jest cylindryczny, cienki i smukły, 
 
 Cienki i łykowaty, białawy. Nie zmienia koloru po uszkodzeniu. Smak łagodny, zapach słaby i nieokreślony.
 
-Biały.Zarodnikiwydłużone, gładkie, o średnicy 7–10 × 2–3 µm.
+Biały. Zarodniki wydłużone, gładkie, o średnicy 7–10 × 2–3 µm.
 
-Jest wiele podobnych gatunków grzybów, ale łysostopek pozrastany ma kilka charakterystycznych cech, po których łatwo można go odróżnić: wyrasta w kępach, a cienkie trzony poszczególnych owocników są zrośnięte podstawami i pokryte białymi brodawkami „włoskami”. Ma gęste blaszki, a trzon odrywa się od kapelusza razem z tarczką. Najbardziej podobny jestłysostopek cierpki(Gymnopus peronatus).
+Jest wiele podobnych gatunków grzybów, ale łysostopek pozrastany ma kilka charakterystycznych cech, po których łatwo można go odróżnić: wyrasta w kępach, a cienkie trzony poszczególnych owocników są zrośnięte podstawami i pokryte białymi brodawkami „włoskami”. Ma gęste blaszki, a trzon odrywa się od kapelusza razem z tarczką. Najbardziej podobny jest łysostopek cierpki (Gymnopus peronatus).
 
-
-## Występowanie i siedlisko
-
-Występuje na półkuli północnej w strefie klimatu umiarkowanego i arktycznego. W Europie jest pospolity, na północy jego zasięg sięga po Szwecję, w Azji występuje na Kaukazie, Syberii, Kamczatce, w Chinach, Korei, Japonii, w Ameryce Północnej w USA i Kanadzie. W Polsce jest pospolity.
-
-Saprotrof.Owocnikipojawiają się w różnego rodzaju lasach od lata do jesieni, prawie zawsze w kępach. Czasami tworzączarcie kręgi.Grzyb mykoryzowy, żyjący w symbiozie z wieloma gatunkami drzew liściastych, najczęściej jednak rośnie pod bukami.
-
-
-## Znaczenie
-
-Grzyb jadalny. Ma jednak niewielkie wartości smakowe, może być używany jako domieszka do innych grzybów. Trzony z powodu łykowatości nie nadają się do spożycia. Przez niektórych autorów jednak uważany jest zagrzyb trujący.
-
-
-## Przypisy
-
----
-latin_name: Collybiopsis confluens (Pers.
-polish_name: Łysostopek pozrastany
-source: https://pl.wikipedia.org/api/rest_v1/page/html/Łysostopek_pozrastany
----
-
-
-Łysostopek pozrastany(Collybiopsis confluens(Pers.) R.H. Petersen) –gatunekgrzybów należący do rodzinyOmphalotaceae.
-
-
-## Systematyka i nazewnictwo
-
-Pozycja w klasyfikacji wedługIndex Fungorum:Collybiopsis, Omphalotaceae, Agaricales, Agaricomycetidae, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
-
-Po raz pierwszytaksonten zdiagnozował w roku 1796Christian Hendrik Persoon, nadając mu nazwęAgaricus confluens. Obecną, uznaną przez Index Fungorum nazwę nadał mu w roku 2021 R.H. Petersen, przenosząc go do rodzajuCollybiopsis.
-
-Niektóresynonimy:
-
-Polską nazwępodałWładysław Wojewodaw 2003. W polskim piśmiennictwie mykologicznym gatunek ten opisywany był też pod nazwami: pieniążek zlewający się, bedłka zlewająca się, twardzioszek gromadny, twardzioszek nieprzyjemny i pieniążek pozrastany.
-
-
-## Morfologia
-
-Średnica 2–4 cm. U młodych owocników półkulisty lub tępodzwonkowy, później staje się spłaszczony z szerokim i tępym garbem, na koniec spłaszczony z wywiniętym brzegiem. Powierzchnia gładka, naga. Jesthigrofaniczny; w stanie suchym powierzchnia jest matowa i ma kolor bladokremowy, w stanie wilgotnym jest błyszcząca, w kolorze od jasno cielistobrązowego do mięsnobrązowego. Owocniki prawie zawsze wyrastają kępami, czasami razem z innymi gatunkami.
-
-Blaszki wąskie i gęste, początkowo białe, później cielistoochrowe do mięsnobrązowych. Ostrza blaszek owłosione. Przy trzonie blaszki wolne.
-
-Wysokość 5–12 cm, grubość do 0,5 cm. Jest cylindryczny, cienki i smukły, elastyczny, rurkowaty. Barwa taka sama, jak kapelusza. Po oderwaniu kapelusza na trzonie pozostaje tarczka, w kapeluszu natomiast okrągły otwór. Charakterystyczną cechą tego gatunku jest pokrycie całej powierzchni trzonu białymi brodawkami (włoskami){, oraz to, że trzony owocników w jednej kępie są pozrastane podstawą.
-
-Cienki i łykowaty, białawy. Nie zmienia koloru po uszkodzeniu. Smak łagodny, zapach słaby i nieokreślony.
-
-Biały.Zarodnikiwydłużone, gładkie, o średnicy 7–10 × 2–3 µm.
-
-Jest wiele podobnych gatunków grzybów, ale łysostopek pozrastany ma kilka charakterystycznych cech, po których łatwo można go odróżnić: wyrasta w kępach, a cienkie trzony poszczególnych owocników są zrośnięte podstawami i pokryte białymi brodawkami „włoskami”. Ma gęste blaszki, a trzon odrywa się od kapelusza razem z tarczką. Najbardziej podobny jestłysostopek cierpki(Gymnopus peronatus).
-
-
-## Występowanie i siedlisko
+## Występowanie i siedlisko 
 
 Występuje na półkuli północnej w strefie klimatu umiarkowanego i arktycznego. W Europie jest pospolity, na północy jego zasięg sięga po Szwecję, w Azji występuje na Kaukazie, Syberii, Kamczatce, w Chinach, Korei, Japonii, w Ameryce Północnej w USA i Kanadzie. W Polsce jest pospolity.
 
-Saprotrof.Owocnikipojawiają się w różnego rodzaju lasach od lata do jesieni, prawie zawsze w kępach. Czasami tworzączarcie kręgi.Grzyb mykoryzowy, żyjący w symbiozie z wieloma gatunkami drzew liściastych, najczęściej jednak rośnie pod bukami.
+Saprotrof. Owocniki pojawiają się w różnego rodzaju lasach od lata do jesieni, prawie zawsze w kępach. Czasami tworzą czarcie kręgi. Grzyb mykoryzowy, żyjący w symbiozie z wieloma gatunkami drzew liściastych, najczęściej jednak rośnie pod bukami.
 
+## Znaczenie 
 
-## Znaczenie
+Grzyb jadalny. Ma jednak niewielkie wartości smakowe, może być używany jako domieszka do innych grzybów. Trzony z powodu łykowatości nie nadają się do spożycia. Przez niektórych autorów jednak uważany jest za grzyb trujący.
 
-Grzyb jadalny. Ma jednak niewielkie wartości smakowe, może być używany jako domieszka do innych grzybów. Trzony z powodu łykowatości nie nadają się do spożycia. Przez niektórych autorów jednak uważany jest zagrzyb trujący.
+## Przypisy 
 
-
-## Przypisy

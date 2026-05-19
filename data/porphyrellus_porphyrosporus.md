@@ -33,25 +33,24 @@ Gatunek bardzo charakterystyczny z uwagi na swoją barwę i przebarwienia miąż
 
 
 ---
-latin_name: Porphyrellus porphyrosporus (Fr. & Hök
+latin_name: porphyrellus porphyrosporus
 polish_name: Grzybiec purpurowozarodnikowy
-source: https://pl.wikipedia.org/api/rest_v1/page/html/Grzybiec_purpurowozarodnikowy
+source: https://pl.wikipedia.org/wiki/Grzybiec_purpurowozarodnikowy
 ---
+# Grzybiec purpurowozarodnikowy 
+# porphyrellus porphyrosporus 
 
+Grzybiec purpurowozarodnikowy (Porphyrellus porphyrosporus (Fr. & Hök) E.-J. Gilbert) – gatunek grzybów z rodziny borowikowatych (Boletaceae).
 
-Grzybiec purpurowozarodnikowy(Porphyrellus porphyrosporus(Fr. & Hök) E.-J. Gilbert) – gatunekgrzybówz rodzinyborowikowatych(Boletaceae).
+## Systematyka i nazewnictwo 
 
+Pozycja w klasyfikacji według Index Fungorum: Porphyrellus, Boletaceae, Boletales, Agaricomycetidae, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
 
-## Systematyka i nazewnictwo
+Po raz pierwszy takson ten zdiagnozowali w 1835 r. Elias Fries i Christopher Theodor Hök, nadając mu nazwę Boletus porphyrosporus. Obecną, uznaną przez Index Fungorum nazwę nadał mu w 1931 r. Edouard-Jean Gilbert. Synonimy naukowe:
 
-Pozycja w klasyfikacji wedługIndex Fungorum:Porphyrellus, Boletaceae, Boletales, Agaricomycetidae, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
+Nazwę polską nadała Alina Skirgiełło w 1960 roku. Władysław Wojewoda w 1998 roku nadał temu gatunkowi polską nazwę goryczak purpurowozarodnikowy, gdyż wówczas znajdował się on w rodzaju Tylopilus jako T. porphyrosporus. Najnowsze badania potwierdzają przynależność tego gatunku jednak do rodzaju Porphyrellus.
 
-Po raz pierwszytaksonten zdiagnozowali w 1835 r.Elias FriesiChristopher Theodor Hök, nadając mu nazwęBoletus porphyrosporus. Obecną, uznaną przez Index Fungorum nazwę nadał mu w 1931 r.Edouard-Jean Gilbert.Synonimy naukowe:
-
-Nazwę polską nadałaAlina Skirgiełłow 1960 roku.Władysław Wojewodaw 1998 roku nadał temu gatunkowi polską nazwę goryczak purpurowozarodnikowy, gdyż wówczas znajdował się on w rodzajuTylopilusjakoT. porphyrosporus.Najnowsze badania potwierdzają przynależność tego gatunku jednak do rodzajuPorphyrellus.
-
-
-## Morfologia
+## Morfologia 
 
 Średnica 8–14 cm, młody półkulisty, później wypukły do prawie płaskiego, o okrągłym lub owalnym kształcie. Za młodu jasnoszary, wcześnie ciemniejący brązowo do szarobrązowego; powierzchnia matowa i delikatnie omszona, nie śliska. W większości przypadków jest ciemny i wygląda, jak przydymiony. Skórka nie daje się ściągnąć, na starość czasami pęka.
 
@@ -61,21 +60,19 @@ Wysokość 4–16 cm, grubość 1–4 cm, początkowo beczułkowaty, później w
 
 Biały lub brudnoszarobiaławy, po przekrojeniu słabo nabiega zielonkawobłękitno (przede wszystkim nad rurkami), a powoli czerwienieje, szczególnie pod skórką kapelusza. Bez zapachu o smaku łagodnym.
 
-Ciemnoczerwonawobrązowy.Zarodnikipodłużnie eliptyczno-wrzecionowate, gładkie, o średnicy 14–20 × 6–8 µm.
+Ciemnoczerwonawobrązowy. Zarodniki podłużnie eliptyczno-wrzecionowate, gładkie, o średnicy 14–20 × 6–8 µm.
 
 Trudny do pomylenia z innymi gatunkami grzybów.
 
+## Występowanie i siedlisko 
 
-## Występowanie i siedlisko
+Występuje w Ameryce Północnej, Europie oraz Japonii. W Polsce gatunek rzadki. Znajduje się na Czerwonej liście roślin i grzybów Polski. Ma status R – potencjalnie zagrożony z powodu ograniczonego zasięgu geograficznego i małych obszarów siedliskowych. Znajduje się na czerwonych listach gatunków zagrożonych także w Belgii, Niemczech, Estonii, Litwie, Szwecji, Norwegii, Łotwie.
 
-Występuje w Ameryce Północnej, Europie oraz Japonii. W Polsce gatunek rzadki. Znajduje się naCzerwonej liście roślin i grzybów Polski. Ma status R – potencjalnie zagrożony z powodu ograniczonego zasięgu geograficznego i małych obszarów siedliskowych. Znajduje się na czerwonych listach gatunków zagrożonych także w Belgii, Niemczech, Estonii, Litwie, Szwecji, Norwegii, Łotwie.
+Naziemny grzyb mykoryzowyRośnie w lasach iglastych i mieszanych, rzadziej w liściastych, na ziemi, pod świerkami, jodłami i bukami, na kwaśnych glebach, szczególnie w rejonach wyżej położonych. Owocniki wyrastają od czerwca do listopada.
 
-Naziemnygrzyb mykoryzowyRośnie w lasach iglastych i mieszanych, rzadziej w liściastych, na ziemi, podświerkami,jodłamiibukami, na kwaśnych glebach, szczególnie w rejonach wyżej położonych.Owocnikiwyrastają od czerwca do listopada.
-
-
-## Znaczenie
+## Znaczenie 
 
 Grzyb niejadalny. Nie jest trujący i może być spożywany, ale zwykle jest traktowany jako niejadalny z uwagi na wręcz odrażający smak i zapach podczas gotowania.
 
+## Przypisy 
 
-## Przypisy

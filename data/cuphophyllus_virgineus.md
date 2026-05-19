@@ -1,14 +1,5 @@
 #cuphophyllus_virgineus
-#no_sources: 4
-
----
-latin_name: Cuphophyllus virgineus
-polish_name: Kopułka brązowiejąca
-source: https://grzyby.pl/gatunki/Hygrocybe_virginea_var._fuscescens.htm
----
-
-# Kopułka brązowiejąca
-
+#no_sources: 2
 
 ---
 latin_name: Cuphophyllus virgineus.
@@ -70,101 +61,48 @@ Zapach:
 brak/nieokreślony
 
 ---
-latin_name: Cuphophyllus virgineus (Wulfen
+latin_name: cuphophyllus virgineus
 polish_name: Kopułka śnieżna
-source: https://pl.wikipedia.org/api/rest_v1/page/html/Kopułek_śnieżny
+source: https://pl.wikipedia.org/wiki/Kopułka_śnieżna
 ---
+# Kopułka śnieżna 
+# cuphophyllus virgineus 
 
+Kopułka śnieżna (Cuphophyllus virgineus (Wulfen) Kovalenko) – gatunek grzybów z rodziny Cuphophyllaceae.
 
-Kopułka śnieżna(Cuphophyllus virgineus(Wulfen) Kovalenko) –gatunekgrzybów zrodzinywodnichowatych(Hygrophoraceae).
+## Systematyka i nazewnictwo 
 
+Pozycja w klasyfikacji według Index Fungorum: Cuphophyllus, Cuphophyllaceae, Agaricales, Agaricomycetidae, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
 
-## Systematyka i nazewnictwo
+Po raz pierwszy takson ten zdiagnozował w 1781 r. Franz Xaver von Wulfen, nadając mu nazwę Agaricus virgineus. Obecną, uznaną przez Index Fungorum nazwę nadał mu w 1989 r. Alexander E. Kovalenko, przenosząc go do rodzaju Cuphophyllus.
 
-Pozycja w klasyfikacji wedługIndex Fungorum:Cuphophyllus, Hygrophoraceae, Agaricales, Agaricomycetidae, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
+Synonimów naukowych jest ponad 60. Niektóre z nich:
 
-Po raz pierwszytaksonten zdiagnozował w 1781 r.Franz Xaver von Wulfen, nadając mu nazwęAgaricus virgineus. Obecną, uznaną przez Index Fungorum nazwę nadał mu w 1989 r. Alexander E. Kovalenko, przenosząc go do rodzajuCuphophyllus.
+Polską nazwę podał Feliks Berdau w 1876 r. W polskim piśmiennictwie mykologicznym gatunek ten opisywany był też jako kopułek śnieżny, bedłka panieńska, bedłka śnieżna, wodnicha śnieżysta, kopułek okazały, kopułek promienisty. Niektóre atlasy grzybów podają nazwę wilgotnica śnieżna. Wszystkie te nazwy są jednak niespójne z aktualną nazwą naukową, według Index Fungorum gatunek ten bowiem obecnie należy do rodzaju Cuphophyllus. W 2024 Komisja ds. Polskiego Nazewnictwa Grzybów Polskiego Towarzystwa Mykologicznego zarekomendowała używanie nazwy kopułka śnieżna.
 
-Synonimów naukowychjest ponad 60. Niektóre z nich:
-
-Polską nazwę podałFeliks Berdauw 1876 r. W polskim piśmiennictwie mykologicznym gatunek ten opisywany był też jako kopułek śnieżny, bedłka panieńska, bedłka śnieżna, wodnicha śnieżysta, kopułek okazały, kopułek promienisty. Niektóre atlasy grzybów podają nazwę wilgotnica śnieżna. Wszystkie te nazwy są jednak niespójne z aktualną nazwą naukową, wedługIndex Fungorumgatunek ten bowiem obecnie należy do rodzajuCuphophyllus. W 2024 Komisja ds. Polskiego Nazewnictwa GrzybówPolskiego Towarzystwa Mykologicznegozarekomendowała używanie nazwy kopułka śnieżna.
-
-
-## Morfologia
+## Morfologia 
 
 Średnica od 2 do 4,5 cm, młody – półkulisty, wypukły, później płaski, a w środku nieco zapadnięty. W wilgotnych warunkach bladożółty do wodnistobiałego, nieco lepki, w czasie suszy śnieżnobiały.
 
 Rzadkie, zbiegające po trzonie, u podstawy szerokie, w ostrzu cienkie, wodniste, białożółtawe.
 
-Wysokość od 1,5 do 4,5 cm,średnicaod 3 do 5 mm, równo gruby, ku podstawy zwężony i spłaszczony, początkowo pełny, później pusty,kolorbiały, czasami z różowym nalotem.
+Wysokość od 1,5 do 4,5 cm, średnica od 3 do 5 mm, równo gruby, ku podstawy zwężony i spłaszczony, początkowo pełny, później pusty, kolor biały, czasami z różowym nalotem.
 
-Wodnistobiały, brakzapachu,smakłagodny.
-
-Biały.
-
-Ze względu na charakterystyczny wygląd i miejsce wyrastania, pomyłka jest mało prawdopodobna.
-
-
-## Występowanie i siedlisko
-
-Występuje na półkuli północnej. W polskim piśmiennictwie naukowym opisany na licznych stanowiskach.
-
-Naziemnygrzyb saprotroficzny. Pojawia się od września do listopada. Dosyć częsty, rośnie na wilgotnychpastwiskachiłąkachi porośniętychtrawądrogach leśnych.
-
-
-## Znaczenie
-
-Jest to grzyb jadalny, lecz zbyt mały, żeby jego zbieranie było opłacalne.
-
-
-## Przypisy
-
----
-latin_name: Cuphophyllus virgineus (Wulfen
-polish_name: Kopułka śnieżna
-source: https://pl.wikipedia.org/api/rest_v1/page/html/Kopułka_śnieżna
----
-
-
-Kopułka śnieżna(Cuphophyllus virgineus(Wulfen) Kovalenko) –gatunekgrzybów zrodzinywodnichowatych(Hygrophoraceae).
-
-
-## Systematyka i nazewnictwo
-
-Pozycja w klasyfikacji wedługIndex Fungorum:Cuphophyllus, Hygrophoraceae, Agaricales, Agaricomycetidae, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
-
-Po raz pierwszytaksonten zdiagnozował w 1781 r.Franz Xaver von Wulfen, nadając mu nazwęAgaricus virgineus. Obecną, uznaną przez Index Fungorum nazwę nadał mu w 1989 r. Alexander E. Kovalenko, przenosząc go do rodzajuCuphophyllus.
-
-Synonimów naukowychjest ponad 60. Niektóre z nich:
-
-Polską nazwę podałFeliks Berdauw 1876 r. W polskim piśmiennictwie mykologicznym gatunek ten opisywany był też jako kopułek śnieżny, bedłka panieńska, bedłka śnieżna, wodnicha śnieżysta, kopułek okazały, kopułek promienisty. Niektóre atlasy grzybów podają nazwę wilgotnica śnieżna. Wszystkie te nazwy są jednak niespójne z aktualną nazwą naukową, wedługIndex Fungorumgatunek ten bowiem obecnie należy do rodzajuCuphophyllus. W 2024 Komisja ds. Polskiego Nazewnictwa GrzybówPolskiego Towarzystwa Mykologicznegozarekomendowała używanie nazwy kopułka śnieżna.
-
-
-## Morfologia
-
-Średnica od 2 do 4,5 cm, młody – półkulisty, wypukły, później płaski, a w środku nieco zapadnięty. W wilgotnych warunkach bladożółty do wodnistobiałego, nieco lepki, w czasie suszy śnieżnobiały.
-
-Rzadkie, zbiegające po trzonie, u podstawy szerokie, w ostrzu cienkie, wodniste, białożółtawe.
-
-Wysokość od 1,5 do 4,5 cm,średnicaod 3 do 5 mm, równo gruby, ku podstawy zwężony i spłaszczony, początkowo pełny, później pusty,kolorbiały, czasami z różowym nalotem.
-
-Wodnistobiały, brakzapachu,smakłagodny.
+Wodnistobiały, brak zapachu, smak łagodny.
 
 Biały.
 
 Ze względu na charakterystyczny wygląd i miejsce wyrastania, pomyłka jest mało prawdopodobna.
 
-
-## Występowanie i siedlisko
+## Występowanie i siedlisko 
 
 Występuje na półkuli północnej. W polskim piśmiennictwie naukowym opisany na licznych stanowiskach.
 
-Naziemnygrzyb saprotroficzny. Pojawia się od września do listopada. Dosyć częsty, rośnie na wilgotnychpastwiskachiłąkachi porośniętychtrawądrogach leśnych.
+Naziemny grzyb saprotroficzny. Pojawia się od września do listopada. Dosyć częsty, rośnie na wilgotnych pastwiskach i łąkach i porośniętych trawą drogach leśnych.
 
-
-## Znaczenie
+## Znaczenie 
 
 Jest to grzyb jadalny, lecz zbyt mały, żeby jego zbieranie było opłacalne.
 
+## Przypisy 
 
-## Przypisy

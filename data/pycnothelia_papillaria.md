@@ -1,14 +1,5 @@
 #pycnothelia_papillaria
-#no_sources: 2
-
----
-latin_name: Pycnothelia papillaria
-polish_name: Karlinka brodawkowata
-source: https://grzyby.pl/gatunki/Pycnothelia_papillaria.htm
----
-
-# Karlinka brodawkowata
-
+#no_sources: 1
 
 ---
 latin_name: Pycnothelia papillaria

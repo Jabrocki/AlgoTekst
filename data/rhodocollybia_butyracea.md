@@ -1,26 +1,54 @@
 #rhodocollybia_butyracea
-#no_sources: 5
+#no_sources: 4
 
 ---
 latin_name: Rhodocollybia butyracea
-polish_name: Monetnica maślana forma szarobrązowawa
-source: https://grzyby.pl/gatunki/Rhodocollybia_butyracea_f._asema.htm
+polish_name: Monetnica maślana
+source: https://grzyby.pl/gatunki/Rhodocollybia_butyracea.htm
 ---
 
-# Monetnica maślana forma szarobrązowawa
+# Monetnica maślana
 
-## Występowanie, ekologia
+## Owocnik
 
-Gatunek pospolity. W lasach różnego typu, na ściółce; lipiec-grudzień.
+**Kapelusz** higrofaniczny , wilgotny czerwono-, ciemnobrązowy, kasztanowobrązowy, żółtobrązowy do prawie białego gdy suchy, brzeg jaśniejszy; częstsza forma szara monetnica maślana forma szarobrązowawa ( Rhodocollybia butyracea f. asema ) ma kapelusz szary, szarobrązowy, często z oliwkowym odcieniem ; 30-60(90) mm średnicy, początkowo nieco wypukły, potem spłaszczony, bez lub z niewysokim garbkiem, z wiekiem czasem z wywiniętym brzegiem; powierzchnia gładka, jedwabista, w dotyku sprawia wrażenie tłustej ; brzeg wyraźnie prążkowany u wilgotnych kapeluszy. **Trzon** barwy kapelusz ale jaśniejszy; 40-80 x 7-15 mm, równomiernie rozszerzający się ku podstawie ; powierzchnia wzdłużnie włóknisto-prążkowana; konsystencja chrząstkowata, elastyczny, wnętrze gąbczaste, z wiekiem pusty; Podstawa pokryta filcowato białą grzybnią.
+
+## Zarodniki
+
+Wysyp zarodników kremowy, blado różowy w masie. Zarodniki elipsoidalne, gładkie, bezbarwne, 6-7 x 3-3.5 µm.
+
+## Występowanie
+
+Bardzo pospolity. Owocniki wyrastają zwykle gromadnie od lata do późnej jesieni ze szczytem jesienią. W lasach liściastych i iglastych, na ziemi. Jako jeden z nielicznych grzybów spotykany pospolicie późną jesienią – w tym czasie kapelusze są zwykle zupełnie wyblakłe, niemal białe. Poznać je można dopiero na podstawie charakterystycznego trzonu i blaszek.
 
 ## Jadalne czy trujące? 🟢
 
 Grzyb jadalny [105 ] [134 ] ale mało cenny, gdyż mdły i łykowaty. Jeśli jeść to tylko kapelusze.
 
-## Rhodocollybia butyracea (bull.) lennox monetnica maślana
+## Uwagi
 
-Forma typowa tego gatunku jest ciepło brązowo zabarwiona.
+Obok formy typowej, o brązowym kapeluszu, równie często spotyka się formę szarobrązową monetnica maślana forma szarobrązowawa ( Rhodocollybia butyracea f. asema ) . Jest ona dominująca w lasach iglastych na kwaśnym podłożu. Charakteryzuje się ona szarą, szarobrązową, często z oliwkowym odcieniem, barwą kapelusza i trzonu.
 
+
+---
+latin_name: Rhodocollybia butyracea varietas asema
+source: https://www.nagrzyby.pl/atlas/1425
+---
+
+# Rhodocollybia butyracea varietas asema
+# monetnica maślana odm. szarobrązowa
+
+## Podstawowe informacje
+Typ grzyba:
+blaszki
+
+## Trzon
+Typ trzonu:
+centralny
+
+## Występowanie
+Sposób odżywiania:
+saprotrof
 
 ---
 latin_name: Rhodocollybia butyracea
@@ -65,47 +93,26 @@ Zapach:
 brak/nieokreślony
 
 ---
-latin_name: Rhodocollybia butyracea varietas asema
-source: https://www.nagrzyby.pl/atlas/1425
----
-
-# Rhodocollybia butyracea varietas asema
-# monetnica maślana odm. szarobrązowa
-
-## Podstawowe informacje
-Typ grzyba:
-blaszki
-
-## Trzon
-Typ trzonu:
-centralny
-
-## Występowanie
-Sposób odżywiania:
-saprotrof
-
----
-latin_name: Rhodocollybia butyracea (Bull.
+latin_name: rhodocollybia butyracea
 polish_name: Monetnica maślana
-source: https://pl.wikipedia.org/api/rest_v1/page/html/Monetnica_maślana
+source: https://pl.wikipedia.org/wiki/Monetnica_maślana
 ---
+# Monetnica maślana 
+# rhodocollybia butyracea 
 
+Monetnica maślana (Rhodocollybia butyracea (Bull.) Lennox) – gatunek grzybów należący do rodziny Omphalotaceae.
 
-Monetnica maślana(Rhodocollybia butyracea(Bull.) Lennox) –gatunekgrzybów należący do rodzinyOmphalotaceae.
+## Systematyka i nazewnictwo 
 
+Pozycja w klasyfikacji według Index Fungorum: Omphalotaceae, Agaricales, Agaricomycetidae, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
 
-## Systematyka i nazewnictwo
+Po raz pierwszy takson ten zdiagnozował w 1792 roku Jean Baptiste François Pierre Bulliard, nadając mu nazwę Agaricus butyraceus. Obecną, uznaną przez Index Fungorum nazwę nadał mu w 1979 roku Joanne Williams Lennox, przenosząc go do rodzaju Rhodocollybia. Synonimów naukowych ma ponad 30. Niektóre z nich:
 
-Pozycja w klasyfikacji wedługIndex Fungorum:Omphalotaceae, Agaricales, Agaricomycetidae, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
+Nazwę polską podał Władysław Wojewoda w 2003 r. W polskim piśmiennictwie mykologicznym gatunek ten opisywany był też jako pieniążek maślany lub bedłka maślana.
 
-Po raz pierwszytaksonten zdiagnozował w 1792 rokuJean Baptiste François Pierre Bulliard, nadając mu nazwęAgaricus butyraceus. Obecną, uznaną przez Index Fungorum nazwę nadał mu w 1979 rokuJoanne Williams Lennox, przenosząc go do rodzajuRhodocollybia.Synonimów naukowychma ponad 30. Niektóre z nich:
+## Morfologia 
 
-Nazwę polskąpodałWładysław Wojewodaw 2003 r. W polskim piśmiennictwie mykologicznym gatunek ten opisywany był też jako pieniążek maślany lub bedłka maślana.
-
-
-## Morfologia
-
-O średnicy 4–7cm, u młodych osobników łukowaty, u starszych rozpostarty z garbkiem na środku. Jest bardzo wodochłonny. W okresie wilgotnej pogody po nasiąknięciu wodą ma kolor od siwego przez rdzawobrązowy do czerwonobrązowego, w okresie suchym od bladoochrowego do siwobiałego. Brzeg kapelusza oraz garb są zazwyczaj ciemniejsze. Skórka gładka.
+O średnicy 4–7 cm, u młodych osobników łukowaty, u starszych rozpostarty z garbkiem na środku. Jest bardzo wodochłonny. W okresie wilgotnej pogody po nasiąknięciu wodą ma kolor od siwego przez rdzawobrązowy do czerwonobrązowego, w okresie suchym od bladoochrowego do siwobiałego. Brzeg kapelusza oraz garb są zazwyczaj ciemniejsze. Skórka gładka.
 
 Blaszki białe, tylko u góry krótko przyczepione i dlatego wyglądające prawie jak wolne.
 
@@ -113,69 +120,19 @@ Jasnobrązowy do czerwonobrązowego, pokryty białymi, kosmkowatymi włókienkam
 
 Miąższ cienki, wodnisty, miękki. W kapeluszu jest elastyczny, wewnątrz trzonu chrząstkowaty. W czasie wilgotnej pogody ma brązowawy kolor, w czasie suchej białawy. Smak i zapach niewyraźnym przypominający zapach zjełczałego masła.
 
-Biały.Zarodnikielipsoidalne, gładkie o średnicy 6–7,5 × 3–3,5µm.
+Biały. Zarodniki elipsoidalne, gładkie o średnicy 6–7,5 × 3–3,5 µm.
 
-Monetnica maślana wykazuje dużą zmienność, z tego też powodu może być pomylona z wieloma innymi gatunkami. Młode i ciemno wybarwione osobniki mogą być pomylone zgąską mydlaną(Tricholoma saponaceum), starsze zmyszanką brązowooliwkową(Myochromella inolens).
+Monetnica maślana wykazuje dużą zmienność, z tego też powodu może być pomylona z wieloma innymi gatunkami. Młode i ciemno wybarwione osobniki mogą być pomylone z gąską mydlaną (Tricholoma saponaceum), starsze z myszanką brązowooliwkową (Myochromella inolens).
 
-
-## Występowanie
-
-Najliczniej występuje w Europie i Ameryce Północnej, poza tymi kontynentami wymieniono też jego stanowiska w Argentynie i Japonii. W Europie jest bardzo pospolity.
-
-Rośnie od lata do później jesieni zarówno w lasach liściastych, jak i iglastych, przeważnie na kwaśnych glebach. W Polsce jest również pospolity.
-
-
-## Znaczenie
-
-Naziemnygrzyb saprotroficzny.Grzyb jadalny(bez trzonów). Dobry jako grzyb domieszkowy.
-
-
-## Przypisy
-
----
-latin_name: Rhodocollybia butyracea (Bull.
-polish_name: Monetnica maślana
-source: https://pl.wikipedia.org/api/rest_v1/page/html/Monetnica_maślana
----
-
-
-Monetnica maślana(Rhodocollybia butyracea(Bull.) Lennox) –gatunekgrzybów należący do rodzinyOmphalotaceae.
-
-
-## Systematyka i nazewnictwo
-
-Pozycja w klasyfikacji wedługIndex Fungorum:Omphalotaceae, Agaricales, Agaricomycetidae, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
-
-Po raz pierwszytaksonten zdiagnozował w 1792 rokuJean Baptiste François Pierre Bulliard, nadając mu nazwęAgaricus butyraceus. Obecną, uznaną przez Index Fungorum nazwę nadał mu w 1979 rokuJoanne Williams Lennox, przenosząc go do rodzajuRhodocollybia.Synonimów naukowychma ponad 30. Niektóre z nich:
-
-Nazwę polskąpodałWładysław Wojewodaw 2003 r. W polskim piśmiennictwie mykologicznym gatunek ten opisywany był też jako pieniążek maślany lub bedłka maślana.
-
-
-## Morfologia
-
-O średnicy 4–7cm, u młodych osobników łukowaty, u starszych rozpostarty z garbkiem na środku. Jest bardzo wodochłonny. W okresie wilgotnej pogody po nasiąknięciu wodą ma kolor od siwego przez rdzawobrązowy do czerwonobrązowego, w okresie suchym od bladoochrowego do siwobiałego. Brzeg kapelusza oraz garb są zazwyczaj ciemniejsze. Skórka gładka.
-
-Blaszki białe, tylko u góry krótko przyczepione i dlatego wyglądające prawie jak wolne.
-
-Jasnobrązowy do czerwonobrązowego, pokryty białymi, kosmkowatymi włókienkami. Podstawa często wygląda jak rozdęta, pusta, z wierzchu podłużnie żłobkowana. Bardzo charakterystyczną cechą jest chrząstkowatość trzonu zewnętrzna warstwa jest elastyczna i gumowata, wewnętrzna ma miąższ watowato-piankowaty.
-
-Miąższ cienki, wodnisty, miękki. W kapeluszu jest elastyczny, wewnątrz trzonu chrząstkowaty. W czasie wilgotnej pogody ma brązowawy kolor, w czasie suchej białawy. Smak i zapach niewyraźnym przypominający zapach zjełczałego masła.
-
-Biały.Zarodnikielipsoidalne, gładkie o średnicy 6–7,5 × 3–3,5µm.
-
-Monetnica maślana wykazuje dużą zmienność, z tego też powodu może być pomylona z wieloma innymi gatunkami. Młode i ciemno wybarwione osobniki mogą być pomylone zgąską mydlaną(Tricholoma saponaceum), starsze zmyszanką brązowooliwkową(Myochromella inolens).
-
-
-## Występowanie
+## Występowanie 
 
 Najliczniej występuje w Europie i Ameryce Północnej, poza tymi kontynentami wymieniono też jego stanowiska w Argentynie i Japonii. W Europie jest bardzo pospolity.
 
 Rośnie od lata do później jesieni zarówno w lasach liściastych, jak i iglastych, przeważnie na kwaśnych glebach. W Polsce jest również pospolity.
 
+## Znaczenie 
 
-## Znaczenie
+Naziemny grzyb saprotroficzny. Grzyb jadalny (bez trzonów). Dobry jako grzyb domieszkowy.
 
-Naziemnygrzyb saprotroficzny.Grzyb jadalny(bez trzonów). Dobry jako grzyb domieszkowy.
+## Przypisy 
 
-
-## Przypisy

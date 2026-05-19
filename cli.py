@@ -1,15 +1,15 @@
 import psycopg2
-from sentence_transformers import SentenceTransformer
+import ollama
 
 print("Ładowanie modelu językowego (to może potrwać chwilę)...")
-model = SentenceTransformer('paraphrase-multilingual-mpnet-base-v2')
 
 DB_URL = "postgresql://postgres.vhwxrmwtekxelbarhcgl:grzyby12345!!!@aws-0-eu-west-1.pooler.supabase.com:6543/postgres"
 
 
 def get_answer_from_db(question):
     try:
-        query_vector = model.encode(question).tolist()
+        response = ollama.embeddings(model='nomic-embed-text', prompt=question)
+        query_vector = response['embedding']
     except Exception as e:
         return f"Błąd przetwarzania pytania: {e}"
 
@@ -19,9 +19,27 @@ def get_answer_from_db(question):
         cur = conn.cursor()
 
         search_query = """
+            WITH top_matches AS (
+                SELECT 
+                    name, 
+                    description, 
+                    embedding <=> %s::vector AS distance
+                FROM mushrooms
+                ORDER BY distance
+                LIMIT 50
+            ),
+            ranked_matches AS (
+                SELECT 
+                    name, 
+                    description, 
+                    distance,
+                    ROW_NUMBER() OVER(PARTITION BY name ORDER BY distance) as rn
+                FROM top_matches
+            )
             SELECT name, description 
-            FROM mushrooms 
-            ORDER BY embedding <=> %s::vector 
+            FROM ranked_matches
+            WHERE rn = 1
+            ORDER BY distance
             LIMIT 3;
         """
 

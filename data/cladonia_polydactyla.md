@@ -1,14 +1,5 @@
 #cladonia_polydactyla
-#no_sources: 2
-
----
-latin_name: Cladonia polydactyla
-polish_name: Chrobotek wcinany
-source: https://grzyby.pl/gatunki/Cladonia_polydactyla.htm
----
-
-# Chrobotek wcinany
-
+#no_sources: 1
 
 ---
 latin_name: Cladonia polydactyla

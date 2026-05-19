@@ -1,5 +1,5 @@
 #agaricus_comtulus
-#no_sources: 4
+#no_sources: 3
 
 ---
 latin_name: Agaricus comtulus
@@ -38,21 +38,6 @@ Pieczarka malutka jest smacznym grzybem jadalnym. Oprócz dużej zawartości wod
 
 ## Zastosowanie
 W kuchni pieczarka malutka może być wykorzystywana w taki sam sposób jak wszystkie inne grzyby z rodziny pieczarkowatych . Doskonale nadaje się do duszenia, gotowania, smażenia i pieczenia. Wraz z innymi pieczarkami może stanowić główny składnik sosów i zup . Dobrze też komponuje się z daniami mięsnymi i makaronami .
-
-
----
-latin_name: Agaricus comtulus
-polish_name: Pieczarka malutka
-source: https://grzyby.pl/gatunki/Agaricus_comtulus.htm
----
-
-# Pieczarka malutka
-
-## Występowanie, ekologia
-
-Na łąkach i w lasach, na brzegach lasów; na ziemi; sierpień-październik.
-
-Czerwona Lista [125 ] — R–rzadki - potencjalnie zagrożony wymarciem
 
 
 ---
@@ -118,49 +103,46 @@ Zapach:
 migdałów
 
 ---
-latin_name: Agaricus comtulus Fr.
-polish_name: Pieczarka malutka, pieczarka migdałowa
-source: https://pl.wikipedia.org/api/rest_v1/page/html/Pieczarka_malutka
+latin_name: agaricus comtulus
+polish_name: Pieczarka malutka
+source: https://pl.wikipedia.org/wiki/Pieczarka_malutka
 ---
+# Pieczarka malutka 
+# agaricus comtulus 
 
+Pieczarka malutka, pieczarka migdałowa (Agaricus comtulus Fr.) – gatunek grzybów należący do rodziny pieczarkowatych (Agaricaceae).
 
-Pieczarka malutka, pieczarka migdałowa (Agaricus comtulusFr.) –gatunekgrzybównależący dorodzinypieczarkowatych(Agaricaceae).
+## Systematyka i nazewnictwo 
 
+Pozycja w klasyfikacji według Index Fungorum: Agaricus, Agaricaceae, Agaricales, Agaricomycetidae, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
 
-## Systematyka i nazewnictwo
+Po raz pierwszy gatunek ten opisał Elias Fries w 1838 r. Niektóre synonimy naukowe:
 
-Pozycja w klasyfikacji wedługIndex Fungorum:Agaricus, Agaricaceae, Agaricales, Agaricomycetidae, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
+Polską nazwę zaproponował Władysław Wojewoda w 2003 roku. Opisał też gatunek Agaricus niveolutescens Huijsman, któremu nadał nazwę pieczarka migdałowa. Według Index Fungorum jednak A. niveolutescens to synonim pieczarki malutkiej A. comtulus.
 
-Po raz pierwszy gatunek ten opisałElias Friesw 1838 r.Niektóresynonimy naukowe:
+## Morfologia 
 
-Polską nazwęzaproponowałWładysław Wojewodaw 2003 roku. Opisał też gatunekAgaricus niveolutescensHuijsman, któremu nadał nazwę pieczarka migdałowa. Według Index Fungorum jednakA. niveolutescensto synonim pieczarki malutkiejA. comtulus.
-
-
-## Morfologia
-
-Średnica 2–5cm, u młodych okazów półkulisty, później łukowaty, w końcu rozpostarty. Czasami posiada tępy garb, Powierzchnia gładka, tylko brzegi wrośnięto-włókniste. Barwa u młodych okazów biała, później jasnożółta, na koniec ochrowobrązowa, środek kapelusza wyraźnie ciemniejszy.
+Średnica 2–5 cm, u młodych okazów półkulisty, później łukowaty, w końcu rozpostarty. Czasami posiada tępy garb, Powierzchnia gładka, tylko brzegi wrośnięto-włókniste. Barwa u młodych okazów biała, później jasnożółta, na koniec ochrowobrązowa, środek kapelusza wyraźnie ciemniejszy.
 
 Wolne, szerokie, o gładkich ostrzach, u młodych okazów jasnoróżowe, potem ciemnoróżowe, w końcu purpurowobrązowe.
 
-Wysokość 3–5cm, grubość 0,5–1cm, cylindryczny, pusty o jedwabiście włóknistej powierzchni. Posiada nietrwały, delikatny, błoniasty i obwisłypierścień. Barwa biała lub cielista.
+Wysokość 3–5 cm, grubość 0,5–1 cm, cylindryczny, pusty o jedwabiście włóknistej powierzchni. Posiada nietrwały, delikatny, błoniasty i obwisły pierścień. Barwa biała lub cielista.
 
 Biały, po uszkodzeniu żółknący. Charakterystyczną cechą jest migdałowa woń.
 
-Ciemnobrązowy.Zarodnikiszerokoelipsoidalne, grubościenne, gładkie o rozmiarach 4-5 × 3–3,5 μm.
+Ciemnobrązowy. Zarodniki szerokoelipsoidalne, grubościenne, gładkie o rozmiarach 4-5 × 3–3,5 μm.
 
-Najbardziej podobna jest równie niewielkapieczarka różowoblaszkowa(Agaricus rusiophyllus). W Polsce występuje jeszcze kilka gatunków małych pieczarek. Wśród nich jestpieczarka winnoczerwona(Agaricus semotus), ale na środku kapelusza ma różowofioletowe łuseczki,pieczarka liliowoczerwona(Agaricus porphyrizon), ale ma kapelusz purpurowy.
+Najbardziej podobna jest równie niewielka pieczarka różowoblaszkowa (Agaricus rusiophyllus). W Polsce występuje jeszcze kilka gatunków małych pieczarek. Wśród nich jest pieczarka winnoczerwona (Agaricus semotus), ale na środku kapelusza ma różowofioletowe łuseczki, pieczarka liliowoczerwona (Agaricus porphyrizon), ale ma kapelusz purpurowy.
 
+## Występowanie i siedlisko 
 
-## Występowanie i siedlisko
+Gatunek szeroko rozprzestrzeniony na kuli ziemskiej. Występuje w całej niemal Europie, w Azji, we wschodnich regionach Ameryki oraz północno-wschodniej Afryce (Maroko). W Polsce gatunek rzadki. Znajduje się na Czerwonej liście roślin i grzybów Polski. Ma status R – potencjalnie zagrożony z powodu ograniczonego zasięgu geograficznego i małych obszarów siedliskowych. W literaturze mykologiczne podano jego występowanie m.in. w Cedyni, Wielkopolskim Parku Narodowym, Ciechocinku, Obornikach Śląskich, Pienińskim Parku Narodowym, Bieszczadach Zachodnich, w Puszczy Białowieskiej.
 
-Gatunek szeroko rozprzestrzeniony na kuli ziemskiej. Występuje w całej niemal Europie, w Azji, we wschodnich regionach Ameryki oraz północno-wschodniej Afryce (Maroko). W Polsce gatunek rzadki. Znajduje się naCzerwonej liście roślin i grzybów Polski. Ma status R – potencjalnie zagrożony z powodu ograniczonego zasięgu geograficznego i małych obszarów siedliskowych. W literaturze mykologiczne podano jego występowanie m.in. wCedyni,Wielkopolskim Parku Narodowym,Ciechocinku,Obornikach Śląskich,Pienińskim Parku Narodowym,Bieszczadach Zachodnich, wPuszczy Białowieskiej.
+Naziemny grzyb saprotroficzny. Rośnie na łąkach, pastwiskach (nigdy w lasach). Owocniki wytwarza od sierpnia do października, w niewielkich grupach.
 
-Naziemnygrzyb saprotroficzny. Rośnie na łąkach, pastwiskach (nigdy w lasach). Owocniki wytwarza od sierpnia do października, w niewielkich grupach.
-
-
-## Znaczenie
+## Znaczenie 
 
 Grzyb jadalny.
 
+## Przypisy 
 
-## Przypisy

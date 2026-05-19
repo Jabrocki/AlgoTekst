@@ -131,25 +131,24 @@ Zapach:
 grzybowy
 
 ---
-latin_name: Grifola frondosa (Dicks.
+latin_name: grifola frondosa
 polish_name: Żagwica listkowata
-source: https://pl.wikipedia.org/api/rest_v1/page/html/Żagwica_listkowata
+source: https://pl.wikipedia.org/wiki/Żagwica_listkowata
 ---
+# Żagwica listkowata 
+# grifola frondosa 
 
+Żagwica listkowata (Grifola frondosa (Dicks.) Gray) – gatunek grzybów z rzędu żagwiowców (Polyporales).
 
-Żagwica listkowata(Grifola frondosa(Dicks.) Gray) –gatunekgrzybów z rzędużagwiowców(Polyporales).
+## Systematyka i nazewnictwo 
 
+Pozycja w klasyfikacji według Index Fungorum: Grifola, Grifolaceae, Polyporales, Incertae sedis, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
 
-## Systematyka i nazewnictwo
+Po raz pierwszy takson ten zdiagnozował w 1785 r. James Dickson, nadając mu nazwę Boletus frondosus. Obecną, uznaną przez Index Fungorum nazwę nadał mu w 1821 r. Samuel Frederick Gray, przenosząc go do rodzaju Grifola. Synonimów naukowych posiada ponad 30.
 
-Pozycja w klasyfikacji wedługIndex Fungorum:Grifola, Grifolaceae, Polyporales, Incertae sedis, Agaricomycetes, Agaricomycotina, Basidiomycota, Fungi.
+Nazwa polska pojawiła się w pracy Stanisława Domańskiego i in. w 1967 r. W polskim piśmiennictwie mykologicznym gatunek ten opisywany był też jako huba siedź, huba gałęzista, żagiew gałęzista, żagiew krzaczasta, żagiew cykoriokształtna, wielogłówka listkowata. W japońskiej medycynie znany jest pod nazwą maitake.
 
-Po raz pierwszytaksonten zdiagnozował w 1785 r.James Dickson, nadając mu nazwęBoletus frondosus. Obecną, uznaną przez Index Fungorum nazwę nadał mu w 1821 r.Samuel Frederick Gray, przenosząc go do rodzajuGrifola.Synonimów naukowychposiada ponad 30.
-
-Nazwa polska pojawiła się w pracyStanisława Domańskiegoi in. w 1967 r.W polskim piśmiennictwie mykologicznym gatunek ten opisywany był też jako huba siedź, huba gałęzista, żagiew gałęzista, żagiew krzaczasta, żagiew cykoriokształtna, wielogłówka listkowata. W japońskiej medycynie znany jest pod nazwąmaitake.
-
-
-## Morfologia
+## Morfologia 
 
 Jednoroczne, duże do bardzo dużych, o średnicy od 20 do 60 cm, krzaczkowato rozgałęzione, złożone z wielu łopatkowatych kapeluszy wyrastających ze wspólnego pnia. Pojedyncze kapelusze językowate lub półokrągłe, płaskie, 4–10 cm średnicy, cienkie, kruche, o orzechowej, żółtooliwkowej barwie. Brzegi kapeluszy nierówne, powycinane, promieniście pomarszczone.
 
@@ -159,15 +158,13 @@ Cienki, do 0,5 cm gruby, biały, mięsisty. Zapach przyjemny, grzybowy, smak ła
 
 Bezbarwne, szeroko owalne, z jednej strony nieco spłaszczone.
 
+## Występowanie i siedlisko 
 
-## Występowanie i siedlisko
+W Polsce żagwica listkowata jest rzadka. Do 2020 r. podano około 130 jej stanowisk. Znajduje się na Czerwonej liście roślin i grzybów Polski. Ma status V – zagrożony wymarciem. Znajduje się na listach gatunków zagrożonych także w Austrii, Belgii, Czechach, Niemczech, Danii, Estonii, Litwie, Norwegii, Holandii, Szwecji, Finlandii. W latach 1983–2014 objęta była ochroną ścisłą, a od 2014 roku ochroną częściową. Dopuszczone jest pozyskiwanie owocników w celach gospodarczych po uzyskaniu stosownych zezwoleń.
 
-W Polsce żagwica listkowata jest rzadka. Do 2020 r. podano około 130 jej stanowisk. Znajduje się naCzerwonej liście roślin i grzybów Polski. Ma status V – zagrożony wymarciem. Znajduje się na listach gatunków zagrożonych także w Austrii, Belgii, Czechach, Niemczech, Danii, Estonii, Litwie, Norwegii, Holandii, Szwecji, Finlandii. W latach 1983–2014 objęta była ochroną ścisłą, a od 2014 roku ochroną częściową. Dopuszczone jest pozyskiwanie owocników w celach gospodarczych po uzyskaniu stosownych zezwoleń.
+Grzyb nadrzewny, pasożyt. Rośnie na korzeniach i u podstawy pni i martwych drzew, głównie dębów. Owocniki pojawiają się w sierpniu i wrześniu. Podobnie jak wachlarzowiec olbrzymi występuje na siedliskach antropogenicznych.
 
-Grzyb nadrzewny,pasożyt. Rośnie na korzeniach i u podstawy pni i martwych drzew, główniedębów. Owocniki pojawiają się w sierpniu i wrześniu. Podobnie jakwachlarzowiec olbrzymiwystępuje na siedliskach antropogenicznych.
+## Zastosowanie 
 
+## Przypisy 
 
-## Zastosowanie
-
-
-## Przypisy

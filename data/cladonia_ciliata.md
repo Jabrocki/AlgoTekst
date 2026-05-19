@@ -1,14 +1,5 @@
 #cladonia_ciliata
-#no_sources: 2
-
----
-latin_name: Cladonia ciliata
-polish_name: Chrobotek smukły
-source: https://grzyby.pl/gatunki/Cladonia_ciliata.htm
----
-
-# Chrobotek smukły
-
+#no_sources: 1
 
 ---
 latin_name: Cladonia ciliata

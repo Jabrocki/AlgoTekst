@@ -1,14 +1,5 @@
 #peltigera_hymenina
-#no_sources: 2
-
----
-latin_name: Peltigera hymenina
-polish_name: Pawężnica sałatowa
-source: https://grzyby.pl/gatunki/Peltigera_hymenina.htm
----
-
-# Pawężnica sałatowa
-
+#no_sources: 1
 
 ---
 latin_name: Peltigera hymenina

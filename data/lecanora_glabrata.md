@@ -1,14 +1,5 @@
 #lecanora_glabrata
-#no_sources: 2
-
----
-latin_name: Lecanora glabrata
-polish_name: Misecznica wygładzona
-source: https://grzyby.pl/gatunki/Lecanora_glabrata.htm
----
-
-# Misecznica wygładzona
-
+#no_sources: 1
 
 ---
 latin_name: Lecanora glabrata

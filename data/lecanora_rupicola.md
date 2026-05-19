@@ -1,14 +1,5 @@
 #lecanora_rupicola
-#no_sources: 2
-
----
-latin_name: Lecanora rupicola
-polish_name: Misecznica skalna
-source: https://grzyby.pl/gatunki/Lecanora_rupicola.htm
----
-
-# Misecznica skalna
-
+#no_sources: 1
 
 ---
 latin_name: Lecanora rupicola

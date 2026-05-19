@@ -1,20 +1,5 @@
 #postia_lowei
-#no_sources: 2
-
----
-latin_name: Postia lowei
-polish_name: Miękkoporek łagodny
-source: https://grzyby.pl/gatunki/Postia_lowei.htm
----
-
-# Miękkoporek łagodny
-
-## Występowanie, ekologia
-
-W lasach iglastych, na drewnie świerkowym; sierpień-wrzesień.
-
-Czerwona Lista [125 ] — E–wymierający - krytycznie zagrożony
-
+#no_sources: 1
 
 ---
 latin_name: Postia lowei

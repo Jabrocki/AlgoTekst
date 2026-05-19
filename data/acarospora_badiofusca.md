@@ -1,14 +1,5 @@
 #acarospora_badiofusca
-#no_sources: 2
-
----
-latin_name: Acarospora badiofusca
-polish_name: Wielosporek ciemnobrunatny
-source: https://grzyby.pl/gatunki/Acarospora_badiofusca.htm
----
-
-# Wielosporek ciemnobrunatny
-
+#no_sources: 1
 
 ---
 latin_name: Acarospora badiofusca
